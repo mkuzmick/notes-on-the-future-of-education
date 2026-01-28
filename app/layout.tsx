@@ -12,6 +12,19 @@ const newsreader = Newsreader({
 export const metadata: Metadata = {
   title: "Marlon Kuzmick",
   description: "Notes on the Future of Education",
+  openGraph: {
+    title: "Puzzles and Questions",
+    description:
+      "Open questions for rethinking higher education in the age of AI.",
+    images: [{ url: "/puzzles-thumbnail.png", width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Puzzles and Questions",
+    description:
+      "Open questions for rethinking higher education in the age of AI.",
+    images: ["/puzzles-thumbnail.png"],
+  },
 };
 
 export default function RootLayout({

@@ -73,6 +73,7 @@ function extractParts(markdown: string): {
 export default function EssayClient({ markdown }: { markdown: string }) {
   const [isDark, setIsDark] = useState(false);
   const [tocOpen, setTocOpen] = useState(false);
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     setIsDark(document.documentElement.classList.contains("dark"));
@@ -111,15 +112,29 @@ export default function EssayClient({ markdown }: { markdown: string }) {
           &#9776;
         </button>
         <span className="author-name">Marlon Kuzmick</span>
-        <div className="toggle-wrapper">
-          <input
-            type="checkbox"
-            id="color-mode"
-            className="toggle-checkbox"
-            checked={isDark}
-            onChange={toggleDark}
-          />
-          <label htmlFor="color-mode" className="toggle-label" />
+        <div className="header-controls">
+          <button
+            className="copy-btn"
+            onClick={() => {
+              navigator.clipboard.writeText(markdown).then(() => {
+                setCopied(true);
+                setTimeout(() => setCopied(false), 2000);
+              });
+            }}
+            aria-label="Copy markdown"
+          >
+            {copied ? "Copied" : "Copy MD"}
+          </button>
+          <div className="toggle-wrapper">
+            <input
+              type="checkbox"
+              id="color-mode"
+              className="toggle-checkbox"
+              checked={isDark}
+              onChange={toggleDark}
+            />
+            <label htmlFor="color-mode" className="toggle-label" />
+          </div>
         </div>
       </header>
 
