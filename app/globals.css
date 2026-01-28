@@ -34,7 +34,7 @@ body {
 .site-header {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 20px 32px;
   position: relative;
   border-bottom: 1px solid rgba(128, 128, 128, 0.15);
@@ -44,22 +44,6 @@ body {
   font-size: 20px;
   font-weight: 400;
   letter-spacing: 0.02em;
-}
-
-.site-header .close-btn {
-  position: absolute;
-  left: 32px;
-  background: none;
-  border: none;
-  color: var(--fg);
-  font-size: 20px;
-  cursor: pointer;
-  padding: 4px 8px;
-  opacity: 0.6;
-}
-
-.site-header .close-btn:hover {
-  opacity: 1;
 }
 
 /* Header controls (right side) */
@@ -178,8 +162,6 @@ body {
 /* Hamburger for mobile TOC */
 .hamburger-btn {
   display: none;
-  position: absolute;
-  left: 32px;
   background: none;
   border: none;
   color: var(--fg);
@@ -283,12 +265,10 @@ body {
 
 /* Mobile */
 @media (max-width: 860px) {
-  .site-header .close-btn {
-    display: none;
-  }
-
   .hamburger-btn {
     display: block;
+    position: absolute;
+    left: 32px;
   }
 
   .toc-sidebar {

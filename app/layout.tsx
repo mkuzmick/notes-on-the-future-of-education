@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     title: "Puzzles and Questions",
     description:
       "Open questions for rethinking higher education in the age of AI.",
-    images: [{ url: "/puzzles-thumbnail.png", width: 1200, height: 630 }],
+    images: [{ url: "/puzzles-thumbnail-1.png", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Puzzles and Questions",
     description:
       "Open questions for rethinking higher education in the age of AI.",
-    images: ["/puzzles-thumbnail.png"],
+    images: ["/puzzles-thumbnail-1.png"],
   },
 };
 

@@ -98,13 +98,6 @@ export default function EssayClient({ markdown }: { markdown: string }) {
     <>
       <header className="site-header">
         <button
-          className="close-btn"
-          onClick={() => window.history.back()}
-          aria-label="Close"
-        >
-          &times;
-        </button>
-        <button
           className="hamburger-btn"
           onClick={() => setTocOpen(!tocOpen)}
           aria-label="Toggle contents"

@@ -1,4 +1,4 @@
-# Puzzles and Questions
+# After Abundance: Questions for the Future of Education
 
 Open questions for rethinking higher education in the age of AI.
 
