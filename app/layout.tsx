@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     title: "After Abundance: Questions for the Future of Education",
     description:
       "Open questions for rethinking higher education in the age of AI.",
-    images: [{ url: "/og-after-abundance.png", width: 1200, height: 630 }],
+    images: [{ url: "/og-after-abundance.png?v=2", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "After Abundance: Questions for the Future of Education",
     description:
       "Open questions for rethinking higher education in the age of AI.",
-    images: ["/og-after-abundance.png"],
+    images: ["/og-after-abundance.png?v=2"],
   },
 };
 
