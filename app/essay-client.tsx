@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
@@ -71,13 +72,14 @@ function extractParts(markdown: string): {
 }
 
 export default function EssayClient({ markdown, date }: { markdown: string; date?: string }) {
-  const [isDark, setIsDark] = useState(false);
+  const [isDark, setIsDark] = useState(() => {
+    if (typeof document !== "undefined") {
+      return document.documentElement.classList.contains("dark");
+    }
+    return false;
+  });
   const [tocOpen, setTocOpen] = useState(false);
   const [copied, setCopied] = useState(false);
-
-  useEffect(() => {
-    setIsDark(document.documentElement.classList.contains("dark"));
-  }, []);
 
   const toggleDark = () => {
     const next = !isDark;
@@ -170,6 +172,14 @@ export default function EssayClient({ markdown, date }: { markdown: string; date
           </ReactMarkdown>
         </article>
       </div>
+
+      <footer className="site-footer">
+        <div className="footer-inner">
+          <Link href="/">After Abundance</Link>
+          <Link href="/forward-sentries">Forward Sentries</Link>
+          <Link href="/oral-exams">Oral Exams</Link>
+        </div>
+      </footer>
     </>
   );
 }
