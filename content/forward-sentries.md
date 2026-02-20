@@ -4,7 +4,7 @@ The future of "code" — and what comes after it.
 
 ## The Typing Pool
 
-Not long ago — within the professional memory of anyone now working at a university — Harvard faculty did not type. They wrote, of course, but the mechanical act of pressing keys was someone else's problem. Departments employed typists, and the arrangement seemed not only natural but vaguely dignified, a division of labor befitting the life of the mind. To suggest that a tenured professor of history might benefit from learning to operate a word processor would have been received as one receives a category error: not offensive, exactly, but faintly absurd. And then, without anyone quite authorizing it, the absurdity reversed polarity. Now it is the notion of routing your paragraphs through a human intermediary that seems quaint — an inefficiency dressed up as hierarchy.
+Not long ago — within the professional memory of some people still working at universities — Harvard faculty did not type. They wrote, of course, but the mechanical act of pressing keys was someone else's problem. Departments employed typists, and the arrangement seemed not only natural but vaguely dignified, a division of labor befitting the life of the mind. To suggest that a tenured professor of history might benefit from learning to operate a word processor would have been received as one receives a category error: not offensive, exactly, but faintly absurd. And then, without anyone quite authorizing it, the absurdity reversed polarity. Now it is the notion of routing your paragraphs through a human intermediary that seems quaint — an inefficiency dressed up as hierarchy.
 
 ## The Pattern
 
