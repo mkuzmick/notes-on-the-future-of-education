@@ -10,5 +10,5 @@ export default function Home() {
   );
   const markdown = fs.readFileSync(filePath, "utf-8");
 
-  return <EssayClient markdown={markdown} />;
+  return <EssayClient markdown={markdown} date="January 2026" />;
 }

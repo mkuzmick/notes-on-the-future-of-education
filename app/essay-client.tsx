@@ -70,7 +70,7 @@ function extractParts(markdown: string): {
   return { title, subtitle, body: lines.slice(bodyStart).join("\n") };
 }
 
-export default function EssayClient({ markdown }: { markdown: string }) {
+export default function EssayClient({ markdown, date }: { markdown: string; date?: string }) {
   const [isDark, setIsDark] = useState(false);
   const [tocOpen, setTocOpen] = useState(false);
   const [copied, setCopied] = useState(false);
@@ -153,7 +153,7 @@ export default function EssayClient({ markdown }: { markdown: string }) {
         <article className="essay-content">
           <h1>{title}</h1>
           {subtitle && <p className="subtitle">{subtitle}</p>}
-          <p className="date">January 2026</p>
+          {date && <p className="date">{date}</p>}
 
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
