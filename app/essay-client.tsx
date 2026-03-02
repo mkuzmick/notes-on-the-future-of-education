@@ -193,6 +193,7 @@ export default function EssayClient({ markdown, date, links }: { markdown: strin
           <Link href="/">Home</Link>
           <Link href="/takes">Tools for Thinking</Link>
           <Link href="/mk-first-draft">Full Briefing</Link>
+          <Link href="/bgf-research">BGF Research</Link>
           <Link href="/history-lens">History Lens</Link>
           <Link href="/folklore-lens">Folklore Lens</Link>
         </div>
