@@ -4,64 +4,86 @@ Designing, delivering, and efficiently and fairly grading oral exams, oral homew
 
 ## The Situation
 
-American higher education built its assessment infrastructure on a single assumption: that a written submission reliably indicates what a student understands. Generative AI has disrupted that assumption. With [88% of UK undergraduates](https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey) now using AI in coursework — up from 53% one year earlier — and detection tools achieving only 33–81% accuracy, the unaccompanied written essay can no longer reliably serve as a measure of learning.
+As one NYU undergraduate told [*The New Yorker*](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper) in June 2025, "Any type of writing in life, I use A.I." A [McGill survey](https://www.mcgilldaily.com/2026/01/is-ai-killing-academic-integrity/) found that 88% of students used generative AI in their coursework in Fall 2025. AI detection tools have been widely characterized as unreliable — OpenAI shut down its own classifier, and Vanderbilt, UT Austin, and Northwestern have all advised faculty against relying on platforms like Turnitin for AI detection.
 
-Oral assessment — including formal oral exams, oral homework verification, oral defenses of written work, and low-stakes oral check-ins — has re-entered the conversation at peer institutions worldwide. This site synthesizes 150+ sources across the history of oral examination, cognitive science, peer institutional responses, Harvard's own traditions, and professional domain practices. What follows is a summary of what that research found — the evidence for oral assessment, the evidence against it, and the open questions that remain.
+At Harvard, [*The Crimson*](https://www.thecrimson.com) has reported on growing faculty concern about the integrity of take-home written work. This is not unique to Harvard. Across American higher education, the unaccompanied written essay — long the default measure of student understanding — faces new questions about what it actually demonstrates.
 
-## What the Evidence Shows
+Faculty are responding in a range of ways. Some are redesigning written assignments around iterative drafts and process documentation. Some are shifting to in-class assessments. And some are exploring oral formats — formal oral exams, oral homework verification, oral defenses of written work, low-stakes oral check-ins — as one part of a broader reassessment of how we know what students know.
 
-Three decades of scholarship of teaching and learning converge on a clear finding: oral assessment develops cognitive capacities that writing alone cannot reach.
+This site synthesizes 150+ sources on oral assessment: its history, the cognitive science behind it, what peer institutions are doing, what Harvard already practices, and the equity and logistical challenges it raises. What follows is a summary — not an argument for oral assessment, but a landscape of what the research says, where it disagrees, and what faculty might want to consider.
 
-The **production effect** demonstrates that speaking information aloud improves long-term memory encoding by 10–15% compared to silent reading, through multimodal engagement of auditory, motor, and self-referential processing. The **protégé effect** shows that students who prepare to explain material to an examiner process it more deeply — and the least able students benefit most. Oral assessment shifts students from surface to deep learning because the unpredictability of dialogue prevents rote preparation strategies.
+## Points in Favor
 
-The data extends beyond theory. A systematic review of interventions found that structured practice — mock oral exams — raised first-time pass rates from 76% to 100%.[^1] In a controlled implementation using scaffolded oral assessment, 74% of students demonstrated mastery and 90% achieved proficiency, with academic dishonesty "almost irrelevant" as a concern.[^2] And faculty report comparable or *less* time than traditional written assessment: one undergraduate humanities course found oral exams took 13 hours total versus 15+ for written midterms and finals.[^3]
+Research from several traditions suggests oral assessment has distinctive pedagogical strengths — though the evidence varies depending on the specific format.
 
-## AI as Inflection Point
+**Cognitive science.** A well-established finding in cognitive psychology, the "production effect" (MacLeod et al., *Journal of Experimental Psychology*, 2010), shows that speaking information aloud improves long-term memory encoding by 10–15% compared to silent reading. Separately, the "protégé effect" (Fiorella & Mayer, *Contemporary Educational Psychology*, 2013) shows that students who prepare to explain material learn it more deeply than those preparing only to be tested — and that the least able students benefit most.
 
-Generative AI has exposed a structural weakness in written assessment that was always latent: a polished artifact tells you nothing about the process that produced it. Before AI, the assumption was that the student who submitted the essay was the person who wrestled with the ideas. That assumption is no longer safe.
+**Faculty experience.** Catherine Hartmann at the University of Wyoming, writing in *College Teaching* (2025), found that administering oral exams for a 25-student humanities course took 13 hours total — compared to 15+ hours for traditional written midterms and finals. She also reported that preparation for the oral exam motivated deeper engagement with course readings than paper-writing had.
 
-Oral assessment is inherently resistant to AI generation — not as a surveillance mechanism, but because live dialogue tests whether a student can defend claims under pressure, respond to unexpected questions, and follow implications to their conclusions. This has made it a focal point of institutional conversations about assessment redesign, alongside other approaches like process-based portfolios and iterative writing.
+**Mastery learning.** Sharbari Akkaraju at Queensborough Community College (CUNY), publishing in the *Journal of Effective Teaching in Higher Education* (2023), found that 74% of students demonstrated mastery and 90% achieved proficiency through scaffolded oral assessment in a physiology course, with academic dishonesty "almost irrelevant" as a concern.
 
-But the literature also introduces a deeper concern. AI doesn't just threaten assessment integrity — it threatens what one researcher calls "false fluency": students can now produce work on topics they barely grasp, and the felt experience of "getting it" becomes indistinguishable from having a capable tool. The struggle that used to signal the gap between not-knowing and knowing gets smoothed away. Whether oral assessment can address that problem — or whether it introduces new versions of it — remains an open question.
+**Structured practice.** A 2025 systematic review by Stephenson, Johnson-Glauch, and Cruchley in *Assessment & Evaluation in Higher Education* found that mock oral exams raised first-time pass rates from 76% to 100% in one study, and that over 77% of students found structured practice "very or extremely helpful."
 
-## The Complexity
+## Points of Concern
 
-This is not a simple problem. Assessment scholars describe AI and assessment as a "[wicked problem](https://www.tandfonline.com/doi/full/10.1080/02602938.2025.2553340)" — one with no definitive solution, where every intervention creates new trade-offs and the problem itself evolves continuously.[^4] Oral exams introduce real equity challenges: gender bias in evaluation, barriers for neurodivergent learners, anxiety that compounds for students without prior experience. The nineteenth-century shift from oral to written exams was itself a democratizing move.
+The research also surfaces significant challenges — some of which have led scholars to question whether oral assessment is the right response to the AI disruption at all.
 
-The response is not to pretend these challenges don't exist. It is to design carefully — structured rubrics that eliminate measurable grading bias, low-stakes practice before high-stakes assessment, explicit skill development rather than one-shot evaluation, and choice architectures that respect different learners. The [full research briefing](/mk-first-draft) addresses each of these challenges in detail. The [tools for thinking](/takes) page collects the conceptual building blocks — historical precedents, critical perspectives, and open tensions — that inform this conversation.
+**Gender bias.** A study across ten UK universities (*Studies in Higher Education*, 2018) found that women received systematically lower oral exam scores than men despite achieving higher marks on written coursework — and the gap widened when male examiners conducted evaluations.
+
+**Neurodivergence.** Research from the UK National Autistic Society documents that autistic students performing at the 90th percentile on written exams can drop to the 40th percentile in oral formats — not from reduced knowledge, but because oral assessment demands simultaneous processing of social cues, verbal formulation, and self-regulation under scrutiny. Students with ADHD report similar challenges with the unstructured nature of live questioning.
+
+**Reliability.** Inter-rater reliability for oral exams (correlation 0.4–0.6) is substantially worse than written work (0.7–0.85). A landmark medical education study found that variance *between examiners* exceeded variance *between students* — meaning "who evaluates you" predicted grades more than "how well you performed" (*Review of Educational Research*, 1996).
+
+**Student perspective.** A 2022 multi-university survey (*Assessment & Evaluation in Higher Education*) found that 73% of students who opposed oral exams cited fairness, not difficulty: "I'm better at showing my knowledge in writing," "My accent will be judged," "One bad day will tank my GPA."
+
+**The "wicked problem" framing.** Corbin, Bearman, Boud, and Dawson, writing in *Assessment & Evaluation in Higher Education* (2025), argue that AI and assessment constitutes a "wicked problem" — one with no definitive solution, where every intervention creates new trade-offs and the problem itself evolves continuously. They suggest three "permissions" this framing grants faculty: the permission to compromise, the permission to diverge across contexts, and the permission to iterate rather than seeking a permanent fix.
+
+## What Peer Institutions Are Doing
+
+Responses across American higher education are varied and often conflicting.
+
+**Stanford**'s AI Working Group recommended "in-person formats such as oral exams" for AI-limited assessment, while also developing the Sherpa tool — a platform where AI conducts formative oral check-ins and flags weak responses for instructor review.
+
+**Cornell**'s English Language Support Office requires that students "be prepared to orally discuss any content included in your paper" — an approach that doesn't mandate oral exams but shifts the burden by making oral defense of written work an expectation.
+
+**A California community college** that shifted all finals in-person ([EdSurge, 2025](https://www.edsurge.com/news/2025-02-14-after-chatgpt-this-community-college-made-every-final-exam-in-person)) found, unexpectedly, that optional oral components were *more* accessible for students with test anxiety and learning disabilities — challenging the assumption that oral formats are inherently more exclusionary.
+
+**NYU's Stern School** experimented with AI-conducted oral exams at a cost of $0.42 per student, with 89% grade alignment with human examiners — raising the question of whether AI could scale oral assessment, and whether that's desirable.
+
+**Brown University**'s 2024 pilot took a different path entirely: staged writing assignments with visible revision reduced student AI use voluntarily, suggesting that process-focused writing — not oral assessment — may be the more effective response in some contexts.
+
+**The University of Michigan** found that adding weekly five-minute "argument audits" — students briefly explain one reading aloud to their TA — improved engagement and final grades without the logistical burden of formal oral exams. Meanwhile, **UC Davis** found that replacing a twenty-page paper with a twenty-minute oral defense *decreased* student evaluations by 0.8 points, with complaints centered on anxiety and perceived unfairness.
 
 ## What Harvard Already Has
 
-Harvard already practices oral assessment in significant pockets across the University.
+Harvard already practices oral assessment across the University, in formats that vary significantly.
 
-Harvard Business School has graded oral discussion for 118 years. The Medical School requires Objective Structured Clinical Examinations for every MD student. History & Literature has required senior oral exams since 1906. Social Studies has required comprehensive orals since 1960. The Law School pioneered the Socratic method in 1870. Three professional schools and several of the university's most rigorous undergraduate concentrations rely on oral assessment — across fields with very different epistemologies.
+**Harvard Business School** has graded oral discussion using the case method for 118 years, with class participation comprising 40–50% of course grades. **Harvard Medical School** requires Objective Structured Clinical Examinations (OSCEs) for every MD student — structured stations with standardized rubrics and multiple examiners. **Harvard Law School** pioneered the Socratic method in 1870.
 
-What the literature leaves open: whether these models translate to broader undergraduate contexts with different class sizes, staffing realities, and student populations — and how the design questions differ across large lecture courses, quantitative versus qualitative disciplines, low-stakes homework verification, and high-stakes summative exams.
+Among undergraduate concentrations, **History & Literature** (founded 1906) requires a one-hour senior oral exam with three faculty examiners, plus three graded oral presentations in sophomore tutorials. **Social Studies** has required a 1.5-hour comprehensive oral since 1960. **Folklore & Mythology** requires oral and written components for all concentrators.
+
+These represent different models — from low-stakes weekly discussion to high-stakes summative examination, from structured rubric-based assessment to open-ended Socratic dialogue. The design questions differ substantially across them: what works for a 12-person tutorial may not translate to a 150-student lecture course, and what works in a qualitative humanities seminar may not apply in a quantitative STEM context.
 
 ## Open Questions
 
-The research surfaces a set of practical design questions that any implementation must address:
+The research surfaces a set of practical design questions. Faculty adopting oral assessment in any form will need to consider:
 
 - **Fairness**: How can we ensure consistency and equity of questions across students, examiners, and sections?
 - **Efficiency**: How can oral assessments be administered at scale without unsustainable demands on faculty and teaching fellows?
 - **Documentation**: How can we record and review oral exam performance for grading, calibration, and appeals — while managing privacy and anxiety concerns?
-- **Student anxiety**: How should we scaffold oral assessment so that anxiety doesn't become a confound — and so that students from different backgrounds arrive at the exam on equal footing?
-- **AI as tool**: Can AI assist with oral assessment — through practice environments, transcription, flagging weak responses, or even conducting formative oral check-ins — and what are the equity and validity implications of doing so?
+- **Student anxiety**: How should we scaffold oral assessment so that anxiety doesn't become a confound — and so that students from different backgrounds arrive on equal footing?
+- **AI as tool**: Can AI assist with oral assessment — through practice environments, transcription, or formative check-ins — and what are the equity and validity implications?
+- **Format specificity**: Which oral formats suit which goals? A five-minute homework verification, a fifteen-minute oral defense of a written paper, and a one-hour comprehensive oral exam are different pedagogical instruments with different costs, benefits, and failure modes.
 
-These questions do not have settled answers in the literature. They are active areas of experimentation at peer institutions and within Harvard's own professional schools. The resources collected here are intended to inform that conversation.
+These questions do not have settled answers. They are active areas of experimentation — at peer institutions and within Harvard's own professional schools. The resources collected here are intended to give faculty a foundation for making their own decisions.
 
 ## What You'll Find Here
 
-- **[Tools for Thinking](/takes)** — Conceptual building blocks, historical moments, and critical perspectives drawn from the research.
-- **[Full Briefing](/mk-first-draft)** — The complete faculty briefing: 75+ sources across eight research domains, with a three-tier implementation framework.
-- **[The Historical Lens](/history-lens)** — Oral assessment through the long arc of educational history.
-- **[The Folklore Lens](/folklore-lens)** — Oral assessment through the study of oral traditions.
+- **[Tools for Thinking](/takes)** — Conceptual building blocks, divergent perspectives, and open tensions drawn from the research. These are meant to be starting points for faculty discussion, not settled positions.
+- **[Full Briefing](/mk-first-draft)** — The complete literature review: 75+ sources across eight research domains, with implementation models from peer institutions.
+- **[The Historical Lens](/history-lens)** — Oral assessment through the long arc of educational history, from medieval disputatio to the present.
+- **[The Folklore Lens](/folklore-lens)** — What folklore and oral tradition scholarship reveals about the cognitive and cultural dimensions of oral performance.
 
 ---
 
 *Prepared by the Bok Center for Teaching and Learning in collaboration with the Learning Lab. March 2026.*
-
-[^1]: Stephenson, Z., Johnson-Glauch, N., & Cruchley, S., 'Interventions and Facilitators of Oral Assessment Performance in Higher Education: A Systematic Review,' *Assessment & Evaluation in Higher Education* 50:7 (2025), 1140–1153.
-[^2]: Akkaraju, S., 'The Oral Exam — Learning for Mastery and Appreciating It,' *Journal of Effective Teaching in Higher Education* 6:1 (2023), 66–80.
-[^3]: Hartmann, C., 'Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction,' *College Teaching* (2025). DOI: 10.1080/87567555.2025.2558563.
-[^4]: Corbin, T., Bearman, M., Boud, D., & Dawson, P., 'The Wicked Problem of AI and Assessment,' *Assessment & Evaluation in Higher Education* (2025). DOI: 10.1080/02602938.2025.2553340.
