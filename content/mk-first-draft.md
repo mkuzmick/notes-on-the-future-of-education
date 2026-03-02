@@ -10,7 +10,7 @@ This briefing argues that oral assessment is not merely a defensive response to 
 
 Harvard is uniquely positioned to lead this recovery. The University already practices oral assessment at its highest levels: the Business School has [graded oral discussion](https://www.hbs.edu/teaching-learning/Pages/case-method.aspx) for 118 years,[^4] the Medical School requires [Objective Structured Clinical Examinations](https://pmc.ncbi.nlm.nih.gov/articles/PMC3191703/) for every MD student,[^5] and concentrations like [History & Literature](https://histlit.fas.harvard.edu/senior-oral-exam),[^6] [Social Studies](https://socialstudies.fas.harvard.edu/oral-examinations),[^7] and [Folklore & Mythology](https://folkmyth.fas.harvard.edu/concentration-requirements)[^8] have required senior oral exams for decades. The question is not whether oral assessment works at Harvard — it demonstrably does — but whether the University will extend what works in pockets to broader undergraduate education.
 
-This document synthesizes 65+ sources across eight research domains: the history of oral examinations, peer institutional responses to AI, Harvard's own oral traditions, SoTL evidence on speaking and assessment, post-AI classroom experiments worldwide, the role of AI tools in oral evaluation, philosophical foundations from Plato to Derrida, and professional domain practices in law, medicine, and business. The evidence converges on a single conclusion: **oral assessment cultivates genuine understanding and professional readiness, and AI-resistance is a bonus, not the primary rationale.**
+This document synthesizes 75+ sources across eight research domains: the history of oral examinations, peer institutional responses to AI, Harvard's own oral traditions, SoTL evidence on speaking and assessment, post-AI classroom experiments worldwide, the role of AI tools in oral evaluation, philosophical foundations from Plato to Derrida, and professional domain practices in law, medicine, and business. The evidence converges on a single conclusion: **oral assessment cultivates genuine understanding and professional readiness, and AI-resistance is a bonus, not the primary rationale.**
 
 ## The Historical Case: Five Hundred Years of Oral Assessment
 
@@ -52,6 +52,8 @@ The protégé effect — the finding that students who prepare to teach material
 
 A [2024 study in *Frontiers in Education*](https://www.tandfonline.com/doi/full/10.1080/02602938.2025.2504621) frames this as "cognitive apprenticeship": oral exams create a setting where expert examiners make their own thinking visible through follow-up questions, and students learn to externalize the invisible cognitive processes of their discipline.[^16] This is precisely what a written exam cannot do — a static prompt elicits a static response, with no opportunity for the kind of iterative refinement that characterizes genuine intellectual exchange.
 
+A [2025 systematic review](https://doi.org/10.1080/02602938.2025.2504621) of interventions supporting oral assessment performance confirms the practical upside: structured practice opportunities — specifically mock oral exams — raised first-time pass rates from 76% to 100% in one study, and over 77% of students found them "very or extremely helpful."[^47] Instructor feedback proved more effective than peer feedback, and gradual exposure through repeated low-stakes practice increased self-efficacy from a mean of 74.69 to 91.62.[^48] The evidence suggests that anxiety about oral assessment is a design problem, not an inherent limitation.
+
 #### The Oral-Written Complementarity
 
 A [January 2025 meta-analysis in the *Review of Educational Research*](https://journals.sagepub.com/doi/10.3102/00346543251320359) examined the relationship between oral language competency and written composition, finding that the two skills are mutually reinforcing rather than competing.[^17] Students who develop oral fluency become better writers because both skills require clarity of thought, logical organization, and audience awareness. The relationship strengthened as students progressed through higher levels of education and was particularly pronounced among foreign language learners. This demolishes the false dichotomy that oral assessment "replaces writing instruction." The evidence shows it enhances writing by developing the underlying cognitive competencies both modes share.
@@ -86,7 +88,7 @@ Harvard does not need to invent oral assessment. It needs to scale what it alrea
 
 #### The Founding Pedagogy
 
-Colonial Harvard (1636–1770s) was built on "forensic disputations" — oral debates conducted as public performances. The curriculum centered on the lecture, the declamation, and the disputation, all oral forms. Harvard Library archives document oral assessment as the dominant mode through the 1800s. When the University was founded, there was no other way to verify that a student had genuinely mastered the liberal arts: you asked them, in person, and they answered.
+Colonial Harvard (1636–1770s) was built on "forensic disputations" — oral debates conducted as public performances. The curriculum centered on the lecture, the declamation, and the disputation, all oral forms. The earliest published account of the College, *New England's First Fruits* (1643), describes "publick declamations in Latine and Greeke, and Disputations Logicall and Philosophicall" occurring monthly "in the audience of the Magistrates, Ministers, and other Schollars, for the probation of their growth in Learning."[^46] Students defended theses spanning grammar, logic, ethics, physics, and metaphysics — and any member of the academic community could challenge a candidate. Admission itself required demonstrating the ability to read classical Latin extemporaneously and compose "true Latin" in verse and prose. When the University was founded, there was no other way to verify that a student had genuinely mastered the liberal arts: you asked them, in person, and they answered — and the community listened.
 
 #### Concentrations That Never Stopped
 
@@ -140,6 +142,8 @@ The most common faculty objection to oral assessment is logistical: "It can't sc
 
 #### Proof at Scale
 
+**Time parity with written assessment.** The assumption that oral exams take longer is not supported by the evidence. Catherine Hartmann's undergraduate humanities course found that oral exams required [13 hours total to administer and grade](https://doi.org/10.1080/87567555.2025.2558563) (25 students), compared to 15+ hours for traditional written midterm and final papers — and Hartmann reports the oral work was "more pleasant, easier to break up."[^46a] Separately, Sharbari Akkaraju's scaffolded oral assessment in physiology achieved [74% mastery and 90% proficiency](https://doi.org/10.55593/eitj.06012023) rates, with academic dishonesty "almost irrelevant" as a concern.[^46b]
+
 **CQUniversity, Australia** conducted [600 oral exams in under one week](https://www.tandfonline.com/doi/full/10.1080/87567555.2025.2558563) for a first-year literacy course in 2023.[^35] Students created reflective journals and then verbally shared their learning. The logistics were managed through scheduling tools and structured rubrics. If an Australian regional university can orally examine 600 first-year students in five days, Harvard can manage its tutorial sections.
 
 **Georgia Tech's ["Socratic Mind"](https://www.gatech.edu/news/2024/09/24/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge)** platform has been piloted with over 5,000 students, using AI to conduct Socratic questioning with dynamic follow-ups.[^36] Between 70% and 95% of students reported positive experiences. The platform demonstrates that AI can serve as a practice partner and formative assessment tool, reserving human examiners for high-stakes summative evaluation.
@@ -154,7 +158,7 @@ Emerging tools suggest a division of labor between AI and human examiners. The *
 
 ## Equity, Anxiety, and Honest Challenges
 
-A responsible case for oral assessment must engage candidly with its real limitations. Oral exams are not universally better — they are *different*. Some students will perform worse orally than in writing, and without careful design, oral assessment can introduce new forms of inequity.
+A responsible case for oral assessment must engage candidly with its real limitations. Oral exams are not universally better — they are *different*. Some students will perform worse orally than in writing, and without careful design, oral assessment can introduce new forms of inequity. Assessment scholars have framed AI and assessment as a "[wicked problem](https://doi.org/10.1080/02602938.2025.2553340)" — one with no definitive solution, where every intervention creates new trade-offs.[^49] The framework grants three permissions: the permission to *compromise* (every assessment sacrifices something), to *diverge* (context determines everything), and to *iterate* (what works today may not work next year).
 
 #### Bias in Unstructured Oral Assessment
 
@@ -236,7 +240,7 @@ Harvard was founded on oral disputation. Its professional schools never abandone
 
 ---
 
-*This document was prepared by the Bok Center for Teaching and Learning in collaboration with the Learning Lab, synthesizing research from an automated multi-cycle literature review covering 65+ sources across eight thematic domains. February 2026.*
+*This document was prepared by the Bok Center for Teaching and Learning in collaboration with the Learning Lab, synthesizing research from an automated multi-cycle literature review covering 75+ sources across eight thematic domains. February 2026.*
 
 [^1]: HEPI, 'Students and AI: 2025 Survey,' Higher Education Policy Institute (2025).
 [^2]: Hua Hsu, 'What Happens After A.I. Destroys College Writing?' The New Yorker (June 2025).
@@ -283,3 +287,9 @@ Harvard was founded on oral disputation. Its professional schools never abandone
 [^43]: EdSurge (February 2025).
 [^44]: Harden et al., British Medical Journal 1 (1975), 447–451.
 [^45]: Washington Post (December 2025): National 'renaissance' of oral assessment.
+[^46]: *New England's First Fruits* (London, 1643). The earliest published account of Harvard College.
+[^46a]: Hartmann, C., 'Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction,' *College Teaching* (2025). DOI: 10.1080/87567555.2025.2558563.
+[^46b]: Akkaraju, S., 'The Oral Exam — Learning for Mastery and Appreciating It,' *Journal of Effective Teaching in Higher Education* 6:1 (2023), 66–80.
+[^47]: Stephenson, Z., Johnson-Glauch, N., & Cruchley, S., 'Interventions and Facilitators of Oral Assessment Performance in Higher Education: A Systematic Review,' *Assessment & Evaluation in Higher Education* 50:7 (2025), 1140–1153.
+[^48]: Cavanagh et al. (2019): Gradual exposure and enactive mastery in oral assessment preparation.
+[^49]: Corbin, T., Bearman, M., Boud, D., & Dawson, P., 'The Wicked Problem of AI and Assessment,' *Assessment & Evaluation in Higher Education* (2025). DOI: 10.1080/02602938.2025.2553340.
