@@ -1,12 +1,12 @@
 # Oral Assessments
 
-A research summary and literature review for Harvard faculty.
+Designing, delivering, and efficiently and fairly grading oral exams, oral homework verification, and other oral assessments. A research summary and literature review for Harvard faculty.
 
 ## The Situation
 
 American higher education built its assessment infrastructure on a single assumption: that a written submission reliably indicates what a student understands. Generative AI has disrupted that assumption. With [88% of UK undergraduates](https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey) now using AI in coursework — up from 53% one year earlier — and detection tools achieving only 33–81% accuracy, the unaccompanied written essay can no longer reliably serve as a measure of learning.
 
-Oral assessment has re-entered the conversation at peer institutions worldwide. This site synthesizes 150+ sources across the history of oral examination, cognitive science, peer institutional responses, Harvard's own traditions, and professional domain practices. What follows is a summary of what that research found — the evidence for oral assessment, the evidence against it, and the open questions that remain.
+Oral assessment — including formal oral exams, oral homework verification, oral defenses of written work, and low-stakes oral check-ins — has re-entered the conversation at peer institutions worldwide. This site synthesizes 150+ sources across the history of oral examination, cognitive science, peer institutional responses, Harvard's own traditions, and professional domain practices. What follows is a summary of what that research found — the evidence for oral assessment, the evidence against it, and the open questions that remain.
 
 ## What the Evidence Shows
 
@@ -36,7 +36,19 @@ Harvard already practices oral assessment in significant pockets across the Univ
 
 Harvard Business School has graded oral discussion for 118 years. The Medical School requires Objective Structured Clinical Examinations for every MD student. History & Literature has required senior oral exams since 1906. Social Studies has required comprehensive orals since 1960. The Law School pioneered the Socratic method in 1870. Three professional schools and several of the university's most rigorous undergraduate concentrations rely on oral assessment — across fields with very different epistemologies.
 
-What the literature leaves open: whether these models translate to broader undergraduate contexts with different class sizes, staffing realities, and student populations.
+What the literature leaves open: whether these models translate to broader undergraduate contexts with different class sizes, staffing realities, and student populations — and how the design questions differ across large lecture courses, quantitative versus qualitative disciplines, low-stakes homework verification, and high-stakes summative exams.
+
+## Open Questions
+
+The research surfaces a set of practical design questions that any implementation must address:
+
+- **Fairness**: How can we ensure consistency and equity of questions across students, examiners, and sections?
+- **Efficiency**: How can oral assessments be administered at scale without unsustainable demands on faculty and teaching fellows?
+- **Documentation**: How can we record and review oral exam performance for grading, calibration, and appeals — while managing privacy and anxiety concerns?
+- **Student anxiety**: How should we scaffold oral assessment so that anxiety doesn't become a confound — and so that students from different backgrounds arrive at the exam on equal footing?
+- **AI as tool**: Can AI assist with oral assessment — through practice environments, transcription, flagging weak responses, or even conducting formative oral check-ins — and what are the equity and validity implications of doing so?
+
+These questions do not have settled answers in the literature. They are active areas of experimentation at peer institutions and within Harvard's own professional schools. The resources collected here are intended to inform that conversation.
 
 ## What You'll Find Here
 
