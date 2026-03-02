@@ -1,0 +1,138 @@
+quality: University office publication; not peer-reviewed research but reflects institutional policy thinking.
+https://www.sciencedirect.com/science/article/abs/pii/S0885230825000129
+
+Elle's notes:
+2. Speech Analytics Bias: When AI Evaluation Discriminates
+:page_facing_up: A bias evaluation solution for multiple sensitive attribute speech recognition
+ScienceDirect | Computer Speech & Language, March 2025
+Summary: This technical paper addresses a critical problem: speech recognition systems exhibit bias across sensitive attributes (race, gender, accent, age), which "may lead to the misinterpretation or ignoring of the voice of a specific group of people." When these biased systems are used for assessment, they systematically disadvantage certain populations. The paper proposes a bias evaluation framework that measures differential error rates across demographic groups and flags when AI speech analytics show discriminatory patterns. The goal is to make bias visible so it can be corrected.
+ascode.osu.eduAI and Auto-Grading in Higher Education: Capabilities, Ethics, and the Evolving Role of EducatorsAI and Auto-Grading in Higher Education: Capabilities, Ethics, and the Evolving Role of EducatorsAs artificial intelligence continues to reshape various industries, its impact on higher education, particularly in assessment, is becoming increasingly significant. Automated grading and AI-assisted evaluation tools are revolutionizing how instructors assess student work, streamline feedback, and manage large-scale courses.https://ascode.osu.edu/news/ai-and-auto-grading-higher-education-capabilities-ethics-and-evolving-role-educators[6:06 AM]Harvard Context: This research exposes the equity nightmare of AI-graded oral exams. If Harvard adopts AI tools to transcribe and evaluate oral presentations, and those tools have higher error rates for non-native speakers or African American English speakers, we've just automated discrimination. The research shows that even state-of-the-art speech recognition systems struggle with accent variation, disfluencies, and non-standard dialects. For Harvard, this means: (1) Never use AI grading without bias auditing — any vendor claiming "objective" oral assessment must provide demographic performance data. (2) Human review is mandatory for high-stakes assessments — AI can assist with transcription/preliminary scoring, but faculty must review. (3) Accessibility accommodations — students with speech impediments, anxiety-induced disfluencies, or accented English must have alternative pathways (written supplements, extended time, human-only evaluation). The brutal truth: AI makes oral exams less equitable, not more.
+Source quality: Peer-reviewed technical paper in a reputable journal. High credibility.
+
+--
+
+Computer Speech & Language
+Volume 93, August 2025, 101787
+
+A bias evaluation solution for multiple sensitive attribute speech recognition
+Author links open overlay panelZigang Chen a b c, Yuening Zhou a, Zhen Wang a, Fan Liu a, Tao Leng b, Haihua Zhu aShow moreAdd to MendeleyShareCitehttps://doi.org/10.1016/j.csl.2025.101787Get rights and content
+
+Abstract
+Speech recognition systems are a pervasive application in the field of AI (Artificial Intelligence), bringing significant benefits to society. However, they also face significant fairness issues. When dealing with groups of people with different sensitive attributes, these systems tend to exhibit bias, which may lead to the misinterpretation or ignoring of the voice of a specific group of people. In order to address the fairness issue, it becomes crucial to comprehensively reveal the presence of bias in AI systems. To address the issues of limited categories and data imbalance in existing bias evaluation datasets, we propose a new method for constructing evaluation datasets. Given the unique characteristics of speech recognition systems, we find that existing AI bias evaluation methods may not be directly applicable. Therefore, we introduce a bias evaluation method for speech recognition systems based on WER (Word Error Rate). To comprehensively quantify bias across different groups, we combine multiple evaluation metrics, including WER, fairness metrics, and CMBM (confusion matrix-based metrics). To ensure a thorough evaluation, experiments were conducted on both single sensitive attributes and cross-sensitive attributes. The experimental results indicate that, for single sensitive attributes, the speech recognition system exhibits the most significant racial bias, while in the evaluation of cross-sensitive attributes, the system shows the greatest bias against white males and black males. Finally, through T-tests, we demonstrate that the WER differences between these two groups are statistically significant.
+
+Introduction
+Artificial intelligence is developing at an unprecedented pace and is gradually permeating every aspect of life. Particularly in scenarios that influence personal decision-making, artificial intelligence is increasingly becoming a key driving force, including but not limited to areas such as image classification, job recruitment, and loan applications (Mateen, 2018, Chouldechova, 2017, Varley and Belle, 2021). These innovative applications not only significantly enhance efficiency but also accelerate the intelligent transformation of society, bringing broad and profound benefits to human society. As a typical application of artificial intelligence, the widespread use of voice recognition is revolutionizing the lives and work methods of people across different ages, genders, and regions. In the healthcare sector, doctors and nurses can use voice recognition to record medical histories, develop treatment plans, and even perform surgical operations; in the automotive industry, drivers can control vehicles, navigate, make phone calls, and obtain real-time traffic information through voice recognition; in the smart home domain, voice recognition is applied to the control of smart home devices, allowing users to adjust temperature, lighting, home appliances, and more through voice commands, thereby achieving home automation. However, while artificial intelligence brings benefits, it also continually faces issues of morality, ethics, and fairness (Hacker, 2018, Liu et al., 2024). Due to data imbalance or improper algorithm design, artificial intelligence may be influenced by social demographic factors (such as race, gender, and age, etc.), thereby resulting in discrimination and bias against certain minority groups (Barocas and Selbst, 2016).Understanding and mastering the sources of bias is an important aspect of studying fairness, as it helps us identify and comprehend the underlying reasons for unfair phenomena in system predictions. The sources of bias (Mehrabi et al., 2021) are mainly divided into three categories: data, people, and models, as shown in Fig. 1. First, most AI systems and algorithms are data-driven and require data for training. If the underlying training data contain biases, the algorithms trained on them will learn these biases and reflect them in predictions and decisions (Hammoudeh and Lowd, 2024, Dablain et al., 2024). Second, the design and maintenance of AI systems involve numerous decision-makers, including algorithm designers, data scientists, data annotators, and policymakers, among others. When the system’s behavior and decisions are made independently by these individuals, there is a potential risk that individuals may unintentionally incorporate their own biases into the system through design or selection. Third, the structure of the model, choice of algorithms, and parameter settings are often influenced by researchers’ subjective decisions, which may be based on incomplete understanding or assumptions. Additionally, some models may overfit the training data, learning inappropriate features or relationships, thereby preventing the model from effectively capturing fairness, leading to unfair predictions and decisions.Speech recognition systems also face bias issues. These biases not only affect the accuracy and fairness of the systems but also have profound impacts on society. When a speech recognition system favors a particular group, users who do not belong to that group may experience unfair treatment, manifested as recognition errors, communication difficulties, and information distortion. For example, the accuracy of speech recognition systems significantly decreases for users with regional accents, minority ethnic accents, or different linguistic backgrounds, leading to an inability to effectively execute commands. This unfairness can undermine social and political stability, triggering a trust crisis in artificial intelligence. In recent years, some studies have revealed the prevalence and severity of bias issues in speech recognition systems and have called for enhanced considerations of fairness in the development and application of speech recognition technologies. Martin and Wright (2023) found that widely used automatic speech recognition systems exhibit significant racial biases, performing much worse in recognizing African American voices. Nacimiento-García et al. (2024) pointed out that automatic speech recognition systems have potential biases, especially gender discrimination against women and minority group discrimination based on dialects. Feng et al. (2024) indicated that speech recognition systems also exhibit obvious biases related to age and region.If the biases in speech recognition systems can be effectively addressed, it will significantly enhance the system’s recognition accuracy across different groups, ensuring that the speech of all groups is treated more equally and fairly. By eliminating biases, speech recognition technology will be able to benefit a broader range of user groups, thereby promoting the widespread adoption and usage of the technology, ensuring it is no longer confined to specific populations. Additionally, reducing bias will enable the system to provide more personalized and accurate responses for different groups, meeting the diverse needs of users and enhancing the naturalness and smoothness of interactions.To address fairness issues, researchers have conducted extensive bias assessment studies in various contexts and are committed to developing more equitable artificial intelligence algorithms. However, current bias assessment research primarily focuses on the analysis of single sensitive attributes, and the range of attributes studied is relatively narrow. For example, some studies only evaluate and analyze one sensitive attribute (Sap et al., 2019, Martin and Tang, 2020). Additionally, existing research neglects the impact of intersecting attributes, failing to comprehensively explore the combined effects of interactions between different attributes on biases in speech recognition systems. Moreover, related research on bias assessment in speech recognition systems is insufficient, lacking systematic evaluation methods, and the data distribution among different attributes in publicly available speech datasets is uneven, making it difficult to support the requirements of bias assessment experiments.Bias assessment refers to the use of fairness metrics to evaluate and quantify a system’s biases and unfairness towards different groups. Different artificial intelligence systems have their own characteristics, and their evaluation methods vary accordingly.Existing bias assessment research primarily focuses on binary classification models, such as recommendation systems, with a lack of studies on non-binary classification models. Speech recognition systems are typical examples of non-binary classification models, and the current artificial intelligence bias assessment methods are not fully compatible with them. Therefore, there is an urgent need for a bias assessment method specifically designed for speech recognition systems.In response to the above problems, our contributions are as follows :- (1)We propose a method for constructing evaluation datasets, which is based on benchmark datasets and designed to include multiple sub-datasets for evaluating single sensitive attributes such as race, gender, and age, as well as intersecting attributes like race and gender. These sub-datasets not only maintain data balance in the evaluated attributes, ensuring a relatively equal sample size for each attribute, but also ensure consistency and balance in other non-evaluated attributes. This approach eliminates potential confounding factors that could affect bias assessment.
+- (2)Most existing bias assessment experiments focus solely on evaluating a single sensitive attribute. To enhance the comprehensiveness of assessment experiments, we divide the experiments into single-sensitive-attribute groups and intersecting-sensitive-attribute groups, employing corresponding evaluation metrics for each group.
+- (3)Based on WER, we propose a bias assessment method tailored to speech recognition systems. In selecting evaluation metrics, we draw on existing assessment studies and incorporate the characteristics of speech recognition systems to adopt metrics that are more suitable for this domain. This ensures the scientific rigor, precision, and comprehensiveness of the evaluation process. To meet the requirements of experiments assessing intersecting attributes, we further develop evaluation metrics for intersecting attributes based on those used for single sensitive attributes.
+The remainder of this paper is structured as follows: Section 2 introduces related work, including benchmark datasets, sensitive attributes, fairness in evaluation datasets, fairness in artificial intelligence, and studies on fairness. Section 3 presents the bias assessment framework for speech recognition systems. Section 4 describes the bias assessment experiments for speech recognition and analyzes the experimental results. Finally, Section 5 summarizes the main contributions of this paper.
+
+Access through your organization
+Check access to the full text by signing in through your organization.
+
+Access through your organization
+
+Section snippets
+
+Benchmark dataset
+Speech datasets play an important role in bias studies of speech recognition systems, and commonly used ones mainly include TIMIT (The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus), CommonVoice, MSP-IMPROV (Multicultural Spoken Language and Speaker Recognition Evaluation — Improvised), and ESC-50 (Environmental Sound Classification):TIMIT is an acoustic-phonetic continuous speech corpus constructed in collaboration with Texas Instruments, MIT, and Stanford Research Institute’s SRI
+
+A bias assessment framework for speech recognition systems
+By integrating traditional bias assessment frameworks with the unique characteristics of speech recognition systems and ensuring fairness and rationality in evaluation, we propose a bias assessment framework tailored for speech recognition systems, as shown in Fig. 3. This framework begins by constructing a dataset designed to evaluate multiple sensitive attributes, including gender, race, and age, while also incorporating non-human voice data to meet the requirements of the assessment method.
+
+Experiment preparation and process
+Currently, most speech recognition applications in daily life typically rely on APIs and technologies provided by commercial speech recognition companies to implement speech recognition functionality. These companies offer specialized speech recognition software and services, enabling developers and applications to integrate speech recognition features into their products and services. By studying the biases in commercial speech recognition systems, we can better illustrate the biases present
+
+Conclusion
+We propose a method for constructing evaluation datasets, based on benchmark datasets, to create a more diverse and balanced evaluation dataset. We propose a bias assessment method for speech recognition systems, which determines the success of speech recognition systems in recognizing speech data by UWER and combines with fairness metrics to assess the bias of commercial speech recognition systems for different attributes. Experiments were conducted to assess the bias of commercial speech
+
+CRediT authorship contribution statement
+Zigang Chen: Writing – review & editing, Conceptualization. Yuening Zhou: Writing – original draft, Software, Methodology. Zhen Wang: Validation. Fan Liu: Visualization, Investigation. Tao Leng: Writing – review & editing, Supervision, Conceptualization. Haihua Zhu: Writing – review & editing.
+
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments
+This work is supported by the Opening Project of Intelligent Policing Key Laboratory of Sichuan Province, China , No. ZNJW2022KFZD002.Recommended articles- S. Das et al.
+
+An artificial intelligence framework and its bias for brain tumor segmentation: A narrative review
+
+Comput. Biol. Med.
+(2022)
+- S. Feng et al.
+
+Towards inclusive automatic speech recognition
+
+Comput. Speech Lang.
+(2024)
+- J.S. Suri
+
+Understanding the bias in machine learning systems for cardiovascular disease risk assessment: The first of its kind review
+
+Comput. Biol. Med.
+(2022)
+- M. Varley et al.
+
+Fairness in machine learning with tractable models
+
+Knowl.-Based Syst.
+(2021)
+- S. Barocas et al.
+
+Big data’s disparate impact
+
+Calif. Law Rev.
+(2016)
+- T. Bolukbasi et al.
+
+Man is to computer programmer as woman is to homemaker? Debiasing word embeddings
+
+Adv. Neural Inf. Process. Syst.
+(2016)
+- J. Buolamwini et al.
+
+Gender shades: Intersectional accuracy disparities in commercial gender classification
+
+- S. Caton et al.
+
+Fairness in machine learning: A survey
+
+ACM Comput. Surv.
+(2024)
+- A. Chouldechova
+
+Fair prediction with disparate impact: A study of bias in recidivism prediction instruments
+
+Big Data
+(2017)
+- A. Chouldechova et al.
+
+A snapshot of the frontiers of fairness in machine learning
+
+Commun. ACM
+(2020)
+- D. Dablain et al.
+
+Understanding imbalanced data: Xai & interpretable ml framework
+
+Mach. Learn.
+(2024)
+- B. d’Alessandro et al.
+
+Conscientious classification: A data scientist’s guide to discrimination-aware classification
+
+Big Data
+(2017)
+- J. Dressel et al.
+
+The accuracy, fairness, and limits of predicting recidivism
+
+Sci. Adv.
+(2018)
+- Dwork, C., Hardt, M., Pitassi, T., Reingold, O., Zemel, R., 2012. Fairness through awareness. In: Proceedings of the...
+- P. Hacker
+
+Teaching fairness to artificial intelligence: Existing and novel strategies against algorithmic discrimination under eu law
+
+Common Mark. Law Rev.
+(2018)
+View more referencesView full text© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

@@ -1,0 +1,354 @@
+Oxford and Cambridge ban ChatGPT over plagiarism fears
+https://inews.co.uk/news/oxford-cambridge-ban-chatgpt-plagiarism-universities-2178391
+
+Elle's notes:
+In March 2023, Oxford and Cambridge became the first Russell Group universities to ban ChatGPT for assessed essays. Oxford stated: "Until further notice we will not permit the use of AI tools such as ChatGPT in their assessed work." Cambridge declared that AI-produced content "does not represent the student's own original work so would be considered a form of academic misconduct." Sanctions include zero marks or stripping of qualifications. However, a Cambridge instructor posted on Reddit (April 2025): "I teach in Cambridge, in STEM... In the MPhil I teach we let students use AI as much as they want, given the condition that anything AI does wrong is considered their fault. We moved to essentially oral exams." This reveals the quiet evolution: prohibition failed, so assessment format changed instead.
+
+Harvard relevance: Oxbridge's trajectory mirrors what Harvard may face: (1) Initial prohibition (ban ChatGPT) → (2) Enforcement failure (students use it anyway) → (3) Assessment redesign (shift to oral exams where AI use is moot). The Cambridge MPhil case is particularly instructive: they didn't just add oral components—they went "essentially oral" as the primary assessment mode. The instructor's phrase "as much as they want, given the condition that anything AI does wrong is considered their fault" suggests a sophisticated pedagogy: AI is permitted tool, but oral defense remains the verification mechanism. For Harvard, this is the post-prohibition endpoint: trying to ban AI is futile, but requiring students to orally defend AI-assisted work is sustainable.
+
+--
+
+EXCLUSIVE 
+ 
+
+Oxford and Cambridge ban ChatGPT over plagiarism fears but other universities embrace AI bot
+
+ 
+ A third of Russell Group universities told i they have banned the AI chatbot for assessed essays, but other institutions have decided to explore its use for writing bibliographies and references 
+
+ 
+ 
+ A University of Oxford spokesperson told i that students have been informed that they are not permitted to use ChatGPT in assessed work ‘until further notice’ (Photo: Getty)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Poppy Wood
+ 
+ 
+
+ 
+ Politics and Education Reporter 
+ 
+ 
+ 
+ 
+ 
+ 
+ February 28, 2023 3:30 pm 
+ 
+ (Updated March 02, 2023 10:24 am)
+ 
+ 
+
+ 
+ cancel
+ 
+ 
+ email
+ 
+ 
+ X
+ 
+ 
+ WhatsApp
+ 
+ 
+ Facebook
+ 
+ 
+ link
+ 
+ 
+ share
+ Share
+ 
+ 
+ bookmark
+ Save
+ 
+
+ 
+ share
+ 
+ 
+ cancel
+ 
+ 
+ email
+ 
+ 
+ X
+ 
+ 
+ WhatsApp
+ 
+ 
+ Facebook
+ 
+ 
+ link
+ 
+ 
+ bookmark
+ 
+
+ 
+ 
+The UK’s top universities are split over how to respond to ChatGPT, i can reveal, with Oxford and Cambridge among those banning the technology over plagiarism fears, while others have opted to embrace it.
+
+Eight out of 24 of the elite Russell Group universities have informed students that using the AI bot for assignments will count as academic misconduct, including Manchester, Bristol, Edinburgh and Oxbridge. 
+
+Dozens of other universities across the country, including Durham, Liverpool and Northampton, are scrambling to review their plagiarism policies in time for this year’s assessments, after ChatGPT exploded onto the scene in November.
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "inread-hb-ros-inews" } ); }
+
+The chatbot, created by Microsoft-backed tech non-profit OpenAI, scours vast swathes of the internet for answers to users’ questions. Unlike other AI bots, it coughs up results in fluent, sophisticated language, which users can tailor to their desired length. And unlike other AI bots, it’s free.
+
+The automaton, which has crashed frequently in the past few months after becoming clogged with users, can wax lyrical about the Odyssey, compare postmodernism with modernism, and assess the relative benefits of interactions between genes. 
+
+In short, ChatGPT could spell the death of the traditional essay, which has remained the chief form of assessment for centuries. 
+
+Its sudden emergence late last year sparked panic across the education sector, with experts warning that universities must reform their approach to assignments or face an endless churn of cyborg dissertations.
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_mobile_l1" } ); }if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_tablet_l1" } ); }
+
+Almost 40 per cent of all universities across Britain told i they had either banned ChatGPT or were in the process of revising their policies to outlaw the chatbot. 
+
+In total, 28 universities approached by i said they had updated their plagiarism policies to explicitly prohibit the use of ChatGPT for essays and coursework – almost 20 per cent of all British universities. 
+
+A University of Oxford spokesperson told i: “Students have been informed that until further notice we will not permit the use of AI tools such as ChatGPT in their assessed work.”
+
+They said the university would be issuing fresh guidance to students shortly and will work with exam boards “to minimise problems and concerns in the current assessment cycle”.
+
+The University of Cambridge told i that it had drawn up specific guidance for each department to address concerns about “risks to the integrity of assessments”.
+
+A spokesperson said: “Students must be the authors of their own work. Content produced by AI platforms, such as ChatGPT, does not represent the student’s own original work so would be considered a form of academic misconduct to be dealt with under the university’s disciplinary procedures.”
+
+The university’s sanctions for plagiarism include an automatic mark of zero for a paper or a student’s whole-year assessment being downgraded, while punishments for producing work on someone else’s behalf include being stripped of any academic qualifications handed out by the university. 
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_mobile_l2" } ); }if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_tablet_l2" } ); }
+
+A further 28 universities said they were in the process of revising their misconduct policies to take ChatGPT into account, with many scrambling to do so before exam season kicks in this summer. 
+
+The universities of Northumbria, Northampton and Essex said they were reviewing their existing policies to deal with “emerging technologies,” while Glasgow Caledonian University said it would inform academic staff “what to look out for when marking assessments in order to help identify work that has not been written by a student”. 
+
+But others have taken a more holistic approach, telling i they were open to the academic opportunities that AI chatbots such as ChatGPT might usher in. 
+
+Glasgow University said its staff were keen to explore “how students can be advised to use large language models responsibly in their coursework”.
+
+Meanwhile, Heriot-Watt in Edinburgh told i the software raises “exciting opportunities” and that the university would explore how to integrate it into assessments to “help students become true global change-makers”. 
+
+University College London (UCL) has even updated its website to spell out how students might use ChatGPT to save time on usually laborious bibliographies, acknowledgements and references. 
+
+“We believe these tools are potentially transformative as well as disruptive,” the Russell Group university said on its website. “We will support you in using them effectively, ethically and transparently.”
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_mobile_l3" } ); }if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_tablet_l3" } ); }
+
+The variation across the university sector represents the fight-or-flight tussle with ChatGPT that many institutions are currently grappling with. 
+
+Last week, i revealed that civil servants have been asked not to use the AI chatbot to write Government policies or correspondence.
+
+The Foreign Office has also warned prospective applicants to its student essay prize that it will be scanning all entrances for the robotic fingerprints of ChatGPT – although it was unable to name which software it would be using when asked by i.
+
+In contrast, the International Baccalaureate (IB) said that said schoolchildren will be allowed to use the chatbot in their essays.
+
+Matt Glanville, the IB’s head of assessment principles and practice, said the chatbot should be embraced as “an extraordinary opportunity”, though he cautioned that students must be clear when they were quoting its responses.
+
+Politicians and experts have also warmed up to the opportunities that ChatGPT could unlock, including saving time over burdensome tasks. 
+
+Chancellor Jeremy Hunt boasted about using the software to help craft a speech on the UK’s economic future at a Bloomberg reception last month. 
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_mobile_l4" } ); }if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_tablet_l4" } ); }
+
+Meanwhile​​, officials at Vanderbilt University in the US were forced to apologise last week after they admitted to using ChatGPT to write a consoling email to students after a mass shooting at Michigan State University.
+
+Experts told i that as much as institutions might try and wrestle against the AI bot, ChatGPT is here to stay. 
+
+Mike Sharples, emeritus professor of educational technology at The Open University – which considers the use of ChatGPT for assignments as plagiarism – told i: “We need to start thinking about this now, not in the future, because students are already using it. The education system has got to catch up with what’s already happening.”
+
+At the moment, essays written by ChatGPT are easy to sniff out. Last year, i made the software write answers to GCSE history questions and had them marked by a secondary school teacher, who said they were patchy, “hollow,” and at times factually incorrect. He gave them a Grade 7 – equivalent to a low A grade under the former marking system.
+
+But Mr Sharples warned that a more streamlined version is just around the corner, and one that could just bring about the democratisation of shortcuts that have always existed on some level – including expensive essay mills, which unfairly favour rich students. 
+
+Turnitin, the plagiarism detection used by 98 per cent of British universities, has fast-tracked the development of a more streamlined system capable of picking up the tell-tale signs of ChatGPT. The update is due to launch in April 2023, but it remains unclear whether universities will have to fork out extra for it. 
+
+Until that hits the market, universities have no real way of checking for signs of meddling by ChatGPT, and experts have cautioned that the UK might still be some way off a watertight detection software. In the meantime, universities might ask themselves: Is ChatGPT the future of cheating or the future of teaching?
+
+if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_mobile_l5" } ); }if( window?.adverts?.addToArray ) { window.adverts.addToArray( { "pos": "mpu_tablet_l5" } ); }
+ 
+ 
+ 
+ 
+
+EXPLORE MORE ON THE TOPICS IN THIS STORY
+
+ 
+ 
+ ChatGPT
+ 
+ 
+ Education
+ 
+ 
+ Oxford University
+ 
+ 
+ Subscribers
+ 
+ 
+ Technology
+ 
+ 
+ Universities
+ 
+ 
+ University Of Cambridge
+ 
+ 
+ University Of Oxford
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+MOST READ BY SUBSCRIBERS
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ FOOD & DRINK
+ 
+
+ 
+ 
+
+ 
+ The Italian dishes you're not cooking - but should be 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ POLLY HUDSON
+ 
+
+ 
+ 
+
+ 
+ Americans, this is what you don’t understand about British manners 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ SPRING STATEMENT
+ 
+
+ 
+ 
+ EXPLAINED 
+ 
+
+ 
+ Reeves wants you to ignore the Spring Statement - here's how it will affect your money 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ ARMED FORCES
+ 
+
+ 
+ 
+
+ 
+ UK shoots down two Iranian drones - as British troops come within 200m of attack 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ NEWS
+ 
+
+ 
+ 
+
+ 
+ Iran's regime is collapsing - that should terrify the West 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ square
+ ADAM BOULTON
+ 
+
+ 
+ 
+
+ 
+ A new dark age is dawning for British politics

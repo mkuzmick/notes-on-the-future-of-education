@@ -1,0 +1,70 @@
+Viva Voce in the Digital Era
+https://samejohn.com/2024/12/19/viva-voce-in-the-digital-era/
+
+Elle's notes:
+A University of Melbourne engineering professor shares his 5+ years of using only viva voce assessment in Bioinstrumentation:
+Why he chose it:
+1. Live feedback: "Feedback is obtained in the dialogues between examiner and student"
+2. Probing depth: "The examiner can probe whether the lack of an answer is a lack of understanding or a misunderstanding"
+3. Completion ≠ competence: "Copying a circuit online can give you the same answer as building one. However copying one does not necessarily create knowledge"
+4. Group project differentiation: Viva can distinguish individual understanding in collaborative work
+5. Career preparation: "Helps students understand how to interview as a graduate"
+Addressing concerns:
+• Always 2 examiners (one male, one female)
+• All exams recorded and stored
+• Base questions determined beforehand and displayed on screen
+
+Why it matters: This is a mature implementation model. The professor has run viva voce exclusively since 2020—before ChatGPT—and his framework addresses the common objections (bias, fairness, scaling). Harvard faculty don't need to start from scratch.
+
+--
+
+Reinventing Oral Examinations for Modern Education
+
+My first experience with Viva Voce was when I was in the 3rd year of my bachelors degree. I remember it as being challenging preparing for it but when I was Infront of my examiners, it was not as difficult as I had to explain what I was thinking. I didn’t necessarily need to remember the specific content but I needed to have understood it. But exams on the other hand made me nervous. When I started to teach it became obvious that exams while is useful to assess large cohorts is harder to be focused on competence. Often the focus becomes how to solve a problem using a set of rules or a learnt method irrespective of understanding as we do not question the understanding. For example we can ask a question about the Nyquist theorem and the student can answer that or know that they need a sampling frequency of at least 2 times the maximum frequency of interest but may not understand the consequence of over or under sampling or the trade off between resolution and sampling. Written exams do not have the ability to ask follow up questions to probe a persons understanding and competence. A significant challenge of our times for educators and universities is the rise of students using AI to assist in writing reports. While AI tools can enhance productivity and aid in understanding complex topics, they also present fairness concerns. It becomes increasingly difficult to assess individual competency when work is heavily reliant on AI, potentially skewing academic integrity and evaluation standards. How then can we develop robust methods to differentiate between original student input and AI-generated content, ensuring that assessments remain fair and reflective of true student capabilities. Or may be we don’t need to worry about AI in this instance if we can use a robust method for assessing competency.
+
+Viva Voce
+
+The viva voce, or oral examination, is a long standing tradition in academia, providing a unique platform for students to demonstrate their knowledge, critical thinking, and communication skills. It involves a discussion between the examiners and student, with the ability to probe understanding and provided invaluable feedback live and provide experience for interviews in the future when applying for jobs. It is useful in assessing learning outcomes with probing questions about ones understanding of the concepts over content as well as application real time learning, application of theory to practice, and problem-solving skills. To start with, this can be challenging both for the educator and student. Students can be quite nervous entering the oral exam as when they are unprepared there is no place to hide, if the student does poorly it is visible to the students well before they leave the room. It can also be an emotional experience for students, fairness and transparency is often questioned in Viva-Voce as well as gendered outcomes is also questioned. Traditionally, Viva-Voce has been used for examinations in advanced degrees like in a doctoral defense but in the digital age this method of assessment is undergoing a transformation, driven by changing educational landscapes including the impact of AI. However, the concerns raised about Viva-Voce also need to be addressed and the use of technological resources can address a majority of the criticisms of Viva-Voce. 
+
+Viva Voce in Bioinstrumentation at University of Melbourne
+
+Ever since I took over the subject in 2020, I have only ever used Viva Voce as the means for assessing students in Bioinstrumentation. The reason I choose this over written exams is three fold: 1) the oral exam is also a means for feedback but the feedback is live. Feedback is obtained in the dialogues between examiner and student. It gives students the ability to articulate what they have learnt through the semester, and enables them to reflect on their learning. The students ability to answer already provides them with feedback but the examiner can also tell them where they are lacking and need to revise or revisit their understanding. 2) It is hard to assess competence and critical thinking without a dialogue, where the work is conceptual in nature. For example, the examiner may start with a questions about Nyquist theorem and the students answers it with a definition, the examiner gives the student one application as asks what happens if it is over or under sampled, if a student is unable to answer the examiner can ask the questions differently or reduce the complexity. The examiner can probe whether the lack of an answer is a lack of understanding or a misunderstanding. On the contrary if the answer is well thought through, the examiner can ask a more question to look at the limits of ones understanding. 3) Completion does not necessarily equate to competence. The subject uses a constructivist approach with project based learning. It means that student have to create knowledge for themselves by engaging in guided and self-paced practical work. Its important in applied fields like electronics where we cannot see an electron but we make simplifying assumptions about the outcomes. There are also numerous circuit diagrams available for any bio instrument one wants to make and copying a circuit online can give you the same answer as building one. However copying one does not necessarily create knowledge in the person (Learning) but creating a device from scratch starting from the basic principles does. When students are probed about what they have done it can become clear if they have copied the work or if they have created it. 4) It helps distinguish between students in group projects. While in bioinstrumentation the projects are individual, in other subjects where group work is involved, Viva Voce can help differentiate between students understanding level. 5) It helps students understand how to interview as a graduate. 
+
+Addressing Concerns with Viva Voce
+
+The main concerns raised in Viva Voce is the lack of transparency, fairness across the cohort, potential for being vindictive, unevenly affecting students from different racial backgrounds and gender. However, much of these can be solved using technology and human accountability. For example, in bioinstrumentation there are always 2 examiners, and always one male and one female, all oral exams are recorded and stored just as a paper and the recordings can be reviewed if there is an accusation of misconduct. The recordings also capture the examiners discussion post the exam on how the student faired and what things were missing or things they excelled in. This helps with accountability and ensures there are always two people who mark each student. Another thing that is used is the base question being asked is determined before hand and these are displayed on screen, this also helps students with English as their second language to take the time they need to read and understand the question. These safeguards alleviate the concerns about Viva Voce, but it addresses several challenges faced in education today. Particularly in the era of AI in student work, Viva Voce enables educators to maintain oversight and maintain fairness while assessing competency in evaluations. It also prepares students for the demands of the modern world where they are expected to communicate technical information to each other in technical language as well as prepare them for technical interviews. 
+
+Is Viva Voce the future of assessments
+
+By no means is Viva Voce the future of assessments but it is one means of assessment. As educators we want to prepare students for the real world, we want them to be gain competence and demonstrate competence. This can be done in many ways, presentations in class, peer discussion, report writing, practical exams, written exams, Viva Voce. The more diversity we can provide students across their learning journey, the better we will prepare them. Viva Voce has some advantages in the current AI era and I would recommend that we do look at it more closely and if it is appropriate in your context, then use it. 
+
+Share this:
+- 
+ Share on X (Opens in new window)
+ X
+ 
+- 
+ Share on Facebook (Opens in new window)
+ Facebook
+ 
+- 
+Like Loading...
+
+ 
+
+Related
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Published by Sam John 
+ 
+
+ 
+ Dr. Sam John is a Senior Lecturer in Neural Engineering at the Department of Biomedical Engineering, The University of Melbourne. He has a passion for translation of medical technology from the laboratory to real world application. 
+ View more posts

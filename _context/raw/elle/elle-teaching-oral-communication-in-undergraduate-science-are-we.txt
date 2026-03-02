@@ -1,0 +1,24 @@
+Teaching Oral Communication in Undergraduate Science: Are We Doing Enough and Doing it Right?
+https://eric.ed.gov/?id=EJ940652
+
+Elle's notes:
+Vincent Chan's 2011 study addresses a disconnect: "Effective oral communication is critical for the advancement and sharing of scientific knowledge," yet many science courses don't teach or assess it. Chan describes "simple and authentic oral learning/assessment exercises" that embed communication skills into science curricula: mini-presentations on experimental design, peer-reviewed lab report defenses, group problem-solving presentations. The study emphasizes that "communication skills and insights form an important basis for employability"—employers expect science graduates to present findings, explain methods, and defend conclusions verbally (lab meetings, conference talks, funding pitches).
+
+Harvard relevance: Chan's argument applies across disciplines: if professionals in field X use oral communication daily, why do undergraduate programs in X primarily assess via writing? Science is the clearest case—actual scientists present at conferences, defend grants orally, explain methods to collaborators—yet undergrad science courses rely heavily on problem sets and lab reports. For Harvard's STEM concentrations (MCB, Chemistry, Physics), integrating oral assessment isn't just "AI-proofing"—it's professional preparation. Chan's "simple and authentic exercises" show how: lab report defenses (10-min presentation + Q&A on experimental design), problem-solving presentations (students explain solutions to challenging problems orally, not just on paper), peer review sessions (students critique each other's work verbally, building evaluative skills). These scaffold oral fluency without requiring wholesale curriculum redesign.
+
+--
+
+Teaching Oral Communication in Undergraduate Science: Are We Doing Enough?
+Vincent Chan, Journal of Learning Design, Vol. 4, No. 3, pp. 71-79 (2011)
+ERIC: EJ940652
+
+"Communication skills and insights form an important basis for employability and participation in society." Universities recognize the need for science graduates to develop stronger presentation abilities.
+
+The paper focuses on why oral communication should be embedded, taught, and assessed in science courses, while offering several straightforward, authentic exercises for learning and evaluation.
+
+The research addresses three main areas:
+- The importance of oral communication for scientific knowledge advancement
+- Recognition within higher education institutions of presentation skill gaps among science students
+- Practical strategies for integrating communication instruction into science curricula
+
+The work provides concrete pedagogical approaches rather than theoretical frameworks, offering educators implementable methods for improving student communication competencies in science disciplines.

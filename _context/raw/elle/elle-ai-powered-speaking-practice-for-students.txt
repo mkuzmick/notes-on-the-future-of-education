@@ -1,0 +1,39 @@
+AI-Powered Speaking Practice for Students
+https://www.speakable.io/
+
+Elle's notes:
+Designed for K-12 and language learning but applicable to higher ed:
+• Teachers create AI-powered speaking activities with instant feedback and auto-grading
+• Supports 100+ languages; proficiency tracking over time
+• Rubric-based feedback students receive immediately
+• Integrates with Canvas, Google Classroom
+• FERPA, COPPA, SOPPA compliant
+Teacher testimonial: "The instant feedback that is possible with the Speakable prompts is game changing."
+
+Why it matters: Shows the model for low-stakes oral practice at scale. Harvard could adapt similar approaches for oral components across disciplines—not replacing faculty evaluation but supplementing it with consistent practice opportunities.
+
+--
+
+Speakable: AI-Powered Speaking Practice Platform
+
+Speakable is an educational platform that uses artificial intelligence to help students practice speaking and writing skills. Teachers can assign activities that provide instant feedback without requiring manual grading of every response.
+
+Key Features:
+- Immediate, rubric-based feedback on student responses
+- An AI activity builder for creating custom assignments
+- Student portfolios tracking progress over time
+- Team collaboration tools for shared rubrics and activities
+- Integration with Google Classroom and Canvas
+- Support for multiple languages and proficiency levels
+
+Target Users:
+The service is designed for language teachers and world language departments, though it also supports English learners and content instruction.
+
+Content Types:
+Available activities include role-plays, writing tasks, fluency sprints, cultural comparisons, test prep exercises, and checkpoint assessments.
+
+Teacher Benefits:
+Educators praise features like "instant feedback that is possible with the Speakable prompts," time savings on grading, and the ability to see measurable student progress.
+
+Security & Compliance:
+The platform includes K-12-ready privacy protections and complies with COPPA, FERPA, and SOPPA regulations.

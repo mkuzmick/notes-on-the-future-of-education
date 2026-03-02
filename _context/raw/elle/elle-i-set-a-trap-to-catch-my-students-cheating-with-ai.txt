@@ -1,0 +1,188 @@
+I Set A Trap To Catch My Students Cheating With AI
+https://www.huffpost.com/entry/history-professor-ai-cheating-students_n_69178150e4b0781acfd62540
+
+Elle's notes:
+History professor Will Teague's first-person account of discovering 39% of student papers were AI-generated:
+• Used "Trojan horse" method: hidden text asking ChatGPT to write "from a Marxist perspective"
+• Students couldn't explain what Marxism was or how it got into their papers
+• One student said: "I thought it sounded smart"
+• 12 of 47 AI cheaters eventually dropped the course rather than engage with the material
+Key insight: "Students do not know what they do not know." They can't assess AI output quality because they lack the foundational knowledge to recognize errors.
+
+Why it matters: This reveals why detection → oral verification is becoming standard practice. The professor notes that oral exams as follow-up ("If I suspect AI use, I'll give them an impromptu oral exam") is now the fallback—but proactive oral assessment would eliminate the detection game entirely.
+
+--
+
+The classroom where the author teachesPhoto Courtesy Of Will TeagueI have been in and out of college classrooms for the last 10 years. I have worked as an adjunct instructor at a community college, I have taught as a graduate instructor at a major research institution, and I am now an assistant professor of history at a small teaching-first university.
+
+Since the spring semester of 2023, it has been apparent that an ever-increasing number of students are submitting AI-generated work. I am no stranger to students trying to cut corners by copying and pasting from Wikipedia, but the introduction of generative AI has enabled them to cheat in startling new ways, and many students have fully embraced it. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-1", "entry_paragraph_1", false, false);
+ });
+
+Plagiarism detectors have and do work well enough for what I might call “classical cheating,” but they are notoriously bad at detecting AI-generated work. Even a program like Grammarly, which is ostensibly intended only to clean up one’s own work, will set off alarms. 
+
+So, I set out this semester to look more carefully for AI work. Some of it is quite easy to notice. The essays produced by ChatGPT, for instance, are soulless, boring abominations. Words, phrases and punctuation rarely used by the average college student — or anyone for that matter (em dash included) — are pervasive. 
+
+But there is a difference between recognizing AI use and proving its use. So I tried an experiment.
+
+A colleague in the department introduced me to the Trojan horse, a trick capable of both conquering cities and exposing the fraud of generative AI users. This method is now increasingly known (there’s even an episode of “The Simpsons” about it) and likely has already run its course as a plausible method for saving oneself from reading and grading AI slop. To be brief, I inserted hidden text into an assignment’s directions that the students couldn’t see but that ChatGPT can. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-2", "entry_paragraph_3", false, false);
+ });
+
+I assigned Douglas Egerton’s book “Gabriel’s Rebellion,” which tells the story of the thwarted rebellion of enslaved people in 1800, and asked the students to describe some of the author’s main points. Nothing too in-depth, as it’s a freshman-level survey course. They were asked to use either the suggestions I provided or to write about whatever elements of Egerton’s argument they found most important.
+
+I received 122 paper submissions. Of those, the Trojan horse easily identified 33 AI-generated papers. I sent these stats to all the students and gave them the opportunity to admit to using AI before they were locked into failing the class. Another 14 outed themselves. In other words, nearly 39% of the submissions were at least partially written by AI. 
+
+The percentage was surprising and deflating. I explained my disappointment to the students, pointing out that they cheated on a paper about a rebellion of the enslaved — people who sacrificed their lives in pursuit of freedom, including the freedom to learn to read and write. In fact, Virginia made it even harder for them to do so after the rebellion was put down.
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+I’m not sure all of them grasped my point. Some certainly did. I received several emails and spoke with a few students who came to my office and were genuinely apologetic. I had a few that tried to fight me on the accusations, too, assuming I flagged them as AI for “well written sentences.” But the Trojan horse did not lie. 
+
+The author with his cat, Persephone "Dots" TeaguePhoto Courtesy Of Will TeagueThere’s a lot of talk about how educators have to train students to use AI as a tool and help them integrate it into their work. Recently, the American Historical Association even made recommendations on how we might approach this in the classroom. The AHA asserts that “banning generative AI is not a long-term solution; cultivating AI literacy is.” One of their suggestions is to assign students an AI-generated essay and have them assess what it got right, got wrong or if it even understood the text in question. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+But I don’t know if I agree with the AHA. Let me tell you why the Trojan horse worked. It is because students do not know what they do not know. My hidden text asked them to write the paper “from a Marxist perspective.” Since the events in the book had little to do with the later development of Marxism, I thought the resulting essay might raise a red flag with students, but it didn’t. 
+
+I had at least eight students come to my office to make their case against the allegations, but not a single one of them could explain to me what Marxism is, how it worked as an analytical lens or how it even made its way into their papers they claimed to have written. The most shocking part was that apparently, when ChatGPT read the prompt, it even directly asked if it should include Marxism, and they all said yes. As one student said to me, “I thought it sounded smart.”
+
+How do I assign students an AI-generated essay for assessment if they don’t have the basic knowledge to parse said essay? I can’t and I won’t. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+I’m a historian. I am trained and paid to teach students how to understand a narrative, to derive meaning from it with textual analysis and to communicate that meaning in written word. I cannot force them to do any of those things, but I won’t be complicit in exposing them to even more AI in my classroom. 
+
+Not only is there an inability to recognize AI-generated content for the slop it is, but each university, each college and each department is adopting wildly different AI policies. There is no consistency. My colleagues and I are actively trying to solve this for ourselves, maybe by establishing a shared standard that every student who walks through our doors will learn and be subject to. But we can’t control what happens everywhere else. 
+
+I have no doubt that many students are actively making the decision to cheat. But I also do not doubt that, because of inconsistent policies and AI euphoria, some were telling the truth when they told me they didn’t realize they were cheating. Regardless of their awareness or lack thereof, each one of my students made the decision to skip one of the many challenges of earning a degree — assuming they are only here to buy it (a very different cultural conversation we need to have). They also chose to actively avoid learning because it’s boring and hard.
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+Now, I’m not equipped to make deep sociological or philosophical diagnoses on these choices. But this is a problem. How do we solve it? Is it a return to analog? Do we use paper and pen and class time for everything? Am I a professor or an academic policeman?
+
+The answer is the former. But students, society and administrations that are unwilling to take a hard stance (unless it’s the promotion of AI) are crushing higher ed. A college degree is not just about a job afterward — you have to be able to think, solve problems and apply those solutions, regardless of the field. How do we teach that without institutional support? How do we teach that when a student doesn’t want to and AI enables it?
+
+I don’t know. But for my students, I decided to not punish them. All I know how to do is teach, so that’s what I did. I assigned a wonderful essay by Cal Poly professor Patrick Lin that he addressed to his class on the benefits and detriments of AI use. I attached instructions that asked them to read it and reflect. These instructions also had a Trojan horse.
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+Thirty-six of my AI students completed it. One of them used AI, and the other 12 have been slowly dropping the class. Ultimately, 35 out of 47 isn’t too bad. The responses to the assignment were generally good, and some were deeply reflective.
+
+But a handful said something I found quite sad: “I just wanted to write the best essay I could.” Those students in question, who at least tried to provide some of their own thoughts before mixing them with the generated result, had already written the best essay they could. And I guess that’s why I hate AI in the classroom as much as I do. 
+
+Students are afraid to fail, and AI presents itself as a savior. But what we learn from history is that progress requires failure. It requires reflection. Students are not just undermining their ability to learn, but to someday lead. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+I asked my students to reflect, so I suppose I will end with my own reflection. I don’t use AI for anything in my academic or personal life. I value almost nothing more than my ability to think and to freely express myself. Even when I make mistakes, at least they are my mistakes. 
+
+We live in an era where personal expression is saturated by digital filters, hivemind thinking is promoted through endless algorithms and academic freedom itself is under assault by the weakest minds among us. AI has only made this worse. It is a crisis.
+
+I can offer no solutions other than to approach it and teach about it that way. I’m sure angry detractors will say that is antiquated, and maybe it is. 
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+But I am a historian, so I will close on a historian’s note: History shows us that the right to literacy came at a heavy cost for many Americans, ranging from ostracism to death. Those in power recognized that oppression is best maintained by keeping the masses illiterate, and those oppressed recognized that literacy is liberation. To my students and to anyone who might listen, I say: Don’t surrender to AI your ability to read, write and think when others once risked their lives and died for the freedom to do so.
+
+Do you have a compelling personal story you’d like to see published on HuffPost? Find out what we’re looking for here and send us a pitch at pitch@huffpost.com.
+
+Advertisement
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("inline-infinite", "repeating_dynamic_display", false, false);
+ });
+
+{"relatedArticlesEntryIds":[]}
+
+Related
+
+Education
+
+artificial intelligence
+
+human behavior
+I Asked My Students To Write An Essay About Their Lives. The Reason 1 Student Began To Panic Left Me Stunned.No, AI Isn't Having 'Hallucinations' — Turns Out, It's Worse Than ThatExperts Warn AI Notetakers Could Get You In Legal Trouble Go to HomepageLEAVE A COMMENTSuggest a correction|Submit a tipAdvertisement
+ 
+ 
+ 
+
+From Our Partner
+
+ 
+ 
+ 
+ 
+
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("sidebar-1", "right_rail_content_1", false, false);
+ });
+
+
+ 
+ 
+ 
+
+From Our Partner
+
+ 
+ 
+ 
+ 
+HuffPost Shopping's
+Best FindsLoading...Newsletter Sign UpMust ReadsLook under the hood, and take a behind the scenes look at how longform journalism is made. Subscribe to Must Reads.Successfully Signed Up!Realness delivered to your inboxBy entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and Privacy Policy.
+
+
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("sidebar-2", "right_rail_300x250_lower", false, false);
+ });
+
+
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("sidebar-infinite", "right_rail_repeating", false, false);
+ });
+
+
+
+ HPGam.cmd.push(function(){
+ return HPGam.render("sidebar-infinite", "right_rail_repeating", false, false);
+ });

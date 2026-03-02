@@ -1,0 +1,264 @@
+Guidelines for Oral Assessments and Exams
+https://otl.uoguelph.ca/guidelines-oral-assessments-and-exams
+
+Elle's notes:
+Comprehensive guide acknowledging both advantages and disadvantages:
+Disadvantages identified:
+• Time intensity: "More time to administer than written exams and not typically suitable for larger classes"
+• Student stress: "Often more stressful for students, which can interfere with their performance. Students may be unfamiliar with the format, leading to fear and anxiety"
+• Mental health concerns: "May be particularly stressful for students with mental health concerns"
+• Reliability issues: "Potential for issues with reliability and fairness if students are asked different questions"
+• Bias risk: "Potential for bias and subjective grading, as grading cannot be anonymous. Students' articulateness, shyness, speed of thought, gender, ethnicity, language skills, accent, etc. can influence judgments"
+• Academic integrity: "Students can pass on questions to others who are taking the exam later"
+Key warning: "Oral assessment should NOT be used solely for preventing academic dishonesty or to proctor students."
+
+Why it matters: This is the honest institutional guidance Harvard faculty need. Oral assessment isn't a silver bullet—it requires intentional design, rubrics, accessibility alternatives, and training.
+
+--
+
+Guidelines for Oral Assessments and Exams
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oral assessments gauge students’ knowledge and skills based on the spoken word, typically guided by questions or small tasks. Oral assessments can take on different formats, including:
+
+ - Presentation on a prepared topic (individual or group, live or recorded)
+
+ - Interviews or discussions to assess a student’s knowledge or skills
+
+ - Simulations or demonstrations of skills individually or with others (e.g., client or patient)
+
+Oral assessment is ideal for assessing:
+
+ - Higher-order thinking and synthesis
+
+ - Applied problem solving
+
+ - Application of theory to practice
+
+ - Depth of knowledge (rather than breadth)
+
+ - Students’ ability to think on their feet
+
+ - Interpersonal competence and professionalism (e.g., in mock interactions with clients or patients)
+
+Oral assessment should not be used:
+
+ - Solely for preventing academic dishonesty or to proctor students
+
+ - As a direct replacement for a written assessment or as a high-stakes assessment
+
+ - If it does not suitably assess the learning outcomes of a course
+
+Advantages of Oral Assessments
+
+ - Can assess depth of knowledge and skills, allowing for a more comprehensive view of students’ abilities, cognitive processes, and conceptual misunderstandings.
+
+ - Opportunity for interaction, leading to a greater sense of connection for instructors and students, particularly in the remote environment.
+
+ - More authentic form of assessment if students are solving problems, demonstrating skills, and communicating using disciplinary language and scenarios.
+
+ - May increase learning, as students often spend more time preparing for oral exams.
+
+ - Opportunity for clarification of ambiguous questions in the moment.
+
+ - Can prevent some academic integrity issues because follow-up questions can be asked to clarify students’ thinking and understanding.
+
+Disadvantages of Oral Assessments
+
+ - More time to administer than written exams and not typically suitable for larger classes.
+
+ - Often more stressful for students, which can interfere with their performance. Students may be unfamiliar with the format, leading to fear and anxiety. Oral exams may be particularly stressful for students with mental health concerns.
+
+ - Potential for issues with reliability and fairness if students are asked different questions.
+
+ - Potential for bias and subjective grading, as grading cannot be anonymous. Students’ articulateness, shyness, speed of thought, gender, ethnicity, language skills, accent, etc. can influence judgments about their knowledge and skills.
+
+ - Potential for academic integrity issues as students can pass on questions to others who are taking the exam later.
+
+Considerations when Designing and Implementing Oral Assessments
+
+Step 1: Decide on Appropriate Assessment Strategies for your Learning Outcomes
+
+ - Decide which learning outcomes should be assessed through this method.
+
+ - Decide how you will use oral assessment to complement other assessments of those learning outcomes (e.g., take-home assignments, group or individual reports). Oral assessments are best suited to probing depth of knowledge or skills.
+
+ - Decide what alternative assessment options will be available for students who may be disadvantaged by, or less comfortable with, oral assessment (e.g., students with hearing or speech impairments, anxiety, non-native speakers).
+
+Step 2. Create Questions and Structure of the Assessment
+
+ - Design appropriate questions for each learning outcome. Focus on depth rather than breadth. Include potential follow-up questions and prompts based on different types of answers (e.g., asking students to clarify an unclear point or provide more detail).
+
+ - Standardize the number of questions, difficulty of questions, and the time allotted.
+
+ - Decide on the order of questions and any tasks students must perform (e.g., whiteboard drawing, screen sharing). Start with an easier question to ease students into the exam.
+
+ - Determine how and when you will vary the questions across students (e.g., use of different scenarios).
+
+Step 3. Create a Grading Scheme
+
+ - Create a rubric or scoring guide with explicit criteria/standards, weighting, and model answers for each question. Often with oral assessments, answers are not necessarily right or wrong, but demonstrate different levels of mastery. The scoring guide should be straightforward enough that you can fill it in during the oral assessment.
+
+ - Decide if prompting means that points will be deducted.
+
+Step 4. Prepare Students and Create Practice Opportunities
+
+ - Provide clear information to students about the content to be covered, the process and structure of the oral assessment, the material they can have available, and the grading criteria. Give students opportunities to ask questions about the assessment.
+
+ - Provide opportunities for practice. Students are often not experienced in expressing themselves orally within the discipline. Build in informal opportunities for speaking in class and short presentation activities with time for discussion and feedback.
+
+ - Share a recorded video demonstrating a typical oral assessment. Model relevant questions and answers, and how they would be graded.
+
+Step 5. Conduct the Assessment
+
+ - Decide whether to use multiple examiners, which can be helpful for managing time, taking notes, solving technical issues, and grading reliability.
+
+ - Some students will need more encouragement as they may be shy or nervous. Shyness should not affect your perception of what the student knows.
+
+ - Consider recording the assessment in case of grade appeals and to share with students if they want to debrief or request feedback on their performance
+
+Additional Resources
+
+How-to-Guide: Remote Oral Exams, Saunders-Smits, G. (2020). This comprehensive guide includes steps for designing a remote oral exam, and sample rubrics, grading sheets, and exams.
+
+Guidelines for (Online) Oral Exams, University of Twente CELT (2020). This quick guide offers recommendations for increasing validity, reliability, and transparency of online oral exams.
+
+How to Design and Execute an Online Oral Exam, University of Twente CELT (2020). This quick guide provides advice for test construction, organization, and administration.
+
+A Short Guide to Oral Assessment, Joughin, G. (2010). This is a comprehensive guide offering recommendations for planning, executing, and assessing oral assessments.
+
+Revitalizing Classes through Oral Exams, Dumbaugh, D. (2020). This Inside Higher Ed opinion piece details a mathematics instructor’s use of oral exams when transitioning to remote instructor.
+
+Research on the Use of Oral Exams in Various Disciplines
+
+ 
+ 
+ Discipline
+ Citations
+ 
+ 
+ Geography
+ 
+ 
+ - 
+ Use of oral examinations to assess student learning in the social sciences
+
+ 
+
+ 
+ 
+ 
+ 
+ Marketing/Business
+ 
+ 
+ - Viva Voce (Oral Examination) as an Assessment Method: Insights from Marketing Students
+
+ - Using oral exams to assess communication skills in Business courses
+
+ 
+ 
+ 
+ 
+ Mathematics
+ 
+ 
+ - Rethinking Oral Examinations for Undergraduate Students
+
+ - Individual oral exams in mathematics courses: 10 years of experience at the Air Force Academy
+
+ - Comparability of student performance between regular and oral administrations for a high-stakes mathematics test
+
+ 
+ 
+ 
+ 
+ Biology, Chemistry, Physics, Engineering
+ 
+ 
+ - Oral versus written assessments: A test of student performance and attitudes
+
+ - Undergraduate oral examinations in a university organic chemistry curriculum
+
+ - Using oral examination as a technique to assess student understanding and teaching effectiveness
+
+ - Impact of oral exams on a thermodynamics course performance
+
+ - Oral exams: A deeply neglected tool for formative assessment in Chemistry
+
+ 
+ 
+ 
+ 
+ Nursing, Health Sciences, Nutrition
+ 
+ 
+ - Matching final assessment to employability: developing a digital viva as an end of programme assessment
+
+ - Appropriateness of using oral examination as an assessment method in medical or dental education
+
+ - A comparison of an oral assessment with a traditional paper exam within a final year nutrition module
+
+ 
+ 
+ 
+ 
+ Theology
+ 
+ 
+ - Increasing engagement through oral exams
+
+ 
+ 
+ 
+ 
+ Computer Science
+ 
+ 
+ - An assessment of oral exams in introductory CS
+
+ 
+ 
+ 
+ 
+ Psychology
+ 
+ 
+ - Using Oral Exams to Assess Psychological Literacy: The Final Year Research Project Interview
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ File attachments 
+
+ 
+ 
+ 
+ 
+
+ AttachmentSize 
+
+ Guidelines for Oral Examinations.pdf277.75 KB

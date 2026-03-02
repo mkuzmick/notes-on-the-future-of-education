@@ -1,0 +1,193 @@
+NYU Professor Fights AI Cheating with AI-Powered Oral Exams
+https://the-decoder.com/nyu-professor-fights-ai-cheating-with-ai-powered-oral-exams-that-cost-42-cents-per-student/
+
+Elle's notes:
+Detailed account of Prof. Panos Ipeirotis's experiment reveals the diagnostic power of oral exams:
+• Students' written work looked "suspiciously good... not 'strong student' good, but 'McKinsey memo that went through three rounds of editing' good"
+• When cold-called in class, "many who had submitted thoughtful work couldn't explain basic decisions in their own submissions after two follow-up questions"
+• The gap between written performance and oral defense was "too consistent to blame on nerves"
+Ipeirotis's verdict: "The old system where take-home papers could reliably measure understanding is dead, gone, kaput."
+
+Why it matters: This is the clearest articulation of the problem: written work no longer reliably indicates understanding. Oral verification isn't optional—it's necessary for assessment validity.
+
+--
+
+NYU professor fights AI cheating with AI-powered oral exams that cost 42 cents per student
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Matthias Bastian
+ 
+ View the LinkedIn Profile of Matthias Bastian
+ 
+ 
+ 
+ Jan 4, 2026 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ Nano Banana Pro prompted by THE DECODER
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ An NYU professor ran oral exams using a voice AI agent. The experiment cost $15 for 36 students and exposed gaps in both student knowledge and his own teaching.
+
+The written assignments in the new "AI/ML Product Management" course looked "suspiciously good" - not "strong student" good, but "McKinsey memo that went through three rounds of editing" good, writes Panos Ipeirotis in his blog. The NYU Stern professor is known for his work on crowdsourcing and integrating human and machine intelligence.
+
+Ipeirotis and co-instructor Konstantinos Rizakosthen started cold-calling students in class. The result was "illuminating," Ipeirotis says. Many who had submitted thoughtful work couldn't explain basic decisions in their own submissions after two follow-up questions. The gap between written performance and oral defense was too consistent to blame on nerves.Ad
+
+The old system where take-home papers could reliably measure understanding is "dead, gone, kaput" thanks to AI, Ipeirotis says—proof enough, if any was still needed. Students can now answer most traditional exam questions with AI.AdDEC_D_Incontent-1
+
+AI oral exams cost 42 cents per student
+
+Oral exams force real-time thinking and defense of actual decisions, but they're a logistical nightmare for large classes. Inspired by research showing AI performs more consistently than humans in job interviews, Ipeirotis and co-instructor Konstantinos Rizakos tried something new: a final exam conducted by a voice AI agent built on ElevenLabs Conversational AI.
+
+The exam had two parts. First, the agent asked about the student's final project: goals, data, modeling decisions, evaluation, and failure modes. Then it picked one of the cases from the course and asked questions about the material covered.Ad
+
+36 students were tested over nine days, averaging 25 minutes per exam. Total cost: $15—$8 for Claude as the main assessor, $2 for Gemini, 30 cents for OpenAI, and about $5 for ElevenLabs. That's 42 cents per student.
+
+For comparison: 36 students times 25 minutes times two human graders equals 30 hours of work. At student assistant rates of around $25 per hour, that's $750. In academia, that cost difference often decides whether oral exams happen at all, Ipeirotis says.AdDEC_D_Incontent-2
+
+Early version was intimidating and asked too much at once
+
+The first version had problems, Ipeirotis says. Some students complained about the agent's stern tone. The professors had cloned a colleague's voice, but students found it "intense" and "condescending." One student emailed that "the agent was shouting at me."Ad
+
+Other issues: The agent asked multiple questions at once, paraphrased instead of repeating verbatim when asked, and jumped in too quickly during pauses.
+
+Randomization was especially tricky. When asked to "randomly" select a case, the agent chose Zillow 88 percent of the time. After removing it from the prompt, the agent landed on "predictive policing" in 16 out of 21 tests the next day.
+
+"Asking an LLM to 'pick randomly' is like asking a human to 'think of a number between 1 and 10'—you're going to get a lot of 7s," Ipeirotis says. He's describing a well-documented phenomenon that ultimately stems from human bias in the training data.
+
+A panel of three AI models did the grading
+
+Grading followed Andrej Karpathy's "Council of LLMs" approach. Three models, Claude, Gemini, and ChatGPT, first rated each transcript independently, then reviewed each other's ratings and revised their assessments.
+
+Initial agreement was poor: Gemini averaged 17 out of 20 points, Claude just 13.4. After the built-in LLM consultation step, 60 percent of ratings fell within one point, according to the provided graphic; 29 percent matched exactly. Gemini dropped its scores by an average of two points after seeing Claude's criticism of specific gaps.
+
+The three LLM graders agreed 100 percent within one point on Problem Framing and Metrics, but only 57 percent on Experimentation. | Image: Ipeirotis et al.
+The AI-generated feedback outperformed human graders, Ipeirotis says: structured summaries of strengths and weaknesses with verbatim quotes from the exam.
+
+The topic-by-topic analysis also exposed gaps in the teaching itself. On "Experimentation," students averaged just 1.94 out of 4 points, compared to 3.39 for "Problem Framing." Three students couldn't discuss the topic at all, and none scored full marks. Ipeirotis admits the course neglected A/B testing methodology. "The external grader made it impossible to ignore," he says.
+
+Another finding: exam length didn't correlate with grades. The shortest exam, at nine minutes, earned the highest score. The longest, at 64 minutes, produced a mediocre grade.
+
+Students found AI exams stressful but fair
+
+A student survey showed mixed reactions. Only 13 percent preferred the AI format, with twice as many favoring a human oral examiner. 83 percent found the AI exam more stressful than written tests. But about 70 percent agreed it tested their actual understanding, the highest-rated item in the survey.
+
+83 percent of students found the AI exam more stressful, but 70 percent confirmed it tested their actual understanding. | Image: Ipeirotis et al.
+Oral exams were standard until they stopped scaling, Ipeirotis summarizes. AI makes them practical again. One advantage over traditional exams: students can practice with the setup since questions are generated fresh each time. Leaked exam questions are no longer a problem.
+
+Ipeirotis has published the prompts for the voice agent and the grading panel, along with a link to try the agent yourself.
+
+ 
+
+ 
+ 
+ 
+
+AI News Without the Hype – Curated by Humans
+
+ 
+ As a THE DECODER subscriber, you get ad-free reading, our weekly AI newsletter, the exclusive "AI Radar" Frontier Report 6× per year, access to comments, and our complete archive. 
+
+ 
+ Subscribe now 
+ 
+ 
+ 
+ 
+ {
+ "@context": "https://schema.org",
+ "@type": "NewsArticle",
+ "headline": "NYU professor fights AI cheating with AI-powered oral exams that cost 42 cents per student",
+ "datePublished": "2026-01-04T13:21:25+01:00",
+ "dateModified": "2026-01-08T11:25:00+01:00",
+ "author": {
+ "@type": "Person",
+ "name": "Matthias Bastian"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "The Decoder"
+ },
+ "description": "An NYU professor ran oral exams using a voice AI agent. The experiment cost $15 for 36 students and revealed not just gaps in student knowledge, but weaknesses in his own teaching.",
+ "articleBody": "An NYU professor ran oral exams using a voice AI agent. The experiment cost $15 for 36 students and exposed gaps in both student knowledge and his own teaching.\r\n\r\nThe written assignments in the new \"AI\/ML Product Management\" course looked \"suspiciously good\" - not \"strong student\" good, but \"McKinsey memo that went through three rounds of editing\" good, writes Panos Ipeirotis in his blog. The NYU Stern professor is known for his work on crowdsourcing and integrating human and machine intelligence.\r\n\r\nIpeirotis and co-instructor Konstantinos Rizakosthen started cold-calling students in class. The result was \"illuminating,\" Ipeirotis says. Many who had submitted thoughtful work couldn't explain basic decisions in their own submissions after two follow-up questions. The gap between written performance and oral defense was too consistent to blame on nerves.\r\n\r\nThe old system where take-home papers could reliably measure understanding is \"dead, gone, kaput\" thanks to AI, Ipeirotis says\u2014proof enough, if any was still needed. Students can now answer most traditional exam questions with AI.\r\nAI oral exams cost 42 cents per student\r\nOral exams force real-time thinking and defense of actual decisions, but they're a logistical nightmare for large classes. Inspired by research showing AI performs more consistently than humans in job interviews, Ipeirotis and co-instructor Konstantinos Rizakos tried something new: a final exam conducted by a voice AI agent built on ElevenLabs Conversational AI.\r\n\r\nThe exam had two parts. First, the agent asked about the student's final project: goals, data, modeling decisions, evaluation, and failure modes. Then it picked one of the cases from the course and asked questions about the material covered.\r\n\r\n36 students were tested over nine days, averaging 25 minutes per exam. Total cost: $15\u2014$8 for Claude as the main assessor, $2 for Gemini, 30 cents for OpenAI, and about $5 for ElevenLabs. That's 42 cents per student.\r\n\r\nFor comparison: 36 students times 25 minutes times two human graders equals 30 hours of work. At student assistant rates of around $25 per hour, that's $750. In academia, that cost difference often decides whether oral exams happen at all, Ipeirotis\u00a0says.\r\nEarly version was intimidating and asked too much at once\r\nThe first version had problems, Ipeirotis says. Some students complained about the agent's stern tone. The professors had cloned a colleague's voice, but students found it \"intense\" and \"condescending.\" One student emailed that \"the agent was shouting at me.\"\r\n\r\nOther issues: The agent asked multiple questions at once, paraphrased instead of repeating verbatim when asked, and jumped in too quickly during pauses.\r\n\r\nRandomization was especially tricky. When asked to \"randomly\" select a case, the agent chose Zillow 88 percent of the time. After removing it from the prompt, the agent landed on \"predictive policing\" in 16 out of 21 tests the next day.\r\n\r\n\"Asking an LLM to 'pick randomly' is like asking a human to 'think of a number between 1 and 10'\u2014you're going to get a lot of 7s,\" Ipeirotis says. He's describing a well-documented phenomenon that ultimately stems from human bias in the training data.\r\nA panel of three AI models did the grading\r\nGrading followed Andrej Karpathy's \"Council of LLMs\" approach. Three models, Claude, Gemini, and ChatGPT, first rated each transcript independently, then reviewed each other's ratings and revised their assessments.\r\n\r\nInitial agreement was poor: Gemini averaged 17 out of 20 points, Claude just 13.4. After the built-in LLM consultation step, 60 percent of ratings fell within one point, according to the provided graphic; 29 percent matched exactly. Gemini dropped its scores by an average of two points after seeing Claude's criticism of specific gaps.\r\n\r\n[caption id=\"attachment_30633\" align=\"alignnone\" width=\"1568\"] The three LLM graders agreed 100 percent within one point on Problem Framing and Metrics, but only 57 percent on Experimentation. | Image: Ipeirotis et al.[\/caption]\r\n\r\nThe AI-generated feedback outperformed human graders, Ipeirotis says: structured summaries of strengths and weaknesses with verbatim quotes from the exam.\r\n\r\nThe topic-by-topic analysis also exposed gaps in the teaching itself. On \"Experimentation,\" students averaged just 1.94 out of 4 points, compared to 3.39 for \"Problem Framing.\" Three students couldn't discuss the topic at all, and none scored full marks. Ipeirotis admits the course neglected A\/B testing methodology. \"The external grader made it impossible to ignore,\" he says.\r\n\r\nAnother finding: exam length didn't correlate with grades. The shortest exam, at nine minutes, earned the highest score. The longest, at 64 minutes, produced a mediocre grade.\r\nStudents found AI exams stressful but fair\r\nA student survey showed mixed reactions. Only 13 percent preferred the AI format, with twice as many favoring a human oral examiner. 83 percent found the AI exam more stressful than written tests. But about 70 percent agreed it tested their actual understanding, the highest-rated item in the survey.\r\n\r\n[caption id=\"attachment_30634\" align=\"alignnone\" width=\"1600\"] 83 percent of students found the AI exam more stressful, but 70 percent confirmed it tested their actual understanding. | Image: Ipeirotis et al.[\/caption]\r\n\r\nOral exams were standard until they stopped scaling, Ipeirotis summarizes. AI makes them practical again. One advantage over traditional exams: students can practice with the setup since questions are generated fresh each time. Leaked exam questions are no longer a problem.\r\n\r\nIpeirotis has published the prompts for the voice agent and the grading panel, along with a link to try the agent yourself.",
+ "isAccessibleForFree": "False",
+ "hasPart": {
+ "@type": "WebPageElement",
+ "isAccessibleForFree": "False",
+ "cssSelector": ".paywall-active"
+ }
+ }
+ 
+ 
+ 
+ 
+
+ 
+
+ -->
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+AI news without the hype
+Curated by humans.
+
+ 
+ - Over 20 percent launch discount.
+
+ - Read without distractions – no Google ads.
+
+ - Access to comments and community discussions.
+
+ - Weekly AI newsletter.
+
+ - 6 times a year: “AI Radar” – deep dives on key AI topics.
+
+ - Up to 25 % off on KI Pro online events.
+
+ - Access to our full ten-year archive.
+
+ - Get the latest AI news from The Decoder.
+
+ 
+ 
+ Subscribe to The Decoder 
+ 
+ 
+ 
+
+ 
+ -->

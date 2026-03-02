@@ -1,0 +1,131 @@
+Ong on the Differences between Orality and Literacy
+https://newlearningonline.com/literacies/chapter-1/ong-on-the-differences-between-orality-and-literacy
+
+Elle's notes:
+Farnam StreetPlato's Argument Against WritingThe people who invent something new, create a new tool or technology are not necessarily the people who are going to understand what the social impact of those inventions are going to be.Written byShaneEst. reading time2 minutesFeb 4th, 2013https://fs.blog/an-old-argument-against-writing/ailog.blogA Phaedrus MomentIf Socrates was right, what do we make of Claude?https://www.ailog.blog/p/a-phaedrus-moment[7:47 AM]Walter Ong's seminal 1982 work identifies how oral cultures structure knowledge differently than literate ones. Oral thought is: (1) additive (stringing clauses with "and"), (2) aggregative (preferring "brave soldier" to "soldier"), (3) redundant (repeating for memory), (4) conservative ("wise elders" preserve knowledge), and (5) close to lived experience (situational rather than abstract). Writing "frees the mind of conservative tasks... and thus enables the mind to turn itself to new speculation." But writing also "imposes strain on the psyche" by forcing "sparsely linear or analytic thought"—an "artificial creation" compared to oral redundancy's naturalness.
+
+Harvard relevance: Ong shows that orality and literacy are fundamentally different cognitive modes, not just delivery mechanisms. This matters for assessment design: written exams test ability to produce "sparsely linear analytic thought"—which AI excels at. Oral exams test ability to engage in "additive, aggregative, redundant" real-time dialogue—which AI struggles with (requires context-switching, spontaneity, defending claims under pressure). Ong's framework also explains why students find oral exams harder: they can't backloop into a text to retrieve context; they must hold knowledge "in the mind" and deploy it responsively. This is precisely what makes oral assessment pedagogically valuable—it tests internalized understanding, not externalized retrieval.
+
+--
+
+Ong on the Differences between Orality and Literacy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Walter Ong characterises the main differences between the languages of oral and literate cultures in these terms:
+ 
+ [It] is possible to generalize somewhat about the psychodynamics of primary oral cultures, that is, of oral cultures untouched by writing. … Fully literate persons can only with great difficulty imagine what a primary oral culture is like, that is, a culture with no knowledge whatsoever of writing or even of the possibility of writing. Try to imagine a culture where no one has ever ‘looked up’ anything. In a primary oral culture, the expression ‘to look up something’ is an empty phrase: it would have no conceivable meaning. Without writing, words as such have no visual presence, even when the objects they represent are visual. They are sounds. You might ‘call’ them back—’recall’ them. But there is nowhere to ‘look’ for them. They have no focus and no trace (a visual metaphor, showing dependency on writing), not even a trajectory. They are occurrences, events.
+
+ 
+ 
+
+ 
+ In a primary oral culture, thought and expression tend to be of the following sorts.
+
+ 
+ (i) Additive rather than subordinate
+
+ 
+ A familiar instance of additive oral style is the creation narrative in Genesis 1:1-5, which is indeed a text but one preserving recognizable oral patterning. The Douay version (1610), produced in a culture with a still massive oral residue, keeps close in many ways to the additive Hebrew original … :
+
+ 
+ In the beginning God created heaven and earth. And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters. And God said: Be light made. And light was made. And God saw the light that it was good; and he divided the light from the darkness. And he called the light Day, and the darkness Night; and there was evening and morning one day.
+
+ 
+ Nine introductory ‘ands’. Adjusted to sensibilities shaped more by writing and print, the New American Bible (1970) translates:
+
+ 
+ In the beginning, when God created the heavens and the earth, the earth was a formless wasteland, and darkness covered the abyss, while a mighty wind swept over the waters. Then God said, ‘Let there be light’, and there was light. God saw how good the light was. God then separated the light from the darkness. God called the light ‘day’ and the darkness he called ‘night’. Thus evening came, and morning followed – the first day.
+
+ 
+ Two introductory ‘ands’, each submerged in a compound sentence. The Douay renders the Hebrew we or wa (‘and’) simply as ‘and’. The New American renders it ‘and’, ‘when’, ‘then’, ‘thus’, or ‘while’ to provide a flow of narration with the analytic, reasoned subordination that characterizes writing (Chafe 1982) and that appears more natural in twentieth-century texts. … Written discourse develops more elaborate and fixed grammar than oral discourse does because to provide meaning it is more dependent simply upon linguistic structure, since it lacks the normal full existential contexts which surround oral discourse and help determine meaning in oral discourse somewhat independently of grammar. …
+
+ 
+ (ii) Aggregative rather than analytic
+
+ 
+ This characteristic is closely tied to reliance on formulas to implement memory. The elements of orally based thought and expression tend to be not so much simple integers as clusters of integers, such as parallel terms or phrases or clauses, antithetical terms or phrases or clauses, epithets. Oral folk prefer, especially in formal discourse, not the soldier, but the brave soldier; not the princess, but the beautiful princess; not the oak, but the sturdy oak. Oral expression thus carries a load of epithets and other formulary baggage which high literacy rejects as cumbersome and tiresomely redundant because of its aggregative weight (Ong 1977, pp. 188-212). …
+
+ 
+ (iii) Redundant or ‘copious’
+
+ 
+ Thought requires some sort of continuity. Writing establishes in the text a ‘line’ of continuity outside the mind. If distraction confuses or obliterates from the mind the context out of which emerges the material I am now reading, the context can be retrieved by glancing back over the text selectively. Backlooping can be entirely occasional, purely ad hoc. The mind concentrates its own energies on moving ahead because what it backloops into lies quiescent outside itself, always available piecemeal on the inscribed page. In oral discourse, the situation is different. There is nothing to backloop into outside the mind, for the oral utterance has vanished as soon as it is uttered. Hence the mind must move ahead more slowly, keeping close to the focus of attention much of what it has already dealt with. Redundancy, repetition of the just-said, keeps both speaker and hearer surely on the track.
+
+ 
+ Since redundancy characterizes oral thought and speech, it is in a profound sense more natural to thought and speech than is sparse linearity. Sparsely linear or analytic thought and speech is an artificial creation, structured by the technology of writing. Eliminating redundancy on a significant scale demands a time-obviating technology, writing, which imposes some kind of strain on the psyche in preventing expression from falling into its more natural patterns. The psyche can manage the strain in part because handwriting is physically such a slow process—typically about one-tenth of the speed of oral speech (Chafe 1982). With writing, the mind is forced into a slowed-down pattern that affords it the opportunity to interfere with and reorganize its more normal, redundant processes. …
+
+ 
+ (iv) Conservative or traditionalist
+
+ 
+ Since in a primary oral culture conceptualized knowledge that is not repeated aloud soon vanishes, oral societies must invest great energy, in saying over and over again what has been learned arduously over the ages. This need establishes a highly traditionalist or conservative set of mind that with good reason inhibits intellectual experimentation. Knowledge is hard to come by and precious, and society regards highly those wise old men and women who specialize in conserving it, who know and can tell the stories of the days of old. By storing knowledge outside the mind, writing and, even more, print downgrade the figures of the wise old man and the wise old woman, repeaters of the past, in favor of younger discoverers of something new.
+
+ 
+ Writing is of course conservative in its own ways. Shortly after it first appeared, it served to freeze legal codes in early Sumeria. But by taking conservative functions on itself, the text frees the mind of conservative tasks, that is, of its memory work, and thus enables the mind to turn itself to new speculation (Havelock 1963, pp. 254-305). Indeed, the residual orality of a given chirographic culture can be calculated to a degree from the mnemonic load it leaves on the mind, that is, from the amount of memorization the culture’s educational procedures require (Goody 1968a, pp. 13-14). …
+
+ 
+ (v) Close to the human lifeworld
+
+ 
+ In the absence of elaborate analytic categories that depend on writing to structure knowledge at a distance from lived experience, oral cultures must conceptualize and verbalize all their knowledge with more or less close reference to the human lifeworld, assimilating the alien, objective world to the mort immediate, familiar interaction of human beings. A chirographic (writing) culture and even more a typographic (print) culture can distance and in a way denature even the human itemizing such things as the names of leaders and political divisions in an abstract, neutral list entirely devoid of a human action context. An oral culture has no vehicle so neutral as a list. …
+
+ 
+ (vi) Agonistically toned
+
+ 
+ Many, if not all, oral or residually oral cultures strike literates as extraordinarily agonistic in their verbal performance and indeed in their lifestyle. Writing fosters abstractions that disengage knowledge from the arena where human beings struggle with one another. It separates the knower from the known. By keeping knowledge embedded in the human lifeworld, orality situates knowledge within a context of struggle. Proverbs and riddles are not used simply to store knowledge but to engage others in verbal and intellectual combat: utterance of one proverb or riddle challenges hearers to top it with a more apposite or a contradictory one (Abrahams 1968; 1972). …
+
+ 
+ (vii) Empathetic and participatory rather than objectively distanced
+
+ 
+ For an oral culture learning or knowing means achieving close, empathetic, communal identification with the known (Havelock 1963, pp. 145-6), ‘getting with it’. Writing separates the knower from the known and thus sets up conditions for ‘objectivity’, in the sense of personal disengagement or distancing. …
+
+ 
+ (viii) Homeostatic
+
+ 
+ By contrast with literate societies, oral societies can be characterized as homeostatic (Goody and Watt 1968, pp. 31-4). That  is to say, oral societies live very much in a present which keeps  itself in equilibrium or homeostasis by sloughing off memories which no longer have present relevance. … Print cultures have invented dictionaries in which the various meanings of a word as it occurs in datable texts can be recorded in formal definitions. Words thus are known to have layers of meaning, many of them quite irrelevant to ordinary present meanings. Dictionaries advertise semantic discrepancies.
+
+ 
+ Oral cultures of course have no dictionaries and few semantic disagreements. The meaning of each word is controlled By what Goody and Watt (1968, p. 29) call ‘direct semantic ratification’, that is, by the real-life situations in which the word is used here and now. The oral mind is uninterested in definitions (Luria 1976, pp. 48-99). Words acquire their meanings only from their always insistent actual habitat, which is not, as in a dictionary, simply other words, but includes also gestures, vocal inflections, facial expression, and the entire human, existential setting in which the real, spoken word always occurs. Word meanings come continuously out of the present … .
+
+ 
+ (ix) Situational rather than abstract
+
+ 
+ All conceptual thinking is to a degree abstract. So ‘concrete’ a term as ‘tree’ does not refer simply to a singular ‘concrete’ tree but is an abstraction, drawn out of, away from, individual, sensible actuality; it refers to a concept which is neither this tree nor that tree but can apply to any tree. Each individual object that we style a tree is truly ‘concrete’, simply itself, not ‘abstract’ at all, but the term we apply to the individual object is in itself abstract. Nevertheless, if all conceptual thinking is thus to some degree abstract, some uses of concepts are more abstract than other uses. Oral cultures tend to use concepts in situational, operational frames of reference that are minimally abstract in the sense that they remain close to the living human lifeworld.
+
+ 
+ 
+ Ong, Walter J. 1982. Orality and Literacy: The Technologizing of the Word. London: Methuen, pp.31, 37-49. || Amazon || WorldCat

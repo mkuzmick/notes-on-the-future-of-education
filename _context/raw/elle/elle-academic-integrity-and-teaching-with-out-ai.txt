@@ -1,0 +1,129 @@
+Academic Integrity and Teaching With(out) AI
+https://oaisc.fas.harvard.edu/academic-integrity-and-teaching-without-ai/
+
+Elle's notes:
+Harvard FAS has published guidance for faculty both encouraging and discouraging AI use. For faculty who wish to verify learning despite AI availability, the office explicitly recommends "Oral Defenses: Use oral presentations to evaluate comprehension, allowing students to explain their process, including AI application." The guidance positions oral assessment as a way to evaluate not just content knowledge but metacognitive understanding — students must articulate their thinking process, decision-making, and how they used (or didn't use) AI tools.
+
+Harvard relevance: This is internal Harvard guidance, which means there's already institutional recognition of oral assessment as a viable response to AI anxieties. The framing is sophisticated: oral defenses aren't just "AI-proof" verification tools, but pedagogically valuable opportunities for students to demonstrate higher-order thinking. The challenge: how to scale this beyond graduate thesis defenses into undergraduate coursework. Worth exploring what FAS courses have actually implemented this, and what happened.
+
+--
+
+Resources for course design in the age of AI.
+
+Artificial intelligence presents a dual-edged sword. On one hand, it offers unprecedented opportunities for pedagogical innovation, enabling personalized learning experiences, automating administrative tasks, and facilitating advanced data analysis. On the other hand, the integration of AI in academic settings raises pressing concerns about academic integrity, as these powerful tools can sometimes undermine the authenticity of student work and blur the lines of original thought. The list of resources below provides resources and strategies tailored for faculty members who either encourage or discourage the use of AI in their classes. By focusing on maintaining academic integrity, these resources and strategies can help faculty navigate the integration or exclusion of AI in a way that reinforces academic integrity, caters to their teaching philosophy, and addresses students’ ethical development.
+
+In addition to the resources below, you may also want to view the list of resources for instructors regarding appropriate use of generative AI in courses compiled by the Office of Undergraduate Education, the Bok Center’s resources for teaching with AI, the metaLAB’s  AI Pedagogy Project, the Teaching at FAS website’s list of resources for designing and teaching courses, Generative AI @ Harvard resources to faculty and resources for students, as well as the University guidelines on the use and procurement of AI tools.
+
+Faculty with questions about academic integrity may contact Qussay Al-Attabi, Assistant Dean for Academic Integrity and Secretary of the Harvard College Honor Council.
+
+On This Page:
+
+Resources for Faculty Encouraging AI Use in Their Courses
+
+Resources for Faculty Discouraging AI Use in Their Courses
+
+BACK TO RESOURCES OVERVIEW
+
+Resources for Faculty Encouraging AI Use in Their Courses
+
+Artificial intelligence may be used as a powerful catalyst for pedagogical innovation, offering novel ways to enhance learning and engage students. However, alongside its promising opportunities, AI also introduces significant challenges, particularly concerning academic integrity. As educators, it is crucial to maintain a vigilant approach, thoughtfully integrating AI into course design and instruction. This ensures that we harness its potential while upholding the principles of honesty, fairness, and ethical conduct. By remaining mindful of these considerations, instructors can create enriching educational experiences that respect the integrity of the academic environment. If you intend to integrate AI into your courses, we hope that you find the following resources helpful.
+
+Course Design
+
+- Understand AI Tools: Stay informed about the latest AI applications relevant to your field. Resources like AI literacy workshops and toolkits can be invaluable.
+
+- Design with AI in Mind: Develop assignments that promote critical thinking and creativity, encouraging students to use AI for idea generation or problem-solving.
+
+- Case Studies on AI: Integrate case studies discussing ethical AI use, helping students understand both potential benefits and pitfalls.
+
+- Collaborative Projects: Use projects that leverage AI tools for collaboration, teaching students how to use these tools responsibly.
+
+Syllabus Structure
+
+- Explicit AI Guidelines: Clearly define how AI can be used in the course syllabus. Include examples of acceptable AI applications, such as data analysis or language translation tools.
+
+- Ethical AI Use Statement: Offer a detailed statement on ethical AI use, reinforcing integrity while encouraging experimentation within set boundaries.
+
+- Resource Provision: Provide students with a well-curated list of AI tools that can support their learning, along with guidelines for their ethical use.
+
+Assignments
+
+- Integration of AI Tasks: Create assignments that involve AI tools, tasking students with evaluating AI-generated outputs or improving on them.
+
+- Reflective AI Use Journals: Ask students to maintain a journal documenting how they utilized AI throughout the course, underscoring ethical considerations.
+
+- Scaffolded Assignments: Design multi-part assignments where AI can be used for specific stages, but not others, providing a balanced approach to technology use.
+
+Assessments
+
+- AI-Enhanced Projects: Encourage the creation of projects that include AI components, emphasizing innovation and ethical tool use in assessments.
+
+- Oral Defenses: Use oral presentations to evaluate comprehension, allowing students to explain their process, including AI application.
+
+- Ethical Use Evaluations: Have students submit a section with their assignments where they outline how AI assisted their work, focusing on ethics.
+
+Classroom Practices
+
+- AI Literacy Promotion: Offer sessions on AI functionality and ethical use, empowering students to use technology responsibly.
+
+- Peer Review Focus: Structure peer reviews to critique both the technical and ethical aspects of AI use in projects.
+
+Feedback and Reflection
+
+- Frequent Feedback: Provide regular feedback on AI usage, helping students refine their skills and understanding of appropriate applications.
+
+- Self-Assessment: Incorporate self-assessment tools that encourage students to reflect on their ethical use of AI.
+
+- Ethical Debates: Facilitate debates on AI’s role in specific disciplines, fostering a nuanced understanding of its ethical implications.
+
+Resources for Faculty Discouraging AI Use in Their Courses
+
+From an academic integrity perspective, prohibiting AI use in course requires careful consideration of several critical factors. The challenge lies not merely in the existence of AI technology, but in its widespread presence, sophisticated capabilities, and the ease with which it can be accessed and used. Faculty who wish to prevent their students from using AI tools must be especially deliberate in their approach to course design, ensuring that both requirements and assessments are structured in a way that intrinsically discourages the misuse of AI. This might include creating assignments that require unique, personalized responses or demonstrating processes that AI cannot easily replicate. Clear communication of expectations and the reasons behind AI restrictions can also help cultivate an understanding of the importance of independent learning. Additionally, implementing assessments that focus on critical thinking and problem-solving skills can effectively uphold the integrity of the educational process. By being intentional in approaching restricting or banning AI in their courses, instructors can foster a learning environment that prioritizes authenticity and academic honesty, even in the face of advancing technology. If you plan to restrict or prohibit the use of AI in your courses, we hope that you find the following resources helpful.
+
+Course Design
+
+- AI-Free Design: Structure courses with assignments based on personal reflection, problem-solving, or hands-on experiences that AI finds challenging to replicate.
+
+- Ethics Discussion: Include modules on the importance of developing skills without AI aid, focusing on personal growth and ethical implications.
+
+- Originality Emphasis: Design tasks that require creativity and personal insight, making AI assistance less viable.
+
+Syllabus Structure
+
+- Strict AI Policies: Clearly prohibit AI tools’ use in your syllabus and explain the specific risks associated with AI dependability.
+
+- Definition of Misuse: Provide students with clear examples of what constitutes AI misuse in coursework.
+
+- Integrity Pledge: Ask students to sign an academic integrity pledge specifically stating they won’t use AI.
+
+Assignments
+
+- Original Thought Assignments: Develop assignments requiring unique perspectives, such as diaries, journals, or case study reflections.
+
+- Process Explanation: Require students to submit process documentation, detailing their steps from idea conception to completion.
+
+- Frequent Drafts: Implement a drafting process where students submit progressive drafts, highlighting their developmental journey.
+
+Assessments
+
+- Controlled Assessment Environments: Conduct in-person assessments where AI assistance is untenable, such as written tests under strict supervision.
+
+- Interactive Assessments: Use methods that test students’ on-the-spot thinking, like simulations or problem-solving sessions.
+
+- Critical Justification Essays: Include essay portions in exams where students justify their reasoning or solutions, focusing on individual logic.
+
+Classroom Practices
+
+- Integrity Workshops: Host workshops on the value of academic integrity and the expected skills beyond academia that require independent thinking.
+
+- Scenario-Based Learning: Use scenarios that challenge students to solve problems without technology, demonstrating real-world application.
+
+- Role Play Exercises: Engage in activities that emphasize communication, negotiation, and reasoning skills without AI assistance.
+
+Feedback and Reflection
+
+- Reflective Writing: Encourage reflective writing assignments focusing on learning processes and personal contributions without AI.
+
+- Peer Feedback: Use peer feedback sessions to help students learn from one another’s methods, focusing on human-driven insights.
+
+- Ethical Reflection Sessions: Incorporate sessions where students can discuss their thoughts on academic integrity and the temptations of AI use.

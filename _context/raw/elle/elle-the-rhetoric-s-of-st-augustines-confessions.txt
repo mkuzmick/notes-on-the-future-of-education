@@ -1,0 +1,43 @@
+The Rhetoric(s) of St. Augustine's Confessions
+https://scholars.unh.edu/cgi/viewcontent.cgi?article=1002&context=comm_facpub
+
+Elle's notes:
+Augustine's Confessions (397 CE) documents his rhetorical education in Carthage, Rome, and Milan—the standard late-Roman curriculum that trained young men for public life through intensive oral training. Augustine studied and taught rhetoric for 15+ years before converting to Christianity. His training included: declamation (public speaking exercises), controversiae (arguing both sides of a legal case orally), and suasoriae (persuasive speeches on historical scenarios). The curriculum explicitly prepared students for careers requiring oral eloquence: law courts, political assemblies, imperial administration. Augustine's eventual rejection of rhetoric (Book 3) wasn't because oral training failed pedagogically—it was because he believed it taught persuasion without truth. His critique targets the ethics of rhetoric, not its effectiveness.
+
+Harvard relevance: Augustine's account shows that late antique higher education was fundamentally oral. Law, politics, and intellectual life all required verbal mastery—hence the intensive training in declamation and oral argument. When we ask "should Harvard assess orally?", Augustine's Rome answers: of course—how else would you verify readiness for public life? The liberal arts (artes liberales) were called "liberal" because they prepared free citizens for civic participation, which was performative and oral (assemblies, courts, senates). The shift to written assessment represents a modern departure from 2,000 years of educational tradition. Augustine's eventual turn to Christianity didn't abandon oral pedagogy—he became one of history's greatest preachers, using rhetoric for evangelism. The skills rhetoric taught (persuasion, audience analysis, real-time adaptation) were transferable; only the purpose changed.
+
+--
+
+window.awsWafCookieDomainList = [];
+ window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AE+6z/A/10hiC3B4XY1NKXdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMYHGyOdR6Zl5qozUnAgEQgDtnQPBSw6BPvFrZprElvhK4esvfLGBYzH4QbLANLC4o8pjBY5I4Qtp9vFylzQniQ3F3Th5Z183N7HDuOQ==",
+ "iv":"CgAGETdzlQAABf6N",
+ "context":"BYx8p6lQNW2hJhqCryZ4o8c300cWhubzBPj2XLfhLDdd03JVdRw5AKGd6tIVN3leyByAiKkilFLZX2Osrevl4zFNE/dpLCEbWMvXbNhLGgM2F3jp5HRPJrsQoYj/vU9qCcEtX7nRlQ81mLYfG9egusH9TrCXbr5JU1DgC3DeWuFX3G1v6LLJroONMrj3f3QM/nvY18RG+O3j0muqErTEcM864bKSHM7jh1yN4NY17l9HF13ujXzjA7Rk55ts3tYitUhpg3TOtPl8odbQ/At75mxkeB7saSG/EAYt3fGZ13IQwDsTDeG7tOn1hzjk630JN3m545JRDu1Mo4k/J5j6Y9oXEkR2aoKb3fbu1Ky53qASEXFxyF8JiHFJ"
+};
+ 
+ 
+
+ 
+ 
+ AwsWafIntegration.saveReferrer();
+ AwsWafIntegration.checkForceRefresh().then((forceRefresh) => {
+ if (forceRefresh) {
+ AwsWafIntegration.forceRefreshToken().then(() => {
+ window.location.reload(true);
+ });
+ } else {
+ AwsWafIntegration.getToken().then(() => {
+ window.location.reload(true);
+ });
+ }
+ });
+ 
+ 
+ 
+
+JavaScript is disabled
+
+ In order to continue, we need to verify that you're not a robot.
+ This requires JavaScript. Enable JavaScript and then reload the page.
+ 
+BPBootstrap.init({appendCookie:''})

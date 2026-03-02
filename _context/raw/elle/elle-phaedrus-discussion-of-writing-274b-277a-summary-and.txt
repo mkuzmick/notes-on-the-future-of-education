@@ -1,0 +1,42 @@
+Phaedrus Discussion of Writing: 274b-277a Summary and Analysis
+https://www.gradesaver.com/phaedrus/study-guide/summary-discussion-of-writing-274b-277a
+
+Elle's notes:
+GradeSaver
+Key insight: Writing is "dead speech" with three fatal limitations: (1) it "continues to signify just the same thing forever," (2) it cannot distinguish appropriate from inappropriate audiences, (3) it "always needs the support of its writer" because "alone, it can neither defend itself nor come to its own support." But Socrates admits writing has a "legitimate brother"—"the living, breathing discourse of a man who knows."
+
+--
+
+The dialogue now turns to a discussion of writing: “What feature makes writing good, and what inept (274b)? Socrates begins by telling the story of Theuth. 
+
+Among the ancient Egyptian gods, there was one called Theuth who discovered “number and calculation, geometry and astronomy, as well as the games of draughts and dice, and above all else, writing” (274d). One day, Theuth visited Thamus, King of Egypt, urging him to disseminate the arts around Egypt. For each art that Theuth presented, Thamus offered his praise and criticism. When it came to writing, Theuth said: 
+
+O King, here is something that, once learned, will make the Egyptians wiser and will improve their memory; I have discovered a potion for memory and for wisdom. (274e)
+
+ But Thamus replied that, as the “father of writing,” Theuth’s affection for writing had kept him from acknowledging the truth about writing. In fact, Thamus asserted, writing increases forgetfulness rather than memory. Instead of internalizing and understanding things, students will rely on writing as a potion for reminding. Moreover, students will be exposed to many ideas without properly thinking about them. Thus, they will have an “appearance of wisdom” while “for the most part they will know nothing” (275a-b).
+
+Phaedrus protests that Socrates has invented the story haphazardly. But Socrates retorts that the “priests at the temple of Zeus at Dodona say that the first prophecies were the words of an oak” (275b). What difference does the origin of a story make, so long as it tells the truth? In light of this argument, Phaedrus retracts his criticism and agrees that Thamus spoke correctly about writing. 
+
+How is it possible, then, that a book on the art of rhetoric can possibly “yield results that are clear or certain?” (275c). How could rhetoricians possibly believe that their writing “can do more than remind those who already know what the writing is about?” (275d). Socrates points out several related problems inherent to writing. (1) Like painting, it has no understanding of itself and “continues to signify just the same thing forever” (275d-e). (2) It does not discern between appropriate and inappropriate audiences. (3) It always needs the support of its writer (or “father”); for “alone, it can neither defend itself nor come to its own support” (275e).
+
+Socrates and Phaedrus agree, however, that such discourse also has a “legitimate brother”—namely “the living, breathing discourse of a man who knows, of which the written one can be fairly called an image” (276a). Socrates compares a noble writer to a farmer who sows gardens of letters for his own amusement. Later in life, he will have plenty of “reminders” for himself. Moreover, his followers will also be able to appreciate these reminders in bloom. Socrates concludes by once again praising dialectic: 
+
+The dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows . . . Such discourse makes the seed forever immortal and renders the man who has it as happy as any human being can be. (277a)
+
+ This concludes the discussion of writing.
+
+Analysis
+
+Phaedrus’s initial response to Socrates’ story of Theuth contains an implicit but grave accusation of sophistry. Has Socrates not simply made up a myth to bolster his own ideas about writing? Rather than sidestep the accusation by resorting to the “empty jar” argument, Socrates proposes an entirely new line of reasoning (cf. 235d). So long as a document or speech contains the truth, he claims, the source does not matter. Although Phaedrus accepts this claim immediately, it remains unclear how Socrates gained the knowledge contained in the myth of Theuth and Thamus.
+
+The myth itself suggests the ambiguity of social consequences that was introduced by the technology of writing. On the one hand, Theuth claims that writing serves as an instrument to improve memory and wisdom; on the other hand, Thamus believes that people will rely too much on writing and consequently lose memory and wisdom. Insofar as both beneficial and harmful qualities are ascribed to writing, Plato’s reference to writing as a pharmakon is appropriate. Earlier, Socrates referred to the copy of Lysias’s speech using the same word—“potion” in ancient Greek, which can refer either to a medicine or poison. Writing, like rhetoric and like administering potions, appears to be a neutral art, one that can turn out either well or badly depending on the content and the audience. 
+
+Socrates proceeds to emphasize the negative side of the pharmakon that is writing. The essential problem of writing is that it is a dead kind of speech. Unlike living, breathing discourse, writing can neither change its argument nor respond to criticism. Writing also lacks the ability to distinguish between audiences—an important skill that Socrates requires of proper dialecticians (cf. 271b). Writing cannot direct the souls of readers in a proper fashion; metaphorically, it requires a “father” for guidance and support. 
+
+The key notion here, however, is that some writing can embody dialectic and thus become a “legitimate” child that does not require the father’s presence. Which writing embodies universal knowledge for a universal audience? Or does Socrates mean the opposite—that the knowledge and the audience are so specific that they include only the philosopher himself (and perhaps his trusted friends and students), so that the writing must be for amusement and to trigger memory?
+
+In between the universal audience and the individual audience, Socrates and Phaedrus have focused on the public nature of rhetoric. In a courtroom or in the political arena, rhetoric moves audiences. It directs souls. For this reason, Socrates deems sophistry particularly dangerous, which is why noble rhetoricians and dialecticians must know the souls of their audiences and use the correct manner and content of speech. Writing, then, faces an impossible task if it is engaged in the business of persuading souls: no matter how much knowledge and truth it contains, no argument can be free of the potential to harm or misguide an audience. Besides, casual readers will read philosophy in order to learn about philosophy rather than to actually think philosophically, and a little such knowledge can be a dangerous thing--just as a little book-knowledge of rhetoric or of potions can turn deadly. 
+
+But if the philosophical writing is fundamentally private in nature—for the philosopher’s own amusement, or for his close friends or students—then its potential for harm is largely overcome. Such writing may not be intended to move others, though others may eventually find amusement in it themselves. Is even this kind of writing possible? How can the writer ensure that the writing never gets into the wrong hands, where it could be misunderstood? 
+
+The idea that writing is safest and most effective when it is shared privately is an idea that returns us to the relationship between the young student and the non-loving teacher. In this private relationship, ideas can be exchanged intimately between souls—most of all through words, and secondarily through writing—in an environment where neither party intends to deceive the other for the sake of love or some other passion, but both engage together in the philosophical pursuit of truth—and where their rhetoric does not depend on knowing all types of souls, but only each other’s.

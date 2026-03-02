@@ -1,0 +1,305 @@
+Northwestern students and professors navigate confusion, opportunity with generative AI
+https://dailynorthwestern.com/2025/05/20/campus/northwestern-students-and-professors-navigate-confusion-opportunity-with-generative-ai/
+
+Elle's notes:
+Northwestern's student newspaper (November 2025) reported that "departments and individual professors generally have broad discretion to implement their own AI policies." The result: students and faculty simultaneously experiencing "confusion" and "opportunity." Northwestern's Library Guide states: "Unauthorized use of ChatGPT or other Generative AI tools is considered cheating and/or plagiarism"—but what constitutes "authorized" varies by course. Multiple universities including Northwestern advised faculty not to rely on Turnitin's AI detection (Educators Technology, February 2026) because accuracy was "too low." Result: each professor decides independently, creating the same "grey zone" problem documented at Yale (Cycle 2) and McGill (Cycle 3).
+The Daily NorthwesternNU students, professors navigate generative AI useAlthough artificial intelligence tools like ChatGPT have become a staple in many Northwestern students’ study routines, students and faculty are simultaneously adapting to the implications of generative AI use for academic norms and student learning. Across NU, departments and individual professors generally have broad discretion to implement their own AI policies. The University provides guidance...Written byJenny Jang, ReporterEst. reading time4 minutesMay 20th, 2025https://dailynorthwestern.com/2025/05/20/campus/northwestern-students-and-professors-navigate-confusion-opportunity-with-generative-ai/[12:32 PM]Harvard relevance: Northwestern represents the default trajectory for elite US universities without coherent policy—faculty autonomy creates inconsistency, students navigate confusion, AI detection is abandoned as unreliable. This is where Harvard currently sits. Northwestern's experience validates what Cycles 2-3 documented: decentralized decision-making burdens faculty (must become AI policy experts) and confuses students (different rules per course). The "opportunity" language is important—some Northwestern professors embrace AI for productivity; others ban it for integrity. Without institutional guidance (like NUS/UBC), this tension is unresolved. The Turnitin abandonment is also significant: technical AI detection has failed—the only remaining options are honor codes (Haverford model, fragile) or assessment redesign (oral exams, structural).
+
+--
+
+Advertisement broadstreet.zone(69306);
+ 
+ 
+ 
+
+ 
+ Latest Stories
+ 
+
+McSA Wildcat Iftar Banquet draws over 250 attendees for Ramadan celebration March 2, 2026African Student Association’s Jabulani closes Black History Month in ‘Timeless’ celebration March 2, 2026‘Another forever war’: Local Democrats condemn U.S. military attacks in Iran March 2, 2026 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Trending Stories 
+
+ 
+ 
+ 
+
+17 ViewsNorthwestern sees uptick in hate crimes, other trends in yearly security report Ryan Ottignon, Reporter • October 6, 202527 ViewsCaptured: Men’s Wrestling team falls to Illinois 44-3 Gianna Liu, Reporter • February 15, 202636 ViewsCaptured: Men’s Tennis struggles to defeat Denver 4-3 Cydney Waterman, Reporter • February 22, 2026 
+ 
+
+ 
+ 
+ 
+
+ Email Newsletter(function() {
+ window.mc4wp = window.mc4wp || {
+ listeners: [],
+ forms: {
+ on: function(evt, cb) {
+ window.mc4wp.listeners.push(
+ {
+ event : evt,
+ callback: cb
+ }
+ );
+ }
+ }
+ }
+})();
+Sign up to receive our email newsletter in your inbox.
+
+
+
+
+
+
+
+
+
+Leave this field empty if you're human: 
+ 
+ 
+ 
+
+ 
+ Advertisement 
+
+ 
+
+ 
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({});
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ Advertisement 
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({});
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ Northwestern students and professors navigate confusion, opportunity with generative AI
+
+ 
+ 
+ Illustration by Clare Kirwan Across the University, departments and individual professors generally have broad discretion to implement their own AI policies. 
+ 
+
+ 
+ Jenny Jang, Reporter 
+
+May 20, 2025
+
+ 
+ 
+Although artificial intelligence tools like ChatGPT have become a staple in many Northwestern students’ study routines, students and faculty are simultaneously adapting to the implications of generative AI use for academic norms and student learning.
+
+Across NU, departments and individual professors generally have broad discretion to implement their own AI policies. The University provides guidance to professors for considering the use of AI, and the Office of the Provost does not add specific restrictions. 
+
+At the same time, AI use in the classroom is rapidly evolving. ChatGPT launched in 2022, and 66% of worldwide college students reported using it in a mid-2024 study conducted by the Digital Education Council.
+
+But for Weinberg freshman Aanya Sahu, generative AI has become a topic of uncertainty on campus.
+
+Some instructors encourage limited use with proper citation while others ban it outright. With varying policies across departments and specific classes, Sahu said students are left to navigate an ambiguous set of expectations.
+
+Sahu emphasized that the confusion extends beyond individual classes to broader academic norms.
+
+“Personally, the rules regarding AI are confusing,” she said.
+
+For others, including McCormick freshman Alice Ping, who studies electrical engineering, generative AI has become a valuable academic resource for them.
+
+Ping said she primarily uses AI to gather preliminary research and walk through difficult problems. In her experience, STEM students often use AI for problem-solving assistance, while humanities majors tend to leverage it more for summarizing readings or generating writing ideas, she said.
+
+“I think AI is going to be a huge asset for STEM majors in the future — not just as a STEM major but as a personalized tutor,” Ping said. “It’s already helping people learn faster and more independently, and I can see it becoming almost like a second brain for working through complex concepts.”
+
+Despite the changing landscape of academic norms surrounding AI, both Ping and Sahu said that AI, when used thoughtfully, offers real benefits.
+
+Sahu said she used to use AI frequently for tasks varying from drafting emails to brainstorming fundraising ideas. However, she has since made a conscious effort to decrease her usage to prevent becoming over-reliant on AI. Today, she mostly relies on AI for clarifying questions she gets wrong on assignments.
+
+Professors, meanwhile, are also adapting to the changing generative AI landscape as they attempt to balance exploring new technology with preserving academic integrity.
+
+Philosophy Prof. Megan Hyska said she allows her students to use generative AI for brainstorming, refining research questions, outlining writing assignments and checking for grammar and style. However, Hyska does not allow AI use for writing complete sentences, paragraphs or papers that students submit.
+
+“I personally have not had an instance yet where it was clear to me that a student was using AI vastly past the bounds where I asked them to do so,” Hyska said.
+
+Hyska said it can be challenging to enforce generative AI policies because she and her colleagues struggle to discern when students are violating them.
+
+Other instructors, such as Spanish and Portuguese Prof. Alfonso Fierro, encourage creative experimentation. Fierro said he believes AI is something that should not only be tolerated, but used creatively.
+
+One example stood out to Fierro: A student in his class used AI to transform a poem into a song, and then created two versions of the song, one in a rap and another in a rock style. Fierro said he found this project to be a “playful and interesting” way for his students to experiment with AI.
+
+As students, departments and professors continue to fine-tune their approach to generative AI, they are still learning to adapt by experimenting with new assignments and approaches.
+
+“AI is something that exists in this world, and younger generations are overusing (it) and should learn how to use (it) in critical ways that help them, but also allow them to do whatever it is that they’re doing,” Fierro said.
+
+Email: [email protected]
+
+Related Stories:
+
+— Northwestern provides free access to ChatGPT 4.0 through Microsoft Copilot
+
+— Searle Center leads faculty session on ‘Generating Active Digital Readers in a ChatGPT World’
+
+— The Weekly: ChatGPT in the classroom, football loss to Indiana and the end of alumni interviews
+
+(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9d61b618aa33d6b7',t:'MTc3MjQ2ODI0Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Like This Story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Facebook
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on X
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email this Story
+ 
+ 
+ 
+ 
+ 
+ Print this Story
+ 
+ 
+ 
+
+ 
+
+ 
+ More to Discover
+ 
+ 
+ 
+ 
+ 
+ 
+ More in Campus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ McSA Wildcat Iftar Banquet draws over 250 attendees for Ramadan celebration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ African Student Association’s Jabulani closes Black History Month in ‘Timeless’ celebration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jewish Voice for Peace hosts panel on Zionism, antisemitism
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FASORP appeals civil lawsuit against Northwestern, Pritzker
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Northwestern’s Garage hosts first-ever Problem Summit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estate of Jane Wu’s civil case against Northwestern, Northwestern Memorial Hospital to proceed

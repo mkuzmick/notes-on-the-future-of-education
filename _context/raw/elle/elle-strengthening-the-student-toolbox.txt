@@ -1,0 +1,286 @@
+Strengthening the Student Toolbox
+https://www.aft.org/ae/fall2013/dunlosky
+
+Elle's notes:
+John Dunlosky, American Educator (AFT), Fall 2013
+Key insight: A landmark review of 10 learning strategies rated practice testing and distributed practice as most effective. Highlighting and rereading—what most students do—have "limited impact on memory or understanding." Elaborative interrogation (asking "why?") and self-explanation received "moderate utility" ratings but show promise. "Teaching students how to learn is as important as teaching them content."
+
+--
+
+Strengthening the Student Toolbox
+
+ 
+
+ 
+
+ 
+ Study Strategies to Boost Learning
+ 
+ 
+
+ 
+ By John Dunlosky
+ 
+
+ 
+ 
+
+ It's the night before her biology exam, and the high school student has just begun to study. She takes out her highlighter and reads her textbook, marking it up as she goes along. She rereads sentences that seem most important and stays up most of the night, just hoping to get a good enough grasp of the material to do well on the exam. These are study strategies that she may have learned from her friends or her teachers or that she simply took to on her own. She is not unusual in this regard; many students rely on strategies such as highlighting, rereading, and cramming the night before an exam.
+
+Quite often, students believe these relatively ineffective strategies are actually the most effective,1 and at least on the surface they do seem sound, perhaps because, even after pulling an all-nighter, students manage to squeak by on exams. Unfortunately, in a recent review of the research, my colleagues and I found that these strategies are not that effective,2 especially if students want to retain their learning and understanding of content well after the exam is over—obviously, an important educational goal.
+
+So, why aren't students learning about the best strategies? I can only speculate, but several reasons seem likely. Curricula are developed to highlight the content that teachers should teach, so the focus is on providing content and not on training students how to effectively acquire it. Put differently, the emphasis is on what students need to learn, whereas little emphasis—if any—is placed on training students how they should go about learning the content and what skills will promote efficient studying to support robust learning. Nevertheless, teaching students how to learn is as important as teaching them content, because acquiring both the right learning strategies and background knowledge is important—if not essential—for promoting lifelong learning.
+
+Another reason many students may not be learning about effective strategies concerns teacher preparation. Learning strategies are discussed in almost every textbook on educational psychology, so many teachers likely have been introduced to at least some of them. Even so, my colleagues and I found that, in large part, the current textbooks do not adequately cover the strategies; some omit discussion of the most effective ones, and most do not provide guidelines on how to use them in the classroom or on how to teach students to use them. In some cases, the strategies discussed have limited applicability or benefit.3 So I sympathize with teachers who want to devote some class time to teaching students how to learn, because teacher preparation typically does not emphasize the importance of teaching students to use effective learning strategies. Moreover, given the demands of day-to-day teaching, teachers do not have time to figure out which strategies are best.
+
+The good news is that decades of research has focused on evaluating the effectiveness of many promising strategies for helping students learn. Admittedly, the evidence for many of these strategies is immense and not easily deciphered, especially given the technical nature of the literature. Thus, to help promote the teaching and use of effective learning strategies, my colleagues* and I reviewed the efficacy of 10 learning strategies:
+
+- Practice testing: self-testing or taking practice tests on to-be-learned material.
+
+- Distributed practice: implementing a schedule of practice that spreads out study activities over time.
+
+- Interleaved practice: implementing a schedule of practice that mixes different kinds of problems, or a schedule of study that mixes different kinds of material, within a single study session.
+
+- Elaborative interrogation: generating an explanation for why an explicitly stated fact or concept is true.
+
+- Self-explanation: explaining how new information is related to known information, or explaining steps taken during problem solving.
+
+- Rereading: restudying text material again after an initial reading.
+
+- Highlighting and underlining: marking potentially important portions of to-be-learned materials while reading.
+
+- Summarization: writing summaries (of various lengths) of to-be-learned texts.
+
+- Keyword mnemonic: using keywords and mental imagery to associate verbal materials.
+
+- Imagery for text: attempting to form mental images of text materials while reading or listening.
+
+Before describing the strategies in detail, I will put into context a few aspects of our review. First, our intent was to survey strategies that teachers could coach students to use without sacrificing too much class time and that any student could use. We excluded a variety of strategies and computer-driven tutors that show promise but require technologies that may be unavailable to many students. Although some of the strategies we reviewed can be implemented with computer software, they all can be used successfully by a motivated student who (at most) has access to a pen or pencil, some index cards, and perhaps a calendar.
+
+Second, we chose to review some strategies (e.g., practice testing) because an initial survey suggested that they were relatively effective,4 whereas we chose other strategies (e.g., rereading, highlighting) because students reported using them often yet we wondered about their effectiveness.
+
+Finally, the strategies differ somewhat with respect to the kinds of learning they promote. For instance, some strategies (e.g., keyword mnemonic, imagery for text) are focused on improving students' memory for core concepts or facts. Others (e.g., self-explanation) may best serve to promote students' comprehension of what they are reading. And still others (e.g., practice testing) appear to be useful for enhancing both memory and comprehension.
+
+In the following sections, I discuss each of the learning strategies, beginning with those that show the most promise for improving student achievement.
+
+The Most Effective Learning Strategies
+
+We rated two strategies—practice testing and distributed practice—as the most effective of those we reviewed because they can help students regardless of age, they can enhance learning and comprehension of a large range of materials, and, most important, they can boost student achievement.
+
+Practice Testing
+
+Test, exam, and quiz are four-letter words that provoke anxiety in many students, if not some teachers as well. Such anxiety may not be misplaced, given the high stakes of statewide exams. However, by viewing tests as the end-all assessments administered only after learning is complete, teachers and students are missing out on the benefits of one of the most effective strategies for improving student learning.
+
+In 1909, a doctoral student at the University of Illinois demonstrated that practice tests improve student performance,5 and more than 100 years of research has revealed that taking practice tests (versus merely rereading the material to be learned) can substantially boost student learning. For instance, college students who reported using practice tests to study for upcoming exams earned higher grades,6 and when middle school teachers administered daily practice tests for class content, their students performed better on future tests that tapped the content they had practiced during the daily tests.7
+
+The use of practice tests can improve student learning in both direct and indirect ways.8 Consider two students who have just read a chapter in a textbook: Both students review the most important information in the chapter, but one student reads the information again, whereas the other student hides the answers and attempts to recall the information from memory. Compared with the first student, the second student, by testing himself, is boosting his long-term memory. Thus, unlike simply reading a text, when students correctly retrieve an answer from memory, the correct retrieval can have a direct effect on memory.
+
+Practice tests can also have an indirect effect on student learning. When a student fails to retrieve a correct answer during a practice test, that failure signals that the answer needs to be restudied; in this way, practice tests can help students make better decisions about what needs further practice and what does not. In fact, most students who use practice tests report that they do so to figure out what they know and do not know.9
+
+Based on the prevailing evidence, how might students use practice tests to best harness the power of retrieval practice? First, student learning can benefit from almost any kind of practice test, whether it involves completing a short essay where students need to retrieve content from memory or answering questions in a multiple-choice format. Research suggests, however, that students will benefit most from tests that require recall from memory, and not from tests that merely ask them to recognize the correct answer.10 They may need to work a bit harder to recall key materials (especially lengthy ones) from memory, but the payoff will be great in the long run. Another benefit of encouraging students to recall key information from memory is that it does not require creating a bank of test questions to serve as practice tests.
+
+Second, students should be encouraged to take notes in a manner that will foster practice tests. For instance, as they read a chapter in their textbook, they should be encouraged to make flashcards, with the key term on one side and the correct answer on the other. When taking notes in class, teachers should encourage students to leave room on each page (or on the back pages of notes) for practice tests. In both cases, as the material becomes more complex (and lengthy), teachers should encourage students to write down their answers when they are testing themselves. For instance, when they are studying concepts on flashcards, they should first write down the answer (or definition) of the concept they are studying, and then they should compare their written answer with the correct one. For notes, they can hide key ideas or concepts with their hand and then attempt to write them out in the remaining space; by using this strategy, they can compare their answer with the correct one and easily keep track of their progress.
+
+Third, and perhaps most important, students should continue testing themselves, with feedback, until they correctly recall each concept at least once from memory. For flashcards, if they correctly recall an answer, they can pull the card from the stack; if they do not recall it correctly, they should place it at the back of the stack. For notes, they should try to recall all of the important ideas and concepts from memory, and then go back through their notes once again and attempt to correctly recall anything they did not get right during their first pass. If students persist until they recall each idea or concept correctly, they will enhance their chances of remembering the concepts during the actual exam. They should also be encouraged to "get it right" on more than one occasion, such as by returning to the deck of cards on another day and relearning the materials. Using practice tests may not come naturally to students, so teachers can play an important role in informing them about the power of practice tests and how they apply to the content being taught in class.
+
+Not only can students benefit from using practice tests when studying alone, but teachers can give practice tests in the classroom. The idea is for teachers to choose the most important ideas and then take a couple minutes at the beginning or end of each class to test students. After all students answer a question, teachers can provide the correct answer and give feedback. The more closely the practice questions tap the same information that will be tested on the in-class examination, the better students will do. Thus, this in-class "testing time" should be devoted to the most critical information that will appear on the actual exam. Even using the same questions during practice and during the test is a reasonable strategy. It not only ensures that the students will be learning what teachers have decided is most important, but also affirms to students that they should take the in-class practice quizzes seriously.
+
+Distributed Practice
+
+A second highly effective strategy, distributed practice is a straightforward and easy-to-use technique. Consider the following examples:
+
+A first-grader studies for a spelling test. Using a worksheet to guide her practice, she might take one of two approaches. She could practice spelling the words by writing each one several times directly below the word printed on the sheet. After practicing one word repeatedly, she would move on to the next one and practice writing that word several times below it. This kind of practice is called massedpractice, because the student practices each word multiple times together, before moving to the next one.
+
+An alternative strategy for the student would be to practice writing each word only once, and after transcribing the final word, going back and writing each one again, and so forth, until the practice is complete. This kind of practice is called distributed practice, because practice with any one word is distributed across time (and the time between practicing any one word is filled with another activity—in this case, writing other words).
+
+In this example, the student either masses or distributes her practices during a single session. Now, imagine an eighth-grader trying to learn some basic concepts pertaining to geology for an upcoming in-class exam. He might read over his notes diligently, in a single session the night before the exam, until he thinks he is ready for the test—a study tactic called cramming, which practically all students use. Or, as an alternative, he might study his notes and texts during a shorter session several evenings before the exam and then study them again the evening before. In this case, the student distributes his studying across two sessions.
+
+Students will retain knowledge and skills for a longer period of time when they distribute their practice than when they mass it,11 even if they use the same amount of time massing and distributing their practice.† Unfortunately, however, many students believe that massed practice is better than distributed practice.12
+
+One reason for this misconception is that students become familiar and facile with the target material quickly during a massed practice session, but learning appears to proceed more slowly with distributed practice. For instance, the first-grader quickly writes the correct word after practicing it several times in succession, but when the same practice is distributed, she may still struggle after several attempts. Likewise, the eighth-grader may quickly become familiar with his notes after reading them twice during a single session, but when distributing his practice across two study sessions, he may realize how much he has forgotten and use extra time getting back up to speed.
+
+In both cases, learning itself feels tougher when it is distributed instead of massed, but the competency and learning that students may feel (and teachers may see) during massed practice is often ephemeral. By contrast, distributed practice may take more effort, but it is essential for obtaining knowledge in a manner that will be maintained (or easily relearned) over longer, educationally relevant periods of time.
+
+Most students, whether they realize it or not, use distributed practice to master many different activities, but not when they are studying. For instance, when preparing for a dance recital, most would-be dancers will practice the routine nightly until they have it down; they will not just do all the practice the night before the recital, because everyone knows that this kind of practice will likely not be successful. Similarly, when playing video games, students see their abilities and skills improve dramatically over time in large part because they keep coming back to play the game in a distributed fashion. In these and many other cases, students realize that more practice or play during a current session will not help much, and they may even see their performance weaken near the end of a session, so, of course, they take a break and return to the activity later. However, for whatever reason, students don't typically use distributed practice as they work toward mastering course content.
+
+Not using distributed practice for study is unfortunate, because the empirical evidence for the benefits of distributed (over massed) practice is overwhelming, and the strategy itself is relatively easy to understand and use. Even so, I suspect that many students will need to learn how to use it, especially for distributing practice across multiple sessions. The difficulty is simply that most students begin to prepare and study only when they are reminded that the next exam is tomorrow. By that point, cramming is their only option. To distribute practice over time, students should set aside blocks of time throughout each week to study the content for each class. Each study block will be briefer than an all-night cram session, and it should involve studying (and using practice tests) for material that was recently introduced in class and for material they studied in previous sessions.
+
+To use distributed practice successfully, teachers should focus on helping students map out how many study sessions they will need before an exam, when those sessions should take place (such as which evenings of the week), and what they should practice during each session. For any given class, two short study blocks per week may be enough to begin studying new material and to restudy previously covered material.
+
+Ideally, students will use practice tests to study the previously covered material. If they do, they will quickly retrieve the previously learned material after just a handful of sessions, which will leave more time for studying new material. Of course, students may need help setting up their study schedules (especially when they are younger), and they may need some encouragement to use the strategy. But by using distributed practice (especially if it is combined with practice testing), many students will begin to master material they never thought they could learn.
+
+Teachers can also use distributed practice in the classroom. The idea is to return to the most important material and concepts repeatedly across class days. For instance, if weekly quizzes are already being administered, a teacher could easily include content that repeats across quizzes so students will relearn some concepts in a distributed manner. Repeating key points across lectures not only highlights the importance of the content but also gives students distributed practice. Administering a cumulative exam that forces students to review the most important information is another way to encourage them to study content in a distributed fashion. Admittedly, using cumulative exams may seem punitive, but if the teacher highlights which content is most likely to be retested (because it is the most important content for students to retain), then preparing for a cumulative exam does not need to be daunting. In fact, if students continue to use a distributed practice schedule throughout a class, they may find preparing for a final cumulative exam to be less difficult than it would be otherwise because they will already be well versed in the material.
+
+Strategies with Much Promise
+
+We rated three additional strategies as promising but stopped short of calling them the most effective because we wanted to see additional research about how broadly they improve student learning.
+
+Interleaved Practice
+
+Interleaved practice involves not only distributing practice across a study session but also mixing up the order of materials across different topics. As I discussed above, distributed practice trumps massed practice, but the former typically refers to distributing the practice of the same problem across time. Thus, for spelling, a student would benefit from writing each word on a worksheet once, and then cycling through the words until each has been spelled correctly several times. Interleaved practice is similar to distributed practice in that it involves spacing one's practice across time, but it specifically refers to practicing different types of problems across time.
+
+Consider how a standard math textbook (or most any science textbook) encourages massed practice: In a text for pre-algebra, students may learn about adding and subtracting real numbers, and then spend a block of practice adding real numbers, followed by a block of practice subtracting. The next chapter would introduce multiplying and dividing real numbers, and then practice would focus first on multiplying real numbers, and then on dividing them, and so forth. Thus, students are massing their practice of similar problems. They practice several instances of one type of math problem (e.g., addition) before practicing the next type (e.g., subtraction). In this example, interleaving would involve solving one problem from each type (adding, subtracting, multiplying, and dividing) before solving a new problem from each type.
+
+One aspect of massed practice that students may find appealing is that their performance will quickly improve as they work with a particular problem. Unfortunately, such fluent performance can be misleading; students believe that they have learned a problem well when in fact their learning is fleeting.
+
+Interleaved practice has not been explored nearly as much as practice tests or distributed practice, but initial research outcomes have shown that interleaved practice can dramatically improve student achievement, especially in the domain of problem solving.
+
+A study in which college students learned to compute the volume of four different geometric solids illustrates this advantage.13 In two practice sessions (separated by a week), a student either had massed practice or interleaved practice. For massed practice, students had a brief tutorial on solving for the volume of one kind of solid (e.g., a wedge), and then immediately practiced solving for the volume of four different versions of the particular solid (e.g., finding the volume of four different wedges). They then received a tutorial on finding the volume of another kind of solid (e.g., a spherical cone), and immediately practiced solving four versions of that solid (e.g., finding the volume of four different spherical cones). They repeated this massed practice for two more kinds of solids.
+
+For interleaved practice, students first were given a tutorial on how to solve for the volume of each of the four solids, and then they practiced solving for each of the four versions of solids in turn. They never practiced the same kind of solid twice in a row; they practiced solving for the volume of a wedge, followed by a spherical cone, followed by a spheroid, and so forth, until they had practiced four problems of each type. Regardless of whether practice was massed or interleaved, all students practiced solving four problems of each type.
+
+How did the students fare? The results presented in Figure 1 (below) show that during the practice sessions, performance finding the correct volumes was considerably higher for massed practice than for interleaved practice, which is why some students (and teachers) may prefer massed practice. The reason not to stick with massed practice is revealed when we examine performance on the exam, which occurred one week after the final practice session. As shown in the bars on the far right of Figure 1, students who massed practice performed horribly. By contrast, those who interleaved did three times better on the exam, and their performance did not decline compared with the original practice session! If students who interleaved had practiced just a couple more times, no doubt they would have performed even better, but the message is clear: massed practice leads to quick learning and quick forgetting, whereas interleaved practice slows learning but leads to much greater retention.
+
+[[{"type":"media","view_mode":"wysiwyg","fid":"850","link_text":null,"field_deltas":{},"attributes":{"alt":"Figure 1: Differences in Performance When Students Used Massed Practice versus Interleaved Practice","title":"Figure 1","height":"545","width":"378","style":"height: 545px; width: 378px;","class":"media-image media-element file-wysiwyg","data-delta":"1"},"fields":{}}]]
+
+Research shows that teachers can also use this promising strategy with their students. Across 25 sessions,14 college students with poor math skills were taught algebra rules, such as how to multiply variables with exponents, how to divide variables with exponents, and how to raise variables with exponents to a power. In different sessions, either a single rule was introduced or a rule that had already been introduced was reviewed. Most important, during review sessions, students either (a) practiced the rule from the previous session (which was analogous to massed practice), or (b) practiced the rule from the previous session intermixed with the practice of rules from even earlier sessions (which was analogous to interleaved practice).
+
+During the first practice sessions, the two groups achieved at about the same level. By contrast, on the final test, performance was substantially better for students who had interleaved practice than for those who had massed practice. This interleaving advantage was evident both for application of the rules to new algebra problems (i.e., different versions of those that the students had practiced) and on problems that required the novel combination of rules. Given that the review sessions were basically practice tests, one recommendation is sound: when creating practice tests for students (whether to be completed in class or at home), it is best to mix up problems of different kinds. Even though students initially may struggle a bit more, they will benefit in the long run.
+
+Why does interleaving work so well? In contrast to massed practice, interleaving problems requires distributing practice, which by itself benefits student achievement. Moreover, massed practice robs students of the opportunity to practice identifying problems, whereas interleaved practice forces students to practice doing so. When students use massed practice, after they correctly solve a problem or two of a certain type, they can almost robotically apply the same steps to the next problem. That is, they do not have to figure out what kind of problem they are solving; they just have to apply the same rules to the next problem. For interleaving, when a new problem is presented, students need to first figure out which kind of problem it is and what steps they need to take to solve it. This is often a difficult aspect of solving problems.
+
+Interleaving has been shown to improve performance (as compared with massed practice) in multiple domains, including fourth-graders learning to solve math problems, engineering students learning to diagnose system failures, college students learning artists' styles, and even medical students learning to interpret electrocardiograms to diagnose various diseases. Nevertheless, the benefits do not extend to all disciplines; for instance, in one study,15 college students learned French vocabulary from different categories (body parts, dinnerware, foods, etc.), and students did just as well when their practice was massed within a category as when it was interleaved across categories. In another study, interleaving did not help high school students learn various rules for comma usage.16
+
+Certainly, much more research is needed to better understand when interleaving will be most effective. Nevertheless, interleaved practice has shown more than enough promise for boosting student achievement to encourage its use, especially given that it does not hurt learning. To that end, I suggest that teachers revise worksheets that involve practice problems, by rearranging the order of problems to encourage interleaved practice. Also, for any in-class reviews, teachers should do their best to interleave questions and problems from newly taught materials with those from prior classes. Doing so not only will allow students to practice solving individual problems, but it also will help them practice the difficult tasks of identifying problems and choosing the correct steps needed to solve them.
+
+Elaborative Interrogation and Self-Explanation
+
+Elaborative interrogation and self-explanation are two additional learning strategies that show a lot of promise. Imagine a student reading an introductory passage on photosynthesis: "It is a process in which a plant converts carbon dioxide and water into sugar, which is its food. The process gives off oxygen." If the student were using elaborative interrogation while reading, she would try to explain why this fact is true. In this case, she might think that it must be true because everything that lives needs some kind of food, and sugar is something that she eats as food. She may not come up with exactly the right explanation, but trying to elaborate on why a fact may be true, even when the explanations are not entirely on the mark, can still benefit understanding and retention.
+
+If the student were using self-explanation, then she would try to explain how this new information is related to information that she already knows. In this case, perhaps she might consider how the conversion is like how her own body changes food into energy and other (not-so-pleasant-as-oxygen) fumes. Students can also self-explain when they solve problems of any sort and decide how to proceed; they merely explain to themselves why they made a particular decision.
+
+While practicing problems, the success rate of solving them is no different for students who self-explain their decisions compared with those who do not. However, in solving new problems that involve transferring what one has learned during practice, those who initially used self-explanation perform better than those who did not use this technique. In fact, in one experiment where students learned to solve logical-reasoning problems, final test performance was three times better (about 90 percent versus less than 30 percent) for students who self-explained during practice than for those who did not.17
+
+One reason these two strategies can promote learning and comprehension and boost problem-solving performance is that they encourage students to actively process the content they are focusing on and integrate it with their prior knowledge. Even young students should have little trouble using elaborative interrogation, because it simply involves encouraging them to ask the question "why?" when they are studying. The difference between this type of "why" and the "why" asked in early childhood (when this is a common question to parents) is that students must take the time to develop answers. This strategy may be especially useful as students are reading lengthy texts in which a set of concepts builds across a chapter, although admittedly the bulk of the research on elaborative interrogation has been conducted with isolated facts. At a minimum, the research has shown that encouraging students to ask "why" questions about facts or simple concepts that arise in class and in lengthy discussions benefits their learning and understanding.
+
+In most of the research on self-explanation, students are given little instruction on how to use the strategy; instead, they are just told to use a particular question prompt that is most relevant to what they are studying. For instance, if they are solving a problem, they might be instructed to ask themselves, "Why did I just decide to do X?" (where X is any move relevant to solving the problem at hand). And if they were reading a text, they might be instructed to ask, "What does this sentence mean to me? What new information does the sentence provide, and how does it relate to what I already know?" To take full advantage of this strategy, students need to try to self-explain and not merely paraphrase (or summarize) what they are doing or reading, because the latter strategies (as I discuss below) do not consistently boost performance.
+
+Some potential limitations of using these strategies are rather intuitive. For instance, students with no relevant knowledge about a new content area may find it difficult—if not impossible—to use elaborative interrogation, because these students may not be able to generate any explanation about why a particular (new) fact is true.‡ Thus, although research shows that students as young as those in the upper elementary grades can successfully use elaborative interrogation, the technique may not be so useful for younger students with low levels of background knowledge. As students learn more about a particular topic, elaborative interrogation should be easier to use and will support more learning.
+
+As for self-explanation, it should not be too difficult, or require much time, to teach most students how to take advantage of this strategy. Nevertheless, younger students or those who need more support may benefit from some coaching. For instance, as noted above, paraphrases and self-explanations are not the same and lead to different learning outcomes, so teachers should help younger students distinguish between an explanation of an idea and its paraphrase. Even so, a gentle reminder to use elaborative interrogation or self-explanation may be all most students need to keep them using these strategies as they learn new course content and prepare for examinations.
+
+Because they show promise, I recommend that teachers tell their students about these strategies and explain the conditions under which each may be most useful. For instance, they might instruct students to use elaborative interrogation when studying general facts about a topic, or to use self-explanation when reading or solving practice problems in math and science.
+
+Teachers should keep in mind that these two strategies did not receive the highest rating in our team's assessment of learning strategies.18 Our lower marks for these strategies, however, stemmed from the fact that we wanted to see even more evidence that established their promise in several key areas relevant to education. Only a couple of experiments have demonstrated that elaborative interrogation can improve students' comprehension, and only a few investigations have established their efficacy within a classroom. So, in writing our review, we were conservative scientists who wanted every piece in place before declaring that a strategy is one that students should absolutely use. Nevertheless, other cognitive scientists who have studied the same evidence enthusiastically promote the use of these strategies,19 and as a teacher myself, the overall promise of these strategies is impressive enough that I encourage my students to use them.
+
+Less Useful Strategies (That Students Use a Lot)
+
+Besides the promising strategies discussed above, we also reviewed several others that have not fared so well when considered with an eye toward effectiveness. These include rereading, highlighting, summarizing, and using imagery during study.
+
+Rereading and Highlighting
+
+These two strategies are particularly popular with students. A survey conducted at an elite university revealed that 84 percent of the students studied by rereading their notes or textbooks.20 Despite its popularity, rereading has inconsistent effects on student learning: whereas students typically benefit from rereading when they must later recall texts from memory, rereading does not always enhance students' understanding of what they read, and any benefits of rereading (over just a single reading) may not be long-lasting. So, rereading may be relatively easy for students to do, but they should be encouraged to use other strategies (such as practice testing, distributed practice, or self-explanation) when they revisit their text and notes.
+
+The use of highlighters seems universal—I even have a favorite one that I use when reading articles. As compared with simply reading a text, however, highlighting has been shown to have failed to help students of all sorts, including Air Force trainees, children, and undergraduate students. Even worse, one study reported that students who highlighted while reading performed worse on tests of comprehension wherein they needed to make inferences that required connecting different ideas across the text.21 In this case, by focusing on individual concepts while highlighting, students may have spent less time thinking about connections across concepts. Still, I would not take away highlighters from students; they are a security blanket for reading and studying. However, students need to know that highlighting is only the beginning of the journey, and that after they read and highlight, they should then restudy the material using more-effective strategies.
+
+Summarization
+
+Summarization involves paraphrasing the most important ideas within a text. It has shown some success at helping undergraduate students learn, although younger students who have difficulties writing high-quality summaries may need extensive help to benefit from this strategy.
+
+In one study,22 teachers received 90 minutes of training on how to teach their students to summarize. The teachers were trained to provide direct instruction, which included explicitly describing the summarization strategy to students, modeling the strategy for students, having students practice summarizing and providing feedback, and encouraging students to monitor and check their work. Students completed five sessions (about 50 minutes each) of coaching, which began with them learning to summarize short paragraphs and slowly progressed to them using the strategy to take effective notes and ultimately to summarize a text chapter. Students who received coaching recalled more important points from a chapter as compared with students who were not coached. And other studies have also shown that training students to summarize can benefit student performance.
+
+Nevertheless, the need for extensive training will make the use of this strategy less feasible in many contexts, and although summarizing can be an important skill in its own right, relying on it as a strategy to improve learning and comprehension may not be as effective as using other less-demanding strategies.
+
+Keyword Mnemonic and Imagery for Text
+
+Finally, the last two techniques involve mental imagery (i.e., developing internal images that elaborate on what one is studying). Students who are studying foreign-language vocabulary, for example, may use images to link words within a pair (e.g., for the pair "la dent–tooth," students may mentally picture a dentist (for "la dent") extracting an extra-large tooth). This strategy is called keyword mnemonic, because it involves developing a keyword to represent the foreign term (in this case, "dentist" for "la dent") that is then linked to the translation using mental imagery.
+
+Imagery can also be used with more complex text materials as well. For instance, students can develop mental images of the content as they read, such as trying to imagine the sequence of processes in photosynthesis or the moving parts of an engine. This strategy is called imagery for text.
+
+Mental imagery does increase retention of the material being studied, especially when students are tested soon after studying. However, research has shown that the benefits of imagery can be short-lived,23 and the strategy itself is not widely applicable. Concerning the latter, younger students may have difficulties generating images for complex materials, and for that matter, much content in school is not imagery friendly, such as when the ideas are abstract or the content is complex enough that it cannot be easily imagined. Certainly, for students who enjoy using imagery and for materials that afford its use, it likely will not hurt (and may even improve) learning. But as compared with some of the better strategies, the benefits of imagery are relatively limited.
+
+*  *  *
+
+Using learning strategies can increase student understanding and achievement. For some ideas on how the best strategies can be used, see the box "Tips for Using Effective Learning Strategies" (above right). Of course, all strategies are not created equal. As shown in Table 1 (below), while some strategies are broadly applicable and effective, such as practice testing and distributed practice, others do not provide much—if any—bang for the buck. Importantly, even the best strategies will only be effective if students are motivated to use them correctly, and even then, the strategies will not solve many of the problems that hamper student progress and success. With these caveats in mind, the age-old adage about teaching people to fish (versus just giving them a fish) applies here: teaching students content may help them succeed in any given class, but teaching them how to guide their learning of content using effective strategies will allow them to successfully learn throughout their lifetime.
+
+[[{"type":"media","view_mode":"wysiwyg","fid":"851","link_text":null,"field_deltas":{},"attributes":{"alt":"Table 1: Effectiveness of Techniques Reviewed","title":"Table 1","height":"374","width":"488","style":"height: 374px; width: 488px;","class":"media-image media-element file-wysiwyg","data-delta":"2"},"fields":{}}]]
+
+John Dunlosky is a professor of psychology and the director of experimental training at Kent State University. His research focuses on self-regulated learning and how it can be used to improve student achievement across the lifespan.
+
+*My collaborators on this project were cognitive and educational researchers Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, and Daniel T. Willingham. Willingham regularly contributes to American Educator in his "Ask the Cognitive Scientist" column.
+
+†To learn more about massed versus distributed practice, see Daniel T. Willingham's article, "Allocating Student Study Time," in the Summer 2002 issue of American Educator.
+
+‡For more on why reading comprehension depends largely on knowledge, see "Building Knowledge" and "How Knowledge Helps" in the Spring 2006 issue of American Educator.
+
+Endnotes
+
+1. Robert A. Bjork, John Dunlosky, and Nate Kornell, "Self-Regulated Learning: Beliefs, Techniques, and Illusions," Annual Review of Psychology 64 (2013): 417–444.
+
+2. John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, and Daniel T. Willingham, "Improving Students' Learning with Effective Learning Techniques: Promising Directions from Cognitive and Educational Psychology," Psychological Science in the Public Interest 14, no. 1 (2013): 4–58.
+
+3. Dunlosky et al., "Improving Students' Learning."
+
+4. Henry L. Roediger III and Andrew C. Butler, "The Critical Role of Retrieval Practice in Long-Term Retention," Trends in Cognitive Sciences 15, no. 1 (2011): 20–27; and Nicholas J. Cepeda, Harold Pashler, Edward Vul, John T. Wixted, and Doug Rohrer, "Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis," Psychological Bulletin 132, no. 3 (2006): 354–380.
+
+5. Edwina E. Abbott, "On the Analysis of the Factor of Recall in the Learning Process," Psychological Monographs 11 (1909): 159–177.
+
+6. Regan A. R. Gurung, "How Do Students Really Study (and Does It Matter)?," Teaching of Psychology 32 (2005): 239–241.
+
+7. Mark A. McDaniel, Pooja K. Agarwal, Barbie J. Huelser, Kathleen B. McDermott, and Henry L. Roediger III, "Test-Enhanced Learning in a Middle School Science Classroom: The Effects of Quiz Frequency and Placement," Journal of Educational Psychology 103, no. 2 (2011): 399–414.
+
+8. Henry L. Roediger III and Jeffrey D. Karpicke, "The Power of Testing Memory: Basic Research and Implications for Educational Practice," Perspectives on Psychological Science 1, no. 3 (2006): 181–210.
+
+9. Nate Kornell and Robert A. Bjork, "The Promise and Perils of Self-Regulated Study," Psychonomic Bulletin and Review 14, no. 2 (2007): 219–224.
+
+10. See, for example, John A. Glover, "The 'Testing' Phenomenon: Not Gone but Nearly Forgotten," Journal of Educational Psychology 81, no. 3 (1989): 392–399.
+
+11. Cepeda et al., "Distributed Practice in Verbal Recall Tasks."
+
+12. Jennifer A. McCabe, "Metacognitive Awareness of Learning Strategies in Undergraduates," Memory and Cognition 39, no. 3 (2011): 462–476.
+
+13. Doug Rohrer and Kelli Taylor, "The Shuffling of Mathematics Problems Improves Learning," Instructional Science 35 (2007): 481–498.
+
+14. Kristin H. Mayfield and Philip N. Chase, "The Effects of Cumulative Practice on Mathematics Problem Solving," Journal of Applied Behavior Analysis 35, no. 2 (Summer 2002): 105–123.
+
+15. Vivian I. Schneider, Alice F. Healy, and Lyle E. Bourne Jr., "What Is Learned Under Difficult Conditions Is Hard to Forget: Contextual Interference Effects in Foreign Vocabulary Acquisition, Retention, and Transfer," Journal of Memory and Language 46, no. 2 (2002): 419–440.
+
+16. Zane Olina, Robert Reiser, Xiaoxia Huang, Jung Lim, and Sanghoon Park, "Problem Format and Presentation Sequence: Effects on Learning and Mental Effort among US High School Students," Applied Cognitive Psychology 20, no. 3 (2006): 299–309.
+
+17. Dianne C. Berry, "Metacognitive Experience and Transfer of Logical Reasoning," Quarterly Journal of Experimental Psychology 35, no. 1 (1983): 39–49.
+
+18. Dunlosky et al., "Improving Students' Learning."
+
+19. Henry L. Roediger III and Mary A. Pyc, "Inexpensive Techniques to Improve Education: Applying Cognitive Psychology to Enhance Educational Practice," Journal of Applied Research in Memory and Cognition 1, no. 4 (2012): 242–248.
+
+20. Jeffrey D. Karpicke, Andrew C. Butler, and Henry L. Roediger III, "Metacognitive Strategies in Student Learning: Do Students Practise Retrieval When They Study on Their Own?," Memory 17, no. 4 (2009): 471–479.
+
+21. Sarah E. Peterson, "The Cognitive Functions of Underlining as a Study Technique," Reading Research and Instruction 31 (1992): 49–56.
+
+22. Steven D. Rinehart, Steven A. Stahl, and Lawrence G. Erickson, "Some Effects of Summarization Training on Reading and Studying," Reading Research Quarterly 21, no. 4 (1986): 422–438.
+
+23. Alvin Y. Wang, Margaret H. Thomas, and Judith A. Ouellette, "Keyword Mnemonic and Retention of Second-Language Vocabulary Words," Journal of Educational Psychology 84, no. 4 (1992): 520–528.
+
+Reprinted from American Educator, Fall 2013
+
+ 
+
+Tips for Using Effective Learning Strategies
+
+Based on our review of the literature, here are a handful of suggestions for teachers to help students take advantage of more-effective strategies:
+
+• Give a low-stakes quiz at the beginning of each class and focus on the most important material. Consider calling it a "review" to make it less intimidating.
+
+• Give a cumulative examination, which should encourage students to restudy the most important material in a distributed fashion.
+
+• Encourage students to develop a "study planner," so they can distribute their study throughout a class and rely less on cramming.
+
+• Encourage students to use practice retrieval when studying instead of passively rereading their books and notes.
+
+• Encourage students to elaborate on what they are reading, such as by asking "why" questions.
+
+• Mix it up in math class: when assigning practice problems, be sure to mix problems from earlier units with new ones, so that students can practice identifying problems and their solutions.
+
+• Tell students that highlighting is fine but only the beginning of the learning journey.
+
+ 
+ 
+
+ 
+
+ Download the Article (351.22 KB)
+ 
+ 
+ 
+ American Educator,
+ Fall 2013

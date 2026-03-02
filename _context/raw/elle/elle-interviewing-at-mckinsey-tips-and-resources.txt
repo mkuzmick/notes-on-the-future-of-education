@@ -1,0 +1,44 @@
+Interviewing at McKinsey | Tips and Resources
+https://www.mckinsey.com/careers/interviewing
+
+Elle's notes:
+Management consulting firms use case interviews as their primary hiring assessment—a 30-60 minute oral problem-solving conversation where candidates analyze business scenarios in real-time dialogue with interviewers. McKinsey describes it as "20 minutes of deep probing into one story, designed to test the same traits McKinsey uses to evaluate performance on the job: grit, influence, leadership, ownership, and navigating ambiguity." The format is explicitly interactive and dialogic: candidates must "ask clarifying questions, structure the problem, perform quantitative analysis verbally, synthesize insights, and defend recommendations under questioning." Unlike written case studies (which can be AI-generated), live case interviews test thinking-on-your-feet, adaptability to curveballs, and ability to articulate complex reasoning clearly. Leland coaching notes: "It's 20 minutes of deep probing... designed to test the same traits used to evaluate performance on the job."
+
+Harvard relevance: The most prestigious employers in consulting (and increasingly tech/finance) already use oral assessment as their primary hiring mechanism. Harvard students preparing for McKinsey interviews spend months practicing oral case delivery—they know verbal fluency and real-time problem-solving matter professionally. Yet Harvard's curriculum primarily assesses through written work. This is a pedagogy-profession mismatch: we train students in one medium (essays) but they're hired based on another (case interviews, presentations, client pitches). If Harvard adopted oral assessment, it would better prepare students for the actual skills employers value. The case interview model also shows that highly selective, high-stakes oral assessment is scalable: McKinsey interviews thousands of candidates globally using structured rubrics and calibrated interviewers. Harvard has far fewer students and far more resources.
+
+--
+Interviewing is a Two-Way Process
+
+Interviewing with McKinsey is as much about us getting to know you as it is about you learning what you can do here and what makes our firm a special place. We want you to succeed and feel confident as you step into our process.
+
+On this page: What we look for | AI in the Hiring Process
+Interviewing for a client-facing role | Interviewing for an internal role
+
+What We Look For
+We seek smart, driven problem-solvers from a wide range of disciplines—whether you come from law, medicine, engineering, or another field entirely. What matters most is your ability to think critically, tackle complex challenges, and create meaningful impact. We’re committed to attracting individuals from all backgrounds, because with diverse perspectives, we can deliver distinctive solutions for our clients and create a welcoming, inclusive culture. And we are particularly excited about people who resonate with our values.
+
+Play Video
+What’s it really like interviewing with McKinsey?
+Play Video
+What advice would you give yourself as a candidate?
+Values and Integrity
+Our values are at the heart of everything we do, guiding how we work and who we hire. They shape how we collaborate, mentor, and encourage every voice to be heard—hallmarks of our non-hierarchical, diverse meritocracy.
+
+During your interview, you may hear stories about these values in action, like our culture of apprenticeship and support or the expectation to engage and dissent. We encourage you to explore these values and discuss them in your conversations.
+
+Our commitment to integrity also informs how we adopt new technologies like AI, and how we apply it in our work and hiring. We expect candidates to use AI responsibly, ensuring a fair process where we can understand your skills and experiences.
+
+AI in the Hiring Process
+We’re proud to be at the forefront of AI—shaping, building, and using cutting-edge tools every day. We work alongside global leaders on high-stakes AI topics and equip our people with training and access to advanced AI solutions—like our proprietary platform Lilli, ChatGPT Enterprise, and other emerging tools so they can strengthen their AI skills, work smarter, and make a bigger impact. We welcome those who share our curiosity about AI and its potential.
+
+We know many candidates use AI to prepare, whether that’s polishing a resume or practicing interview questions—just as people have long sought feedback from mentors, friends, or family. When used responsibly, we see AI as a valuable tool that supports preparation.
+
+Misuse, however, compromises fairness. Using AI to misrepresent yourself or to generate real-time responses during an interview goes against our values, creates an uneven playing field, and prevents us from understanding who you truly are. We want to get to know you, not your AI tool.
+
+Learn more: Assessment integrity expectations
+Polishing your resume	✅ Encouraged
+Practicing interview questions	✅ Encouraged
+Exaggerating or creating achievements that aren’t yours	❌ Not Allowed
+Generating real‑time answers during an interview	❌ Not Allowed
+Asking AI to explain concepts or frameworks as part of your prep	✅ Encouraged
+Using AI during assessments (unless specifically permitted)	❌ Not Allowed

@@ -1,0 +1,161 @@
+A Phaedrus Moment
+https://www.ailog.blog/p/a-phaedrus-moment
+
+Elle's notes:
+This 2025 essay argues that ChatGPT is a "Phaedrus moment"—a cultural inflection point when "a new technology threatens the values people hold dear." The author notes Walter Ong's observation: "Plato's objections against writing are essentially the very same objections commonly urged today against computers." Medieval scribes resisted print ("copying by hand involves more diligence and industry"), just as we resist AI. The essay quotes John Warner: "ChatGPT forces us to confront what we value, rather than letting the status quo churn along unexamined." Socrates asked Phaedrus to read Lysias's speech aloud and then defend it—an oral exam testing whether admiration was justified.
+
+Harvard relevance: This reframes AI anxiety as historical pattern recognition. Every major communication technology (writing, print, computers) triggered defensive reactions from incumbents who feared skill degradation. We're not experiencing something unprecedented—we're in the latest Phaedrus moment. The critical insight: Plato didn't reject writing outright; he used it strategically (dialogues preserved oral tradition's back-and-forth). Similarly, Harvard faculty needn't reject AI—but can design assessments (oral exams) that preserve what Socrates valued: interactive, defensive reasoning that can't be faked. The AI disruption isn't a crisis; it's an invitation to return to Socratic roots.
+
+--
+
+A Phaedrus Moment
+
+If Socrates was right, what do we make of Claude? 
+Rob NelsonJul 06, 20251574Share
+
+What is seldom if ever noticed, however, is that Plato's objections against writing are essentially the very same objections commonly urged today against computers by those who object to them. 
+—Walter Ong, Writing Is a Technology That Restructures Thought (1985)
+
+- - 
+
+Imperious literacy
+“Writing is thinking” is a truism that helps explain why so many educators are worried about ChatGPT’s arrival, uninvited, into our classrooms. For those of us who teach writing, it seems inconceivable that anyone would defend the use of a tool that replaces thinking. And yet…
+
+“Literacy is imperious. It tends to arrogate to itself supreme power by taking itself as normative for human expression and thought.” So begins Walter Ong in a talk he gave at Oxford University in 1985, three years after his Orality and Literacy was published. Like his teacher, Marshall McLuhan, Ong believed that thinking about preliterate cultures would help us understand what Ong called secondary orality, “the electronic orality of radio and television. which grows out of high-literacy cultures, depending for its invention and operation on the widespread cultivation of writing and reading.”1 
+
+Orality, both primary and secondary, provides context, and the critical distance needed to examine the technology of writing. 
+
+We can now view in better perspective the world of writing in which we live, see better what this world really is, and what functionally literate human beings really are — that is, beings whose thought processes do not grow out of simply natural powers but out of these powers as structured, directly or indirectly, by the technology of writing.
+
+If you recognize the name Phaedrus, chances are you know that it is the title of Plato’s dialogue where Socrates expresses skepticism about the value of writing, a skepticism that Plato, who wrote the dialogue, obviously did not share. Socrates saw the world of writing as it was emerging, and thanks to Plato, we have a sense of how the use of writing as an educational technology created tension between defenders of orality—the rhapsodes and the sophists— and advocates for the use of writing in culture and politics. 
+
+Centuries later, medieval scribes who copied the wisdom of Plato and other ancients by hand in order to preserve them expressed similar skepticism about print. The Benedictine abbot, Trithemius, argued that “printed books are often deficient in spelling and appearance. The simple reason is that copying by hand involves more diligence and industry.” 
+
+The nineteenth century was the peak for what Ong calls chirographic and typographic bias as modern society insisted, in its imperious way, that everyone become literate. Protestantism and consumer capitalism both supported mass schooling to extend the blessings of reading and writing to all. The introduction of photography, radio, film, and television challenged print’s power, and each occasioned skepticism and anxieties echoed in today’s discourse about large AI models and their threat.
+
+These occasions are what I call Phaedrus moments, when a new cultural technology threatens the values people hold dear, along with their livelihoods. 
+
+A Phaedrus moment
+During the swirl of confusion in late 2022, the writer John Warner gave me my first moment of insight into this Phaedrus moment. As many of us were contemplating the end times for writing or teaching or both, he published an essay titled "ChatGPT Can't Kill Anything Worth Preserving," which contains this sentence:
+
+The reason the appearance of this tech is so shocking is because it forces us to confront what we value, rather than letting the status quo churn along unexamined.
+
+Understanding that this is a moment to reconsider our practices and rethink what we value has helped me face what ChatGPT means for writing and teaching. The disconnect between what we say we value and our institutional practices existed prior to ChatGPT, but large language models shine a spotlight on how our focus on the outputs has obscured the value of the process of writing. 
+
+As a defender of orality and as a practitioner of the dialectic, Socrates provides context and critical distance to examine our modern biases.
+
+What would Socrates do?
+When Socrates first speaks of writing in Phaedrus, it is in the service of teaching his young student how to read critically. The occasion is a new speech written by the famed orator Lysias, which Phaedrus enthusiastically and uncritically admires. As the dialogue unfolds, Phaedrus is led to reconsider the value of the speech and of having it written down on a scroll. 
+
+Readers of Phaedrus, including Walter Ong, sometimes underestimate Plato, treating him as incapable of appreciating the irony of criticizing writing in a written text. Plato knew what he was about, and in Phaedrus, he uses a stylus to think through reading and writing in all their complexity.2
+
+The most quoted passages are when Socrates insists on the limitations of writing, like when he says that “it will introduce forgetfulness into the soul of those who learn it.”3
+
+They will not practice using their memory because they will put their trust in writing, which is external and depends on signs that belong to others, instead of trying to remember from the inside, completely on their own. 
+
+Just as Trithemius worried about the loss of “diligence and industry” when the outputs of the printing press replaced the process of scribing, we worry about students putting their trust in ChatGPT. Were Socrates to arrive in the twenty-first century, he might take one look at ChatGPT and join the many teachers who refuse to let the new technology into their classrooms. You can imagine him saying to developers of large language models what he said about the inventors of writing:
+
+you provide your students with the appearance of wisdom, not its reality. Your invention will enable them to hear many things without being properly taught, and they will imagine that they have come to know much while for the most part they will know nothing. And they will be difficult to get along with, since they will merely appear to be wise instead of really being so.4
+
+Socrates does not read or write in Phaedrus. Instead, he asks his young student to read Lysias’s speech aloud. This puts Phaedrus in the position of explaining both the speech and what he sees as the value of reading. As they reflect together, the two discuss the limitations of a written text, and, as Socrates notes, the ways in which images are similarly constrained.
+
+The offsprings of painting stand there as if they were alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. 
+
+As Brad DeLong points out, Socrates is being dense here. “There are urgent, human voices behind the books on your shelf.” Those shelves are not monuments to a dead and silent past. They are invitations to a living dialogue with their makers. When I am reading, authors speak with me, often after the book is closed and I go for a walk or take a shower. This essay began when Walter Ong (1912- 2003) and I went for a stroll and discussed what large AI models might mean for second orality. As Emerson says, there is creative reading as well as creative writing. 
+
+Prompting an AI chatbot to simulate the persona of a dead author, what John Warner calls digital necromancy, is not like speaking with those urgent human voices. This is because Claude’s primary purpose is to please, not inform or teach. Moreover, Claude answers questions without awareness of its limitations and agrees with an objection or criticism as soon as it is stated. In this, it reminds me of a reanimated Phaedrus, more than anything.
+
+Anthropic, the maker of Claude, now offers learning mode and says Claude uses “Socratic questioning” to guide “students' reasoning process rather than providing answers, helping develop critical thinking skills.” I find interacting with Claude in this way more irritating than enlightening. Perhaps if I treated Claude in learning mode as if it were Phaedrus, I would get more out of the experience. But what would be the point? 
+
+Phaedrus moments
+“First we read, then we write,” says Emerson.5 
+
+This describes my practice from when I first associated the letters in the alphabet song to their illustrations on the wall of my first-grade classroom. Soon after, I picked up a fat pencil to laboriously trace the same letters on lined worksheets. I continue this practice today as a teacher in a college classroom, asking my students to read passages from assigned texts and then write, first together in class, and then individually, about what they think about what they have read. As we travel the path from Q, R, S…T, U, V…W, X, Y, and Z to write a sentence about what strikes you as important about what we just read, we master the technology of writing.
+
+“You know, no one does the reading, professor,” a student says quietly. 
+
+When spoken, this bare fact is related in sympathetic tones, gently calling attention to how out of touch I am with the cultural habits of my students. When written in my course evaluations, it is a complaint about the burden of reading pages and pages of text that we do not directly discuss in class. This complaint is not new, but the summarizing capabilities of generative AI change the context. There is now a more efficient way to “access relevant content.” Cliff Notes on demand with a natural language interface is a blessing for overwhelmed students, I am told. 
+
+When students talk to me about why I ask them to read so much, knowing they won’t, I offer personal testimony. I tell them how reading lights up my world, and that I want it to light up theirs. I quote Emerson: “When the mind is braced by labor and invention, the page of whatever book we read becomes luminous with manifold allusion.” Like the evangelists I went to school with who urged me to accept Jesus into my heart, I want them to accept this gift of reading because it has meant so much to me. 
+
+Perhaps I’d win more converts by preaching that the users of ChatGPT are fallen, damned to ignorance unless they repent and accept the grace of book learning. I won’t, though. My faith in the moral power of literacy is not so certain, and such lamentations would attract true believers, not the thinkers I seek.
+
+Socrates comes to mind when I am urged to teach AI literacy. There is a rumor, likely false, that Socrates himself was illiterate. Maybe he chose not to read and write, so great was his commitment to the kind of conversational back and forth we named after him. What example does Socrates offer for those of us living through this Phaedrus moment? 
+
+Perceptions of truth
+Socrates insists on the value of speech over writing, but he is skeptical of all discourse. William James puts it succinctly: “language works against our perception of truth.” The only exceptions Socrates considers are, as Danielle Allen says, those forms of writing “that plainly declare their allegiance to live dialectic,” the type of philosophy that Socrates practices and Plato represents in his dialogues.6 
+
+Crucially, Socrates says that thinkers who keep writing’s limitations in mind can use it in the process of working with others toward knowledge. In the right social context, language produces shared knowledge.
+
+The dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. 
+
+The metaphor of planting puts attention on the role words play in learning, and on the process of learning itself. Time is an essential factor in education, as it is in gardening. Socrates makes it clear that attempts to rush the process, to find shortcuts to expedite growth, are not sensible. Coming to knowledge goes wrong if the student’s mind, the soil where words are planted, is not prepared. The process must be given time to develop. 
+
+Knowledge is cultivation. Seeds beget plants; plants beget seeds. The full sentence from Emerson’s journal is “First we eat, then we beget; first we read, then we write.” Thus, knowledge is consumed and extruded, personalized and socialized. This is learning. 
+
+When Socrates describes the value of language, he does so with an analogy to writing, saying that words expressed
+
+for the sake of understanding and learning, what is truly written in the soul concerning what is just, noble, and good can be clear, perfect, and worth serious attention: Such discourses should be called his own legitimate children, first the discourse he may have discovered already within himself and then its sons and brothers who may have grown naturally in other souls insofar as these are worthy; to the rest he turns his back. 
+
+These offspring are not silent. Looking past the boys-only nature of Athenian education, we see the generative nature of words in this metaphor. Language that is “truly written in the soul” produces offspring “grown naturally” in others. Writing may be suspect, as is all language, but in the attempt to discuss truth, it has value.
+
+This is how Plato reconciles Socrates to the technology of writing. He locates writing’s value metaphorically in the social processes of education, processes that aim to discover and share truth, not merely to convince or impress. 
+
+Thus, Socrates privileges the process of language creation over its fixed expression in text. He says,
+
+If anyone of you has composed these things with a knowledge of the truth, if you can defend your writing when you are challenged, and if you can yourself make the argument that you're writing is of little worth, then you must be called by a name derived not from these writings but rather from those things that you are seriously pursuing. 
+
+The name Socrates has in mind is philosophy. The expression of words, written or spoken, is not the end of a process, but its continuation. 
+
+Objectifying knowledge
+Objective knowledge externalized into a physical text or the output of a large language model gives the appearance of wisdom but not its reality. In his talk, Walter Ong expresses this idea in the philosophical language of modern subjectivity: “whatever its intimate effects on knowledge, the physical text is not itself knowledge, for knowledge, verbalized or other, can exist only in a knowing subject.” He might have said “growing” subject.
+
+The multiplicity of cultural technologies, not just print but also those of sound recording and moving images, matters for second orality, especially as we consider the increasingly digital nature of culture. Ong concludes his talk with a brief consideration of the digital computer. 
+
+Putting the simplest statement of, say, a dozen words on to a page in a word processor involves operations inside the machine, totally remote from the human lifeworld, which are thousands, perhaps millions, of times more complex than writing or even letterpress printing, though unimaginably less complex than the activities of the human cerebrum.
+
+Thanks to advances in computer science and the development of the giant collection of digital data that is the internet, large AI models are unimaginably more complex than the digital computer when Ong was writing. Yet, they are still totally remote from the human lifeworld and still unimaginably less complex than the human brain. This is even clearer when we consider that the brain is the regulator of a living organism with embodied experiences, what anthropologist Shannon Jackson calls the “promiscuous coupling of perception and cognition” and what William James calls “the stream of consciousness.”7
+
+The evangelists of Silicon Valley urge us to accept their latest models as a miraculous form of superhuman intelligence. Any day now, it will announce itself, they tell us. Their aim was to build a model of human thinking, and what they built generates surprisingly human-like outputs. This has misled them into thinking they exceeded their aim. They are confused by their own invention.
+
+Socrates, speaking the words of Thamus to Theuth, says, “Since you are the father of writing, your affection for it has made you describe its effects as the opposite of what they really are.” This sounds a lot like what AI skeptics have to say to the “inventors” of the generative, pre-trained transformer. As Ben Riley of Cognitive Resonance explores in this post, Neil Postman makes use of this mythical exchange between the divine inventor of writing and the human king of Egypt. In the opening pages of Technopoly: The Surrender of Culture to Technology, Postman treats it as emblematic of the technophilic tendencies of contemporary society and argues in favor of what he calls “Thamusian skepticism.” 
+
+A Thamusian skeptic might argue that this most recent invention is not a new form of intelligence, but a new cultural tool, one that is better analogized to the graphite pencil than the human brain. Large, transformer-based models create astonishing representations of the world in pictures and words out of unimaginably large datasets. Yet their surprisingly effective computational algorithm does not function like human perception and cognition. ChatGPT and Claude do not compose their outputs “with a knowledge of the truth.”
+
+Ong argues that all technologies of writing are self-corrective. They objectify knowledge by externalizing it, creating the distance necessary for critical reflection.
+
+Writing has enabled us to identify the orality that was antecedent to it and to see how radically it differs from that orality. Writing has the power to liberate us more and more from the chirographic bias and confusion it creates, though complete liberation remains impossible. For all states of the word—oral, chirographic, typographic, electronic—impose their own confusions, which cannot be radically eliminated but only controlled by reflection.
+
+As this latest writing technology imposes its confusions on all of us, I try to reflect on what ChatGPT and Claude mean for education. Lately, I am settling into a Socrates-inspired AI illiteracy. I have stopped using the tools. I will not ask my students to join me in my abstinence, only that they examine their own choices when it comes to using the educational tools at their disposal. 
+
+AI Log, LLC. ©2025 All rights reserved.
+
+Share
+
+I left my full-time job last year to talk with people about what AI means for education. Find out more about these talks.
+
+𝐀𝐈 𝐋𝐨𝐠 speaks
+
+My writing here is offered at no charge. Subscribing simply means you will receive future essays in your email inbox. 
+
+SubscribeIf I depart Substack, I will use your email to let you know where to find my writing.
+
+Image credit: Bust carved by Victor Wager from a model by Paul Montford, University of Western Australia, Crawley, Western Australia. Photograph by Greg O'Beirne. Cropped by Tomisti - Own work, CC BY-SA 3.0, accessed via Wikimedia Commons.
+
+1The lecture was published as"Writing Is a Technology That Restructures Thought" in The Written Word: Literacy in Transition, ed. Gerd Baumann (Oxford: Clarendon Press, 1986). All quotes from Ong are from this text.
+
+2Here is Ong underestimating Plato: 
+
+The new technology of writing, it is now clear, was operating in Plato's lifeworld in ways far too convoluted for even Plato to understand. The technology of writing was not merely useful to Plato for broadcasting his critique of writing, but it also had been responsible for bringing the critique into existence. Although there was no way for Plato to be explicitly aware of the fact, his philosophically analytic thought, including his analysis of the effects of writing, was possible only because of the effects that writing was having on mental processes. 
+
+3All quotes from Phaedrus are from the Nehamas & Woodruff Edition, 1995. Hackett Publishing Company, 274c-278c.
+
+4This quote is from a story Socrates tells, a mythological story within Plato’s story told as a dialogue between Theuth and Thamus. Theuth is the divinity who discovered “number and calculation, geometry and astronomy.” He presents writing, his greatest invention, to Thamus, the king of all Egypt. It is Thamus, responding to Theuth, who says that teachers who have their students read and write are merely providing them “with the appearance of wisdom, not with its reality.” It is Thamus who says that students educated in this way “will be difficult to get along with, since they will merely appear to be wise instead of really being so.” 
+
+5Robert Richardson uses this phrase as the title of his wonderful book about Emerson on writing. All quotes from Emerson are from “The American Scholar, An Oration Delivered before the Phi Beta Kappa Society at Cambridge, August 31, 1837.”
+
+6Why Plato Wrote by Danielle Allen has greatly influenced my understanding of Phaedrus and the Republic by treating Socrates, and to some extent, Plato himself, as working in the philosophical tradition that, today, we call pragmatism. 
+
+7Professor Jackson’s line is from a conference talk she gave that I hope will appear in her current book project.
+
+1574SharePreviousNext

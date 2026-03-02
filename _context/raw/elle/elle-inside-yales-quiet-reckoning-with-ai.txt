@@ -1,0 +1,171 @@
+Inside Yale's Quiet Reckoning with AI
+https://thenewjournalatyale.com/2025/10/inside-yales-quiet-reckoning-with-ai/
+
+Elle's notes:
+Yale's 2024 Task Force on Artificial Intelligence produced a 121-page report investing $150 million in AI training and computing resources, but left classroom policy entirely to individual faculty. As Yale's inaugural AI director Ben Glaser stated: "Yale doesn't do top-down mandates." Result: Every professor sets their own AI rules (or doesn't). Students report widespread confusion: "If you walk around Sterling Memorial Library these days, you're almost certain to see a student's computer screen split: half black, half white... On the black side: ChatGPT." One student ("Gwen") used AI to write philosophy papers to avoid late submissions but felt "guilt... was just eating me alive." Another ("Noor") rationalized: "As long as I'm making an attempt to learn this material... I should be fine."
+
+Harvard relevance: Yale's approach is radical faculty autonomy—no university-wide assessment format mandates, just encouragement to "be leaders in an AI-infused future." The upside: professors can experiment. The downside: students face inconsistent expectations across courses, leading to strategic AI use (use it where allowed, hide it where banned). This contrasts with Sydney's top-down "two-lane" framework (Theme 1, Cycle 1). Harvard currently resembles Yale—individual faculty discretion—but the confusion and guilt students report suggests this model has limits. If fairness requires consistency, someone needs to set baseline expectations.
+
+--
+
+Amid ChatGPT’s rising popularity and a computer science cheating scandal, Yale students, professors, and administrators wrestle privately with the proper role of AI in education. What happens when everyone gets to decide for themselves? 
+
+Gwen, a junior political science major, first learned about ChatGPT near the end of her first year at Yale. Other students, she heard, were using it to write their papers. “I really dreaded writing my own essays,” Gwen told me. She decided to see what ChatGPT could do. Its instant output, she said, was “incredible”—a contrast to the stressful hours she would spend doing her own work.
+
+In the fall of her sophomore year, Gwen began falling far behind in all of her classes. She struggled to prepare for tests, and forgot deadlines until the last minute or missed them altogether. It was a “sophomore slump,” she said. Too embarrassed to seek out her professors or peers for help, Gwen turned to ChatGPT. (She asked to be referred to by a nickname to speak openly about her artificial intelligence use, out of fear of disciplinary action.) By the end of the semester, she was using it to help complete many of her assignments.
+
+By last spring, her struggles had only worsened. In a philosophy seminar—“my favorite class I’ve taken so far,” she said—Gwen used AI to write almost all her essays just to avoid late submissions. With AI, Gwen could hide her struggles from friends and professors. She never told them she was using AI. On rare occasions, when her friends saw she was falling behind, Gwen said they would joke: “Oh, your essay’s due tomorrow? Just use ChatGPT.”
+
+AI helped Gwen turn her philosophy papers in on time. But guilt, she said, “was just eating me alive.” She felt that she was deceiving her professors and betraying the purpose of her education. “If I’m using AI instead of doing the work myself, why am I here?”
+
+When her professor emailed her feedback on an AI-written paper, she refused to open it. She still hasn’t. “It’s wasting his time because he’s editing a fucking machine,” Gwen said. “Whatever he has to say is meaningless to me anyway, because it’s not my writing.”
+
+If you walk around Sterling Memorial Library these days, you’re almost certain to see a student’s computer screen split: half black, half white. The white side displays an English essay, a chemistry problem set, or a lab report. On the black side: ChatGPT. A single bold line of text prompts the student: “Where should we begin?”
+
+Since the moment ChatGPT was launched in November 2022, writers have lamented the future of college education. If we believe their reports, students have ceded all work to AI, professors are despairing, and chatbots are being trained to teach students skills that they won’t even be able to use since AI is taking their future jobs. The headline of a recent viral piece in New York Magazine reads, “Everyone Is Cheating Their Way Through College.” At Yale, the reality is much more complicated.
+
+The complexity starts with the word “cheating” itself. The usual story of cheating with AI goes like this: ChatGPT does your math homework. You turn it in. You get a good grade, which you didn’t deserve, and it’s unfair to students who did the work themselves. While this is true, “the much more grievous wrong is to the cheating student” who is “giving away the very substance of their educations,” as the Yale Undergraduate Regulations policy on academic integrity reads. 
+
+“Very few assignments have the product as the main outcome,” said Alfred Guy, director of Undergraduate Writing and Tutoring at Yale. “The main outcome is learning to make the product, and you can’t learn that if you don’t do the making.”
+
+Noor, a pre-med junior who asked to be referred to by her middle name, understood that if ChatGPT did too much thinking for her, she might not learn. She thought that through conscious effort, she could avoid this risk and use AI to accelerate her learning. “As long as I’m making an attempt to learn this material and I understand what I’m learning,” Noor said, “I should be fine.” But like most students, Noor also saw ChatGPT as an obvious tool to ensure a good grade. “We don’t want to risk getting the wrong answer,” she said.
+
+Over three months, I spoke to fourteen students, sixteen professors, and six administrators about AI culture at Yale. (Many of the students I spoke with are not identified by their full names in order to speak freely about violating rules on AI use.) These days, students can use AI to replace the previously irreplaceable: studying with friends, learning from professors, and putting their thoughts into writing. In doing so, they encounter the gray area of cheating not the system but themselves. When professors use AI, set rules about its use in class, or ignore it entirely, they must contemplate what their students should learn and how much their students can be trusted to do it themselves
+
+ Each day at Yale, community members quietly struggle to decide what role AI should play in their lives. These decisions present people with questions about the purpose of a college education—questions that they are answering on their own
+
+· · · · · 
+
+In January 2024, Provost Scott Strobel assembled a crew of professors and administrators into the Yale Task Force on Artificial Intelligence. Their mandate: study faculty engagement with AI, envision the future of AI at Yale, and recommend actions to realize that future. In his preface to a section of the task force’s July 2024 report, Yale College Dean Pericles Lewis cites the Yale Reports of 1828 by Reverend Jeremiah Day, then the President of Yale. Lewis quotes Day to make an argument for teaching students “how to learn.”
+
+ But Day’s Yale Reports go deeper. Day forcefully rejected pre-professionalism and argued that students must study widely to become open-minded citizens of good character. But he acknowledges that Yale can’t force students to do so. “The scholar,” Day wrote, “must form himself, by his own exertions.” 
+
+Yale is quite different today. Jennifer Frederick, the executive director of the Poorvu Center for Teaching and Learning, believes a Yale education maintains a “healthy tension” between “learning for the sake of learning” and “workforce preparation.”
+
+I often hear students suggest that a Yale diploma alone will guarantee professional success. This assurance might give students more freedom to learn for the sake of learning. Or, on the contrary, the career opportunities a Yale diploma affords might draw them even more to pre-professional pursuits. 
+
+Aside from limited distributional requirements forcing students to explore different subjects, today’s Yale students have to strike this balance themselves. The upshot of the task force report is that Yale wants itself and its students to be leaders in “an AI-infused future,” as the report called it. Yale is investing $150 million in teaching, training, and computing resources related to AI. The tone of the report, though—121 pages split between each Yale school—is more unsettled than triumphant. In most classrooms, the impact of Yale’s administrative stance is unclear. 
+
+“Yale doesn’t do top-down mandates,” said Ben Glaser, a former associate professor of English and, as of July, Yale’s inaugural director of AI initiatives in the humanities. Glaser isn’t interested in pushing students or faculty toward a particular view on AI. Mostly, he’d like them to be able to assess when AI aligns with their own educational priorities—and when it doesn’t. He wants to help them learn about AI’s strengths and limitations to hone this ability. 
+
+Without clear AI policies, even well-informed people will inevitably disagree. At a university that prides itself on a collaborative spirit, when it comes to AI, everyone is making their own decisions.
+
+ · · · · · 
+
+When Sea ’28 talks about ChatGPT, it often feels like she’s talking about a smart person named Chat. 
+
+Sea, who asked to be referred to by a nickname, told me she would often run her economics homework answers by ChatGPT and ask if they were right. “Then they would redo it,” she said, “and we’d come to the same answer.” (Sea refers to ChatGPT with the pronoun “they.”) Sometimes ChatGPT “hallucinates,” or makes stuff up. Sea admitted she struggled to tell when it was right or wrong. She also liked using ChatGPT to brainstorm her art history essays. She felt like AI helped her explain what she “wanted to say”—but thought its ideas were better than hers. When ChatGPT outputs an idea, Sea and other students I spoke to often feel that the idea was already present in the recesses of their own minds—and that AI simply helped them to locate it. 
+
+I asked Sea how she felt about using AI to generate ideas for her work. “It wasn’t my idea, but then at the same time, it could have been my idea,” she said. “It’s not like Chat is like a person, so I feel it’s not like I could plagiarize it. But then it’s also somewhat kind of plagiarism.” 
+
+She paused. “I don’t know. I haven’t really thought about it.”
+
+ Noor, the pre-med junior, initially treated ChatGPT as a teaching assistant. She continued attending office hours, but she sometimes wasn’t sure what to ask. She found that AI helped her understand what was confusing her. It was also, unlike human teachers, always available. “If we’re all stuck on one thing in the middle of the night,” she said, “we’re obviously gonna go to Chat.” 
+
+“These days, students can use AI to replace the previously irreplaceable: studying with friends, learning from professors, and putting their thoughts into writing. In doing so, they encounter the gray area of cheating not the system but themselves.” 
+
+Initially, Noor opposed using ChatGPT to check her homework answers. Seeing her friends doing this changed her mind. Even if she didn’t use AI, if she was going over her answers with a friend who did, Noor figured: “I’m kind of the same amount of guilty?”
+
+Her views have since shifted. Even as students such as Noor try to avoid compromising their learning with AI, sometimes, other priorities— friendships, more exciting classes, or good grades— win out. Among her friends now, Noor said, “there’s no shame, like guilt, admitting that you used [AI].” 
+
+· · · · · 
+
+Gwen thinks Yale’s culture drives the use of AI. Students, she said, view failure and struggle as signs of incompetence, rather than natural parts of learning. “I think the expectation is to always be on top of everything,” she said. “I really feel like AI would not be so common if people were willing to be a beginner and struggle and have moments of failure.” 
+
+John Hall, a math professor who directs parts of Yale’s calculus sequence, agrees that students often equate excellence with ease. To many students, he said, being good at math means, “you look at a problem, you know how to do it.” These students might not choose to struggle or wait for human help if they can use ChatGPT.
+
+But Hall has another explanation in mind for students’ AI use. Part of Yale culture, he said, is to “take advantage of every possible thing.” Demanding extracurricular activities crowd out learning. “I don’t think people are trying to get by and not learn,” Hall said. “But I think they don’t realize in the moment what they’re learning or not learning.”
+
+Whether they were optimistic or pessimistic about AI, professors often expressed sadness or frustration at the prospect of students losing out, knowingly or not, on opportunities to learn. “Yale offers you this astonishing opportunity to stretch your brain,” said Shelly Kagan, Clark Professor of Philosophy. “If you want to just waste your time [by using AI], then you’re an idiot.”
+
+I interviewed professors in sociology, music, computer science (CS), English, and humanities, who are teaching new classes about AI in their respective fields. Their views on education barely differed from those of professors who were avoiding AI.
+
+Economics professor William Hawkins is the course director for Introductory Macroeconomics, which now offers students a custom chatbot trained on course materials. Hawkins was more concerned that students who used AI to avoid thinking about an unfamiliar subject would “miss that chance to be interested.”
+
+Still, many were optimistic that students had the right priorities despite the competing pre-professional instinct. “I think that almost all Yale students understand that, really, the point is for them to learn,” Hall said. Most of the professors I spoke with thought students would avoid using AI in courses critical for a future job or those they enjoyed. 
+
+This wasn’t the case for Gwen in her philosophy class. And around the same time she was turning in her AI-written papers, one Yale professor noticed his own students cheating en masse, and he decided he had to intervene. 
+
+· · · · · 
+
+On March 25, Edward and around 150 other students in the difficult CS course CPSC 223 received an email. It was an hour before their first class after spring break.
+
+“We have identified significant AI usage,” wrote Ozan Erat, one of the three faculty members teaching CPSC 223. On one problem set, he wrote, “one third of submissions have shown clear evidence of AI usage.”
+
+Students had two options: admit to using AI and take a 50 percent penalty, or stay silent. If they stayed silent, and had been among the one third of students identified for AI use, they’d receive a zero on their work and face Yale’s disciplinary body, the Executive Committee. The kicker: students had to make this decision without knowing if they had been flagged for AI use. (Several days later, after students voiced their frustration, Erat notified the accused students.) 
+
+“Everyone was freaking out,” said Edward, now a sophomore, who asked to be referred to by his first name only. He and Santiago Gonzalez, another student in the class, agreed that almost everyone used AI in some form. The problem was that nobody knew how Erat and the other professors detected it.
+
+Erat had seen signs of AI use early. Office hours attendance was down by half from previous years, posts on the course’s online question forum were down 75 percent, and, as Erat told me with a smile, “test scores declining, p-set scores, inclining.” (In an introductory 150-person CS class he taught last fall, Erat said only one student came to his office hours during the whole semester.)
+
+While grading the first CPSC 223 assignment, Erat found that many students’ submissions included programming techniques they hadn’t been taught. Suspecting ChatGPT, Erat added a question to the first exam asking students to explain one such technique. “95 percent or 99 percent were not able to answer that question,” he said.
+
+Erat spent his spring break reading through each student’s homework. He searched for bits of reoccurring code that were neither taught in class nor necessary to do the assignments—and that he’d rarely seen in previous semesters. When Erat asked ChatGPT to do the assignments, he found that it used these bits of code consistently.
+
+This method of detecting AI is flawed. While Erat accused around 30 percent of the students of using AI, he says “it’s probably 70 percent or more in reality,” most of whom he couldn’t detect.
+
+Erat also found that ChatGPT-4.5, a feature of ChatGPT Plus that is available for a fee of 20 dollars per month, did not generate the characteristic flags. And even without paying, a savvy student could edit AI-generated code to alter those parts that appear inhuman.
+
+Edward thought that students who used AI the least—and lacked practice in covering it up—were more likely to be accused. In his view, “the heavy AI users actually weren’t getting touched by this.”
+
+When the amnesty policy expired, around fifty students had admitted to using AI and accepted the 50 percent penalty. A few of the flagged students, such as Edward, were able to show Erat how they had learned to write the code that was flagged as AI. These students avoided the penalty. (Edward had learned the material from various online tutorial websites.) The remaining handful of students were sent to the Executive Committee for further investigation. Erat says that after the accusations, students seemed to use AI much less. But the episode was less of a pedagogical triumph than a cautionary tale.
+
+Enforcing AI restrictions fairly is impossible. Detection methods are ineffective and self-defeating because students easily learn to evade them. Erat himself told me he knew this was the last time he would be able to detect AI. Yale’s Poorvu Center states on its website that “there is no tool or method to detect AI use with any certainty.”
+
+Edward seemed unsure what to think of the situation. One part of him figured that many students just didn’t want to learn. “If you’re gonna cheat, you’re gonna cheat, right?” But another part of him saw a more fluid reality. Maybe by “revamping the entire course,” professors could fix a learning system that AI seemed to have broken. 
+
+· · · · ·
+
+ In core Yale CS classes such as CPSC 223, students learn programming languages that are no longer widely used in industry and programming tasks that AI could now easily do for them. The problem of AI raises the old debate between a liberal arts education and career preparation. This is the core of a serious tension in the CS department: what is it supposed to teach students?
+
+Many students view the CS major as a “bootcamp” that teaches you only the information you need to land a well-paid job, Erat said. Gonzalez, the other CPSC 223 student I interviewed, thinks most students take classes similar to CPSC 223 not “for the love of the game,” but as “a means to an end”—the “end” in question being a job. 
+
+“It’s not like that,” said Erat. The point of computer science classes, he said, is to “learn how to learn.”
+
+The “game” that Gonzalez is talking about is computer science, emphasis on science. Computer science is an academic discipline like any other. Computer scientists study problems in the interest of discovering new science. Practical applications are often secondary.
+
+A degree in CS mostly prepares students to become computer scientists, just as a history degree mostly prepares students to be historians. The idea is not that every student will become an academic— few do—but that the initial training in this direction will prepare students for varied pursuits. When the world changes, Erat argues, the student who studied CS will have the creativity to “learn how to search, how to integrate things.” But for the student who just used AI to make programs, he said, “It’s going to be impossible.”
+
+Conversely, CS professor Lin Zhong thinks Yale’s core CS curriculum is “stuck in the 1980s.” He wants students to develop the AI expertise that they would need as professional software engineers. “If your student[s] don’t learn how to use [AI], they lose their job,” he said. Students in Zhong’s Computer Systems Design course earn extra credit for using AI creatively to do their homework.
+
+Zhong made this class much harder after AI emerged. Students are supposed to have AI do simple tasks that they previously would have done themselves. With this new power, Zhong said, students attempt problems that used to be reserved for more advanced students. “You have to design the curriculum so that students are forced to learn, right?” he said.
+
+This fall, I went to the first day of Erat’s CPSC 223 to see what had changed since last spring. Within minutes, I learned that 90 percent of the final grade is now based on a trio of three-hour written exams. Homework is worth 0 percent. Erat explained that he no longer bans AI in his class. He spent several minutes discussing the pros and cons of using AI, but focused on the cons. “If you let AI do the job for you, AI will take your job,” Erat warned—directly contradicting Zhong.
+
+As Erat said this, I watched the student in front of me download Microsoft Copilot, an AI coding assistant, to help with his work. In another tab, he opened up a job application.
+
+Would using AI help this student get the job, or cause him to lose it? It’s impossible to know. Nearly half the students I interviewed were asked to use AI at their summer jobs. Meanwhile, professors who teach advanced CS electives have told Erat that students who took CPSC 223 last spring have arrived in their classes not knowing how to code.
+
+When I spoke to Erat again several weeks into the semester, he said the changes to the course were going well. Students still submit clearly AI-generated code for the ungraded problem sets, and office hours remain rather empty. “If you’re learning,” Erat said, “that’s not a big issue.” Strong scores on the first exam suggested that students were indeed learning, just without human help.
+
+Education is changing at Yale because of a few tech companies’ unexpected breakthroughs. Most students get their non-human help from OpenAI, which makes ChatGPT, though some also use Google’s Gemini chatbot or Anthropic’s Claude. Yale’s AI culture is linked to these chatbots’ changing flaws and abilities, which in turn reflect their creators’ interests. All three companies have launched marketing campaigns specifically targeting college students. During final exams last spring, OpenAI offered a premium version of ChatGPT for free to college students nationwide. A representative of OpenAI declined to comment.
+
+Shubham Phal is a founding engineer at Google’s AI for Education division. He’s young: Phal graduated from college in 2020 and received his master’s in computational data science in 2022. In July, we met up for lunch at the gleaming Googleplex in Mountain View, California. I wanted to know how his understanding of learning informs the way he builds AI.
+
+The “real learning experiences that you remember for your life,” Phal said, are “the ones where you actually collaborated with people, you discussed a bunch of ideas with them, you came up with your own theories.” He was one of the lead engineers behind Google’s recent efforts to make a chatbot tutor— something that could teach anything to anyone.
+
+Phal talks with a Silicon Valley mix of technical explanations and utopian futurism. He hoped AI tutors would “accelerate the pace” at which students can have those collaborative experiences, he said. But Phal wasn’t sure how this would work in practice. “I’m not an expert on how to teach,” he said. Phal thinks professors should view the potential of teaching with AI as “something transformative.” I mentioned Erat’s empty office hours and asked Phal how he planned to enact his vision of the future, one where AI filled classrooms rather than emptied them. “The professors themselves,” he said, would be responsible for figuring that out. Phal was sure they would succeed. “That’s good,” he said, because that’s “ultimately progressing as a civilization.”
+
+Phal seemed already to have moved on—he had another question on his mind. “How do we progress faster?” he asked.
+
+ · · · · · 
+
+By the end of the spring semester, Gwen reached a breaking point with AI. “I felt like I didn’t deserve to be a Yale student,” she said. She thought that she was throwing away her education and the scholarship paying to support it. 
+
+She decided to quit using ChatGPT altogether. She didn’t ask AI to help her sentences flow or to strike the right tone. She didn’t even use it to brainstorm. “I think that’s a skill you need to have on your own. That’s the core of being original, anyway.” 
+
+Gwen recalled completing her final assignments without AI, sitting in the middle of a crowded library so that she felt watched. “I struggled. And they weren’t very good.” 
+
+It was only then, she said, that she started to understand just how much learning she had missed out on. ∎ 
+
+Alex Moore is a senior in Grace Hopper College and publisher of The New Journal.
+
+A previous version of this article misstated Glaser’s faculty position at Yale. He is no longer a professor of English.
+
+ 
+ 
+
+ 
+
+ 
+ Having adopted, and then abandoned, ChatGPT this hit close to home (I would guess for a lot of people). Well-written Alex — it’s inspiring to see how this grew from NYI.

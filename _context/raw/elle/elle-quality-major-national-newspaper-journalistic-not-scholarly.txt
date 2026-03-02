@@ -1,0 +1,48 @@
+quality: Major national newspaper; journalistic not scholarly, but reflects real pedagogical shifts. Likely amplifies trends beyond their actual prevalence (selection bias toward early adopters).
+https://ahenetwork.org/students-and-teachers-love-it-ai-cannot-make-it-the-necessity-of-the-unessay-in-our-assessment-world/
+
+Elle's notes:
+2. The "Unessay" Movement: Creative Alternatives to Traditional Papers
+:page_facing_up: Students and teachers love it, AI cannot make it: the necessity of the unessay in our assessment world
+Academic Health Economists' Network, August 2023
+Summary: The "unessay" — coined by medievalist Daniel Paul O'Donnell — invites students to demonstrate learning through non-traditional formats: podcasts, videos, creative projects, performances, websites, or other media that engage their passions. The assessment focuses on depth of engagement and originality rather than adherence to essay conventions. Proponents argue that unessays are inherently AI-resistant because they require personal creativity, context-specific application, and multimodal skills that generative AI can't replicate. Research shows students and teachers report higher satisfaction, deeper learning, and bypass "the vapidness of AI generated assignments."
+The Washington PostProfessors are turning to this old-school method to stop AI use on examsA small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful AI platforms.Dec 12th, 2025https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/ahenetwork.orgStudents and teachers love it, AI cannot make it: the necessity of the unessay in our assessment worldMilena Marinkova, Joy Robbins, Leeds University, Leeds, United Kingdom The unessay is a type of assessment approach that allows students a degree of freedom not seen in most assessment types. Stude…Aug 2nd, 2023[5:47 AM]Harvard Context: The unessay movement offers an alternative to oral exams for making assessment more AI-resistant while maintaining written/creative expression. Rather than abandoning writing entirely, unessays transform it — students might create a podcast analyzing a historical event, a video essay on philosophical arguments, or an interactive website exploring scientific concepts. Harvard already has examples: VES students create multimedia portfolios; Music concentrators compose original pieces; some literature courses allow creative responses. The challenge: scaling unessays requires significant grading infrastructure (faculty must evaluate diverse formats, not standardized essays) and clear rubrics (what counts as "good" in a podcast vs. a traditional paper?). The benefit: unessays address AI and other longstanding pedagogical critiques — that traditional essays privilege particular communication styles, disadvantage non-native writers, and fail to engage diverse student interests.
+Methodological note: Article is advocacy piece, not empirical study. Claims about student learning would benefit from systematic assessment data.
+
+--
+
+Students and teachers love it, AI cannot make it: the necessity of the unessay in our assessment world
+
+ 
+ 
+Milena Marinkova, Joy Robbins, Leeds University, Leeds, United Kingdom
+
+The unessay is a type of assessment approach that allows students a degree of freedom not seen in most assessment types. Students choose their own topic and their own way of presenting it, with the stipulation that it be ‘compelling and effective’ (O’Donnel 2012). When given an unessay, students have produced work that has usually exceeded the learning and engagement allowed by previous assessment constructs. For example, students have learned histology of organ cells better than through exams (Wood and Stringham, 2022), creatively shown understanding of computer programming far more interestingly than original programming assignments (Aycock et al., 2019), and practically applied cognitive psychology concepts in insightful ways (Goodman, 2022), to say nothing of the many success stories blogged about across humanities disciplines, and the growing movement on Twitter (#unessay). In our own classroom, the unessay approach has literally brought tears to our eyes (in a good way).
+
+This presentation will outline the necessity of the unessay in the face of AI-generated work, student stress, teacher burnout, and the need for more inclusive and synoptic assessment. Drawing on examples of student unessays completed for an elective module at our university and reflections on the assessment process, we will extend existing discussions of the unessay as a necessary presence in the contemporary assessment landscape. While practitioners have repeatedly acknowledged that its multimodal, creative and situated nature can shift reductive views of knowledge communication (Sullivan, 2015), we will also share observations on how the unessay can develop interdisciplinary understandings. Moreover, with the unessay opening up an important relational space for students, where they could explore what “fuels their passion” (Jakopak, Monteith and Merkle, 2019), we also argue that this approach to assessment can offer a meaningful space for learners’ engagement with learning, bypassing the vapidness of AI generated assignments.
+
+Key References
+
+Aycock, J. et al. (2019) ‘Adapting the “unessay” for use in computer science’, in Proceedings of the 24th Western Canadian Conference on Computing Education, WCCCE 2019. Association for Computing Machinery, Inc. doi: 10.1145/3314994.3325073.
+
+Goodman, S. G. (2022) ‘Just as Long as It’s Not an Essay: The Unessay as a Tool for Engagement in a Cognitive Psychology Course’, Teaching of Psychology. SAGE Publications Inc., 2022(0), pp. 1–5. doi: 10.1177/00986283221110542/FORMAT/EPUB.
+
+Jakopak, R. P., Monteith, K. L. and Merkle, B. G. (2019) ‘Writing Science: Improving Understanding and Communication Skills with the “Unessay”’, The Bulletin of the Ecological Society of America. Wiley, 100(4). doi: 10.1002/bes2.1610.
+
+O’Donnel, D. P. (2012) ‘The unessay’. 4 September. Daniel Paul O’Donnell. http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay
+
+Sullivan, P. (2015) ‘The UnEssay: Making Room for Creativity in the Composition Classroom’, 67(1), pp. 6–34.
+
+Wood, J. L. and Stringham, N. (2022) ‘The UnEssay project as an enriching alternative to practical exams in pre-professional and graduate education’, Journal of Biological Education. Informa UK Limited, pp. 1–8. doi: 10.1080/00219266.2022.2047098.
+
+Share this:
+- 
+ Share on X (Opens in new window)
+ X
+ 
+- 
+ Share on Facebook (Opens in new window)
+ Facebook
+ 
+- 
+Like Loading...
