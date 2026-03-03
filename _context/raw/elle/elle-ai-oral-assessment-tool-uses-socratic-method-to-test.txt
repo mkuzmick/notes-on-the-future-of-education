@@ -1,0 +1,104 @@
+AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge
+https://www.gatech.edu/news/2024/09/24/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge
+
+Elle's notes:
+Ray Hung (Georgia Tech master's student) and Professor Thad Starner developed Socratic Mind, an AI-powered platform that conducts oral exams using Socratic questioning. The system engages students in real-time dialogue, asking follow-up questions to probe understanding—not just accepting memorized answers. Piloted with 5,000+ students at Georgia Tech and UC San Diego, the platform achieved 70-95% positive student experience with statistically significant learning improvements. Students reported that the AI is "not just conversational but also adverse to human persuasion"—unlike ChatGPT, it won't agree with you just because you argue forcefully. The platform won a $50,000 Catalyst Award at the Learning Engineering Tools Competition.
+
+Harvard relevance: This is the ironic solution—using AI to conduct AI-resistant assessments. The key insight: Socratic Mind doesn't just ask questions; it follows up on shallow answers. Students can't memorize ChatGPT responses because the conversation is dynamic. Scalability is the breakthrough: Professor Joyner is using this with 2,000+ students at Georgia Tech, making oral assessment feasible for large lecture courses. For Harvard, this could bridge the gap between "oral exams are pedagogically superior" and "we don't have time to interview 600 students." The platform also serves as practice infrastructure—students can rehearse defending their thinking before high-stakes oral finals.
+
+--
+
+- 
+- 
+
+- 
+
+- 
+
+AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Skip to main navigation
+
+Skip to main content
+
+AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge
+
+AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge
+
+Sep 24, 2024
+
+A year ago, Ray Hung, a master’s student in computer science, assisted Professor Thad Starner in constructing an artificial intelligence (AI)-powered anti-plagiarism tool for Starner’s 900-student Intro to Artificial Intelligence (CS3600) course.
+
+While the tool proved effective, Hung began considering ways to deter plagiarism and improve the education system.
+
+Plagiarism can be prevalent in online exams, so Hung looked at oral examinations commonly used in European education systems and rooted in the Socratic method.
+
+One of the advantages of oral assessments is they naturally hinder cheating. Consulting ChatGPT wouldn’t benefit a student unless the student memorizes the entire answer. Even then, follow-up questions would reveal a lack of genuine understanding.
+
+Hung drew inspiration from the 2009 reboot of Star Trek, particularly the opening scene in which a young Spock provides oral answers to questions prompted by AI.
+
+“I think we can do something similar,” Hung said. “Research has shown that oral assessment improves people’s material understanding, critical thinking, and communication skills. 
+
+“The problem is that it’s not scalable with human teachers. A professor may have 600 students. Even with teaching assistants, it’s not practical to conduct oral assessments. But with AI, it’s now possible.”
+
+Hung developed The Socratic Mind with Starner, Scheller College of Business Assistant Professor Eunhee Sohn, and researchers from the Georgia Tech Center for 21st Century Universities (C21U).
+
+The Socratic Mind is a scalable, AI-powered oral assessment platform leveraging Socratic questioning to challenge students to explain, justify, and defend their answers to showcase their understanding.
+
+“We believe that if you truly understand something, you should be able to explain it,” Hung said. 
+
+“There is a deeper need for fostering genuine understanding and cultivating high-order thinking skills. I wanted to promote an education paradigm in which critical thinking, material understanding, and communication skills play integral roles and are at the forefront of our education.”
+
+Hung entered his project into the Learning Engineering Tools Competition, one of the largest education technology competitions in the world. Hung and his collaborators were among five teams that won a Catalyst Award and received a $50,000 prize.
+
+Benefits for Students
+The Socratic Mind will be piloted in several classes this semester with about 2,000 students participating. One of those classes is the Intro to Computing (CS1301) class taught by College of Computing Professor David Joyner.
+
+Hung said The Socratic Mind will be a resource students can use to prepare to defend their dissertation or to teach a class if they choose to pursue a Ph.D. Anyone struggling with public speaking or preparing for job interviews will find the tool helpful. 
+
+“Many users are interested in AI roleplay to practice real-world conversations,” he said. “The AI can roleplay a manager if you want to discuss a promotion. It can roleplay as an interviewer if you have a job interview. There are a lot of uses for oral assessment platforms where you can practice talking with an AI.
+
+“I hope this tool helps students find their education more valuable and help them become better citizens, workers, entrepreneurs, or whoever they want to be in the future.”
+
+Hung said the chatbot is not only conversational but also adverse to human persuasion because it follows the Socratic method of asking follow-up questions.
+
+“ChatGPT and most other large language models are trained as helpful, harmless assistants,” he said. “If you argue with it and hold your position strong enough, you can coerce it to agree. We don’t want that.
+
+“The Socratic Mind AI will follow up with you in real-time about what you just said, so it’s not a one-way conversation. It’s interactive and engaging and mimics human communication well.”
+
+Educational Overhaul
+C21U Director of Research in Education Innovation Jonna Lee and C21U Research Scientist Meryem Soylu will measure The Socratic Mind’s effectiveness during the pilot and determine its scalability.
+
+“I thought it would be interesting to develop this further from a learning engineering perspective because it’s about systematic problem solving, and we want to create scalable solutions with technologies,” Lee said.
+
+“I hope we can find actionable insights about how this AI tool can help transform classroom learning and assessment practices compared to traditional methods. We see the potential for personalized learning for various student populations, including non-traditional lifetime learners."
+
+Hung said The Socratic Mind has the potential to revolutionize the U.S. education system depending on how the system chooses to incorporate AI.  
+
+Recognizing the advancement of AI is likely an unstoppable trend. Hung advocates leveraging AI to enhance learning and unlock human potential rather than focusing on restrictions.
+
+“We are in an era in which information is abundant, but wisdom is scarce,” Hung said. “Shallow and rapid interactions drive social media, for example. We think it’s a golden time to elevate people’s critical thinking and communication skills.”
+
+For more information about The Socratic Mind and to try a demo, visit the project's website.
+
+Contact
+
+Nathan Deen
+
+Communications Officer
+
+School of interactive Computing
+
+View source

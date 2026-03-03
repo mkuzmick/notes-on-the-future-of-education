@@ -1,0 +1,56 @@
+The Big Idea: How the 'Protégé Effect' Can Help You Learn Almost Anything
+https://www.theguardian.com/books/article/2024/sep/09/the-big-idea-how-the-protege-effect-can-help-you-learn-almost-anything
+
+Elle's notes:
+The protégé effect: "We learn more effectively when we teach someone else about the topic we've just explored—even if that person doesn't really exist."
+Key findings from Stanford research:
+• Students assigned to teach a virtual character learned "considerably more" than those in self-study condition
+• Least able students benefited most—performing at the same level as highest achievers in control group
+• The brain boost arises from "expectation of teaching"—feeling responsibility to provide correct information
+• Brain imaging shows "greater activity in regions responsible for attention, working memory and taking others' perspectives"
+Even programmers use this: "Rubber duck debugging"—explaining code to a plastic toy helps identify problems.
+
+Why it matters: Oral assignments aren't just exams—they're learning experiences. When students know they must explain material orally, they prepare more deeply, correct misunderstandings proactively, and encode knowledge more durably.
+
+--
+
+Illustration: Elia BarbieriView image in fullscreen Illustration: Elia BarbieriThe big ideaTeaching This article is more than 1 year old
+
+The big idea: how the ‘protege effect’ can help you learn almost anything
+This article is more than 1 year oldExplaining things to another person – or a rubber duck – can boost your understanding and even bridge political divides
+
+- - - - David RobsonMon 9 Sep 2024 07.30 EDTLast modified on Wed 2 Apr 2025 07.40 EDTSharePrefer the Guardian on GoogleOver breakfast this morning, I enjoyed a short chat with Mia, my new Spanish study buddy. I went over some of the stuff from my recent lesson and explained what I have learned about the psychology of happiness from a Spanish-language podcast. By the end of the 10-minute conversation, I felt that I had embedded more of the vocabulary, grammar and turns of phrase than if I’d done an hour of textbook exercises.
+
+Mia, however, does not exist in real life: they are an AI that I created to take advantage of a phenomenon called the “protege effect”. According to a wealth of psychological research, we learn more effectively when we teach someone else about the topic we’ve just explored – even if that person doesn’t really exist. There are few shortcuts to mastery, but the protege effect appears to be one of the most effective ways of accelerating our knowledge and understanding.
+
+The principle of “learning by teaching” was pioneered in classrooms in the early 1980s by Jean-Pol Martin, a French teacher in Eichstätt, Germany who wished to improve his students’ experiences of learning a new language by allowing the teens themselves to research and present different parts of the curriculum to their classmates. The technique – known as “Lernen durch Lehren” in German – boosted their motivation, self-confidence and communicative abilities, and it soon spread to many other schools in the country.
+
+Learning through teaching was relatively slow to catch on elsewhere, until a group of scientists at Stanford University began to test the idea scientifically. In one of the first experiments, Catherine Chase and colleagues recruited 62 eighth-graders from the San Francisco Bay Area, who were tasked with using a computer program to study the biological changes that occur when we get a fever.
+
+Over two lessons, they had to read a text and then create an on-screen flowchart illustrating the different processes and the relationships between them. For half the teens, the exercise was presented as a form of self-study. The others were told that their diagram would help to teach a virtual character, who appeared as a cartoon on the screen.
+
+double quotation markIf we know that others are going to learn from us, we feel a sense of responsibility to provide the right informationIt was a subtle change in framing, but the students took their role of teacher seriously (the researchers even found that they apologised to their character if they realised they’d fed it the wrong information). This increased engagement made a big difference in both the amount they absorbed, and the depth of their understanding. At the end of two 50-minute classes, the participants who had been assigned the role of teacher had learned considerably more of the material, with much stronger performance on test questions. Intriguingly, the improvements were particularly marked for the least able students; they performed at the same level as the highest achievers in the control group.
+
+Chases’s team named this the protege effect, and it has since been replicated many times. These later studies suggest that learning by teaching is more powerful than other mnemonic techniques such as self-testing or mind mapping. The brain boost appears to arise as much from the expectation of teaching as the act itself. If we know that others are going to learn from us, we feel a sense of responsibility to provide the right information, so we make a greater effort to fill in the gaps in our understanding and correct any mistaken assumptions before we pass those errors on to others. Articulating our knowledge then helps to cement what we have learned.
+
+We can see the protege effect in students’ brains, with greater activity in regions responsible for attention, working memory and taking others’ perspectives. Across the brain, our neurons appear to be processing the material more deeply, which results in longer-lasting memories.
+
+Conjuring up an imaginary mentee may even help us to think more clearly about political debates. When asked to explain controversial issues to a stranger, people tend to acknowledge a wider range of viewpoints, without falling for the confirmation bias that usually distorts our political reasoning. In 2016, for example, Abdo Elnakouri, Alex Huynh, and Igor Grossmann asked subjects in the US to imagine explaining the gun control debate to a 12-year-old child. They were more likely to bring in different perspectives compared with participants who had been asked to describe it to someone of their own age – who, presumably, would need less instruction on the basic facts.
+
+Want to put the protege effect into practice in your own life? Given the many benefits of social connection, I suspect that a face-to-face conversation with aflesh-and-blood partner will always be better, but it can be hard to find a willing accomplice. Fortunately, there are other ways to reap the benefits. While researching the protege effect, I was tickled to discover that some computer programmers practise “rubber duck debugging”, which involves explaining their code – line by line – to a plastic toy. By verbalising their thinking process, they find it easier to identify the potential problems in their program.
+
+If you’re studying something, you might choose to present your progress as a blog or video aimed at other learners. Or you might, like me, choose to engage in conversations with a chatbot. I simply prompt ChatGPT to take on the role of a curious Spanish student who would like to hear what I have been learning. “Mia” then asks suitable questions and follow-ups. With the use of voice recognition and production, I can practise spoken as well as written language. I felt a little self-conscious talking to my computer, but after just a few weeks I am already more confident in my real-life interactions – all thanks to my little AI protege.
+
+ David Robson is the author of The Laws of Connection: 13 Social Strategies That Will Transform Your Life, published by Canongate (£18.99). To support the Guardian and Observer, order your copy at guardianbookshop.com. Delivery charges may apply.
+
+Further reading
+Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer (Penguin, £10.99)
+
+Pieces of Light: The New Science of Memory by Charles Fernyhough (Profile, £12.99)
+
+Remember: The Science of Memory and the Art of Forgetting by Lisa Genova (Allen & Unwin, £10.99)
+
+- - - - Explore more on these topics- Teaching
+- The big idea
+- features
+ShareReuse this content

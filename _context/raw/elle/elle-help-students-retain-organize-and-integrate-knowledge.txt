@@ -1,0 +1,294 @@
+Help Students Retain, Organize and Integrate Knowledge
+https://tll.mit.edu/teaching-resources/how-to-teach/help-students-retain-organize-and-integrate-knowledge/
+
+Elle's notes:
+MIT Teaching + Learning Lab
+Key insight: MIT's synthesis of learning science research identifies "retrieval practice" and "self-explanation" as key to long-term retention. "Actively retrieving information, compared to simply restudying, improves students' long-term retention (the testing effect; Roediger & Karpicke, 2006) and ability to apply information in novel contexts (transfer of learning)." Recommends activities that involve verbalizing concepts.
+
+--
+
+Help Students Retain, Organize and Integrate Knowledge
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Image: Envato Elements by photocreo
+
+Why Is It Important?
+
+A fundamental goal of education is to promote enduring learning that equips students with the skills, knowledge, and beliefs that can be applied to solve problems in novel settings or explore issues in original ways. To support students’ acquisition of concepts and skills, and to develop their understanding of how and when to apply them, there are three key learning processes to reinforce in your teaching:
+
+- Retention refers to long-term storage of concepts and skills in memory. Students forget rapidly when concepts and skills are not activated and applied after initial learning (Fisher & Radvansky, 2018). By integrating learning activities that promote long-term retention, you can help make concepts available for students to apply later in the semester, outside of the class context, and beyond.
+
+- Organization refers to developing a rich, interconnected, cognitive network of concepts that allows us to connect new learning to prior knowledge, categorize similar pieces of information, and access relevant concepts when needed. By including learning activities that promote organization in memory, you increase the likelihood that students will access and recall relevant information from long-term memory when it is needed.
+
+- Integration refers to the application, interpretation, and/or synthesis of information from disparate contexts and perspectives (Barber, 2012) to reveal new insights, clarified meanings, or broader perspectives (AAC&U, 2009). Designing learning activities that promote integration enables interdisciplinary learning and supports students’ development of innovative solutions to problems or perspectives on complex issues.
+
+To promote enduring learning, we should design teaching practices and learning activities to help students retain, organize, and integrate key concepts and skills identified in the intended learning outcomes to endure and extend beyond the class context. 
+
+Teaching Practices That Support Students’ Enduring Learning
+
+Learning strategies that promote long-term retention, organization, and integration require students to actively engage with concepts and skills through deliberate practice of relevant tasks. Each learning strategy below involves students in the construction of knowledge, sometimes in collaboration with peers, and falls into the category of active learning (Freeman et al., 2014). 
+
+Prior knowledge
+
+Retrieval practice
+
+Self-explanation
+
+Space Practice
+
+Inter-leaving
+
+Ascertain and leverage students’ prior knowledge
+
+Prior knowledge can bolster retention, organization, and integration of new learning by enabling connections to robust, interconnected networks of concepts in memory. By adopting teaching practices that activate accurate prior knowledge, you not only bolster student learning but also gather key information that helps you to adapt your teaching to leverage students’ knowledge more effectively. However, prior knowledge can also get in the way of new learning if it is inaccurate, insufficient, or inappropriate (Ambrose, Bridges, DiPietro, Lovett, & Norman, 2010). See Caveats and Misconceptions (and how to address them).
+
+The following activities offer a purposeful route into learning for students as they transition into or out of the classroom context and inform how you can adapt class sessions to meet students where they are, address gaps or misconceptions in their knowledge, and guide their practice to help them reach intended learning outcomes. You can also analyze common errors to discuss with the class, correct misconceptions, and normalize students’ struggles with confusing concepts.
+
+Prior Knowledge
+
+At the beginning of the semesterYou can gauge students’ prior knowledge by asking them to take a written pre-quiz or to engage in small group activities that allow them to share what they already know and pose questions about what they’d like to know. 
+
+At the start of a class sessionYou can elicit students’ prior knowledge by inviting them to complete a warm-up question as they wait for class to begin, such as writing down what they know about a particular concept, answering a focused concept question, or drawing on lived experience to develop an everyday example of a concept.
+
+At the end of a class sessionYou can help students forge connections between new concepts and previously learned ideas by asking them to complete an exit ticket in which they generate examples from their own life that relate to concepts discussed that day.
+
+Engage students in retrieval of previously learned information
+
+When you pose a question about a recently learned concept to students in a class session or on a quiz, students engage in retrieval practice whenever they pull information out of long-term memory to produce an answer. Robust research demonstrates that actively retrieving information, compared to simply restudying or reviewing it, improves students’ long-term retention (i.e., the testing effect; Roediger & Karpicke, 2006; Carpenter, Pan, & Butler, 2022) and their ability to apply information in novel contexts (i.e., transfer of learning; Carpenter, 2012). Retrieval practice also helps students evaluate what they do and don’t know, which can guide their studying or help-seeking behaviors (e.g., asking clarification questions in office hours).
+
+Retrieval Practice
+
+During class
+
+- Polling Software. You can integrate brief learning activities during a class session with direct concept questions with a single correct answer (such as short-answer or multiple-choice questions). Polling software (e.g., Poll Everywhere, Slido) and clicker response systems provide a way to invite responses from all students and see how students respond. In addition to posing concept questions with a single correct answer, consider also using open-ended questions to engage students in active retrieval. 
+
+- Two Things. Ask students to recall two things using any of the following prompts: they learned so far today; they learned yesterday, last class, last week; key points from this unit; or they’d like to learn more about (Agarwal & Bain, 2019).
+
+- 3-2-1. Ask students to write down 3 previously learned concepts that were reinforced in today’s lessons, 2 new concepts or ideas, and 1 question they have. These open-ended questions could be integrated at the beginning of class (to recall concepts from the last class session or the reading), during class, or at the end of class. To improve students’ awareness of their own learning processes (that is, metacognition), ask students to pair up with a classmate after answering one of the questions to discuss their responses and address the following questions: What do you have in common? Look back at notes or text. What did you miss? Why do you think you remembered what you did?
+
+- Quizzes. Frequent, low-stake quizzes are a traditional way to incorporate retrieval practice, regardless of whether they occur in or out of class. Questions can be open-ended or free-response, multiple choice, or any other format. Feedback on whether an answer is correct or incorrect can be provided automatically in online quizzes or by the instructor or peers.
+
+Outside of classHomework Assignments. Retrieval practice activities can also be integrated into assignments to prepare for class or homework. For example, you can begin a problem set by asking students to recall relevant concepts, problems completed in class, or steps in a problem-solving process. These prompts not only strengthen students’ memory for these concepts or problem-solving processes but also help students recognize the connections between learning activities in class and the problem sets.
+
+To help students get the most learning benefits from retrieval practice, prompt students to call to mind previously learned concepts and skills through frequent, “low stakes” opportunities (i.e., as formative assessments). By including opportunities for students to practice retrieval without a grade, you emphasize retrieval as a learning opportunity, reduce pressure and student anxiety (Khanna, 2015), and encourage them to attempt retrieval even when they don’t think they know the answer.
+
+Promote deep understanding through self-explanation
+
+Self-explanation practices deepen conceptual understanding by making connections with related concepts and elaborating on learned concepts by asking why or how questions. For example, when learning about a circuit model of a neuron, a student could deepen their understanding by going beyond solving a problem to consider the meaning of one part of the equation for the biological system, as illustrated in this video of an MIT student describing how they study.
+
+Research by Smith, Holliday, and Austin (2010) demonstrated that engaging with explanatory questioning (e.g., after learning the fact, “Saliva must mix with food to initiate digestion,” students explained why it was true) improved retention of both learned concepts as well as related ideas. Moreover, Wong, Lawson, and Keeves (2002) found that prompting students to explain concepts to themselves during initial learning also helped them apply their learning to new problems (see also Chi, Bassok, Lewis, Reimann, & Glaser, 1989). Explanatory questions also encourage students to retrieve relevant prior knowledge, thereby allowing for more effective organization and integration of new learning with previously learned concepts.
+
+Self-Explanation
+
+During class
+
+You can integrate brief (<5 minutes) activities to engage students in explanatory questioning about concepts, such as:
+
+- Pausing and asking students to explain a particular concept, process, or their reasoning for a step in problem solving. You can also ask them to explain the relationship between two concepts. Students can either write down their explanation or say it aloud to a classmate.
+
+- After polling students with a multiple-choice question about a concept, follow up by asking students to explain why the answer is correct and/or why alternatives are incorrect.
+
+- Dedicate the final minutes of the class by asking students to complete a connection journal (Lang, 2016) in which they respond to one of the following prompts:
+
+- Write down the most important thing they learned that day and why it matters to them or to society.
+
+- List one way in which the day’s course content manifests itself on campus or in their home lives.
+
+- Identify a television show, film, or book that somehow illustrates a course concept from class.
+
+- Describe how today’s course material connects to last week’s.
+
+- For a more robust learning activity that takes more time, students can work individually or in small groups to build a concept map or apply other advanced organizers that involve generating and explaining relationships among concepts.
+
+Outside of class
+
+Encourage explanatory questioning about assigned readings or problem sets.
+
+- Explain key concepts in their own words.
+
+- Elaborate on why a particular fact is true or the meaning of a scientific result.
+
+- Break down a system, process, or equation into its component parts and explain their relationships to the whole. 
+
+When students consider these questions, they build connections among concepts and/or elaborate on concepts with everyday examples to support organization and integration of knowledge.
+
+When to Implement These Strategies 
+
+The teaching practices above focus on how students practice with concepts and skills in the course. Another key consideration in how you support students’ retention, organization, and integration of key concepts and skills concerns when students practice with them.
+
+Space out students’ engagement with concepts across the semester
+
+Spacing out repeated exposure and engagement with concepts, practice problems, or skills over time bolsters retention, especially when compared to reviewing concepts (i.e., cramming) or repeatedly working on the same types of problems in succession (Carpenter et al., 2022; Cepeda, Pashler, Vul, Wixted, & Rohrer, 2006). The standard practice in many college courses of not revisiting concepts once they are covered in class undermines the benefits of spacing. When you space out students’ engagement with concepts across the semester, you intentionally revisit concepts for problems from previous units and signal that the information continues to be useful and relevant.
+
+Interleave students’ engagement with different concepts
+
+Mixing up or interleaving different types of material (e.g., distinct concepts, types of problem sets, or content from different units or disciplines) goes a step further than spacing to improve retention, organization, and integration of concepts (Rohrer & Taylor, 2007).
+
+Spacing and interleaving often co-occur. For example, in a math course, a student might work on various types of problems all mixed up, so that practice with any one type of problem is spaced out (an example of spacing), with other types of problems occurring between examples of the same type (an example of interleaving). Rohrer and Taylor (2007) argue that interleaving helps students not only to recognize how to solve a problem but also to determine which type of strategy is appropriate for each kind of problem.
+
+Spaced & Interleave Practice 
+
+In a class sessionYou can divide a class session into two sections, each focused on a different topic (such as reviewing last week’s topic and introducing a new topic), with active learning in the middle. Lang (2016) also suggests a short retrieval exercise, the retrieving syllabus, in which students pull out the syllabus and you direct them to a previous day’s content and ask them to write everything they remember about it. 
+
+In problem sets or homework assignmentsYou may include problems that draw on concepts and skills from previous weeks intermixed with problems on new concepts and skills. You can adapt the same approach but with concept questions or opportunities to practice with particular skills.
+
+MIT Worked Examples
+
+ChemistryBiologyEECS/CMS
+
+5.111 Principles of Chemical Science
+
+In a class of 300+ students, Professor Cathy Drennan regularly poses multiple-choice concept questions using an electronic clicker system. By encouraging all students to answer the clicker question and explain the correct answer, this learning activity engages students in both retrieval practice of recently learned concepts and explanatory questioning by explaining why a particular answer turned out to be correct.
+
+In this example, the clicker question occurs after introducing how to calculate electron ionization energies. Student responses reveal a misconception held by a majority of the students. After revealing the correct answer, Professor Drennan instructs students to pair up with a classmate to identify and discuss “the trick” in the clicker question. After a few minutes of discussion in pairs, a student volunteer explains the correct answer, and Professor Drennan points out the trick. Professor Drennan motivates students to explain their reasoning in front of the class by offering a small prize (here, an MIT chemistry t-shirt). You can see more examples of Professor Drennan’s use of clicker questions as well as her explanation of her process and reasoning for these learning activities here.
+
+8.581J Systems Biology
+
+Professor Jeff Gore regularly poses multiple-choice concept questions using colored voting cards. In this example, students respond to a series of concept questions where they predict what will happen to an enzyme-substrate complex in different limits. The class is split on the fourth question, with most selecting either answer A or B. Professor Gore encourages them to discuss the problem with their neighbors, preferably choosing someone who disagrees with them, and then holds a revote, similar to the example from Professor Drennan’s 5.111 class. Professor Gore adapts to students’ responses by having them pair off to discuss their responses when more than ⅓ of the students are confused. In contrast to the clicker technology used in the example above, the correct answer is not automatically displayed to students and will not bias their discussions. You can read more about Professor Gore’s decision to use colored voting flashcards instead of clickers in the course here.
+
+6.073 / CMS.611J Creating Video Games
+
+In a small, interdisciplinary course, students work in teams to design, develop, and test video games that help policymakers consider the value of spending resources to prepare for disasters. In this example activity facilitated by instructor Rik Eberhardt, students brainstorm in small groups to generate ideas for video games on various potential topics (e.g., cholera outbreak, heat wave). This brainstorming activity is designed to both ascertain prior knowledge about the potential topics before they complete relevant readings on the topics and to encourage students to retrieve and apply previously learned concepts and skills to develop a game using iterative design processes.
+
+Caveats and Misconceptions (and how to address them)
+
+Robust research in cognitive and educational psychology supports the powerful benefits to students when active learning strategies draw on retrieval and explanatory questioning, and are spaced out and/or interleaved with other topics (Agarwal & Bain, 2019; Brown, Roediger, & McDaniel, 2014; Roediger & Pyc, 2012). However, the effectiveness of these strategies depends on how they are implemented to engage all students with the concepts and skills at the appropriate level of difficulty. Two key implementation strategies are introduced below.
+
+How to design learning activities to engage all students
+
+The benefits of these learning activities depend on students’ active engagement with concepts; accordingly, these learning activities should be designed to encourage and demand participation from all students, not just those who readily raise their hands. 
+
+- Integrating opportunities for all students to share their responses with the class through polling software (e.g., Poll Everywhere or Slido) or with neighboring students by working in pairs or small groups (e.g., think-pair-share) can encourage equitable participation. 
+
+- Structuring active learning activities to broaden participation by encouraging, demanding, and actively managing who participates rather than relying on student volunteers. One such strategy involves asking for multiple hands and multiple voices to respond to any posed question by saying that you will begin calling on students when there are at least five hands in the air. This approach works particularly well to invite a range of different ideas and perspectives on an open-ended question and to broaden participation beyond the most frequent contributors. Tanner (2013).
+
+How to design learning activities for the appropriate level of difficulty
+
+The difficulty of learning activities through retrieval, explanatory questioning, or interleaving may be undesirable if the questions are too challenging. Vygotsky (1978) described the ideal level of difficulty as the skills or concepts that students can master but only with guidance and support from a skilled partner.
+
+There are several key strategies that can be used to inform the design of learning tasks that are appropriately difficult:
+
+- Ascertain students’ prior knowledge (as described in implementation strategies),
+
+- Design learning tasks that align with intended learning outcomes.
+
+- Scaffold learning activities by breaking down large tasks into smaller chunks and deliberately drawing on skills and concepts that students already know.
+
+How to address common concerns and misconceptions
+
+There are several common concerns and misconceptions about these learning activities, which can be addressed through deliberate design and transparent framing of the learning activities.
+
+Students might generate errors during learning activities that may result in retention of incorrect information.
+
+One common concern is that retrieval of inaccurate prior knowledge, an incorrect response, or problematic explanations of processes may actually harm learning by strengthening the retention of incorrect information. In contrast, much of the cognitive research suggests that generating errors during retrieval practice and explanatory questioning improves learning of correct information (for a review, see Metcalfe, 2017), particularly when corrective feedback is provided (Roediger & Butler, 2011). Accordingly, learning activities that activate prior knowledge, engage retrieval, or encourage elaboration should be consistently followed by feedback with the correct response and, ideally, an explanation of why the answer is correct. Finn, Thomas, and Rawson (2018) found that elaborating on correct answer feedback by providing concrete examples of concepts enhanced the retention and application of key concepts.
+
+Feedback can take many different forms, as long as student misconceptions are addressed. With multiple-choice or short-answer questions, a correct response and brief explanation could be provided either by the instructor or by a student after polling the class. For more open-ended questions (e.g., what are two things you recall from last class?), the instructor can share the outline or learning outcomes from the prior class, prompt students to review their notes, or have students pair up with a classmate to provide feedback (see also, How to Give Feedback).
+
+In sum, research suggests that learning activities improve retention (and, in some cases, application) of concepts even when students generate incorrect responses and underscores the importance of providing feedback with the correct answer or elaborated explanations.
+
+Students may be less likely to engage in challenging learning activities with a risk of failure.
+
+Many of the learning strategies that promote enduring learning also introduce challenges that can make learning feel slow and frustrating for students. Indeed, students overwhelmingly choose more passive (and less effective) learning strategies, such as cramming over spacing (Kornell & Bjork, 2007) or re-reading over retrieval practice (Karpicke, Butler, & Roediger, 2009). As a result, students may resist or disengage from challenging learning activities implemented in class.
+
+Bjork (1994) describes challenging learning activities such as spacing, interleaving, and retrieval practice as “desirable difficulties” because they often produce superior long-term retention and application of learning compared to more passive learning activities, such as rereading. Zepeda, Martin, and Butler (2020) proposed motivational strategies to engage students in desirable difficulties by helping them recognize the value of learning and by reducing the cost of engaging.
+
+Help students see the value of the learning activities
+
+- Clearly communicate the value of the learning activities in the class (e.g., how they help students reach intended learning outcomes), in the discipline or major, and, as relevant, in life and career contexts (Canning & Harackiewicz, 2015).
+
+- Explain the benefits of these strategies, drawing on the research explained in this post to help students recognize that the difficulties are desirable for learning and to encourage them to adapt similar strategies to their own studying. You can draw on supporting resources developed by learning scientists from retrievalpractice.org or learningscientists.org. See supporting resources below for more information.
+
+Make it easier for students to engage in learning activities
+
+- Explain all instructions verbally AND display them written visually to clarify instructions and to minimize confusion about the task.
+
+- Direct students to supporting resources and invite students to ask for help (e.g., raising hand to ask an instructor or TA, visiting office hours, or hyperlinks to relevant information or supporting resources).
+
+- Encourage students to take risks and make mistakes, emphasizing the value of errors for learning (Metcalfe, 2017), to support a growth mindset (Dweck, 2006).
+
+- Acknowledge that learning activities may feel challenging and express confidence that students will be able to succeed (Yaeger et al., 2016).
+
+Supporting Resources
+
+Agarwal, Roediger, McDaniel, & McDermott (2020). How to use retrieval practice to improve learning. (See other guides on Metacognition, Spaced Retrieval, and Applying Knowledge)
+
+Carpenter, Pan, & Butler, 2022 https://www.nature.com/articles/s44159-022-00089-1
+
+Dunlosky (2013). Strengthening the student toolbox: Study strategies to boost learning.
+
+Weinstein, Smith, & Caviglioli. Six Strategies for Effective Learning: Materials for teachers and students. Free downloads of bookmarks, posters, and presentation slides summarizing six strategies for effective learning.
+
+References
+
+Agarwal, P. & P. Bain. (2019). Powerful teaching: Unleash the science of learning. San Francisco, CA: Jossey-Bass.
+
+Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., & Norman, M. K. (2010). How learning works. John Wiley & Sons.
+
+Association of American Colleges and Universities. (2009). Integrative and Applied Learning VALUE rubric. https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-integrative-and-applied-learning
+
+Barber, J. P. (2012). Integration of learning: A grounded theory analysis of college students’ learning. American Educational Research Journal, 49 (3) 590-617. https://doi.org/10.3102/0002831212437854
+
+Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 185– 205). Cambridge, MA: MIT Press.
+
+Canning, E. A., & Harackiewicz, J. M. (2015). Teach it, don’t preach it: The differential effects of directly-communicated and self-generated utility–value information. Motivation Science, 1(1), 47 – 71. https://doi.org/10.1037/mot0000015
+
+Carpenter, S. K. (2012). Testing enhances the transfer of learning. Current Directions in Psychological Science, 21, 279 – 283. https://doi.org/10.1177/0963721412452728
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354–380. https://doi.org/10.1037/0033-2909.132.3.354
+
+Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P. & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. Cognitive Science, 13 (2), 148-182. https://doi.org/10.1016/0364-0213(89)90002-5
+
+Dweck, C. S. (2006). Mindset: The New psychology of success. Random House.
+
+Finn, B., Thomas, R., & Rawson, K. A. (2018). Learning more from feedback: Elaborating feedback with examples enhances concept learning. Learning and Instruction, 54, 104-113. https://doi.org/10.1016/j.learninstruc.2017.08.007
+
+Fisher, J. S., & Radvansky, G. A. (2018). Patterns of forgetting. Journal of Memory and Language, 102, 130-141. https://doi.org/10.1016/j.jml.2018.05.008
+
+Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. Proceedings of the National Academy of Sciences, 111(23), 8410-8415. https://doi.org/10.1073/pnas.131903011
+
+Karpicke, J. D., Butler, A. C., & Roediger III, H. L. (2009). Metacognitive strategies in student learning: do students practise retrieval when they study on their own? Memory, 17(4), 471-479. https://doi.org/10.1080/09658210802647009
+
+Khanna, M. M. (2015). Ungraded Pop Quizzes: Test-Enhanced Learning Without All the Anxiety. Teaching of Psychology, 42(2), 174–178. https://doi.org/10.1177/0098628315573144
+
+Kornell, N., & Bjork, R. A. (2007). The promise and perils of self-regulated study. Psychonomic Bulletin & Review, 14(2), 219-224. https://doi.org/10.3758/BF03194055
+
+Lang, J. M. (Feb. 8, 2016). Small changes in teaching: Making connections. The Chronicle of Higher Education. https://www.chronicle.com/article/Small-Changes-in-Teaching-/235230
+
+Metcalfe, J. (2017). Learning from errors. Annual Review of Psychology, 68(6), 1 – 25. doi: 10.1146/annurev-psych-010416-044022
+
+Roediger III, H. L., & Butler, A. C. (2011). The critical role of retrieval practice in long-term retention. Trends in Cognitive Sciences, 15(1), 20-27. https://doi.org/10.1016/j.tics.2010.09.003
+
+Roediger, H. L. III, & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. https://doi.org/10.1111/j.1467-9280.2006.01693.x
+
+Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics practice problems boosts learning. Instructional Science, 35, 481–498.
+
+Smith, B. L., Holliday, W. G., & Austin, H. W. (2010). Students’ comprehension of science textbooks using a question-based reading strategy. Journal of Research in Science Teaching, 47, 363–379.
+
+Tanner, K. D. (2013). Structure matters: twenty-one teaching strategies to promote student engagement and cultivate classroom equity. CBE—Life Sciences Education, 12(3), 322-331.
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.
+
+Wong, R. M. F., Lawson, M. J., & Keeves, J. (2002). The effects of self-explanation training on students’ problem solving in high-school mathematics. Learning and Instruction, 12, 233–262.
+
+Yeager, D. S., Walton, G. M., Brady, S. T., Akcinar, E. N., Paunesku, D., Keane, L., et al. (2016). Teaching a lay theory before college narrows achievement gaps at scale. Proceedings of the National Academy of Sciences, 113(24), E3341–8. http://doi.org/10.1073/pnas.1524360113
+
+Zepeda, C. D., Martin, R. S., & Butler, A. C. (2020). Motivational strategies to engage learners in desirable difficulties. Journal of Applied Research in Memory and Cognition, 9(4), 468–474. https://doi.org/10.1016/j.jarmac.2020.08.007

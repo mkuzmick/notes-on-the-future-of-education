@@ -1,0 +1,735 @@
+Oracy in the classroom: A teacher's guide
+https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development
+
+Elle's notes:
+Introduces the Four-Pillar Oracy Framework from UK education research (drawing on Neil Mercer's work on dialogic teaching):
+1. Evidence and reasoning — constructing arguments
+2. Response and listening — building on others' ideas
+3. Delivery and expression — clarity and register
+4. Prioritisation and organisation — structuring thought
+Key insight: "Oracy is to communicate what literacy is to reading and writing." The article cites research showing post-pandemic "oracy gaps" particularly affecting disadvantaged students.
+
+Why it matters: This framework gives Harvard faculty a vocabulary for designing and assessing oral assignments. It's not just "talk more"—it's structured, assessable skill development.
+
+--
+
+Oracy in the classroom: a teacher's guide- - - WebFont.load({ google: { families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Oswald:200,300,400,500,600,700","Exo:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","PT Sans:400,400italic,700,700italic","Varela:400","Lora:300,400,500,600,700","Noto Serif:300,400,500,600,700","Roboto:300,400,500,600,700"] }});!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);- - - window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-67550093-1', {'anonymize_ip': false});!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '269593827243016');fbq('track', 'PageView'); (lean, safe) ================== --> 
+ 
+ 
+ - 
+
+ 
+ 
+
+ 
+ - 
+
+ 
+ 
+ 
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config','G-NYE48DFK44', { anonymize_ip: true });
+ 
+
+ 
+ 
+ (function(){
+ var s=window.location.search;
+ if(!s)return;
+ var p=new URLSearchParams(s);
+ var junk=/^(fbclid|ref|_ga|gclid|mc_cid|mc_eid)$/i;
+ var d=[];
+ p.forEach(function(_,k){if(junk.test(k))d.push(k)});
+ if(d.length){d.forEach(function(k){p.delete(k)});var c=p.toString();history.replaceState(null,"",window.location.pathname+(c?"?"+c:"")+window.location.hash)}
+ var utm=/^utm_/i;
+ var hasUtm=false;
+ p.forEach(function(_,k){if(utm.test(k))hasUtm=true});
+ if(hasUtm){setTimeout(function(){var q=new URLSearchParams(window.location.search);var
+ r=[];q.forEach(function(_,k){if(utm.test(k))r.push(k)});if(r.length){r.forEach(function(k){q.delete(k)});var
+ v=q.toString();history.replaceState(null,"",window.location.pathname+(v?"?"+v:"")+window.location.hash)}},2000)}
+ })();
+ 
+
+ ================== -->
+
+(function(){
+ var p = window.location.pathname;
+ if (p === "/post" || p === "/post/") {
+ window.location.replace("/learning-tools-blog");
+ }
+})();
+
+var o="9e036eef",n="https://api.commandbar.com",a=void 0,t=window;
+function r(o,n){void 0===n&&(n=!1),"complete"!==document.readyState&&window.addEventListener("load",r.bind(null,o,n),{capture:!1,once:!0});var a=document.createElement("script");a.type="text/javascript",a.async=n,a.src=o,document.head.appendChild(a)}
+function e(){var e;if(void 0===t.CommandBar){delete t.__CommandBarBootstrap__;var c=Symbol.for("CommandBar::configuration"),d=Symbol.for("CommandBar::disposed"),i=Symbol.for("CommandBar::isProxy"),m=Symbol.for("CommandBar::queue"),u=Symbol.for("CommandBar::unwrap"),s=Symbol.for("CommandBar::eventSubscriptions"),l=[],p=null;var f=Object.assign(((e={})[c]={uuid:o,api:n,cdn:a},e[d]=!1,e[i]=!0,e[m]=new Array,e[u]=function(){return f},e[s]=void 0,e),t.CommandBar),v=["addCommand","boot","addEventSubscriber","addRecordAction","setFormFactor"],b=f;Object.assign(f,{shareCallbacks:function(){return{}},shareContext:function(){return{}}});t.CommandBar=new Proxy(f,{get:function(o,n){return n in b?f[n]:"then"!==n?v.includes(n)?function(){var o=Array.prototype.slice.call(arguments);return new Promise((function(a,t){o.unshift(n,a,t),f[m].push(o)}))}:function(){var o=Array.prototype.slice.call(arguments);o.unshift(n),f[m].push(o)}:void 0}});l.push("version=2");r("".concat(n,"/latest/").concat(o,"?").concat(l.join("&")),!0)}}
+e();
+var vid="v_"+Math.random().toString(36).substr(2,9);
+window.CommandBar.boot(vid);
+
+- 
+- 
+- 
+
+- 
+
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-NYE48DFK44');
+
+window.fsAttributes=window.fsAttributes||[];
+
+window.__WEBFLOW_CURRENCY_SETTINGS = {"currencyCode":"GBP","symbol":"£","decimal":".","fractionDigits":2,"group":",","template":"{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}","hideDecimalForWholeNumbers":false};DashboardProfileLoginLogoutPlan a Lesson FreeCritical ThinkingCreative LearningVisual LearningLearning through TalkFree Sign UpClassroom Practice
+
+Updated on  
+
+March 2, 2026
+
+Oracy in the classroom: a teacher's guide
+
+Paul Main
+|
+
+May 13, 2021
+
+Discover the vital role of oracy in language development and how enhancing speaking skills in the classroom can boost students' learning and confidence.
+
+Course EnquiryCopy citationMain, P (2021, May 13). Oracy in the classroom: a teacher's guide. Retrieved from https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development
+
+What is Oracy?
+Here, we explore ways of developing a strong culture of language use in the classroom. The importance of oracy in language development cannot be emphasised enough. Discussion is central to all aspects of the curriculum including areas such as grammar development. If the conditions are set up correctly with the right sort of tools, children can have purposeful discussions about the possibilities, effects and meaning of the curriculum through active questioning. 
+
+‍
+
+Key Takeaways
+
+- Beyond Basic Classroom Talk: Discover why oracy is the missing foundation of literacy and how mastering it transforms struggling readers into confident learners
+
+- The Post-Lockdown Language Crisis: Learn why disadvantaged pupils face a hidden communication gap and the specific classroom techniques that rapidly rebuild lost oracy skills and support speech and language needs
+
+- Your Four-Pillar Oracy Framework: Master the evidence-based framework that turns everyday classroom conversations into powerful tools for deep learning and curriculum understanding
+
+- The Elaboration Advantage: Uncover the verbal rehearsal technique that separates idea creation from writing complexity, helping pupils articulate thoughts and practice sentence building before they write
+
+Oracy can be described as learning to talk and learning through talk. This article focuses on the latter, we are particularly interested in how using active discussions can form the foundation for pupils understanding of curriculum content.
+
+Four-Pillar Oracy Framework
+
+Enabling children to understand the different types of discussion roles available to them broadens their repertoire of classroom dialogue. Structured discussion techniques and dialogic teaching provide clear frameworks for these interactions. As well as being a tool of commun ication, effective oracy skills enable pupils to participate in deep learning activities where they can exchange ideas, engage in exploratory talk, and challenge assumptions. 
+
+Hub-and-spoke diagram: Four-Pillar Oracy Framework
+
+This area of pedagogy has particular significance for disadvantaged or low-attaining pupils, especially those with sen. Withbelow and the rest of the website you will find examples of how classroom talk can be used for knowledge acquisition and the development of spoken language development skills. Oracy is the art of speaking eloquently and persuasively. When someone speaks in a persuasive manner, they try to convince others of their point of view. While this type of communication is common in everyday life, it's also a fundamental part of the curriculum.
+
+Speaking is one of the most basic skills that humans possess. We learn to talk early in life, and our ability to communicate continues to develop throughout adulthood. Regardless of whether someone speaks fluently or struggles to express themselves, learning to speak is the foundational building block of literacy. Learning to read and write is much easier when you understand the basics of spoken communication.
+
+For example, knowing how to pronounce certain letters and sounds allows children to recognise letter patterns and build vocabulary. When kids grow into adults, they continue to rely on their knowledge of pronunciation to decode written text. It's no surprise then that mastering the art of speech is a critical part of developing literacy. People who lack proficiency in speaking tend to fall behind academically, especially with reading comprehension. Organisations such as Voice 21 I've been promoting effective oracy skills acr oss schools in the UK, it is clear that providing children with the tool of communication sets them up for a lifetime of success.
+
+Oracy is to communicate what literacy is to reading and writing; and numeracy to mathematics. The term 'oracy' was first used by Andrew Wilkinsonin the 1960s. Andrew believed that oracy, one's ability to express themself with fluency in speech, must get equal status to math performance and literacy in school curriculums. 
+
+In its simplest form, oracy is to be able to express oneself well. It relates to having a broad range of vocabulary to say what one needs to say and the proficiency to structure thoughts so that the person makes sense to others. 
+
+More recently, oracy has become even more important. This is because, education in schools is predominantly provided in English (in the UK), but many children lack spoken communication skills because they speak another language at home. Once schools begun reopening after the initial pandemic lockdown, many educators reported a dip in oracy skills particularly in children from disadvantaged backgrounds.
+
+‍
+
+How do you measure Oracy Skills?
+Many studies have discussed the potential role of teachers and schools in building Oracy skills in students. In recent times, online learning has made serious negative impacts on students such as social isolation, and poor communication skills. After opening, the majority of schools can reduce the negative impact of online education through different competitions, programmes and resources based upon 4 key oracy skillsets: evidence and reasoning; response and listening; delivery and expression; and prioritisation and organisation. Schools must teach and develop students' proficiency in these skillsets just like literacy and numeracy through explicit instruction and scaffolding.
+
+"lazy" alt="Students working collaboratively on a project" >Students working collaboratively
+
+To measure oracy skills schools can use a range of assessment tools. These include observation checklists, self and peer assessment, and structured discussions. Teachers can also use formative assessment techniques, such as think-pair-share, to gauge students' understanding and spea king skills in real-time. By using a variety of assessment methods, teachers can gain a comprehensive understanding of students' oracy skills and identify areas where they need additional support.
+
+‍
+
+Practical Strategies for Developing Oracy in the Classroom
+Here are some practical strategies that teachers can use to develop oracy in the classroom:
+
+- Create a safe and supportive environment: Encourage students to take risks and participate in discussions without fear of judgment. Establish clear ground rules for respectful communication.
+- Model effective communication: Demonstrate active listening skills, clear articulation, and respectful disagreement. Share your own thinking processes aloud to model metacognitive strategies.
+- Use structured discussion techniques: Implement strategies such as think-pair-share, debates, and role-playing to provide a framework for purposeful talk.
+- Provide opportunities for collaborative learning: Encourage students to work together on projects and assignments that require them to communicate and negotiate ideas.
+- Teach explicit vocabulary: Explicitly teach vocabulary relevant to the curriculum, providing opportunities for students to use new words in context. Focus on subject-specific terminology.
+- Encourage questioning: Create a classroom culture where students feel comfortable asking questions and seeking clarification. Model effective questioning techniques.
+- Incorporate drama and role-play: Use drama and role-play activities to engage students in active learning and develop their communication skills.
+- Provide feedback: Offer constructive feedback on students' speaking skills, focusing on areas such as clarity, organisation, and persuasiveness.
+‍
+
+How Can Teachers Assess Oracy Progress in the Classroom?
+
+Measuring oracy development requires a different approach to traditional literacy assessment. Unlike written work, spoken language assessment happens in real-time and involves multiple dimensions of communication. Teachers need practical tools that capture both the content and quality of pupil contributions without interrupting the flow of discussion.
+
+The most effective oracy assessment combines observation with pupil self-reflection. Create simple rubrics that focus on key speaking skills: clarity of explanation, use of subject-specific vocabulary, ability to build on others' ideas, and appropriate register for different audiences. These rubrics work best when pupils understand them and can use them for peer assessment during group work.
+
+‍
+
+Creating Oracy Portfolios
+
+Digital oracy portfolios offer a powerful way to track progress over time. Using tablets or classroom computers, pupils can record short speaking tasks once per half-term. These might include explaining a mathematical concept, presenting a science investigation, or debating a historical perspective. The recordings provide concrete evidence of vocabulary development, sentence complexity, and growing confidence. They also serve as valuable formative assessment tools, allowing pupils to listen back and identify areas for improvement.
+
+For younger pupils or those with special educational needs, visual progress trackers work particularly well. Create a classroom display showing different oracy skills as stepping stones: from 'I can speak clearly' to 'I can explain my reasoning using because'. Pupils move their name along the path as they demonstrate each skill, providing immediate recognition of progress whilst identifying next steps.
+
+‍
+
+What Are the Most Effective Oracy Activities for Different Year Groups?
+
+Oracy activities must match pupils' developmental stages whilst challenging them to extend their verbal reasoning skills. Foundation Stage and Key Stage 1 pupils benefit from structured talk partners and role-play scenarios that develop basic conversational skills. Activities like 'Barrier Games', where one pupil describes a picture for their partner to recreate, build precise descriptive language whilst maintaining engagement.
+
+‍
+
+Key Stage 2 Oracy Progression
+
+As pupils move through Key Stage 2, introduce more sophisticated discussion formats. 'Philosophy for Children' sessions work exceptionally well for Years 3 and 4, encouraging pupils to explore abstract concepts through structured dialogue. By Years 5 and 6, pupils should engage in formal debates, panel discussions, and 'Expert Groups' where they research and teach specific topics to their peers.
+
+Secondary pupils require oracy activities that mirror real-world communication demands. Mock interviews, podcast creation, and formal presentations prepare them for future academic and professional contexts. Subject-specific oracy becomes crucial: scientific explanations require different language structures than historical arguments. Teachers should explicitly teach these disciplinary differences, helping pupils code-switch between different academic registers.
+
+‍
+
+How Does Oracy Support Pupils with English as an Additional Language?
+
+For EAL learners, structured oracy activities provide essential scaffolding for language acquisition. Unlike written tasks, speaking allows immediate feedback and natural repetition of key vocabulary. Collaborative talk activities reduce anxiety by distributing the communicative load across multiple speakers, allowing EAL pupils to participate at their current language level whilst accessing more complex content.
+
+Pre-teaching vocabulary through oracy games significantly improves EAL pupils' curriculum access. Activities like 'Word Tennis', where pupils rapidly exchange words within a semantic field, build fluency whilst reinforcing subject vocabulary. 'Sentence Builders', where groups collaboratively construct increasingly complex sentences, explicitly teach English syntax through playful exploration rather than formal grammar instruction.
+
+Mixed-ability talk groups particularly benefit EAL learners when structured appropriately. Assign specific roles that match language proficiency: newer English speakers might act as 'vocabulary collectors' or 'question askers', whilst more confident speakers take 'summariser' or 'challenger' roles. This differentiation ensures all pupils contribute meaningfully whilst developing their linguistic repertoire through exposure to peer language models.
+
+‍
+
+Written by the Structural Learning Research Team
+
+Reviewed by Paul Main, Founder & Educational Consultant at Structural Learning
+
+‍
+
+Conclusion
+Oracy is a fundamental skill that underpins all areas of learning. By creating a classroom culture that values talk, providing structured opportunities for discussion, and explicitly teaching communication skills, teachers can helps students to become confident and articulate communicators. This, in turn, will have a profound impact on their academic achievement and their ability to participate fully in society.
+
+Investing in oracy is an investment in our students' future. By prioritising the development of spoken language skills, we can equip them with the tools they need to succeed in education, employment, and life. Let's make oracy a cornerstone of our teaching practice and reveal the full potential of every student.
+
+‍
+
+‍
+
+Further Reading
+
+- A Dialogic Teaching Companion - Alexander, R. J. (2020). Routledge. The definitive account of dialogic teaching by its leading UK researcher, covering the classroom talk frameworks, evidence base, and practical implementation strategies that underpin effective oracy teaching across all key stages. View publication ↗
+
+- Oracy: The State of Speaking in Our Schools - Voice 21 (2020). A comprehensive audit of oracy provision in English schools, presenting survey data from over 1,000 teachers and identifying the structural barriers to implementing effective oracy teaching, with recommendations for school leaders and the DfE. View report ↗
+
+- Dialogue and the Development of Children's Thinking: A Sociocultural Perspective - Mercer, N. and Littleton, K. (2007). Routledge. Research demonstrating how structured classroom talk improves not only communication skills but also cognitive development and reasoning, drawing on Vygotskian theory to explain why exploratory talk accelerates learning. View publication ↗
+
+- Closing the Word Gap - DfE (2012). Intervention guidance examining the relationship between oral language development and literacy attainment, with particular focus on the vocabulary gap between disadvantaged pupils and their peers and evidence-based strategies for classroom intervention. View document ↗
+
+- Speaking and Listening Through Drama - Neelands, J. (1992). Hodder and Stoughton. A seminal text on using drama and role-play to develop oracy skills, demonstrating how structured dramatic contexts provide the authentic communication purposes that motivate pupils to develop vocabulary, register, and persuasive language skills. View resource ↗
+
+ Loading audit...
+
+(function(){
+ var placeholder = document.getElementById('sl-audit-placeholder');
+ var loaded = false;
+ 
+ var observer = new IntersectionObserver(function(entries){
+ if(entries[0].isIntersecting && !loaded){
+ loaded = true;
+ observer.disconnect();
+ loadAudit();
+ }
+ }, {rootMargin: '200px'});
+ 
+ observer.observe(placeholder);
+ 
+ function loadAudit(){
+ placeholder.innerHTML = `
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+School Learning Audit
+
+ Assess your school's approach to independent learning in 2 minutes
+
+ 
+ 
+ Start Audit
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+School Learning Audit
+
+ 2-minute assessment
+
+ 
+ 
+ −
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learner Independence5
+ Teacher-ledSelf-directed
+ 
+ 
+ 
+ Classroom Dialogue5
+ Quiet workRich discussion
+ 
+ 
+ 
+ Thinking Skills Integration5
+ Content-onlyFully embedded
+ 
+ 
+ 
+ Knowledge Organisation5
+ UnstructuredWell-organised
+ 
+ 
+ 
+ Metacognitive Awareness5
+ Limited reflectionStrong self-awareness
+ 
+ 
+ See My Results
+ 
+ 
+ 
+ 
+ 
+ 
+ 25/50
+ Your School Score
+ 
+ 
+ First Name
+ Email Address
+ School Type
+ 
+ Primary
+ Secondary
+ All-through
+ Special
+ International
+ 
+ Get My Action Plan
+ ← Adjust Scores
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Your Action Plan is Ready!
+
+ Score: 25/50
+
+ 
+ 
+ 
+ 
+ View Action Plan
+ 
+ 
+ 
+ 
+ Download Resource Pack
+ 
+ 
+ 
+ 
+ 
+ Powered by Structural Learning
+ 
+
+ 
+ 
+ 
+
+Your School Action Plan
+
+ ×
+ 
+ 
+ 
+ 
+ 
+ 
+ Copy to Clipboard
+ 
+ 
+ Done
+ 
+ 
+
+Action plan copied!
+`;
+
+ // Initialize after DOM injection
+ setTimeout(initAudit, 50);
+ }
+ 
+ function initAudit(){
+ window.slActionPlanText = '';
+ window.slStrategicRecs = {
+ 1:{title:"Build Learner Autonomy",advice:"Encourage staff to gradually release responsibility to learners. Start lessons with clear success criteria, then step back and let children make decisions about how they approach tasks. Use structured frameworks that scaffold independent thinking without constant teacher input."},
+ 2:{title:"Encourage Exploratory Talk",advice:"Create a culture where staff value classroom dialogue as a learning tool. Train teachers to use talk prompts that get reluctant speakers contributing, then deepen responses through follow-up questions. Aim for classrooms where thinking is shared aloud, not just written down."},
+ 3:{title:"Make Thinking Explicit",advice:"Help children understand how to think, not just what to think. Introduce a common language for thinking across your school so that learners can name and apply different cognitive processes. When thinking is visible and explicit, children can transfer skills between subjects."},
+ 4:{title:"Structure Knowledge Visually",advice:"Support staff to help children organise information using visual tools like graphic organisers. When learners can see how ideas connect, they retain more and think more clearly. Build a whole-school approach to how knowledge is captured and structured."},
+ 5:{title:"Develop Reflective Learners",advice:"Embed opportunities for children to reflect on their own learning. Encourage teachers to ask questions like 'What helped you learn today?' and 'What would you do differently next time?' When learners understand how they learn best, they become more self-directed."}
+ };
+ 
+ for(var i=1;i'+(idx+1)+''+rec.title+(priority?' ⚡':'')+''+rec.advice+'
+
+';
+ });
+ copyParts.push('Download your full resource pack at: structural-learning.com');
+ window.slActionPlanText=copyParts.join('\n');
+ return html;
+ };
+ window.slShowResults=function(){
+ var data=slGetScores();
+ document.getElementById('slTotalScore').textContent=data.total;
+ document.getElementById('slScoreMessage').textContent=slGetScoreMessage(data.total);
+ window.slAuditScores=data.scores;window.slAuditTotal=data.total;window.slAuditBreakdown=data.breakdown;
+ document.querySelector('.sl-audit .step.active').classList.remove('active');
+ document.querySelector('.sl-audit .step[data-step="2"]').classList.add('active');
+ };
+ window.slGoBack=function(){
+ document.querySelector('.sl-audit .step.active').classList.remove('active');
+ document.querySelector('.sl-audit .step[data-step="1"]').classList.add('active');
+ };
+ window.slSubmitForm=function(){
+ var fn=document.getElementById('slFirstName').value.trim();
+ var em=document.getElementById('slEmail').value.trim();
+ var school=document.querySelector('input[name="sl_school_type"]:checked');
+ if(!fn){alert('Please enter your first name');return;}
+ if(!em){alert('Please enter your email address');return;}
+ if(!school){alert('Please select your school type');return;}
+ var btn=document.getElementById('slSubmitBtn');
+ btn.disabled=true;btn.textContent='Generating plan...';
+ var planHtml=slGenerateActionPlan(window.slAuditScores);
+ window.slActionPlanHtml=planHtml;
+ var formData=new FormData();
+ formData.append('first_name',fn);formData.append('email',em);
+ formData.append('school_type',school.value);
+ formData.append('audit_score',window.slAuditTotal+'/50');
+ formData.append('score_breakdown',window.slAuditBreakdown);
+ formData.append('action_plan',window.slActionPlanText);
+ fetch('https://usebasin.com/f/42373ac1ff0844415cacf6cd57457f47',{method:'POST',body:formData,headers:{'Accept':'application/json'}}).catch(function(){});
+ document.getElementById('slFinalScore').textContent=window.slAuditTotal;
+ document.querySelector('.sl-audit .step.active').classList.remove('active');
+ document.querySelector('.sl-audit .step[data-step="3"]').classList.add('active');
+ };
+ window.slShowActionPlan=function(){
+ document.getElementById('slModalOverlay').classList.add('active');
+ document.getElementById('slActionPlanItems').innerHTML=window.slActionPlanHtml;
+ };
+ window.slCloseActionPlan=function(){document.getElementById('slModalOverlay').classList.remove('active');};
+ window.slCopyActionPlan=function(){
+ navigator.clipboard.writeText(window.slActionPlanText).then(function(){
+ var msg=document.getElementById('slCopySuccess');
+ msg.classList.add('show');setTimeout(function(){msg.classList.remove('show')},2000);
+ });
+ };
+})();
+Learn more about the Universal Thinking FrameworkLearn more about Mental ModellingLearn more about the Learning Skills Framework
+
+What is Oracy?
+Here, we explore ways of developing a strong culture of language use in the classroom. The importance of oracy in language development cannot be emphasised enough. Discussion is central to all aspects of the curriculum including areas such as grammar development. If the conditions are set up correctly with the right sort of tools, children can have purposeful discussions about the possibilities, effects and meaning of the curriculum through active questioning. 
+
+‍
+
+Key Takeaways
+
+- Beyond Basic Classroom Talk: Discover why oracy is the missing foundation of literacy and how mastering it transforms struggling readers into confident learners
+
+- The Post-Lockdown Language Crisis: Learn why disadvantaged pupils face a hidden communication gap and the specific classroom techniques that rapidly rebuild lost oracy skills and support speech and language needs
+
+- Your Four-Pillar Oracy Framework: Master the evidence-based framework that turns everyday classroom conversations into powerful tools for deep learning and curriculum understanding
+
+- The Elaboration Advantage: Uncover the verbal rehearsal technique that separates idea creation from writing complexity, helping pupils articulate thoughts and practice sentence building before they write
+
+Oracy can be described as learning to talk and learning through talk. This article focuses on the latter, we are particularly interested in how using active discussions can form the foundation for pupils understanding of curriculum content.
+
+Four-Pillar Oracy Framework
+
+Enabling children to understand the different types of discussion roles available to them broadens their repertoire of classroom dialogue. Structured discussion techniques and dialogic teaching provide clear frameworks for these interactions. As well as being a tool of commun ication, effective oracy skills enable pupils to participate in deep learning activities where they can exchange ideas, engage in exploratory talk, and challenge assumptions. 
+
+Hub-and-spoke diagram: Four-Pillar Oracy Framework
+
+This area of pedagogy has particular significance for disadvantaged or low-attaining pupils, especially those with sen. Withbelow and the rest of the website you will find examples of how classroom talk can be used for knowledge acquisition and the development of spoken language development skills. Oracy is the art of speaking eloquently and persuasively. When someone speaks in a persuasive manner, they try to convince others of their point of view. While this type of communication is common in everyday life, it's also a fundamental part of the curriculum.
+
+Speaking is one of the most basic skills that humans possess. We learn to talk early in life, and our ability to communicate continues to develop throughout adulthood. Regardless of whether someone speaks fluently or struggles to express themselves, learning to speak is the foundational building block of literacy. Learning to read and write is much easier when you understand the basics of spoken communication.
+
+For example, knowing how to pronounce certain letters and sounds allows children to recognise letter patterns and build vocabulary. When kids grow into adults, they continue to rely on their knowledge of pronunciation to decode written text. It's no surprise then that mastering the art of speech is a critical part of developing literacy. People who lack proficiency in speaking tend to fall behind academically, especially with reading comprehension. Organisations such as Voice 21 I've been promoting effective oracy skills acr oss schools in the UK, it is clear that providing children with the tool of communication sets them up for a lifetime of success.
+
+Oracy is to communicate what literacy is to reading and writing; and numeracy to mathematics. The term 'oracy' was first used by Andrew Wilkinsonin the 1960s. Andrew believed that oracy, one's ability to express themself with fluency in speech, must get equal status to math performance and literacy in school curriculums. 
+
+In its simplest form, oracy is to be able to express oneself well. It relates to having a broad range of vocabulary to say what one needs to say and the proficiency to structure thoughts so that the person makes sense to others. 
+
+More recently, oracy has become even more important. This is because, education in schools is predominantly provided in English (in the UK), but many children lack spoken communication skills because they speak another language at home. Once schools begun reopening after the initial pandemic lockdown, many educators reported a dip in oracy skills particularly in children from disadvantaged backgrounds.
+
+‍
+
+How do you measure Oracy Skills?
+Many studies have discussed the potential role of teachers and schools in building Oracy skills in students. In recent times, online learning has made serious negative impacts on students such as social isolation, and poor communication skills. After opening, the majority of schools can reduce the negative impact of online education through different competitions, programmes and resources based upon 4 key oracy skillsets: evidence and reasoning; response and listening; delivery and expression; and prioritisation and organisation. Schools must teach and develop students' proficiency in these skillsets just like literacy and numeracy through explicit instruction and scaffolding.
+
+"lazy" alt="Students working collaboratively on a project" >Students working collaboratively
+
+To measure oracy skills schools can use a range of assessment tools. These include observation checklists, self and peer assessment, and structured discussions. Teachers can also use formative assessment techniques, such as think-pair-share, to gauge students' understanding and spea king skills in real-time. By using a variety of assessment methods, teachers can gain a comprehensive understanding of students' oracy skills and identify areas where they need additional support.
+
+‍
+
+Practical Strategies for Developing Oracy in the Classroom
+Here are some practical strategies that teachers can use to develop oracy in the classroom:
+
+- Create a safe and supportive environment: Encourage students to take risks and participate in discussions without fear of judgment. Establish clear ground rules for respectful communication.
+- Model effective communication: Demonstrate active listening skills, clear articulation, and respectful disagreement. Share your own thinking processes aloud to model metacognitive strategies.
+- Use structured discussion techniques: Implement strategies such as think-pair-share, debates, and role-playing to provide a framework for purposeful talk.
+- Provide opportunities for collaborative learning: Encourage students to work together on projects and assignments that require them to communicate and negotiate ideas.
+- Teach explicit vocabulary: Explicitly teach vocabulary relevant to the curriculum, providing opportunities for students to use new words in context. Focus on subject-specific terminology.
+- Encourage questioning: Create a classroom culture where students feel comfortable asking questions and seeking clarification. Model effective questioning techniques.
+- Incorporate drama and role-play: Use drama and role-play activities to engage students in active learning and develop their communication skills.
+- Provide feedback: Offer constructive feedback on students' speaking skills, focusing on areas such as clarity, organisation, and persuasiveness.
+‍
+
+How Can Teachers Assess Oracy Progress in the Classroom?
+
+Measuring oracy development requires a different approach to traditional literacy assessment. Unlike written work, spoken language assessment happens in real-time and involves multiple dimensions of communication. Teachers need practical tools that capture both the content and quality of pupil contributions without interrupting the flow of discussion.
+
+The most effective oracy assessment combines observation with pupil self-reflection. Create simple rubrics that focus on key speaking skills: clarity of explanation, use of subject-specific vocabulary, ability to build on others' ideas, and appropriate register for different audiences. These rubrics work best when pupils understand them and can use them for peer assessment during group work.
+
+‍
+
+Creating Oracy Portfolios
+
+Digital oracy portfolios offer a powerful way to track progress over time. Using tablets or classroom computers, pupils can record short speaking tasks once per half-term. These might include explaining a mathematical concept, presenting a science investigation, or debating a historical perspective. The recordings provide concrete evidence of vocabulary development, sentence complexity, and growing confidence. They also serve as valuable formative assessment tools, allowing pupils to listen back and identify areas for improvement.
+
+For younger pupils or those with special educational needs, visual progress trackers work particularly well. Create a classroom display showing different oracy skills as stepping stones: from 'I can speak clearly' to 'I can explain my reasoning using because'. Pupils move their name along the path as they demonstrate each skill, providing immediate recognition of progress whilst identifying next steps.
+
+‍
+
+What Are the Most Effective Oracy Activities for Different Year Groups?
+
+Oracy activities must match pupils' developmental stages whilst challenging them to extend their verbal reasoning skills. Foundation Stage and Key Stage 1 pupils benefit from structured talk partners and role-play scenarios that develop basic conversational skills. Activities like 'Barrier Games', where one pupil describes a picture for their partner to recreate, build precise descriptive language whilst maintaining engagement.
+
+‍
+
+Key Stage 2 Oracy Progression
+
+As pupils move through Key Stage 2, introduce more sophisticated discussion formats. 'Philosophy for Children' sessions work exceptionally well for Years 3 and 4, encouraging pupils to explore abstract concepts through structured dialogue. By Years 5 and 6, pupils should engage in formal debates, panel discussions, and 'Expert Groups' where they research and teach specific topics to their peers.
+
+Secondary pupils require oracy activities that mirror real-world communication demands. Mock interviews, podcast creation, and formal presentations prepare them for future academic and professional contexts. Subject-specific oracy becomes crucial: scientific explanations require different language structures than historical arguments. Teachers should explicitly teach these disciplinary differences, helping pupils code-switch between different academic registers.
+
+‍
+
+How Does Oracy Support Pupils with English as an Additional Language?
+
+For EAL learners, structured oracy activities provide essential scaffolding for language acquisition. Unlike written tasks, speaking allows immediate feedback and natural repetition of key vocabulary. Collaborative talk activities reduce anxiety by distributing the communicative load across multiple speakers, allowing EAL pupils to participate at their current language level whilst accessing more complex content.
+
+Pre-teaching vocabulary through oracy games significantly improves EAL pupils' curriculum access. Activities like 'Word Tennis', where pupils rapidly exchange words within a semantic field, build fluency whilst reinforcing subject vocabulary. 'Sentence Builders', where groups collaboratively construct increasingly complex sentences, explicitly teach English syntax through playful exploration rather than formal grammar instruction.
+
+Mixed-ability talk groups particularly benefit EAL learners when structured appropriately. Assign specific roles that match language proficiency: newer English speakers might act as 'vocabulary collectors' or 'question askers', whilst more confident speakers take 'summariser' or 'challenger' roles. This differentiation ensures all pupils contribute meaningfully whilst developing their linguistic repertoire through exposure to peer language models.
+
+‍
+
+Written by the Structural Learning Research Team
+
+Reviewed by Paul Main, Founder & Educational Consultant at Structural Learning
+
+‍
+
+Conclusion
+Oracy is a fundamental skill that underpins all areas of learning. By creating a classroom culture that values talk, providing structured opportunities for discussion, and explicitly teaching communication skills, teachers can helps students to become confident and articulate communicators. This, in turn, will have a profound impact on their academic achievement and their ability to participate fully in society.
+
+Investing in oracy is an investment in our students' future. By prioritising the development of spoken language skills, we can equip them with the tools they need to succeed in education, employment, and life. Let's make oracy a cornerstone of our teaching practice and reveal the full potential of every student.
+
+‍
+
+‍
+
+Further Reading
+
+- A Dialogic Teaching Companion - Alexander, R. J. (2020). Routledge. The definitive account of dialogic teaching by its leading UK researcher, covering the classroom talk frameworks, evidence base, and practical implementation strategies that underpin effective oracy teaching across all key stages. View publication ↗
+
+- Oracy: The State of Speaking in Our Schools - Voice 21 (2020). A comprehensive audit of oracy provision in English schools, presenting survey data from over 1,000 teachers and identifying the structural barriers to implementing effective oracy teaching, with recommendations for school leaders and the DfE. View report ↗
+
+- Dialogue and the Development of Children's Thinking: A Sociocultural Perspective - Mercer, N. and Littleton, K. (2007). Routledge. Research demonstrating how structured classroom talk improves not only communication skills but also cognitive development and reasoning, drawing on Vygotskian theory to explain why exploratory talk accelerates learning. View publication ↗
+
+- Closing the Word Gap - DfE (2012). Intervention guidance examining the relationship between oral language development and literacy attainment, with particular focus on the vocabulary gap between disadvantaged pupils and their peers and evidence-based strategies for classroom intervention. View document ↗
+
+- Speaking and Listening Through Drama - Neelands, J. (1992). Hodder and Stoughton. A seminal text on using drama and role-play to develop oracy skills, demonstrating how structured dramatic contexts provide the authentic communication purposes that motivate pupils to develop vocabulary, register, and persuasive language skills. View resource ↗
+
+Classroom Practice
+Mantle of the Expert: A Complete Teacher's GuideThis is some text inside of a div block.Mantle of the Expert: A Complete Teacher's GuideMetacognition in Mathematics: A Teacher's GuideThis is some text inside of a div block.Metacognition in Mathematics: A Teacher's GuideSTEM Education: Building Critical ThinkersThis is some text inside of a div block.STEM Education: Building Critical ThinkersBack to Blog{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development#article","headline":"Oracy in the classroom: a teacher's guide","description":"Discover the vital role of oracy in language development and how enhancing speaking skills in the classroom can boost students' learning and confidence.","datePublished":"2021-05-13T12:20:42.228Z","dateModified":"2026-02-24T13:16:40.613Z","author":{"@type":"Person","name":"Paul Main","url":"https://www.structural-learning.com/team/paulmain","jobTitle":"Founder & Educational Consultant"},"publisher":{"@type":"Organization","name":"Structural Learning","url":"https://www.structural-learning.com","logo":{"@type":"ImageObject","url":"https://cdn.prod.website-files.com/5b69a01ba2e409e5d5e055c6/6040bf0426cb415ba2fc7882_newlogoblue.svg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development"},"image":"https://cdn.prod.website-files.com/5b69a01ba2e409501de055d1/696a306c1e83a6b21be76a4a_696a306a55f8914d2783ecce_the-importance-of-oracy-in-language-development-infographic.webp","wordCount":5558},{"@type":"BreadcrumbList","@id":"https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.structural-learning.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.structural-learning.com/blog"},{"@type":"ListItem","position":3,"name":"Oracy in the classroom: a teacher's guide","item":"https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you measure Oracy Skills?","acceptedAnswer":{"@type":"Answer","text":"Many studies have discussed the potential role of teachers and schools in building Oracy skills in students. In recent times, online learning has made serious negative impacts on students such as social isolation, and poor communication skills. After opening, the majority of schools can reduce the negative impact of online education through different competitions, programmes and resources based upon 4 key oracy skillsets: evidence and reasoning; response and listening; delivery and expression; a"}},{"@type":"Question","name":"Practical Strategies for Developing Oracy in the Classroom Here are some practical strategies that teachers can use to develop oracy in the classroom: Create a safe and supportive environment: Encourage students to take risks and participate in discussions without fear of judgment. Establish clear ground rules for respectful communication. Model effective communication: Demonstrate active listening skills, clear articulation, and respectful disagreement. Share your own thinking processes aloud to model metacognitive strategies. Use structured discussion techniques: Implement strategies such as think-pair-share, debates, and role-playing to provide a framework for purposeful talk. Provide opportunities for collaborative learning: Encourage students to work together on projects and assignments that require them to communicate and negotiate ideas. Teach explicit vocabulary: Explicitly teach vocabulary relevant to the curriculum, providing opportunities for students to use new words in context. Focus on subject-specific terminology. Encourage questioning: Create a classroom culture where students feel comfortable asking questions and seeking clarification. Model effective questioning techniques. Incorporate drama and role-play: Use drama and role-play activities to engage students in active learning and develop their communication skills. Provide feedback: Offer constructive feedback on students' speaking skills, focusing on areas such as clarity, organisation, and persuasiveness. ‍ How Can Teachers Assess Oracy Progress in the Classroom?","acceptedAnswer":{"@type":"Answer","text":"Measuring oracy development requires a different approach to traditional literacy assessment. Unlike written work, spoken language assessment happens in real-time and involves multiple dimensions of communication. Teachers need practical tools that capture both the content and quality of pupil contributions without interrupting the flow of discussion."}},{"@type":"Question","name":"What Are the Most Effective Oracy Activities for Different Year Groups?","acceptedAnswer":{"@type":"Answer","text":"Oracy activities must match pupils' developmental stages whilst challenging them to extend their verbal reasoning skills. Foundation Stage and Key Stage 1 pupils benefit from structured talk partners and role-play scenarios that develop basic conversational skills. Activities like 'Barrier Games', where one pupil describes a picture for their partner to recreate, build precise descriptive language whilst maintaining engagement."}},{"@type":"Question","name":"How Does Oracy Support Pupils with English as an Additional Language?","acceptedAnswer":{"@type":"Answer","text":"For EAL learners, structured oracy activities provide essential scaffolding for language acquisition. Unlike written tasks, speaking allows immediate feedback and natural repetition of key vocabulary. Collaborative talk activities reduce anxiety by distributing the communicative load across multiple speakers, allowing EAL pupils to participate at their current language level whilst accessing more complex content."}}]}]}
+
+document.addEventListener('DOMContentLoaded', () => {
+ if (!window.jQuery) return;
+ $('form[action^="https://usebasin.com"]').on('submit', function(e){
+ e.preventDefault();
+ const $form = $(this);
+ $.post($form.attr('action') + '.json', $form.serialize())
+ .done(r => {
+ if (r.success) {
+ $form.hide();
+ $form.siblings('.w-form-done').show();
+ } else {
+ $form.siblings('.w-form-fail').show();
+ }
+ })
+ .fail(() => $form.siblings('.w-form-fail').show());
+ });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+ document.querySelectorAll('iframe[src*="youtube.com/embed"]').forEach(iframe => {
+ const m = iframe.src.match(/embed\/([^?&]+)/);
+ if (!m) return;
+ const lite = document.createElement('lite-youtube');
+ lite.setAttribute('videoid', m[1]);
+ iframe.replaceWith(lite);
+ });
+});
+
+(function(){
+ var loaded = false;
+ function loadMV(){
+ if (loaded) return;
+ loaded = true;
+ var s = document.createElement('script');
+ s.src = "//scripts.mediavine.com/tags/structural-learning.js";
+ document.body.appendChild(s);
+ }
+
+ ['scroll','mousemove','touchstart','keydown'].forEach(evt => {
+ window.addEventListener(evt, loadMV, { once:true, passive:true });
+ });
+
+ setTimeout(loadMV, 5000);
+})();
+
+(function() {
+ 'use strict';
+ function detectUserLocale() {
+ var userLang = navigator.language || navigator.userLanguage || '';
+ var timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+ var isUSLang = userLang.toLowerCase().indexOf('en-us') !== -1;
+ var isUSTimezone = timezone.indexOf('America') !== -1 || timezone.indexOf('US/') !== -1;
+ return isUSLang || isUSTimezone;
+ }
+ function swapCurrency() {
+ var isUSUser = detectUserLocale();
+ if (!isUSUser) return;
+ document.querySelectorAll('[data-price-gbp][data-price-usd]').forEach(function(el) {
+ el.textContent = el.getAttribute('data-price-usd');
+ });
+ document.querySelectorAll('.currency-symbol').forEach(function(el) {
+ if (el.textContent.indexOf('\u00A3') !== -1) {
+ el.textContent = el.textContent.replace('\u00A3', '$');
+ }
+ });
+ }
+ if (document.readyState === 'loading') {
+ document.addEventListener('DOMContentLoaded', swapCurrency);
+ } else {
+ swapCurrency();
+ }
+ var observer = new MutationObserver(swapCurrency);
+ observer.observe(document.body, { childList: true, subtree: true });
+})();
+
+(function(){
+ var m={s:"oracy-tools",m:"visual-learning",b:"writers-block",t:"thinking-skills",c:"lesson-planning",e:"theory-to-practice",g:"general"};
+ function fix(){
+ document.querySelectorAll('a[href*="app.structural-learning.com"]').forEach(function(a){
+ try{
+ var u=new URL(a.href);
+ var c=u.searchParams.get("utm_campaign");
+ if(c&&c.length===1&&m[c]){
+ u.searchParams.set("utm_campaign",m[c]);
+ a.href=u.toString();
+ }
+ }catch(e){}
+ });
+ }
+ setTimeout(fix,1500);
+ setTimeout(fix,3500);
+ new MutationObserver(function(){setTimeout(fix,500);}).observe(document.body,{childList:true,subtree:true});
+})();
+
+- 
+
+document.addEventListener('DOMContentLoaded',function(){
+ document.querySelectorAll('iframe[src*="youtube.com/embed"]').forEach(function(iframe){
+ var match=iframe.src.match(/embed\/([^?&]+)/);
+ if(!match)return;
+ var lite=document.createElement('lite-youtube');
+ lite.setAttribute('videoid',match[1]);
+ lite.style.margin='0 auto';
+ lite.style.maxWidth='800px';
+ iframe.replaceWith(lite);
+ });
+});
+
+document.addEventListener('DOMContentLoaded',function(){
+ document.querySelectorAll('form[action^="https://usebasin.com"]').forEach(function(form){
+ form.addEventListener('submit',function(e){
+ e.preventDefault();
+ var data=new FormData(form);
+ fetch(form.action+'.json',{method:'POST',body:data})
+ .then(function(r){return r.json()})
+ .then(function(r){
+ if(r.success){
+ form.style.display='none';
+ form.parentElement.querySelector('.w-form-done').style.display='block';
+ }else{
+ form.parentElement.querySelector('.w-form-fail').style.display='block';
+ }
+ })
+ .catch(function(){
+ form.parentElement.querySelector('.w-form-fail').style.display='block';
+ });
+ });
+ });
+});
+
+var Webflow=Webflow||[];
+Webflow.push(function(){
+ var slider=document.getElementById('flowbaseSlider');
+ if(!slider)return;
+ var left=slider.querySelector('.w-slider-arrow-left');
+ var right=slider.querySelector('.w-slider-arrow-right');
+ slider.addEventListener('click',function(e){
+ if(e.target.closest('.back-button-grace'))left.click();
+ if(e.target.closest('.next-button-grace'))right.click();
+ });
+});
+
+ window.addEventListener('DOMContentLoaded', function () {
+ const wrapper = document.querySelector('.brochure-form-wrapper');
+ if (!wrapper) return;
+ setTimeout(function () {
+ wrapper.classList.add('is-visible');
+ }, 10000);
+ });

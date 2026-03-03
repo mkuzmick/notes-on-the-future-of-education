@@ -1,0 +1,33 @@
+The Power of Self-Explanation
+https://learning.northeastern.edu/the-power-of-self-explanation/
+
+Elle's notes:
+Northeastern Center for Advancing Teaching and Learning Through Research, 2019
+Key insight: Elaborative interrogation and self-explanation are research-backed learning techniques that require verbal articulation. "Significant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material." Self-explanation works best "in the moment" rather than after-the-fact. Benefits demonstrated across content areas, for both high and low-ability learners.
+
+--
+
+Do you have learners who seem to be working hard, yet perform poorly? It may very well be that they are not using effective engagement strategies while they are learning. In club meetings or the residence hall, it may mean that they don’t carry away the most important information from a meeting or experience. Academically, it has to do with how they study.  In fact, many of the strategies that students use most – re-reading, reviewing notes or summarizing – have limited impact on memory or understanding. By helping your students understand some of the research on learning, you can both improve their performance and build their capacity to be self-directed learners.
+
+What does the research say?
+ When young children persistently ask, “why?” they are onto something. Elaborative interrogation involves asking students to explain why a fact is true or a process is correct, posing questions like, “why does this make sense?” “why is this true?” or simply, “why?” Significant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material (Pressley, McDaniel, Turnure, Wood, & Ahmad, 1987). Researchers hypothesize that elaborate interrogation prompts learners to associate new material with prior knowledge and create new knowledge structures (Willoughby & Wood, 1994).
+
+Self-explanation is similar to elaborative interrogation, but the prompts can be more varied. This strategy involves learners explaining a task or concept while they are working with it. After-the-fact explanation also has an impact, but it is not as effective as explaining in the moment (Berry, 1983). The benefits of self-explanation have been demonstrated across a broad range of content areas, for learners with both high and low abilities (Chi, de Leeuw, Chiu, & LaVancher, 1994), and when used with both direct instruction and discovery learning (Rittle-Johnson, 2006).
+
+CATLR Tips
+- Encourage students to explain problem-solving processes to themselves when they are studying.
+- Ask students to collaboratively solve problems in pairs or small groups, explaining their thinking as they go.
+- In addition to giving students problems to solve, give them completed problems and ask them to explain the solutions.
+References
+
+Berry, D. C. (1983). Metacognitive experience and transfer of logical reasoning. Quarterly Journal of Experimental Psychology, 35A, 39–49.
+
+Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18, 439–477.
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).Improving students’ learning with effective learning techniques. Psychological Science in the Public Interest 14(1), 4–58.
+
+Pressley, M., McDaniel, M. A., Turnure, J. E., Wood, E., & Ahmad, M. (1987). Generation and precision of elaboration: Effects on intentional and incidental learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 13,291–300.
+
+Rittle-Johnson, B. (2006). Promoting transfer: Effects of self-explanation and direct instruction. Child Development, 77, 1–15.
+
+Willoughby, T., & Wood, E. (1994). Elaborative interrogation examined at encoding and retrieval. Learning and Instruction, 4, 139–149.

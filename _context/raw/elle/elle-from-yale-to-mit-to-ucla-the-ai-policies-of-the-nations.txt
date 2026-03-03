@@ -1,0 +1,229 @@
+From Yale to MIT to UCLA: The AI policies of the nation's biggest colleges
+https://mashable.com/article/university-ai-policies-what-to-know
+
+Elle's notes:
+Comprehensive survey revealing the fragmented landscape: Princeton prohibits non-Princeton AI tools for academic requirements; most policies defer to individual instructors; 85%+ of students report using generative AI for coursework while faculty adoption lags. Notable: A Gallup poll found nearly half of students are unsure of their school's AI stance.
+
+Why it matters: The "instructor discretion" model creates inconsistency and places burden on individual faculty. Harvard could differentiate by establishing institution-wide oral assessment frameworks rather than leaving each professor to reinvent the wheel.
+
+--
+
+How is your university handling the AI craze? 
+ 
+ Credit: Ian Moore / Mashable Composite; Weiquan Lin / Moment / CG Tan / E+ / CAHKT / iStock / Getty
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Matriculating college students are beginning their higher education journeys with an AI-assisted bump — or so tech companies want you to think.
+
+According to a 2024 global survey of students by the Digital Education Council, more than half used AI tools on a weekly basis. The most common was ChatGPT, as well as tools like Grammarly and Microsoft CoPilot. Educators report students leaning on chatbots to complete assignments, streamline research, and even write college admissions essays. 
+
+But nearly the same percentage of students reported that they didn't feel equipped with the skills necessary to use and understand AI. A vast majority said they were discouraged by their university's integration of the modern tech. A recent Gallup poll of students around the country revealed nearly half were unsure of their school's stance on AI. 
+
+ 
+ 
+ You May Also Like
+ 
+ 
+ 
+ 
+ 
+ 
+ (() => {
+ window.videoEmbeds = window.videoEmbeds || [];
+
+ let data = {"excoPlayListId":"6825f7191ad7f3226d4a872b","excoPlayVideos":{"3334199f-b0d9-4558-a618-5e5c1f857083":"04xmLXktOBisjAcu14gU2iX","474a1a21-3c5a-59fa-9d7a-9f91322667df":"05GDH0oPKvA4ebBnss3R4Od","bd3c51a7-2ce0-5aea-9500-5e0a2d930d2c":"06AszwIBRtzp1m1DZdxMsNF","d2282514-c382-59f3-aba8-a14ab524d905":"05a3dhJEn81aI6OSYfgWDYW"},"title":"","videoPlayerType":"related-contextual","titleOverride":"You May Also Like"};
+ data.excoPlayListId = '6825f7191ad7f3226d4a872b';
+ data.excoPlayListVideos = {"3334199f-b0d9-4558-a618-5e5c1f857083":"04xmLXktOBisjAcu14gU2iX","474a1a21-3c5a-59fa-9d7a-9f91322667df":"05GDH0oPKvA4ebBnss3R4Od","bd3c51a7-2ce0-5aea-9500-5e0a2d930d2c":"06AszwIBRtzp1m1DZdxMsNF","d2282514-c382-59f3-aba8-a14ab524d905":"05a3dhJEn81aI6OSYfgWDYW"};
+ 
+ window.videoEmbeds.push({
+ elemId: 'video-container-01KJQMP3EXNTS1H75NW7R9CYW5',
+ data: data
+ });
+ })()
+ 
+ 
+
+ 
+ 
+As universities contend with the potential consequences of generative AI use, students themselves are feeling the pressure, and even excitement, to use it more and more.
+
+ SEE ALSO:
+ 
+ I tried learning from AI tutors. The test better be graded on a curve.
+ 
+ 
+ 
+
+AI partnerships vs. AI policies 
+Behind the mass adoption of generative AI in university systems is a push from AI companies to pen official deals with educational leaders. To this end, most major AI developers have launched educational products, including tutor modes for their chatbots and broad licensing options for universities.
+
+Part of ChatGPT for Education, OpenAI has announced educational partnerships with Harvard Business School, University of Pennsylvania's Wharton College, Duke, University of California, Los Angeles (UCLA), UC San Diego, UC Davis, Indiana University, Arizona State University, Mount Sinai's Ichan School of Medicine, and the entire California State University (CSU) System — OpenAI's collaboration with CSU schools is the largest ChatGPT deployment yet. But there are dozens more, an OpenAI spokesperson told Mashable, that haven't made their ChatGPT partnerships public.
+
+Ed Clark, chief information officer for CSU, told Mashable that the decision to partner with OpenAI came from a survey of students that showed many were already signing up for AI accounts using their student emails — faculty and staff were too. "One of the concerns, as an access institution, was there are folks in our system that can afford the $30 per month and there are many folks that can't," he explained. "It was about access and equity, and addressing this digital divide that was already occurring, not only within our system, but across the country and beyond."
+
+The system's AI advisory committee urged administrators to ensure equitable AI access, and while the partnership is still in its infancy, Clark said that students have been eager. Of more than 140,000 CSU community members who have enabled their accounts, Clark said, around 80 percent are students. The other 20 percent are comprised of faculty and staff. "The adoption is clearly growing the quickest with our student population."
+
+Google offers its Google AI Pro plan and Gemini chatbot to college students for free, and is in over 1,000 U.S. higher education institutions, according to a recent blog post. These numbers are due in part to its AI for Education Accelerator, which offers schools free access to AI products and training certificates. 
+
+The company also announced a partnership with California Community Colleges, offering "2 million students and faculty across the state’s 116 community colleges with free access to AI training, Google Career Certificates, and some of Google's cutting-edge AI tools including Gemini for Education and NotebookLM." It's considered the largest highest education system in the country. 
+
+Anthropic, maker of chatbot Claude and its accompanying Claude for Education program, has taken a slower approach to educational partnerships. So far only, Northeastern University, London School of Economics (LSE), the University of San Francisco Law School, Northumbria University, Champlain College, and Breda University of Applied Sciences have announced Claude for Education investments. "Many universities prefer to manage their own communications about AI adoption, and we respect their preferences around timing and messaging," an Anthropic spokesperson told Mashable, explaining that more schools are using Claude than are publicly shared. 
+
+Microsoft offers AI tools, including CoPilot for Web and CoPilot in 365, for schools through its 365 office suite. Students can now get Microsoft CoPilot for free, as well. 
+
+An official partnership with an AI company, which Clark explains usually comes with a high initial cost and an array of enterprise features, differs from a university's policies on the use of generative AI, though. 
+
+Most guidelines governing the use of AI are grouped under academic integrity or honesty policies (students, definitely read them). The specifics can vary by school, department, and individual professors within a larger university — an onus that many educators say is too much for them to handle, as the already over-burdened workforce battles new methods for cheating. 
+
+Take New York University's policy, for example: "Because of [AI's] novelty and flexibility, there are few standard approaches to its use beyond an institution-wide restriction on taking credit for AI output without acknowledging its use. Most policies will be set by the schools or by individual faculty members. Check with your school or department to see if there are local policies."
+
+ 
+ Mashable Trend Report
+ 
+ 
+ 
+ Decode what’s viral, what’s next, and what it all means.
+ Sign up for Mashable’s weekly Trend Report newsletter.
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading...
+ Sign Me Up
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Use this instead
+
+ 
+ By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy.
+ 
+ 
+ 
+ 
+ Thanks for signing up!
+ 
+ 
+ 
+Universities more closely regulate the use of AI by faculty and researchers — for reasons like data privacy and academic ethics — in many cases. But that may not be where it is most needed. According to a meta analysis of faculty and student surveys, AI adoption among educators lags steeply behind student use. Some surveys report that over 85 percent of students have used generative AI for coursework. 
+
+A web of stances and policies on AI  
+A lot of that student use could be on personal accounts, but many students have been encouraged by university administrations to take advantage of their generative AI services. Others have granted only limited access to students, or mandated clearer processes for acknowledging AI use in coursework, like a new AI Disclosure Form currently being used by students at American University's business school. Some seem to be pushing it to the back burner. 
+
+Ivy Leagues 
+America's Ivy League system — which includes Brown, Columbia, Cornell, Dartmouth, Harvard, University of Pennsylvania, Princeton, and Yale — doesn't have a blanket policy for generative AI use. 
+
+Yale, for example, built the AI Clarity platform and chatbot to help staff and students access AI tools like ChatGPT, as well as CoPilot and Gemini services. The university offers many resources on AI, and even encourages students not to use it as a replacement for learning. But "each course at Yale sets its own policies for using AI. Using AI when it’s not authorized in a course constitutes academic dishonesty," the university writes. 
+
+For now, Princeton students can only access Microsoft CoPilot chat and Adobe's AI image generation tools. Use of other generative AI falls under the school's Rights, Rules, and Responsibilities, which prohibit using non-Princeton AI tools to fulfill academic requirements: "If generative AI is permitted by the instructor (for brainstorming, outlining, etc.), students must disclose its use rather than cite or acknowledge the use, since it is an algorithm rather than a source."
+
+Columbia has also licensed ChatGPT for student use, and has issued an overarching generative AI policy for staff and students. But it's more clear on student use than others: "Absent a clear statement from a course instructor granting permission, the use of Generative AI tools to complete an assignment or exam is prohibited. The unauthorized use of AI shall be treated similarly to unauthorized assistance and/or plagiarism." 
+
+Keep in mind, much of the liability falls on users: You can't put confidential or personal information into generative AI programs, its use must be disclosed, and any output of an AI is your sole responsibility. 
+
+Public and private systems 
+Duke University, one of a few private schools that recently announced a ChatGPT Edu partnership, gives students unlimited access to the ChatGPT default model and even lets students migrate their personal accounts to student accounts. As for policies on using gen AI, Duke's Community Standard says any unauthorized use of generative AI is treated as cheating. But teachers are encouraged to write their own policies on how, if, and when generative AI may be used. 
+
+California's many colleges vary quite a bit. The California community college system's public partnership with Google, for example, shouldn't be confused with the California State University system's massive collaboration with OpenAI. And every school within those systems will have varying AI policies. 
+
+CSU schools, Clark explained, got to choose if and how they deployed the ChatGPT Education platform, according to their own AI stances. Students at large can access general AI resources from faculty, experts, and all of their AI partners on the system's AI Commons website. 
+
+ 
+ 
+ Related Stories
+ 
+ 
+ 
+ - AI can't write your college admissions essay. Here's why.
+
+ - I tried learning from Anthropic's AI tutor. I felt like I was back in college.
+
+ - After testing out Google’s AI tutor, we have some notes
+
+ - 7 things to know about using an AI tutor
+
+ - College students can get Google AI Pro for free, as company launches new guided learning mode
+
+ 
+
+The University of California system schools are entirely different, too. UC San Diego, a ChatGPT Edu partner, also licenses and has built its own in-house AI assistant known as TritonGPT, which uses Meta's Llama model. UC Irvine has taken a similar approach, building its own ZotGPT AI, but also contracting with CoPilot and Gemini. 
+
+Tech and research institutions 
+Many research institutions are directly investing in AI research and are figuring out ways to responsibly make gen AI tools and LLMs available to students and staff.
+
+Massachusetts Institute of Technology (MIT), for example, has approved licenses for Adobe's generative AI tools, Google Gemini and Notebook LM, and Microsoft CoPilot — that means all student accounts can access them. ChatGPT (the advanced version) is only available for faculty use. According to MIT's policies, the use of generative AI tools must be disclosed for all academic, educational, and research-related uses. 
+
+While the California Institute of Technology (CalTech) offers CoPilot to students and has been reviewing ChatGPT for faculty and staff, it warns users that the use of unlicensed AI tools carries risks. Like many other research-focused schools, AI use is permitted, but at the discretion of faculty and with definitive disclosure and privacy requirements. 
+
+Georgia Tech has approved the use of the full suite of Microsoft AI tools and says it is exploring ChatGPT Edu, but the OpenAI tool is not approved for student use yet. DeepSeek is entirely prohibited on the campus. The use of other gen AI tools is the responsibility of professors and specific course guidelines.
+
+AI is bolstered by student demand 
+OpenAI recently announced the ChatGPT Lab for Students program, a pilot that connects AI student enthusiasts with OpenAI's developers, gaining early access to features and providing feedback. Students "will leave the program with a broader understanding of how to use AI in their own lives, new relationships with a special group of passionate peers, and insights into how OpenAI builds products and shapes its storytelling," OpenAI explained in a call for applicants. 
+
+OpenAI's spokesperson also explained that they've seen a rise in student community groups and AI-focused clubs across U.S. campuses, where students learn the science behind AI and encourage its use among their peers. Students at UPenn's Wharton College, for example, run both the AI & Analytics Club for MBA students and the Wharton Artificial General Intelligence Collective (WAGIC) under the campuses' AI and Analytics Initiative. Columbia University Business School students operate the Artificial Intelligence Club. 
+
+Clark said students across the CSU system have already taken advantage of ChatGPT Edu's platform by building their own bots — students at Cal Poly in San Luis Obispo designed a scheduling bot for picking courses and extracurricular activities, for example. 
+
+Anthropic runs student ambassador programs and Claude builder clubs, too.  
+
+It's not just at the college level. If you were to Google "AI student clubs," you'll probably come across SAILea, an initiative to build out a network of AI clubs across high schools run by students from Duke, Georgia Tech, and University of North Carolina at Chapel Hill. 
+
+Students in the U.S. and Canada have become spokespersons for companies like OpenAI. They're demoing new tools — like ChatGPT Study Mode — for the public, peers, and press, and they're increasingly getting a seat at the table.
+
+ 
+ 
+ 
+ Topics
+ Artificial Intelligence
+ Social Good
+ ChatGPT
+ Google Gemini
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Chase DiBenedetto
+ Social Good Reporter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.

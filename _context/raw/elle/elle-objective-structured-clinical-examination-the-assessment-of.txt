@@ -1,0 +1,210 @@
+Objective Structured Clinical Examination: The Assessment of Choice
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3191703/
+
+Elle's notes:
+The Objective Structured Clinical Examination (OSCE) has been the standard assessment method in medical education since 1975. Medical students rotate through multiple "stations" (typically 5-20), each testing a specific clinical skill within a timed period (usually 5-10 minutes): history-taking, physical examination, counseling, patient management, communication skills, and handling unpredictable patient behavior. Each station uses standardized patients (actors trained to exhibit specific symptoms) and predetermined objective marking criteria. The OSCE addresses the fatal flaw of traditional clinical exams: "correlation of independent evaluations by two examiners was less than 0.25" (National Board of Medical Examinations data, 1960-1963). With OSCEs, "all students get examined on predetermined criteria on same or similar clinical scenario", achieving reliability, validity, and objectivity. Disadvantages: expensive, organizationally complex, requires trained standardized patients.
+
+Harvard relevance: OSCEs are medical education's answer to "how do we assess real competency, not just theoretical knowledge?" For 50 years, every accredited medical school worldwide has required OSCEs because written exams can't test clinical judgment, bedside manner, or real-time decision-making. The OSCE model is directly applicable to Harvard College oral assessment: (1) Multiple stations = different topics/skills tested sequentially, (2) Standardized patients = consistent prompts/questions across students, (3) Objective rubrics = predetermined criteria eliminate examiner bias, (4) Timed format = efficiency at scale (Harvard Medical School uses OSCEs for 170+ students annually). The key insight: medicine solved the "oral assessment is subjective" problem 50 years ago through structured design. If it works for life-or-death medical competency, it works for undergraduate academic assessment.
+
+--
+
+Oman Med J. 2011 Jul;26(4):219–222. doi: 10.5001/omj.2011.55
+
+Objective Structured Clinical Examination: The Assessment of Choice
+
+Marliyya Zayyan
+
+Marliyya Zayyan
+
+1Department of Obstetrics and Gynecology, Ahmadu Bello University Teaching Hospital, Zaria, Kaduna State, Nigeria.
+Find articles by Marliyya Zayyan
+
+1,*
+
+- Author information
+
+- Article notes
+
+- Copyright and License information
+
+1Department of Obstetrics and Gynecology, Ahmadu Bello University Teaching Hospital, Zaria, Kaduna State, Nigeria.
+
+*Address correspondence and reprints request to: Dr. Marliyya Zayyan, Department of Obstetrics and Gynecology, Ahmadu Bello University Teaching Hospital, Zaria, Kaduna State, Nigeria. E-mail: marzayyan@yahoo.com
+
+Received 2011 Mar 15; Accepted 2011 Jun 26.
+
+PMC Copyright notice
+
+PMCID: PMC3191703  PMID: 22043423
+
+Abstract
+
+The Objective Structured Clinical Examination is a versatile multipurpose evaluative tool that can be utilized to assess health care professionals in a clinical setting. It assesses competency, based on objective testing through direct observation. It is precise, objective, and reproducible allowing uniform testing of students for a wide range of clinical skills. Unlike the traditional clinical exam, the OSCE could evaluate areas most critical to performance of health care professionals such as communication skills and ability to handle unpredictable patient behavior.
+
+Keywords: Objective, Examination, Clinical skills
+
+Introduction
+
+Since its introduction as a mode of students’ assessment in medical school in 1975, by Haden and Gleeson,1 the objective structured clinical examination (OSCE) has become a standard method of assessment in both undergraduate and postgraduate students. Originally described as ‘a timed examination in which medical students interact with a series of simulated patients in stations that may involve history-taking, physical examination, counselling or patient management,1 the OSCE examination has been broadened in its scope and has undergone a lot of modification to suit peculiar circumstances.2-4 In the United Kingdom, United States, Canada and indeed most reputable colleges of medicine the OSCE is the standard mode of assessment of competency, clinical skills, and counselling sessions satisfactorily complementing cognitive knowledge testing in essay writing and objective examination.3-6
+
+The OSCE is a versatile multipurpose evaluative tool that can be utilized to evaluate health care professionals in a clinical setting. It assesses competency, based on objective testing through direct observation. It is comprised of several "stations" in which examinees are expected to perform a variety of clinical tasks within a specified time period against criteria formulated to the clinical skill, thus demonstrating competency of skills and/or attitudes. The OSCE has been used to evaluate those areas most critical to performance of health care professionals, such as the ability to obtain/interpret data, problem-solve, teach, communicate, and handle unpredictable patient behavior,3-7 which are otherwise impossible in the traditional clinical examination. Any attempt to evaluate these critical areas in the old-fashioned clinical case examination will seem to be assessing theory rather than simulating practical performance.
+
+Advantages and Disadvantages of OSCE
+
+Written examinations (essays and multiple choices) test cognitive knowledge, which is only one aspect of the competency. Traditional clinical examination basically tests a narrow range of clinical skills under the observation of normally two examiners in a given clinical case. The scope of traditional clinical exam is basically patient histories, demonstration of physical examinations, and assessment of a narrow range of technical skills. It has been shown to be largely unreliable in testing students’ performance and has a wide margin of variability between one examiner and the other.8,9 Data gathered by the National Board of Medical Examinations in the USA (1960–1963), involving over 10,000 medical students showed that the correlation of independent evaluations by two examiners was less than 0.25.8 It has also been demonstrated that the luck of the draw in selection of examiner and patient played a significant role in the outcome of postgraduate examinations in psychiatry using the traditional method.6
+
+Published findings of researchers on OSCE from its inception in 1975 to 2004 has reported it to be reliable, valid and objective with cost as its only major drawback.9 The OSCE however, covers broader range like problem solving, communication skills, decision-making and patient management abilities.
+
+The advantages of OSCE apart from its versatility and ever broadening scope are its objectivity, reproducibility, and easy recall. All students get examined on predetermined criteria on same or similar clinical scenario or tasks with marks written down against those criteria thus enabling recall, teaching audit and determination of standards. In a study from Harvard medical school, students in second year were found to perform better on interpersonal and technical skills than on interpretative or integrative skills.10,11 This allows for review of teaching technique and curricula.
+
+Performance is judged not by two or three examiners but by a team of many examiners in-charge of the various stations of the examination. This is to the advantage of both the examinee and the teaching standard of the institution as the outcome of the examination is not affected by prejudice and standards get determined by a lot more teachers each looking at a particular issue in the training. OSCE takes much shorter time to execute examining more students in any given time over a broader range of subjects.10-12
+
+However no examination method is flawless and the OSCE has been criticized for using unreal subjects even though actual patients can be used according to need.11 OSCE is more difficult to organize and requires more materials and human resources.9,13,14
+
+Table 1. Advantages & Disadvantages of OSCE.
+
+Advantages of OSCE Objectivity
+Disadvantages
+
+1. Uniform scenarios for all candidates
+2. Availability
+3. Safety, no danger of injury to patients
+4. No risk of litigation
+5. Feedback from Actors (simulators)
+6. Allows for Recall
+7. Stations can be tailored to level of skills to be assessed
+8. Allows for teaching audit
+9. Allows for demonstration of emergency skills
+1. Organizational training
+2. The idealized ‘textbook’ scenarios may not mimic real-life situations
+3. Expensive
+
+Open in a new tab
+
+How is OSCE done?
+
+OSCE’s basic structure is a circuit of assessment stations, where examiners, using previously determined criteria assess range of practical clinical skills on an objective-marking scheme.12
+
+Such stations could involve several methods of testing, including use of multiple choice or short precise answers, history taking, demonstration of clinical signs, interpretation of clinical data, practical skills and counselling sessions among others.13,14 Most OSCEs use "standardized patients (SP)" for accomplishing clinical history, examination and counselling sessions. Standardized patients are individuals who have been trained to exhibit certain signs and symptoms of specific conditions under certain testing conditions.14,15
+
+The basic steps in modelling an OSCE exam include:
+
+- Determination of the OSCE team.
+
+- Skills to be assessed (OSCE Stations).
+
+- Objective marking schemes
+
+- Recruitment and training of the standardized patients.
+
+- Logistics of the examination process.
+
+The OSCE Team
+
+Examiners, marshals and timekeepers are required. Some stations could be unmanned such as those for data or image interpretation but most require an examiner to objectively assess candidate performance based on the pre-set criteria.16,17 A reserve examiner who can step in at the last time if required is a good practice. Examiners must be experienced and a standard agreed upon at the outset. Examiners must be prepared to dispense with personal preferences in the interests of objectivity and reproducibility and must assess students according to the marking scheme.12 Marshals and timekeepers are required for correct movement of candidates and accurate time keeping. OSCE is expensive in terms of manpower requirement.
+
+Skills Assessed in OSCEs
+
+The tasks to be assessed should be of different types and of varying difficulties to provide a mixed assessment circuit. The tasks in OSCE depend on the level of students training. Early in undergraduate training correct technique of history taking and demonstration of physical signs to arrive at a conclusion may be all that is required.10,12,13
+
+At the end of the training however, testing a broader range of skills, may be required. This could include formulation of a working diagnosis, data and image interpretation, requesting and interpreting investigations, as well as communication skills. Postgraduate medicine may involve more advanced issues like decision taking, handling of complex management issues, counselling, breaking bad news and practical management of emergency situations. There is no hard or fast rules to the skills tested but are rather determined by the aim of assessment.9,17 Complex stations for postgraduate student could test varying skills including management problems, administrative skills, handling unpredictable patient behaviour and data interpretation.17-19 These assessments and many others are impossible in traditional clinical examination.
+
+Objective marking scheme
+
+The marking scheme for the OSCE is decided and objectively designed. It must be concise, well focused and unambiguous aiming to reward actions that discriminate good performance from poor one. The marking scheme must take cognizance of all possible performances and provide scores according to the level of the student’s performance. It may be necessary to read out clear instructions to the candidates on what is required of them in that station. Alternatively, a written instruction may be kept in the unmanned station.12
+
+It is good practice to perform dummy run of the various stations, which enables exam designers to ensure that the tasks can be completed in the time allocated and modify the tasks if necessary. Candidates should be provided with answer booklets for the answers to tasks on the unmanned stations, which should be handed over and marked at the end of the examination.
+
+Recruitment and Training of Standardized or Simulated Patient
+
+Vu and Barrows defined standardized patients as "real" or "simulated" patients who have been coached to present a clinical problem.12 Standardized patients may be professionally trained actors, volunteer simulators or even housewives who have no acting experience. Their use encompasses undergraduate and postgraduate learning, the monitoring of doctors’ performance and standardization of clinical examinations. Simulation has been used for instruction in industry and the military for much longer period,7 but the first known effective use of simulated patients was by Barrows and Abrahamson (1964),13 who used them to appraise students’ performance in clinical neurology examinations.
+
+SP candidates must be intelligent, flexible, quick thinking, and reliable. Standardized patients’ understanding of the concept of the OSCE and the role given to them is critical to the overall process.20,21
+
+An advantage of simulated patients over real patients is that of allowing different candidates to be presented with a similar challenge, thereby reducing an important source of variability.12,22 They also have reliable availability and adaptability, which enables the reproduction of a wide range of clinical phenomena tailored to the student’s level of skill. In addition, they can simulate scenarios that may be distressing for a real patient, such as bereavement or terminal illness.13 Their use also removes the risk of injury or litigation while using real patients for examination especially in sensitive area of medicine like obstetrics and gynecology.
+
+The validity of the use of SP in clinical practice has been proved by both direct and indirect means. In a double-blind study, simulated patients were substituted for real patients in the individual patient assessment of mock clinical examinations in psychiatry. Neither the examiners nor the students could detect the presence of simulated patients among the real patients. Indirect indicators of validity might include the fact that simulators are rarely distinguished from real patients.15,16
+
+Simulated patients are however expensive in terms of the time it takes to train and coach them in performing and understanding concepts, this could be very difficult in some fields like pediatrics where problems in very young children need to be simulated.17,18 The cost of paying professionals adds to the expense. However, the time efficiency of OSCE and its versatility makes the cost worthwhile.18,22 Recruitment and training of the SP is critical to the success of the OSCE. SP could be used not only for history taking and counselling, but also for eliciting physical findings that can be simulated, including aphasia, facial paralysis, hemiparetic gait, and hyperactive deep tendon reflexes.16,19,20
+
+Logistics of the examination process
+
+Enough space is required for circuit running and to accommodate the various stations, equipment and materials for the exam. The manned stations should accommodate an examiner, a student and possibly the standardised patient and also allow for enough privacy of discussion so that the students performing other tasks are not distracted or disturbed. A large clinic room completely cleared could be ideal and may have further advantage of having clinic staff that will volunteer towards the execution of the examination thereby reducing cost.
+
+The stations should be clearly marked and the direction of flow should also be unambiguous. It is good practice to have test run involving all candidates for that circuit so that they acquaint themselves to the direction of movement and the sound of the bell.14,18
+
+Conclusion
+
+The OSCE style of clinical assessment, given its obvious advantages, especially in terms of objectivity, uniformity and versatility of clinical scenarios that can be assessed, shows superiority over traditional clinical assessment. It allows evaluation of clinical students at varying levels of training within a relatively short period, over a broad range of skills and issues. OSCE removes prejudice in examining students and allows all to go through the same scope and criteria for assessment. This has made it a worthwhile method in medical practice.
+
+Acknowledgements
+
+The author reported no conflict of interest and no funding was received for this work.
+
+References
+
+- 
+1.Harden RM, Gleeson FA. Assessment of clinical competence using an objective structured clinical examination (OSCE). Med Educ 1979. Jan;13(1):41-54 10.1111/j.1365-2923.1979.tb00918.x [DOI] [PubMed] [Google Scholar]
+
+- 
+2.Hodges B. OSCE! Variations on a theme by Harden. Med Educ 2003. Dec;37(12):1134-1140 10.1111/j.1365-2923.2003.01717.x [DOI] [PubMed] [Google Scholar]
+
+- 
+3.Stillman PL, Wang Y, Ouyang Q, Zhang S, Yang Y, Sawyer WD. Teaching and assessing clinical skills: a competency-based programme in China. Med Educ 1997. Jan;31(1):33-40 10.1111/j.1365-2923.1997.tb00040.x [DOI] [PubMed] [Google Scholar]
+
+- 
+4.Jain SS, DeLisa JA, Eyles MY, Nadler S, Kirshblum S, Smith A. Further experience in development of an objective structured clinical examination for physical medicine and rehabilitation residents. Am J Phys Med Rehabil 1998. Jul-Aug;77(4):306-310 10.1097/00002060-199807000-00009 [DOI] [PubMed] [Google Scholar]
+
+- 
+5.Novack DH, Volk G, Drossman DA, Lipkin M., Jr Medical interviewing and interpersonal skills teaching in US medical schools. Progress, problems, and promise. JAMA 1993. Apr;269(16):2101-2105 10.1001/jama.269.16.2101 [DOI] [PubMed] [Google Scholar]
+
+- 
+6.Leichner P, Sisler GC, Harper D. A study of the reliability of the clinical oral examination in psychiatry. Can J Psychiatry 1984. Aug;29(5):394-397 [DOI] [PubMed] [Google Scholar]
+
+- 
+7.Jason H, Kagan N, Werner A, Elstein AS, Thomas JB. New approaches to teaching basic interview skills to medical students. Am J Psychiatry 1971. Apr;127(10):1404-1407 [DOI] [PubMed] [Google Scholar]
+
+- 
+8.Hubbard JP, Levit EJ, Schumacher CF, Schnabel TG., Jr An objective evaluation of clinical competence. N Engl J Med 1965. Jun;272:1321-1328 10.1056/NEJM196506242722505 [DOI] [PubMed] [Google Scholar]
+
+- 
+9.Barman A. Critiques on the Objective Structured Clinical Examination. Ann Acad Med Singapore 2005. Sep;34(8):478-482 [PubMed] [Google Scholar]
+
+- 
+10.Hamann C, Volkan K, Fishman MB, et al. How well do second-year students learn physical diagnosis? Observational study of an objective structured clinical examination (OSCE) BMC Medical Education, 2002, 2:1 1186-1188. [DOI] [PMC free article] [PubMed]
+
+- 
+11.Vu NV, Barrows HS. Use of standardized patients in clinical assessments: recent developments and measurement findings. Educ Res 1994;23:23-30 [Google Scholar]
+
+- 
+12.Barrows HS, Abrahamson S. The programmed patient: a technique for appraising student performance in clinical neurology. J Med Educ 1964. Aug;39:802-805 [PubMed] [Google Scholar]
+
+- 
+13.Norman GR, Tugwell P, Feightner JW. A comparison of resident performance on real and simulated patients. J Med Educ 1982. Sep;57(9):708-715 [DOI] [PubMed] [Google Scholar]
+
+- 
+14.Sanson-Fisher RW, Poole AD. Simulated patients and the assessment of medical students’ interpersonal skills. Med Educ 1980. Jul;14(4):249-253 10.1111/j.1365-2923.1980.tb02269.x [DOI] [PubMed] [Google Scholar]
+
+- 
+15.Vander Vleuten CP, Swanson DB. Assessment of clinical skills with standardized patients: state of the art. Teach Learn Med 1990;2:58-76 . 10.1080/10401339009539432 [DOI] [PubMed] [Google Scholar]
+
+- 
+16.Harden RM. Twelve tips for organizing an Objective Structured Clinical Examination (OSCE). Med Teach 1990;12(3-4):259-264 10.3109/01421599009006629 [DOI] [PubMed] [Google Scholar]
+
+- 
+17.Prislin MD, Fitzpatrick CF, Lie D, Giglio M, Radecki S, Lewis E. Use of an objective structured clinical examination in evaluating student performance. Fam Med 1998. May;30(5):338-344 [PubMed] [Google Scholar]
+
+- 
+18.Harden RM, Stevenson M, Downie WW, Wilson GM. Assessment of clinical competence using objective structured examination. Br Med J 1975. Feb;1(5955):447-451 10.1136/bmj.1.5955.447 [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+19.Baerheim A, Malterud K. Simulated patients for the practical examination of medical students: intentions, procedures and experiences. Med Educ 1995. Nov;29(6):410-413 10.1111/j.1365-2923.1995.tb02863.x [DOI] [PubMed] [Google Scholar]
+
+- 
+20.Harden RM, Stevenson M, Downie WW, Wilson GM. Assessment of clinical competence using objective structured examination. Br Med J 1975. Feb;1(5955):447-451 10.1136/bmj.1.5955.447 [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+21.Sloan DA, Donnelly MB, Schwartz RW, Munch LC, Wells MD, Johnson SB, et al. Assessing medical students’ and surgery residents’ clinical competence in problem solving in surgical oncology. Ann Surg Oncol 1994. May;1(3):204-212 10.1007/BF02303525 [DOI] [PubMed] [Google Scholar]
+
+- 
+22.Frye AW, Richards BF, Philp EB, Philp JR. Is it worth it? A look at the costs and benefits of an OSCE for second-year medical students. Med Teach 1989;11(3-4):291-293 10.3109/01421598909146415 [DOI] [PubMed] [Google Scholar]

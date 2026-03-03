@@ -1,0 +1,86 @@
+Revolutionizing Language Assessment with AI: Can We Get There in 2025?
+https://fltmag.com/language-assessment-ai/
+
+Elle's notes:
+FLTMAG (James Ayres, MSU; Carlos Seoane, Extempore), March 2025
+Key insight: Unscripted speech remains AI's hardest assessment challenge. "AI doesn't rationalize. Its outcomes are based on algorithms that recognize patterns... Unscripted spoken responses are the most valuable from a learning perspective... also the most difficult to automatically analyze since there is no 'known truth' a machine can match against." Extempore identified 20 speech elements; only 12 can be reliably measured algorithmically.
+
+--
+
+ArticlesMarch 2025 
+ March 11, 2025 
+ 
+ 
+ 
+
+ 2425 Views
+ 
+ 1 Comment 
+
+ 
+
+ By James Ayres, Michigan State University, and Carlos Seoane, Co-founder and CEO, Extempore 
+
+ 
+
+DOI: https://www.doi.org/10.69732/ABUW8178
+
+It has been just over two years since the public was introduced to OpenAI’s ChatGPT (Generative Pre-Trained Transformer). Since that seemingly innocuous day in November of 2022, the world has hit the gas pedal moving in every direction as the age of exploration has become available to all. In doing so, it is leaving large groups of skeptics, cynics, optimists, and opportunists in its wake. While many are moving as fast as possible to implement new technology, there is an equal number encouraging us to proceed with caution as there are still many unknowns. Answers to the questions of what AI is capable of and what can and should be controlled are still blurry at best. 
+
+Take a look at any foreign language conference or publication about language teaching over the past couple of years and you are bound to find more than a few sessions or articles that present strategies for using AI in the classroom. Last November’s 2024 ACTFL convention in Philadelphia boasted more than 20 sessions dedicated towards AI and its use in language teaching (ACTFL, 2024).
+
+While most of these sessions focus on how AI is facilitating the instruction and planning side of language pedagogy, some further questions beg to be asked: What role is AI playing on the assessment side of things? Better yet, what is the potential when it comes to AI and assessment in language teaching?
+
+Assessment and AI: The Holy Grail in Language Teaching
+
+Let’s dream for a minute. Imagine a classroom where students are assessed and provided feedback as soon as they click “submit”; where students immediately receive information that allows them to understand where they land in their ability to communicate. In this ideal world, student performance is evaluated objectively and teacher bias and error do not come into the equation. Validity and reliability are exponentially increased so that assessments provide an equitable measurement that is consistent across all levels and types of students. 
+
+From the teacher perspective, having such a “super tool” to measure would provide a more accurate perspective of what is happening in the classroom. Data becomes more valuable as it now better informs teachers of how successful their practices are and allows them to hone in and refine their craft to create the optimal environment for language learning. Better data means opportunities to better evaluate curriculum, planning practices, instructional practices, organizational strategies, behavior management strategies, and more. In short, teachers are better able to make informed decisions with data that tells a more accurate story of what is actually happening.
+
+But the best part? AI-facilitated assessment provides back to teachers the greatest asset they have – time! Through practices such as auto scoring of writing and speaking assessments, or AI-generated feedback in interpersonal conversations, the time teachers save from grading is considerable. Sounds magical, right? 
+
+This is what innovators exploring AI for foreign language assessment are after. And while many of these areas have already started to be explored (Meusch, 2024), there are still many challenges. As of this writing there are no commercially available tools that can grade unscripted oral or written responses with reliability. The challenges lie in solving a problem that is almost as complex as language itself. 
+
+AI and Assessment – Where Are We Struggling? 
+
+Right now the answer is simple – spontaneous speech, particularly instances that occur in unscripted and unrehearsed situations where the context is not previously defined. The reality is that AI is not the same as human intelligence. It lacks the ability to understand meaning, and it struggles with semantics. Its token and embedding system uses mathematics to recognize words (Pavlus, 2024), but AI doesn’t rationalize. Its outcomes are based on algorithms that recognize patterns in order to make predictions. The more data, the better AI is at creating an algorithm that can identify patterns.
+
+Unscripted spoken responses are the most valuable from a learning perspective, since they require authentic production from students. Speech processing mechanisms such as idea conceptualization, lexical access, and syntactic encoding are activated in unscripted responses in the same way they would be during an oral face-to-face interaction with another person in the target language. These responses, however, are also the most difficult to automatically analyze since there is no “known truth” a machine can match against. And, of course, spoken responses are also the type of assessment that is more time-consuming for the teacher to grade, whether it’s done face-to-face or asynchronously through recordings.
+
+One of this article’s authors, Carlos Seoane (Co-founder and CEO of Extempore) is starting to see this firsthand. 
+
+The difficulty of assessing authentic spoken responses starts with the fact that audio can only be assessed for phonetic aspects. If one wants to assess morphosyntax, for example, in order to produce a rounded assessment of a student’s work, then that response needs to be transcribed. 
+
+And here we run into the first issue. Most commercially available transcription engines rely on context to produce the transcription. This is what makes them so powerful for most other applications: even if a particular phoneme or entire word is not clear, the engine will deduce what is meant by the context in which it’s said. When assessing a foreign language, however, it is obligatory to obtain a faithful transcription rather than a machine-inferred text: we want to know what the learner actually said.
+
+In creating an engine to assess authentic oral responses, Extempore’s first step was to ensure that all the guessing was taken out of the transcription. Only then can we have a text that can be assessed for actual pronunciation, lexical usage and morphosyntactic encoding (how well the learner accessed their knowledge of the target language to produce the response).
+
+A faithful transcription, however, carries its own problems. When listening to an intermediate-level speaker, for example, a teacher will mentally assemble broken sentences (“Así es. Mañana. Escuela. A. siete y media”) and assess them as a coherent unit. A computer, however, cannot do that without introducing a degree of guessing that would hide the true proficiency level being assessed. 
+
+Breaking Down Language for AI
+
+Once the transcription hurdle has been bypassed, and in order to work within the limitations of AI, the logical approach is to break the transcription down into granular elements that can be independently and objectively analyzed. 
+
+In their research, the Extempore team has identified 20 elements in the speech that can be assessed programmatically. Of those twenty, however, only twelve can be reliably measured using internally-developed algorithms (many, but not all, not AI-based). Extempore’s research has shown that the more granular and independent an element, the easier it is to measure reliably. For example, it is possible to measure syntactic complexity in a sentence regardless of the faithfulness of the transcription. Lexical density, on the other hand, relies on an understanding of what a content word is in each language and is therefore much more difficult to measure reliably. 
+
+Once a sufficiently high number of parameters in the speech are shown to be reliably measured, the next challenge is to weigh each one to approximate what a human would do. Just because we can measure syntactic complexity, identify incomplete sentences and isolate article-noun errors, for example, doesn’t mean that we can get a machine to grade like a human. 
+
+Extempore is uniquely positioned to achieve this “fine-tuning” because, over the years, they have built a multi-million item corpus of human-graded oral responses. This corpus can be used to adjust the weights of each group of parameters to align them with a human grade. In other words, if we see that human graders tend to grade X, Y, and Z parameters combined as a 4 out of 5 in vocabulary, we can adjust internal weights to make sure that we also score a 4 out of 5 in vocabulary. This creates a very natural feedback mechanism that is not meant to be summative, but that will help teachers in their daily practice by saving time and increasing student speaking opportunities.
+
+The Vision – It’s Right Around the Corner
+
+This is the start. AI has the potential to get to an objective measure of the language skill being assessed, free of biases and prejudices and without ever having had a bad night that invariably reflects onto the grades the students receive. 
+
+Of course, once the industry develops effective, objective, and reliable AI-based assessment mechanisms, the floodgates will open, leading to a complete transformation of the language classroom. Objective, immediate assessment means objective, immediate feedback to the student, not only on a summative basis, but, more importantly, in a formative setting. If the “machine” can give students relevant feedback as they are speaking, then we enter a world where the students can practice the target language and receive feedback independently, allowing for a student-centered classroom where the instructor truly adopts a facilitator role: setting direction and learning outcomes, motivating the students, and reviewing summative assessments, without being mired into endless grading.
+
+This is the real value of AI in the language classroom: to act as a force multiplier. In a world where all students are offered the same (potentially unlimited) amount of practice and feedback, human teachers can truly leverage their skill and add a level of value that AI is nowhere near being able to create.
+
+How soon will this happen? It’s only a matter of time. Extempore’s auto-scoring feature is currently in a beta phase with a small number of US-based districts. If the tests continue to deliver the expected results, this feature should become available within the year. Other innovators and early adopters are already racing towards that same outcome. The starting gun has already been fired. The question is, who will get there first?
+
+References
+
+American Council on the Teaching of Foreign Languages (ACTFL). (2024). 2024 ACTFL Annual Convention and World Languages Expo: Program sessions. Retrieved from https://www.actfl.org/attend/2024-convention-program
+
+Meusch, A. (2024, May 12). The role of auto-grading in language education: Understanding AI-powered assessment. Retrieved from https://www.speakable.io/blog-posts/the-role-of-auto-grading-in-language-education-understanding-ai-powered-assessment
+
+Pavlus, J. (2024, September 28). Does AI actually understand language? The Atlantic. Retrieved from https://www.theatlantic.com/technology/archive/2024/09/does-ai-understand-language/680056/

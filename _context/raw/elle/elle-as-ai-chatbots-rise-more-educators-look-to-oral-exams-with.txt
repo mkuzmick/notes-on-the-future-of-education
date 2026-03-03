@@ -1,0 +1,142 @@
+As AI Chatbots Rise, More Educators Look to Oral Exams — With High-Tech Twist
+https://www.edsurge.com/news/2023-10-05-as-ai-chatbots-rise-more-educators-look-to-oral-exams-with-high-tech-twist
+
+Elle's notes:
+Georgia Institute of TechnologyAI Oral Assessment Tool Uses Socratic Method to Test Students' KnowledgeA year ago, Ray Hung, a master’s student in computer science, assisted Professor Thad Starner in constructing an artificial intelligence (AI)-powered anti-plagiarism tool for Starner’s 900-student Intro to Artificial Intelligence (CS3600) course.While the tool proved effective, Hung began considering ways to deter plagiarism and improve the education system.https://www.gatech.edu/news/2024/09/24/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledgebehind-the-enemy-lines.comFighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI AgentIt all started with cold calling. In our new "AI/ML Product Management" class (co-taught with Konstantinos Rizakos ), the "pre-case" submi...https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.htmlEdSurgeAs AI Chatbots Rise, More Educators Look to Oral Exams — With High-Tech Twist  - EdSurge NewsSince the release of ChatGPT late last year, the essay has been declared dead as an effective way to measure learning. After all, students can now ...Oct 5th, 2023https://www.edsurge.com/news/2023-10-05-as-ai-chatbots-rise-more-educators-look-to-oral-exams-with-high-tech-twist[7:33 AM]Stanford students built Sherpa, an AI tool that asks students questions about assigned readings via webcam, records their responses, transcribes audio, and flags weak answers for instructor review. Teachers upload readings or student papers; Sherpa generates or uses instructor-provided questions; students record video responses; AI transcribes and highlights areas "where the student answer seemed off point." Beth Carlson (Maine HS English teacher) used Sherpa for novel comprehension checks: "For the most part, it was spot on. The four students who got 'warnings' spoke too generally or answered something different than what was asked." The system uses Webb's Depth of Knowledge framework to adjust follow-up questions based on student performance.
+
+Harvard relevance: This is the asynchronous oral exam—students don't need simultaneous appointments. Sherpa handles scheduling flexibility while preserving the anti-AI benefits of spoken assessment. The AI doesn't grade definitively; it triages for instructor attention. This hybrid model could work for courses with 100-300 students: Sherpa conducts initial screening, faculty review flagged cases, everyone gets oral assessment without 30 hours of Zoom calls. The concern: students could still use AI-generated notes during recording. But the dynamic follow-up questions (per Depth of Knowledge framework) limit this—if you don't actually understand, you can't improvise coherent answers to adaptive probing.
+
+--
+
+As AI Chatbots Rise, More Educators Look to Oral Exams — With High-Tech...TweetShareSign up for our newsletter×TweetShareLike this article?
+Sign up for our newsletter →×
+
+Artificial Intelligence 
+
+As AI Chatbots Rise, More Educators Look to Oral Exams — With High-Tech Twist 
+
+By Jeffrey R. Young     Oct 5, 2023 
+
+fizkes / Shutterstock
+TweetShareEmailTweetShareEmailThis article is part of the collection: How AI Is Impacting Teaching and Learning.
+
+Since the release of ChatGPT late last year, the essay has been declared dead as an effective way to measure learning. After all, students can now enter any assigned question into an AI chatbot and get a perfectly formatted, five-paragraph essay back ready to turn in (well, after a little massaging to take out any AI “hallucinations”). 
+
+As educators have looked to alternatives to assigning essays, one idea that has bubbled up is to bring back oral exams. 
+
+It’s a classic idea: In the 1600s it was the basic model of evaluation at Oxford and Cambridge (with the grilling by professors done in Latin), and it was pretty much what Socrates did to his students. And oral evaluations of student learning do still happen occasionally — like when graduate students defend their theses and dissertations. Or in K-12 settings, where the International Baccalaureate (IB) curriculum used by many high schools has an oral component.
+
+But even fans of administering oral exams admit a major drawback: They’re time-consuming, and take a lot out of educators.
+
+“They’re exhausting,” says Beth Carlson, an English teacher at Kennebunk High School, in Maine, who says she occasionally does 15-minute-each oral assessments for students in the school’s IB program. “I can only really do four at a time, and then I need a brain break. I have a colleague who can do six at a time, and I am in awe of her.”
+
+Even so, some educators have been giving the oral exam a try. And they say the key is to use technology to make the approach more convenient and less draining.
+
+Can oral exams be delivered at the scale needed for today’s class sizes?
+
+Fighting AI With AI
+Two undergraduate students who are researchers at Stanford University’s Piech Lab, which focuses on “using computational techniques to transform fundamental areas of society,” believe one way to bring back oral exams may be to harness artificial intelligence.
+
+"I think where the future is going is, it's going to become even more important for students to be able to have those soft skills and be able to talk and communicate their ideas."
+—Joseph Tey, a Stanford University undergraduate developing an AI tool for delivering oral exams.The students, Joseph Tey and Shaurya Sinha, have built a tool called Sherpa that is designed to help educators hear students talk through an assigned reading to determine how well they understood it.
+
+To use Sherpa, an instructor first uploads the reading they’ve assigned, or they can have the student upload a paper they’ve written. Then the tool asks a series of questions about the text (either questions input by the instructor or generated by the AI) to test the student’s grasp of key concepts. The software gives the instructor the choice of whether they want the tool to record audio and video of the conversation, or just audio. 
+
+The tool then uses AI to transcribe the audio from each student’s recording and flags areas where the student answer seemed off point. Teachers can review the recording or transcript of the conversation and look at what Sherpa flagged as trouble to evaluate the student’s response.
+
+“I think something that's overlooked in a lot of educational systems is your ability to have a discussion and hold an argument about your work,” says Tey. “And I think where the future is going is, it's going to become even more important for students to be able to have those soft skills and be able to talk and communicate their ideas.”
+
+The student developers have visited local high schools and put the word out on social media to get teachers to try their tool. 
+
+Carlson, the English teacher in Maine who has tried oral exams in IB classes, has used Sherpa to have students answer questions about an assigned portion of the science fiction novel “The Power,” by Naomi Alderman, via their laptop webcams. 
+
+“I wanted the students to speak on the novel as a way for them to understand what they understood,” she says. “I did not watch their videos, but I read their transcript and I looked at how Sherpa scored it,” she says. “For the most part, it was spot on.”
+
+She says Sherpa “verified” that, according to its calculation, all but four of the students understood the reading adequately. “The four students who got 'warnings' on several questions spoke too generally or answered something different than what was asked,” says Carlson. “Despite their promises that they read, I'm guessing they skimmed more than read carefully.” 
+
+Compared to a traditional essay assignment, Carlson believes that the approach makes it harder for students to cheat using ChatGPT or other AI tools. But she adds that some students did have notes in front of them as they went through Sherpa’s questions, and in theory those notes could have come from a chatbot.
+
+One expert on traditional oral exams, Stephen Dobson, dean of education and the arts at Central Queensland University in Australia, worries that it will be difficult for an AI system like Sherpa to achieve a key benefit of oral exams — making up new questions on the fly based on how the students respond. 
+
+“It’s all about the interactions,” says Dobson, who has written a book about oral exams. “If you’ve got five set questions, are you probing students — are you looking for the weaknesses?”
+
+Tey, one of the Stanford students who built Sherpa, says that if the instructor chooses to let the AI ask questions, the system does so in a way that is meant to mimic how an oral exam is structured. Specifically, Sherpa uses an educational theory called the Depth of Knowledge framework that asks questions of various types depending on a student’s answer. “If the student struggled a little with the previous response, the follow-up will resemble more of a ‘hey, take a step back’, and ask a broader, more simplified question,” says Tey. “Alternatively, if they answered well previously, the follow-up will be designed to probe for deeper understanding, drawing upon specific phrases and quotes from the student’s previous response.”
+
+Scheduling, and Breaks
+For some professors, the key technology to update the oral exam is a tool that has become commonplace since the pandemic: Zoom, or other video software.
+
+That’s been the case for Huihui Qi, an associate teaching professor of mechanical and aerospace engineering at the University of California at San Diego. During the height of the pandemic, she won a nearly $300,000 National Science Foundation grant to experiment with oral exams in engineering classes at the university. The concern at the time was to preserve academic integrity when students were suddenly taking classes remotely — though she believes the approach can also safeguard against cheating using AI chatbots that have emerged since she started the project.
+
+She typically teaches mechanical engineering courses with 100 to 150 students. With the help of three or four teaching assistants, she now gives 15-minute-each oral exams between one and three times each semester. To make that work, students schedule an appointment for a Zoom meeting with her or a TA, so that each grader can do the grading from a comfortable spot and also schedule breaks in between to recharge.
+
+“The remote aspect helps in that we don’t have to spend lots of time scheduling locations and waiting outside in long lines,” she says.
+
+What Qi has come to value most from oral exams is that she feels it can be a powerful opportunity to teach students how to think like an engineer.
+
+“I’m trying to promote excellence and teach students critical thinking,” she says. “Over the years of teaching I have seen students struggle to decide what equation to apply to a particular problem. Through this dialogue, my role is to prompt them so they can better form this question themselves.” 
+
+Oral exams, she adds, give professors a window into how students think through problems — a concept called metacognition.
+
+One challenge of the project for Qi has been researching and experimenting with how to design oral exams that test key points and that can be fairly and consistently administered by a group of TAs. As part of their grant, the researchers plan to publish a checklist of tips for developing oral exams that other educators can use.
+
+Dobson, the professor in Australia, notes that while oral exams are time-consuming to deliver, they often take less time to grade than student essays. And he says that the approach gives students instant feedback on how well they understand the material, instead of having to wait days or weeks for the instructor to return a graded paper. 
+
+“You’re on the spot,” he says. “It’s like being in a job interview.” 
+
+Jeffrey R. Young (@jryoung) is the editor of EdSurge and producer and host of the EdSurge Podcast. He can be reached at jeff [at] edsurge [dot] com
+
+Artificial Intelligence Teaching and Learning Remote LearningLearn more about EdSurge operations, ethics and policies here. Learn more about EdSurge supporters here.
+
+Next Up 
+
+How AI Is Impacting Teaching and Learning
+
+Teaching and Learning
+
+Instructors Rush to Do ‘Assignment Makeovers’ to Respond to ChatGPT
+
+By Jeffrey R. Young
+
+Artificial Intelligence
+
+How Does a Tool That Detects Cheating With ChatGPT Grapple With ‘False Positives’?
+
+By Daniel Mollenkamp
+
+Voices | Artificial Intelligence
+
+What Higher Ed Gets Wrong About AI Chatbots — From the Student Perspective 
+
+By Mary Jo Madda
+
+EdSurge Podcast
+
+Inside the Quest to Detect (and Tame) ChatGPT
+
+By Jeffrey R. Young
+
+More from EdSurge 
+
+Teacher First-Person | English Language Learning
+
+‘I Can Read, But I Don’t Know What It Means’: Rethinking Literacy for Multilingual Kids
+
+By Terri Ashchi, EdNC.org
+
+News | Policy and Government
+
+Lawsuits Test New Legal Theories About What Causes Social Media Addiction 
+
+By Nadia Tamez-Robledo
+
+Q&A | Diversity and Equity
+
+How a Small Louisiana School Misled Families and Thwarted Students’ College Dreams
+
+By Mary-Liz Shaw
+
+Sponsored
+
+How Researchers Are Putting Students at the Center of Edtech Design
+
+By Abbie Misha

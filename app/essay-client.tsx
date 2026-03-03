@@ -71,7 +71,12 @@ function extractParts(markdown: string): {
   return { title, subtitle, body: lines.slice(bodyStart).join("\n") };
 }
 
-export default function EssayClient({ markdown, date }: { markdown: string; date?: string }) {
+interface NavLink {
+  href: string;
+  label: string;
+}
+
+export default function EssayClient({ markdown, date, links }: { markdown: string; date?: string; links?: NavLink[] }) {
   const [isDark, setIsDark] = useState(() => {
     if (typeof document !== "undefined") {
       return document.documentElement.classList.contains("dark");
@@ -173,11 +178,24 @@ export default function EssayClient({ markdown, date }: { markdown: string; date
         </article>
       </div>
 
+      {links && links.length > 0 && (
+        <nav className="page-links">
+          {links.map((link) => (
+            <Link key={link.href} href={link.href} className="page-link-btn">
+              {link.label}
+            </Link>
+          ))}
+        </nav>
+      )}
+
       <footer className="site-footer">
         <div className="footer-inner">
-          <Link href="/">After Abundance</Link>
-          <Link href="/forward-sentries">Forward Sentries</Link>
-          <Link href="/oral-exams">Oral Exams</Link>
+          <Link href="/">Home</Link>
+          <Link href="/takes">Tools for Thinking</Link>
+          <Link href="/mk-first-draft">Full Briefing</Link>
+          <Link href="/bgf-research">BGF Research</Link>
+          <Link href="/history-lens">History Lens</Link>
+          <Link href="/folklore-lens">Folklore Lens</Link>
         </div>
       </footer>
     </>

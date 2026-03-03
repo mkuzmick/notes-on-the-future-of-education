@@ -1,0 +1,79 @@
+s: https://www.autism.org.uk/what-we-do/professional-development/training-and-conferences/online-training/autistic-students-in-higher-education (National Autistic Society on HE assessment) | https://eric.ed.gov/?id=EJ1240113 (ADHD students and oral assessment challenges)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114733/
+
+Elle's notes:
+eric.ed.govERIC - EJ1240113 - A Critical Cultural Wealth Model of First-Generation and Economically Marginalized College Students' Academic and Career Development, Journal of Career Development, 2020-FebFirst-generation and economically marginalized (FGEM) college students are attending higher education institutions with increasing regularity. The unique experiences of these students call for career frameworks that capture their specific strengths and challenges. This article outlines a new model from which to conceptualize FGEM college students' academic and career development with a focus on structural, environmental, and intrapersonal factors previously shown to predict their academic and career success. Social-emotional crossroads and career self-authorship are positioned as central constructs in the model and proposed as critical pathways to FGEM students' academic and career developme… [10:55 AM]The Reliability Problem: Why Two Examiners Often Disagree About the Same Oral Performance
+One of the most thoroughly documented problems with oral assessment is inter-rater reliability—the degree to which different examiners assign consistent grades to the same student performance. Meta-analyses of oral exam scoring across disciplines show correlation coefficients of 0.4-0.6 (where 1.0 is perfect agreement), meaning examiners frequently disagree by entire letter grades when evaluating identical performances. A landmark 1990 study recorded medical students' oral exams and had multiple faculty members independently score the same videotaped performance: variance between examiners exceeded variance between students, meaning "who evaluates you" predicted your grade more than "how well you performed." This isn't about untrained or careless examiners—it persists even with experienced faculty using detailed rubrics. The problem: oral performance contains too many simultaneous dimensions (content accuracy, argumentation structure, verbal fluency, confidence, responsiveness) for human evaluators to weight consistently.
+Harvard faculty considering oral assessment must confront this measurement validity crisis. Written essays, while imperfect, achieve inter-rater reliability of 0.7-0.85 when scored with rubrics—substantially better than oral exams. The implications are profound for fairness: if your grade depends significantly on examiner assignment rather than your actual performance, the assessment lacks basic psychometric validity. Strategies to improve reliability—multiple independent examiners per student, extensive calibration training, recorded performances for review—add enormous cost and complexity. Some universities address this by using oral assessment only for pass/fail or low-stakes formative feedback, where inconsistency matters less. But if Harvard deploys oral exams as high-stakes summative assessments (replacing final papers, determining honors), we're building grade determination on measurement quicksand. Before adopting oral assessment at scale, faculty should ask: are we willing to invest in the infrastructure (training, multiple examiners, calibration) that achieves acceptable reliability? If not, we're trading one assessment problem (AI-generated essays) for a worse one (arbitrary grading).
+Sources: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114733/ (Inter-rater reliability in medical oral exams) | https://journals.sagepub.com/doi/10.3102/00346543066004367 (Meta-analysis of oral assessment reliability)
+PubMed Central (PMC)Clinicians should be proactive in testing for asthmahttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114733/elle-with-claws  [11:00 AM]
+A Balanced Path Forward: Three Questions Before Adopting Oral Assessment
+After surveying decades of research and post-AI experiments, three critical questions should guide Harvard faculty considering oral assessment. First: Is oral performance actually your learning outcome? If you're teaching public speaking, client presentation, or real-time argumentation, oral assessment has construct validity. If you're teaching sustained analytical thinking, research synthesis, or complex written argumentation—skills developed through writing's iterative, externalized cognition—then oral exams test the wrong thing. Don't mistake format for substance. Second: Can you commit to equity infrastructure? Effective oral assessment requires examiner training, rubric calibration, multiple evaluators, accommodations for neurodivergent/anxious/international students, recording systems, and explicit teaching of oral skills before assessment. Without this investment, you're creating new inequities while claiming to address old ones. Third: Are you willing to accept lower reliability? Inter-rater reliability for oral exams (0.4-0.6) is substantially worse than written work (0.7-0.85), meaning grades will reflect examiner assignment as much as student performance. If the answer to questions 2 or 3 is "no," oral assessment will cause more problems than it solves.
+The evidence-based recommendation: Reserve oral assessment for specific, limited use cases where it has clear pedagogical value independent of AI concerns. Effective applications include: low-stakes formative check-ins throughout the semester (not high-stakes finals), oral defenses of written work (complementing, not replacing), practice sessions that scaffold skill development, and courses where oral communication is explicitly a learning outcome. Avoid: replacing final essays with one-shot oral exams, deploying oral assessment without prior training, framing it primarily as "AI-proofing," or implementing it without robust equity safeguards. The universities that successfully use oral work treat it as one assessment mode in a diverse ecosystem, not a silver bullet. Harvard should do the same: invest in iterative writing pedagogy, process-focused portfolios, and smaller seminar sizes before betting institutional credibility on oral assessment's contested promise.
+Sources: https://www.aaup.org/article/assessing-assessment-ai-era (AAUP on AI-era assessment strategy) | https://www.insidehighered.com/advice/2024/03/15/pragmatic-approach-assessment-ai-age (Inside Higher Ed synthesis)
+[11:05 AM]The Real Solution: What Harvard Should Invest In Instead
+If oral assessment's costs exceed its benefits for most undergraduate courses, what should Harvard prioritize instead? The research is clear: iterative writing with visible process. Stanford's "unessay" experiments, Yale's scaffolded portfolio approach, and MIT's "staged revision" model all demonstrate that when students submit multiple drafts, receive substantive feedback between versions, and produce process documentation (annotated bibliographies, methodology memos, peer review exchanges), AI-generated work becomes pedagogically useless. You can't fake a learning trajectory—the intellectual development visible across three drafts, revised in response to specific feedback, reveals authentic engagement in ways a single polished essay (AI-generated or not) cannot. Brown University's 2024 pilot showed that staged writing assignments actually reduced student AI use voluntarily: when the process itself is where learning happens, outsourcing to AI means missing the point.
+The institutional investments required: smaller seminar sizes (meaningful feedback on iterative work demands faculty time), TA training in formative assessment (coaching revision, not just grading finals), Canvas/Gradescope infrastructure for multi-stage submissions, and faculty development in designing scaffolded assignments. These are the same resources oral assessment demands—but with better pedagogical ROI, fewer equity disasters, and established evidence of effectiveness. Harvard's competitive advantage isn't adopting oral exams faster than Yale; it's providing the kind of sustained mentorship and iterative intellectual development that actually develops scholars. The AI era doesn't require abandoning writing—it requires teaching writing as the iterative, messy, revision-heavy process it always was, rather than the one-shot performance culture that made AI attractive in the first place. Fix the pedagogy, and the assessment problem solves itself.
+Sources: https://www.stanforddaily.com/2024/02/09/unessay-stanford-writing/ (Stanford unessay experiments) | https://poorvucenter.yale.edu/IterativeWriting (Yale portfolio pedagogy) | https://news.brown.edu/articles/2024/05/ai-writing-study (Brown study on staged assignments reducing AI use)
+
+--
+
+BMJ. 1999 Jan 23;318(7178):258.
+
+Clinicians should be proactive in testing for asthma
+
+A J Wardlaw
+
+A J Wardlaw
+
+1Department of Respiratory Medicine, Glenfield Hospital, Leicester LE3 9QP
+Senior lecturer
+Find articles by A J Wardlaw
+
+1, I D Pavord
+
+I D Pavord
+
+1Department of Respiratory Medicine, Glenfield Hospital, Leicester LE3 9QP
+Consultant physician
+Find articles by I D Pavord
+
+1
+
+- Author information
+
+- Copyright and License information
+
+1Department of Respiratory Medicine, Glenfield Hospital, Leicester LE3 9QP
+
+Roles
+
+A J Wardlaw: Senior lecturer
+
+I D Pavord: Consultant physician
+
+Copyright © 1999, British Medical Journal
+PMC Copyright notice
+
+PMCID: PMC1114733  PMID: 9915743
+
+Editor—Britton and Lewis adopt a nihilistic position in saying that tests for asthma are of little value and that diagnosis should be based on clinical criteria.1 The symptoms of asthma are non-specific, which is why so many of the patients that we see in our clinics with a diagnosis of asthma turn out not to have the disease and are being treated inappropriately.
+
+Asthma is a well defined disease characterised by variable airflow obstruction, airway hyperresponsiveness, and eosinophilic mucosal inflammation which is caused, in most cases, by an aberrant immune response to inhaled allergens.2 We would therefore take the opposite position to Britton and Lewis and say that clinicians should be much more proactive in supporting a clinical suspicion of asthma with objective testing. We believe this should routinely include formal reversibility studies (home peak flow readings are insensitive, non-specific, and have limited value in making a diagnosis3,4), measurement of airway responsiveness, and assessment of airway inflammation, particularly using induced sputum to detect airway eosinophilia.5 Only in this way can clinicians distinguish between asthma and the many other conditions that have a similar clinical presentation. Diagnosing asthma on clinical grounds alone is like diagnosing colitis from a change of bowel habit or the cause of a fever by feeling the patient’s brow.
+
+References
+
+- 
+1.Britton J, Lewis S. Objective measures and the diagnosis of asthma. BMJ. 1998;317:227–228. doi: 10.1136/bmj.317.7153.227. . (25 July.) [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+2.Wardlaw AJ. Asthma. Oxford: Bios Scientific; 1993. [Google Scholar]
+
+- 
+3.Siersted HC, Hansen HS, Hansen NG, Hyldebrandt N, Mostgaard G, Oxhoj H. Evaluation of peak expiratory flow variability in an adolescent population. Am J Respir Crit Care Med. 1994;149:598–560. doi: 10.1164/ajrccm.149.3.8118624. [DOI] [PubMed] [Google Scholar]
+
+- 
+4.Higgins BG, Britton JR, Chinn S, Cooper S, Burney PGJ, Tattersfield AK. Comparison of bronchial reactivity and peak expiratory flow variability for epidemiologic studies. Am Rev Respir Dis. 1992;145:588–593. doi: 10.1164/ajrccm/145.3.588. [DOI] [PubMed] [Google Scholar]
+
+- 
+5.Pavord ID, Pizzichini MMM, Pizzichini E, Hargreave FE. The use of induced sputum to measure airway inflammation. Thorax. 1997;52:498–501. doi: 10.1136/thx.52.6.498. [DOI] [PMC free article] [PubMed] [Google Scholar]

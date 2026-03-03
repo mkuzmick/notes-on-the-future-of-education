@@ -1,0 +1,113 @@
+quality: Local news coverage of university initiative; credible but not academic research. Describes policy process, not outcomes.
+https://searle.northwestern.edu/resources/our-tools-guides/learning-teaching-guides/pedagogical-possibilities-ai.html
+
+Elle's notes:
+2. Northwestern University: Exploring "Pedagogical Possibilities" of AI
+:page_facing_up: Exploring the Pedagogical Possibilities of Generative AI / Assignments: Artificial Intelligence at Northwestern
+Northwestern Searle Center for Teaching Excellence / AI at Northwestern, 2024-2025
+Summary: Northwestern's Searle Center (teaching excellence hub) published comprehensive guidance on "pedagogical possibilities of Generative AI," encouraging faculty to view AI as "one more option" for learning rather than a threat. The university suggests "multiple means of expression (presentations, video essays, etc.)" following Universal Design for Learning principles, but frames this as accessibility enhancement, not AI mitigation. Northwestern explicitly recommends that students use AI ethically in assignments, with citation guidelines and introductory exercises teaching responsible use.
+ABC11 Raleigh-DurhamDuke University pilot project examining pros and cons of using artificial intelligence in collegeDuke University has launched an initiative to examine the opportunities and challenges that artificial intelligence brings to student life.Sep 5th, 2025https://abc11.com/post/duke-university-pilot-project-examining-pros-cons-using-artificial-intelligence-college/17752030/searle.northwestern.eduExploring the Pedagogical Possibilities of Generative AI: Searle Center - Northwestern Universityhttps://searle.northwestern.edu/resources/our-tools-guides/learning-teaching-guides/pedagogical-possibilities-ai.htmlai.northwestern.eduAssignments:    Artificial Intelligence at Northwestern - Northwestern Universityhttps://ai.northwestern.edu/education/assignments.html[7:03 AM]Harvard Context: Northwestern's stance is integrationist, not prohibitionist: they're training students to use AI as a "study buddy" and "the world's greatest tutor" while maintaining academic integrity through transparency. Oral presentations appear as one option among many for diverse assessment, not the primary AI-resistant alternative. This contrasts sharply with narratives that oral exams are "the solution." Northwestern's model suggests Harvard should ask: "How do we teach with AI?" rather than just "How do we teach despite AI?" The Derek Bok Center could develop similar resources — not banning AI or mandating orals, but helping faculty design assignments where AI use is transparent, pedagogically valuable, and ethically bounded. The risk: if Harvard doesn't provide clear guidance, faculty will create inconsistent policies, confusing students.
+Source quality: Official university teaching center resources. Authoritative for institutional policy but not empirical research.
+
+--
+
+- Home
+- Guides & Resources
+- Learning & Teaching Guides
+- Exploring the Pedagogical Possibilities of Generative AI
+ 
+ 
+
+Exploring the Pedagogical Possibilities of Generative AI
+A starting point for exploring the possibilities and avoiding the pitfalls of teaching in a world of AI tools.
+
+- Introduction
+
+- Common Questions and Initial Responses
+
+- Conclusion
+
+- Recommended Reading
+
+- References
+
+- Cite This Guide
+
+Introduction
+
+The age of freely accessible artificial intelligence (AI) tools that can generate content is here. OpenAI, an AI research company with the mission to “ensure that artificial general intelligence benefits all of humanity,” has gifted the world Dall-E, an image generator, and ChaptGPT, a large language model, that can produce text. Of course, these are just two of dozens of generative AI tools that can create text, images, code, speech, music, and video.
+
+As educators, we are called to reflect on our learning goals for students and the degree to which our current course and assignments support students’ efforts to achieve those goals. How might these AI tools allow us to perhaps even raise our expectations for what students can achieve in our classes? We have a responsibility to look for the gifts of creativity, increased student engagement, and expanded learning experiences that generative AI tools may spark or jolt us to consider. Now is the time for exploration and experimentation as we discover and share with each other the challenges and possibilities of teaching in a world of AI tools.
+
+ 
+
+Common Questions and Initial Responses
+Whether you are considering making a mid-quarter adjustment or (re)designing a future course, here are some initial responses to questions that may be on your mind. 
+
+1. What are some ways in the short term that I can adjust my assessments (e.g., assignments, discussion boards, quizzes, exams) if I am concerned that AI tools may undercut student learning? 
+First, try AI tools yourself. Input your prompt or test questions into an AI tool, such as ChatGPT, and see what you get. Do you have reason to be concerned based on the AI output? If not, proceed as usual and consider potentially looking ahead to future terms to make changes to course and assignment design. If your test use of the AI tool raises some red flags for you about how the tool could potentially be misused by students, here are some options to make minor adjustments now: 
+
+- Revisit the university’s academic integrity policy as a norms and expectations discussion with your students. Ask them how they think the policy applies to AI tools and what they think would be appropriate and inappropriate uses of the tool given the learning goals of the course and the types of assignments. Be clear in that conversation where the boundaries are for you as the course instructor and clearly articulate your expectations.
+
+- Add in a reflective component to an assignment in question. Ask students to write or record annotations or a holistic self-assessment about their process—what steps did they take and why? Why did they choose a certain answer? What other options did they consider? These types of questions not only allow you to consider how students are engaging with the assignment at hand but also give students the opportunity to engage in metacognition—thinking about thinking—which deepens their learning, increases the likelihood of transferring what they have learned, and helps them develop their own theory about how they learn.
+
+- Incorporate elements into your assignments that allow students varied ways to demonstrate their learning and knowledge. For example, ask students to write and revise drafts of an essay, work together on a team project, or create an in-class presentation, a website, or video to fulfill an assignment. This is a principle of Universal Design for Learning and of the Northwestern Principles of Inclusive Teaching.  
+
+2. What are some ways in the long term that I can (re)design assignments that tap into students’ intrinsic motivation to avoid academic integrity violations? 
+Given that AI tools are rapidly evolving and proliferating, designing an AI-proof course is not a feasible goal. However, there are methods that can make assignments less susceptible to the downsides of AI tools. The recommendations for short-term adjustments—collaborative norm-setting and metacognitive exercises—can be a goal for long-term course planning as well. But with even more time to rethink and redesign assignments, consider elements that help maximize students’ intrinsic motivation by tapping into their authentic curiosity and providing them choice to determine the focus or modality of an assignment whenever possible.  
+
+In addition, look for where you can emphasize the process over just the final product. Process is much harder to fake! Plus, when you work with students throughout a process, you learn more about how they think, what they value, and how they communicate, which can help you notice if something submitted does not sound like them. For example, depending on the assignment, ask students to connect content to their lived experiences, write a proposal, make predictions, create drafts, provide each other feedback on works-in-progress, or engage in social annotation exercises.  
+
+One of the best safeguards against any form of plagiarizing or cheating is to get specific in your assignment instructions. Generic prompts invite generic responses. For example, “write 1000 words on Thelonious Monk's contributions to jazz” is more at risk of getting AI-generated responses than a paper that asks students to describe their experience listening to Monk’s music and how that experience reflects how he innovated music that came before or influenced music that they listen to today.
+
+3. What are some ways that I can engage my students in a critical discussion of AI-generated material to hone critical thinking, media literacy, and other skills for world readiness? 
+Some faculty already are bringing ChatGPT into the classroom as a way for students to apply what they have been learning to analyze and assess the AI-generated content. Where does AI get it right or wrong? What does it include and exclude? Who is represented? What positionalities or viewpoints are excluded? Based on their analysis of a specific AI-generated example, what types of critical thinking questions can they extrapolate to apply to any content they encounter? Helping students develop media literacy skills to guard against the spread of disinformation is an invaluable life skill they can take with them to any context. 
+
+We also can leverage what social movements scholars call a “suddenly imposed grievance” to underscore the importance of preparing our students for world readiness. Try pulling back the curtain on your responses: How is AI disequilibrating your customary ways of teaching, your beliefs about student learning, and your own feelings of job security? Annie Lowery’s (2023) article in The Atlantic, “How ChatGPT Will Destabilize White-Collar Work,” raises some disconcerting questions about the potential for a mass reduction of the college educated workforce.
+
+Students graduating from Northwestern and entering the workplace will need to understand AI and learn to work with it. Companies sell AI services that can help users write blog posts and fundraising emails, translate text into multiple languages, and create audio and video scripts. Talk with your students about how AI fundamentally will alter the workplaces of the future.
+
+4. What are some ways that I can avoid (re)instituting lockdown, high-stakes assessments and uphold my inclusive teaching principles?
+If you have designed courses and assignments in alignment with Northwestern’s Principles of Inclusive Teaching, then there is a great chance that you already have created a context where AI tools are poised to be an asset and not a threat to equitable student learning. Inclusive educators offer varied ways for students to demonstrate their learning and knowledge. AI tools, especially when coupled with guidance and support, are just one more option at your and your students’ disposal. ChatGPT can be incorporated into many low-stakes assessments to help students see different perspectives, responses, points of debate, and ideas for troubleshooting or problem solving that they can then test out. The key is to be open and transparent with students about how and when to use these tools. Acknowledge that they will need to make judgment calls and that you are there to help them navigate those gray areas instead of policing them. Offer opportunities for revision or retakes so that students can experiment without penalty.
+
+Keep in mind what James Lang (2013) observed in Cheating Lessons: Learning from Academic Dishonesty, the four main conditions that factor into a student’s decision to cheat are emphasis on performance, extremely high-stakes assessments, low expectation of success, and extrinsic motivation for success (p. 35). A simple counterstrategy is to foster intrinsic motivation by choosing topics that students will see as personally relevant and to offer multiple pathways for achieving the goals of the course. Life Beyond Grades: Designing College Courses to Promote Intrinsic Motivation (2017) offers a pedagogical blueprint to follow that begins with the question: “What would a course in your discipline look like based on motivational principles intended to enhance a love of learning and intrinsic engagement, above and beyond subject matter mastery and performance goals?”
+
+5. What are some ways that I can utilize AI to enhance my own preparation for class? 
+Feeling stuck on designing an in-class activity? Looking for new ideas on how to give students feedback? Developing or revisiting exam questions? Ask ChatGPT! Instructors can benefit from AI tools to brainstorm recommendations and ideas for their teaching.  
+
+To illustrate, after finding that ChatGPT could perform at a B to B- level in answering exam questions for his Operations Management course, Christian Terwiesch, a professor at the Wharton Business School, considered whether AI could be a time-saver for crafting exam questions. The typical workload of about 20 hours to create the exam and an additional 10 hours for teaching assistants to write solutions was cut in half with AI. He reflects, “It is easy to imagine similar magnitudes of improvement in grading processes, tutoring, and office hours. It is now up to us to determine what to do with this increased productivity. In my view, we should return it to the students in the form of extra meetings outside class, personal attention, joint social activities, or the design of new course materials” (p. 23).
+
+In an illuminating video, microbiology professor and Australian University Teacher of the Year Jack Wang asks the critically important question, “Can AI Replace Professors?” The AI successfully identified key topics for an introductory lecture and an engaging anecdote, but its sense of humor failed to break the ice. Just as we learned from the emergency shift to remote instruction, asynchronous videos may offer some educational value, but they fall short on the fundamentally relational and transformative aspects of teaching. Wang provokes us to consider, “What do we do as instructors that makes us more compelling than AI?”
+
+Conclusion
+
+Educators have demonstrated remarkable responsiveness and agility to the openings that emerge from disruptions. Randy Bass (2022) argues that we must approach our collective work with a wicked problems mindset—“take the wide view, building increasingly diverse coalitions, amplifying increasingly diverse voices, and taking in the widest range of disciplinary and interdisciplinary perspectives; take the long view, asking how the work we do in the next couple of years might shape the next 10 (and more); take the critical view, finding ways to support and advance the known best practices while also being a source of professional and institutional self-reflection and creative disruption, continuously questioning where and how learning takes place, as well as the helpful and harmful ways that higher education institutions embody the aims of education.”
+
+Recommended Reading
+
+AI in Higher Education Resource Hub https://teachonline.ca/ai-resources (teachonline.ca)
+
+“Teaching in the Age of AI Means Getting Creative” (Zoha Qamar, FiveThirtyEight)
+
+“Using Artificial Intelligence in the Classroom” L&S Instructional Design Collaborative. University of Wisconsin-Madison.
+
+"What's on Your Mind with ChatGPT?" Questions and resources from Searle Center Knowledge Sharing Sessions. 
+
+References
+
+Bass, R. (2022). Coda: A wicked problems mindset for educational development. To Improve the Academy: A Journal of Educational Development. 41(1). doi: https://doi.org/10.3998/tia.2373
+
+Covington, M. V., von Hoene, L. M., & Voge, D. J. (2017). Life beyond grades: Designing college courses to promote intrinsic motivation. Cambridge University Press.
+
+Lang, J. M. (2013). Cheating lessons. Harvard University Press.
+
+Northwestern’s Principles of Inclusive Teaching
+
+Lowery, A. (2023). “How ChatGPT Will Destabilize White-Collar Work.” January 20. https://www.theatlantic.com/ideas/archive/2023/01/chatgpt-ai-economy-automation-jobs/672767/
+
+Terwiesch, C. (2022). “Would Chat GPT Get a Wharton MBA? A Prediction Based on Its Performance in the Operations Management Course.".
+
+Van Vaerenbergh, S. "Awesome Generative AI." steven2358, Github.
+
+How To Cite This Guide
+Dietz, Lauri and Jennifer Keys. “Exploring the Pedagogical Possibilities of Generative AI.” Searle Center for Advancing Learning and Teaching Guide. Northwestern University. © 2023. Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. PDF

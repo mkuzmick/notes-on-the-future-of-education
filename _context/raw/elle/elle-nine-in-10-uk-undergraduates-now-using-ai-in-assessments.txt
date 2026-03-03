@@ -1,0 +1,23 @@
+Nine in 10 UK undergraduates now using AI in assessments – survey
+https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey
+
+Elle's notes:
+A February 2025 survey by the Higher Education Policy Institute found 88% of UK undergraduates used generative AI in assessments over the past year—up from 53% in 2024. This "extraordinary growth" indicates AI has become "an integral aspect in the process of doing exams." One in four students used AI-generated text to draft assessments; most used it to "explain concepts, summarise articles, suggest ideas." Despite 59% saying universities changed assessment methods, only 3 in 10 agreed institutions encouraged AI use, and only 42% said staff were well-equipped to support AI work (though up from 18% in 2024). The "digital divide" has widened—wealthier students more likely to use AI. Report recommendation: "Exams which are easy for someone to achieve a high grade in if they have good AI skills, but without engaging deeply with the course, should be immediately rewritten."
+
+Harvard relevance: The UK data is a wake-up call showing AI use doubling year-over-year. Harvard's 90% AI use rate (Theme 4, Cycle 1) isn't aberration—it's the international norm. The "mixed messages" students report mirrors Yale's decentralized approach (Theme 1, Cycle 2): confusion breeds strategic misuse. The digital divide is alarming: AI amplifies existing inequality, giving wealthy students another advantage. The key recommendation applies directly to Harvard: predictable, low-interactivity assessments are obsolete. Closed-book exams with "predictable questions" fail because students can "prepare in advance using AI tools." Only unpredictable, interactive, real-time assessment (oral exams, live defense) prevents this.
+
+--
+
+AI Use Among UK Undergraduates: Survey Findings
+
+A recent survey by the Higher Education Policy Institute reveals widespread adoption of generative AI among UK students. The study, based on responses from 1,041 undergraduates, found that 88% have used AI tools in assessments over the past year—a dramatic increase from 53% in 2024.
+
+Usage Patterns: While one in four students admitted to incorporating AI-generated text directly into submitted work, most use these tools for explanation, summarization, and brainstorming rather than content generation.
+
+Rule Compliance: The majority of students believe their institutions have adapted to this trend. About 59% agreed their universities modified assessments in response to AI, and roughly three-quarters felt confident their school could detect AI usage.
+
+Support Gap: Despite the prevalence of AI adoption, only 30% reported that universities actively encourage this technology. Additionally, just 36% received institutional support for developing AI skills, though staff capability improved significantly from 18% to 42% year-over-year.
+
+Student Perspectives: Motivations center on efficiency and quality improvement, while concerns about academic dishonesty accusations and AI hallucinations deter some users. Students expressed frustration with "mixed messages" from institutions regarding acceptable AI use.
+
+The report recommends universities continually review assessments and develop nuanced policies reflecting AI's inevitable role in education.

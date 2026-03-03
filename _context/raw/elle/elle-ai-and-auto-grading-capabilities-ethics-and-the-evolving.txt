@@ -1,0 +1,195 @@
+AI and Auto-Grading: Capabilities, Ethics, and the Evolving Role of Educators
+https://ascode.osu.edu/news/ai-and-auto-grading-higher-education-capabilities-ethics-and-evolving-role-educators
+
+Elle's notes:
+Synthesizing recent research (Wetzler et al. 2024, Flodén 2025), Ohio State identifies a consistent grading bias in LLMs: "AI often grades more leniently on low-performing essays and more harshly on high-performing ones." This "proportional bias" means AI compresses the grade distribution—weak work gets inflated scores, strong work gets deflated. The article concludes: "Generative AI is currently unsuitable as a sole grading tool, particularly for nuanced writing tasks that involve creativity and depth of thought." ChatGPT also produces "unreliable results such as incorrect answers, made-up facts, non-existent references" (Flodén 2025). Best practice: "AI is best used in formative assessments, where feedback can supplement human judgment rather than replace it."
+
+Harvard relevance: This demolishes the NYU ElevenLabs "council of LLMs" model (Theme 5, Cycle 1) as a standalone grading solution. If AI systematically misgrades both ends of the performance spectrum, using it for high-stakes oral exam scoring creates validity problems: grades don't accurately reflect student ability. The recommendation—AI for formative feedback, humans for summative grading—suggests a two-tier implementation: (1) Practice oral exams with AI transcription/feedback (low stakes, builds fluency, students see patterns), (2) Final oral exams with human graders using AI-generated transcripts as reference (high stakes, maintains validity). The Ohio State synthesis treats "human scores as the benchmark" despite acknowledging human bias—a reminder that no assessment method is perfect, but transparency and validity matter.
+
+--
+
+July 15, 2025
+ 
+
+ 
+
+ 
+AI and Auto-Grading in Higher Education: Capabilities, Ethics, and the Evolving Role of Educators
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Yuhan Gao
+ 
+
+ 
+ 
+ Graduate Research Associate
+ 
+
+ 
+ 
+ gao.2332@osu.edu
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Yuhan Gao
+ 
+
+ 
+ 
+ Graduate Research Associate
+ 
+
+ 
+ 
+ gao.2332@osu.edu
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+AI and Auto-Grading in Higher Education: Capabilities, Ethics, and the Evolving Role of Educators
+As artificial intelligence continues to reshape various industries, its impact on higher education, particularly in assessment, is becoming increasingly significant. Automated grading and AI-assisted evaluation tools are revolutionizing how instructors assess student work, streamline feedback, and manage large-scale courses. This article synthesizes recent research on the differences between auto-grading and AI grading, explores their respective strengths and limitations, and offers insight into how institutions are navigating this rapidly changing landscape.
+
+Understanding Auto-Grading vs. AI-Assisted Grading
+Auto-grading tools often called Automatic Assessment Tools (AATs), have been in development since the 1960s (Messer et al., 2024). These systems typically assess code or structured responses using static analysis (e.g., syntax checking, code similarity) or dynamic analysis (e.g., unit testing). Static approaches include abstract syntax tree analysis, control flow analysis, and code similarity detection. These tools check variable naming, code formatting, and programming constructs without running the code. Most dynamic AATs use unit testing or input/output testing to grade and give feedback. Dynamic approaches involve running the code to check if it behaves as expected. Tools like Carmen Speed Grader and H5P are examples used at institutions such as The Ohio State University. To implement a text-based AAT, instructors must provide detailed test suites and require students to follow specific structural conventions for accurate grading.
+
+By contrast, AI-assisted grading powered by large language models (LLMs) and natural language processing (NLP) can evaluate complex, open-ended assignments such as essays or discussions. These models, like ChatGPT, leverage vast pre-trained datasets and use few-shot or zero-shot learning to assess submissions with minimal explicit programming (Flodén, 2025). Unlike AATs which are better at scoring multiple-choice questions, short answers, true/false questions and are less good at open-ended discussion questions, LLMs, natural language processing (NLP) and other AI-assisted assessment tools can be used to automatically grade more complex assignments including open essay questions, writing assignments, and providing detailed feedback on the texts, etc.
+
+Capabilities, Limitations, and Ethical Considerations
+Auto-grading systems excel at evaluating objective, well-structured tasks like multiple-choice, short answer, or programming assignments. However, they struggle with open-ended tasks, GUI-based assignments, and assessing aspects like readability or documentation (Messer et al., 2024). They often require manual grading supplements for larger, more nuanced projects.
+
+AI-assisted grading, on the other hand, offers promising potential for large-scale, subjective assessments. Still, it introduces ethical concerns around bias, transparency, and fairness. Flodén (2025) and others argue that institutions must understand the risks of algorithmic bias and advocate for transparency in how AI tools are used in educational assessments.
+
+Institutions like Northern Illinois University and MIT Open Learning stress the importance of disclosing AI involvement in grading, noting that students have a right to understand how their work is evaluated. While AI can be refined over time, its "black box" nature poses challenges for trust and accountability.
+
+Current Use and Best Practices at Major Universities
+Universities across the U.S. are actively integrating both auto-grading and AI-assisted grading tools. Platforms like Gradescope, Crowdmark, and Akindi are popular for streamlining grading workflows and offering real-time feedback. Gradescope, in particular, is widely adopted by institutions including Cornell, Purdue, UC San Diego, Florida, Rutgers, and Indiana University.
+
+The University of Miami showcases Gradescope’s AI capabilities, such as automatic answer grouping, auto-grading for specific question types, and compatibility with both online and traditional assessment formats.
+
+Accuracy, Bias, and Human Involvement
+While AI systems can process assignments at scale, ensuring their accuracy remains a key challenge. Biases can stem from outdated or unbalanced training data, affecting grading reliability especially in controversial or complex subjects (Wetzler et al., 2024). Studies show that AI often grades more leniently on low-performing essays and more harshly on high-performing ones, suggesting it should not yet be used as a standalone grading method (Wetzler et al., 2024). Flodén (2025) mentions that ChatGPT has been found to provide unreliable results such as incorrect answers, made-up facts, non-existent references and publications.
+
+Nonetheless, human grading is not without bias. Grading inflation, subjective interpretation, and fatigue all influence instructor evaluations. While research studies acknowledge these issues, it still treats human scores as the benchmark for accuracy without critically questioning their reliability. If the accepted goal in human grading is to minimize bias, the same standard should be applied to AI. AI systems, unlike humans, can be refined, audited, and improved systematically. Rather than dismissing AI for its current limitations, it would be more productive to view AI as a tool in development. Thus, improving both AI and human grading in parallel is critical. Institutions are encouraged to adopt a hybrid model, combining human oversight with AI-generated feedback.
+
+The Role of Human Educators
+Despite advancements in AI, educators remain essential to the grading process. AI and auto-grading tools should be seen as supportive technologies and not replacements. Research by Flodén (2025) showed that while AI grading of essay exams yielded somewhat comparable results to human grading, teachers still expressed concern over student acceptance and AI’s limitations in assessing creativity or nuance. Wetzler et al. (2024) showed that AI grading has consistent bias. This pattern of proportional bias, along with generally low agreement between AI and human scores, suggests that generative AI is currently unsuitable as a sole grading tool, particularly for nuanced writing tasks that involve creativity and depth of thought. The study further affirms that AI is best used in formative assessments, where feedback can supplement human judgment rather than replace it.
+
+Enhancing Equity, Efficiency, and the Future of Assessment
+AI holds significant promise for improving grading efficiency and especially in large, online courses. Gnanaprakasam and Lourdusamy (2024) highlight how AI can personalize learning, manage thousands of assignments, and enable scalable instruction. However, such potential must be balanced with ongoing development to reduce bias, improve transparency, and ensure alignment with pedagogical goals.
+
+Ultimately, realizing the benefits of AI and auto-grading in education demands a collaborative, multidisciplinary approach. Technologists, educators, students, and policymakers must work together to build assessment systems that are equitable, reliable, and trustworthy.
+
+References
+Cartwright, B. (2023, Jan 27). Gradescope – A new tool on the radar | IT-ATS | Canvas@UD. Link to Gradescope article website and reference. 
+
+Ethics and AI-powered learning and assessment | Open Learning. (2024, April 26). Link to website on Open Learning reference. 
+
+Flodén, J. (2025). Grading exams using large language models: A comparison between human and AI grading of exams in higher education using ChatGPT. British Educational Research Journal, 51, 201–224. 
+
+Gnanaprakasam, J., & Lourdusamy, R. (2024). The role of AI in automating grading: Enhancing feedback and efficiency. In Artificial Intelligence and Education-Shaping the Future of Learning. IntechOpen. 
+
+Getting Started with Gradescope – Learning Technologies Resource Library. (n.d.). Learning Technologies Resource Library - Presented by The. Link to website and Learning Technologies Resource Library reference. 
+
+Gradescope - Canvas. (2025, January 22). Canvas. https://canvas.rutgers.edu/external-apps/gradescope/ 
+
+Gradescope - Innovative Learning. (2024, August 20). Innovative Learning. Link to Innovative Learning website and reference article 
+
+Gradescope - Center for Instructional Technology and Training - University of Florida. (n.d.). Link to University of Florida website and article reference.
+
+Gradescope - Teaching.IU. (n.d.). https://app.teaching.iu.edu/tools/gradescope 
+
+Hirsch, A. (2024, December 11). The digital red pen: Efficiency, ethics, and AI-assisted grading. Center for Innovative Teaching and Learning Link to The Digital Pen website and reference article 
+
+Intelligent Grading Platforms | Academic Technologies. (2025, May). https://academictechnologies.it.miami.edu/explore-technologies/technology-summaries/intelligent-grading-platforms/index.html 
+
+IT services - DataHub/DSMLP assignment grading tools - Services & support. (n.d.). Link to DataHub website and article. 
+
+Messer, M., Brown, N. C., Kölling, M., & Shi, M. (2024). Automated grading and feedback tools for programming education: A systematic review. ACM Transactions on Computing Education, 24(1), 1-43. 
+
+Wetzler, E. L., Cassidy, K. S., Jones, M. J., Frazier, C. R., Korbut, N. A., Sims, C. M. & Wood, M. (2024). Grading the Graders: Comparing Generative AI and Human Assessment in Essay Evaluation. Teaching of Psychology, 00986283241282696. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+
+ 
+
+ - 
+ 
+ 
+ 
+
+ 
+
+ - 
+ 
+ 
+ 
+
+ 
+
+ -

@@ -1,0 +1,50 @@
+Oral Exams as Alternative (and Authentic) Assessments
+The Cowbell — UW-Green Bay Center for the Advancement of Teaching and Learning
+Article by Amy J. & James E. Kabrhel, Ph.D., Associate Professors of Chemistry
+
+In the Summer of 2020 during the heat of the COVID-19 pandemic, we learned that we would be allowed to come back to face-to-face instruction in Fall 2020 as long as we used methods allowing social distancing and flexibility for student attendance. I knew I wanted to return to face-to-face teaching as much as possible, but I also understood that many students might contract COVID and be unable to attend in-person class sessions, thereby potentially missing exams or other assessments. I considered several different assessment options to replace the exams I traditionally gave in my CHEM 211 & CHEM 212 (Principles of Chemistry I & II) courses. Some options I considered were online exams and take-home exams. Each has its own pros and cons. For instance, students can easily cheat on online exams thanks to websites like Chegg. The same goes for take-home exams. After carefully considering the pros and cons of various assessment methods, I decided to try oral exams.
+
+I scheduled the oral exams for each week following the conclusion of each unit. This led to four oral exams per student throughout the semester and one oral final exam per student during finals week. The in-semester exams were 30 min each and the final exam was 60 min each. I googled how to create an Appointment Group in Canvas and created several 30-min timeslots for students to choose from at times that worked for me but hopefully also worked for my students. I tried to offer a variety of days and times throughout each exam week, and I made the Appointment Group available one week before each exam week. I also provided students with instructions on how to select a timeslot in Canvas. The students then went into the Canvas Calendar and chose the timeslot that worked best for them on a first-come-first-served basis. Canvas emails instructors each time an appointment is selected, so I would then create a Zoom link for that oral exam session and send it to the student. I chose to use unique Zoom links for each student to ensure privacy for each exam.
+
+The student and I logged into Zoom at the scheduled exam time. I had several questions prepared to ask them that I also shared in Zoom for added accessibility. In essence, we had a conversation about the chemistry they had learned for the past month. I was able to give them immediate feedback on their answers and explanations, allowing them to correct their thinking on the spot. I had a grading rubric with me to keep track of how many times I needed to help them answer a question. Each bit of help was a loss of a point (see example assessment table). If a student was stuck on a question, we could move on to the next and return to any left at the end. In most cases, students finished in less than 30 min. In some cases, however, students needed more time, and I emailed them the questions to complete as a take-home exam.
+
+Example Assessment Table:
+Overall Understanding — 20 pts
+Ch. 13 — 30 pts
+Ch. 14 — 30 pts
+Prompting — 20 pts
+TOTAL — 100 pts
+
+I did wonder if students would share exam questions with classmates taking the exam later in the week, so I made slight changes to each question for each day of the exam week. For example:
+
+Which ______ diffuses through air most ______ and why?
+
+Tuesday: Halogen, quickly
+Wednesday: Halogen, slowly
+Thursday: Noble Gas, quickly
+Friday: Noble Gas, slowly
+
+The students and I were obviously nervous each time we would meet on Zoom, but after a few minutes, we would ease into the setting. Students became much more adept at explaining their chemical knowledge to me, and by the final exam, they seemed much less nervous and much more comfortable. Student evaluations confirm this observation as students stated they felt their oral communications skills improved throughout the semester. Overall, I think the students may not have loved the oral exams, but they appreciated their flexibility and immediate feedback. Due to this success, my husband and fellow instructor, James Kabrhel, decided to incorporate some oral assessments into his CHEM 302 & 303 (Organic Chemistry I & II) courses, and his impressions are given in the following paragraph.
+
+Organic Chemistry originating from Manitowoc/Sheboygan has been taught through the point-to-point (P2P) modality since the 2000s, but with the addition of the Marinette and Green Bay campuses to the class, providing exams and finding proctors is a much more complicated problem. One solution to the problem was to shift all exams to the take-home format, but as previously mentioned, take-home exams have inherent risks. To balance those risks, an oral assignment and an oral final exam have been added to the course to provide multiple assessment modes for the students. Students must complete an oral assignment in the middle of the semester as a practice with the format, so they are then somewhat comfortable when the final exam comes around. The oral assignment also acts as a mid-semester check-in with the students to see how they are coping with organic chemistry and their classes overall. The addition of the oral exams has been successful enough for me to consider adding an oral part to every exam, not just the final. – J. Kabrhel, personal interview, 2023
+
+You may be thinking that giving oral exams is way too much of a time commitment. I thought it would be as well, but it was not as bad as I expected. I found that it took me the same amount of time to write an oral exam as it did a traditional exam. The difference in time came when comparing the time to administer the exam versus the time to grade the exam (see below). A traditional exam takes one class session to administer but takes much longer to grade, which is dependent on the number of students in the course as well as the difficulty in grading each question. However, administering the oral exams took 30 min per student (9 hours for me as I had 18 students in Fall 2020) but took me almost no time at all to grade because I was grading them while administering them, so the only extra time needed was to type those scores into Canvas. In the end, I found oral exams to be slightly less time intensive than traditional exams.
+
+We (Amy & James) have found the following pros and cons of using oral exams in our courses:
+
+Pros:
+- Assessment as a conversation.
+- Opportunity for 2nd chances on questions.
+- Misunderstandings corrected immediately.
+- Immediate feedback; faster grading.
+- Greater connection with students.
+- Improvement in oral communication skills.
+
+Cons:
+- Big time commitment during exam weeks.
+- Not easy to assess complex problem-solving questions.
+- Technology issues.
+
+As mentioned in the list above, one con is the huge time commitment during exam weeks. I had to block off nearly my entire week for oral exams. It also was not possible to ask complex problem-solving questions as it simply took students too long to answer them during the exams. Finally, there were some technical issues once in a while. Many of my students live in rural areas where their internet connections are not strong, so we would lose our connection, which took time away from the exams. (This is often when I would have to resort to giving the exam as a take-home, which was not my preference but was a suitable backup option.)
+
+Overall, we feel the pros outweigh the cons, and oral exams are an excellent assessment option if they work for your pedagogical style. They do work best in smaller classes. We feel the max number of students for this method to be manageable would be 24. Beyond that, you would need to have a co-instructor or teaching assistant to help you complete all the exams within one week. In case you are curious, I (Amy) did not continue using oral exams after we returned to fully face-to-face courses, but this is mostly due to my introverted personality. James, however, is planning on adding more oral assessments to his course due to their equitable nature and the way it allows him to better connect with his students, especially those at campuses he cannot visit regularly. Oral exams are a valid and valuable assessment method, and if you have any questions for us about using oral exams in your courses, we would be more than happy to chat with you about them.
