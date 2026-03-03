@@ -2,7 +2,7 @@
 
 Conceptual building blocks for the oral assessment conversation.
 
-## The Phaedrus Moment
+## Every Technology Triggers the Same Anxiety
 
 Every communication technology triggers the same anxiety about authenticity. In the *Phaedrus* (c. 370 BCE), Socrates warned that writing would "implant forgetfulness in their souls" and produce "the appearance of wisdom, not the reality." Medieval scribes resisted print — "copying by hand involves more diligence and industry." We resist AI. The pattern doesn't mean the anxiety is wrong. It means the response has always been the same: a turn toward dialogue as the technology's corrective. When Plato wrote the *Phaedrus*, he preserved oral tradition's back-and-forth in written form. The question is always how to design for both.
 
@@ -16,7 +16,7 @@ AI makes it easy to perform understanding you don't have. A student can produce 
 
 Expertise develops through doing junior versions of expert work first. You can't train supervisors who never did the work being supervised. You can't develop taste without making bad art first. You can't cultivate judgment without making and learning from mistakes. If AI does the junior work, the whole gradient disappears. The university has always been a place for doing junior versions of expert work — the first clumsy essay, the bad lab report, the halting seminar presentation. If that function is automated, what remains? Possible responses include simulation with explicit feedback loops, adversarial review of AI work, and compressed apprenticeship where the junior phase is shortened but not eliminated. None are proven.
 
-## The Weight of the Signature
+## The Degree Certifies Authorization, Not Execution
 
 In the past, a degree certified you could *do* the work. In a post-AI world, a degree may certify you can *authorize* the work — verify intent, assess risk, take responsibility for outputs you didn't personally generate. The failure mode shifts from "I didn't finish" to "I didn't notice." This reframes the student's role: not executor but authorizer, not producer but the person who signs their name. The question for assessment: how do you train someone to authorize work they've never authored? How do you develop the judgment to catch what a system missed, if you never did the work the system is doing?
 
@@ -28,7 +28,7 @@ If the paper is no longer proof of thinking, one approach is to put the student 
 
 Most AI discourse is cognitive: systems, judgment, authority, logic. But one of the things the university actually does is socialize people into *caring* about certain questions. You don't just learn what historians know; you learn to want to know what historians know. AI can produce competent text about the French Revolution. It can't make someone fall in love with the archive. In an age of infinite competent output, genuine intellectual desire may be the scarcest resource. That affective transmission — what used to be called "formation" — happens through encounter with people who already care, and through institutions that protect the space for that encounter.
 
-## Friction vs. Temporal Structure
+## Not All Slowness Is Friction
 
 Not all slowness is valuable, but some slowness is essential. Friction is what you want to eliminate: bureaucratic delay, unnecessary obstacles, pointless repetition. Temporal structure is what you want to protect: the requirement that some things take time because the *taking of time* is part of what produces the result. The slow absorption of a discipline's ways of seeing. The gradual development of taste through repeated encounter. The formation of intellectual character through years of practice. AI makes many things faster. It cannot compress everything. The question for curriculum design: which slownesses are essential, and which are merely traditional?
 
@@ -36,31 +36,31 @@ Not all slowness is valuable, but some slowness is essential. Friction is what y
 
 The phrase "oral exam" obscures three fundamentally different designs. The **Oxbridge Tutorial** (1:1–1:3 weekly dialogue) is the gold standard but requires a 3:1 faculty ratio — not scalable at Harvard's 7:1 without radical restructuring. The **French Colles** (weekly low-stakes oral check-ins across all subjects) scaffold high-stakes assessment through habitual practice and reduce anxiety through familiarization; elite French students sit for 200+ oral sessions before university entrance. The **Medical OSCE** (standardized stations, rubrics, multiple examiners) prioritizes reliability over authenticity and works when competencies are clearly defined. Which model you choose depends entirely on what you're trying to assess. Conflating them guarantees failure.
 
-## The Central Paradox
+## Oral Exams Fix AI Cheating but Create Equity Problems
 
 Oral assessment addresses the AI authorship problem while creating new equity challenges. Students who struggle with real-time speech — international students, those with anxiety disorders, neurodiverse learners — face higher-stakes gatekeeping. The nineteenth-century shift from oral to written exams was itself driven by democratization and scalability. AI has inverted the incentives, but the reasons written assessment became dominant haven't disappeared. The paradox doesn't resolve. It must be managed — through scaffolding, rubrics, choice architecture, and honest acknowledgment that every assessment mode has costs.
 
-## The Literacy Bias
+## Written Exams Test What AI Does Best
 
 Walter Ong demonstrated that oral cultures think differently from literate ones. Oral thought is aggregative, redundant, participatory, close to lived experience, and agonistic — knowledge embedded in struggle and debate. Written thought is sparse, linear, analytic, and objectively distanced. The observation for assessment: written exams test the ability to produce "sparsely linear analytic thought" — which is precisely what AI does best. Oral assessment tests the ability to engage in real-time, situated, responsive dialogue — which AI struggles with because it requires context-switching, spontaneity, and defending claims under pressure. When we default to written assessment, we privilege a narrow cognitive mode and call it "understanding."
 
 *[Walter Ong, Orality and Literacy (1982)](https://newlearningonline.com/literacies/chapter-1/ong-on-the-differences-between-orality-and-literacy)*
 
-## From Production to Judgment
+## Students Evaluate Systems, Not Write Papers
 
 If AI can generate competent prose on demand, the paper stops being the privileged endpoint. Learning shifts toward comparison, critique, iterative refinement, and diagnosing failure modes. This is not "easier." It's harder and more expert-like. The assignment moves from "write a paper about X" to "design a system that reliably produces insight about X, then explain where it fails." Students increasingly learn *with* entities that respond, surprise, drift, hallucinate, and improve with feedback — pushing learning toward dialogic models (conversation, interrogation, steering) rather than linear production. Learning becomes less linear and more exploratory — closer to studio or lab models even in text-heavy fields.
 
-## Scarcity Migration
+## From Producing Texts to Caring About Them
 
 The university's value proposition has migrated through several phases. First: possession of texts (the library was the institution). Then: access to texts (digitization cracked that monopoly). Then: selection among texts (the university as canon-maker, deciding which texts deserve finite human hours). Now: caring about texts at all. "We are drowning in the competent." In an age of infinite average outputs, the student's work shifts from producing the competent middle to distinguishing it from the genuinely good — and pushing toward the genuinely good. That's taste. And it's teachable, but only through extensive encounter with examples, guided discussion, and practice making judgments that others will evaluate.
 
-## The Wicked Problem
+## No Fix Is Permanent — and That's the Point
 
 AI and assessment is not a problem with a solution. It is a "wicked problem" — one where every intervention creates new trade-offs, no fixed answer is possible, and the problem itself evolves continuously. Assessment scholars identify three permissions this framework grants. The *permission to compromise*: every assessment sacrifices something valuable. The *permission to diverge*: context determines everything — different disciplines, cohort sizes, and learning outcomes demand different approaches. The *permission to iterate*: what works this semester may not work next year. The only irresponsible response is pretending you've found the answer.
 
 *[Corbin et al., "The Wicked Problem of AI and Assessment," Assessment & Evaluation in Higher Education (2025)](https://doi.org/10.1080/02602938.2025.2553340)*
 
-## Process Over Performance
+## Low-Stakes Frequent Beats High-Stakes One-Shot
 
 The pattern across post-AI classroom experiments is consistent. High-stakes one-shot oral exams produced equity concerns and student backlash without clear learning gains. Low-stakes frequent oral work improved outcomes across the board. At UC Davis, replacing a twenty-page paper with a twenty-minute oral defense dropped student evaluations by 0.8 points; complaints centered on anxiety and fairness. At Michigan, adding weekly five-minute "argument audits" — students explain one reading aloud to their TA — increased engagement and improved final grades. The format matters less than the frequency and stakes.
 
@@ -78,7 +78,7 @@ John Quincy Adams held the Boylston Chair of Rhetoric at Harvard in 1806. He had
 
 *[Jay Heinrichs, "Why Harvard Destroyed Rhetoric," Harvard Magazine](https://www.harvardmagazine.com)*
 
-## McKinsey's Lesson
+## Even McKinsey Can't Make Oral Assessment Perfectly Predictive
 
 Consulting firms have conducted millions of case interviews since the 1970s — thirty-to-sixty-minute oral problem-solving sessions where candidates think aloud through business problems. Their hard-won conclusions after fifty years of refinement: structured rubrics are essential (early free-form interviews favored charismatic bullshitters over rigorous thinkers). Multiple independent evaluators reduce bias (any single conversation can misfire). And oral performance predicts narrow skills — real-time structured problem-solving and client communication, *not* strategic thinking, teamwork, or sustained analysis. If multi-billion-dollar firms with decades of oral assessment experience still can't make it perfectly predictive, and still supplement it with other methods, the lesson for faculty is about specificity: know exactly which cognitive skills oral performance reveals, and which it doesn't.
 
@@ -126,7 +126,7 @@ Cambridge pioneered written exams in the eighteenth century because Newtonian ma
 
 *[Christopher Stray, "The Shift from Oral to Written Examination: Cambridge and Oxford 1700–1900," Assessment in Education 8:1 (2001)](https://doi.org/10.1080/09695940120033243)*
 
-## Ground Truth and Provenance
+## The Audit Trail Matters More Than the Output
 
 As AI-generated text floods the zone, the gold standard for academic work may shift toward things AI can't hallucinate: raw field data, physical lab results, primary archival discovery. Disciplines will increasingly be defined by their "ground truth" protocols. If a student can't prove where the data touched the real world, the system design doesn't matter. One implication for assessment: the degree becomes a kind of epistemic notarization — not "this person wrote a good essay" but "this person worked through a process we can verify." The audit trail becomes as important as the final output.
 

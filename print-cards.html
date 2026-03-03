@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tools for Thinking — Printable Cards</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap');
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Newsreader', 'Times New Roman', serif;
+    background: rgb(240, 238, 230);
+    color: rgb(31, 30, 29);
+    padding: 32px;
+  }
+
+  h1 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .subtitle {
+    font-size: 16px;
+    font-style: italic;
+    opacity: 0.7;
+    margin-bottom: 32px;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+  }
+
+  .card {
+    border: 1px solid rgb(31, 30, 29);
+    padding: 20px 22px;
+    width: 4.25in;
+    height: 5.5in;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card h2 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 10px;
+    letter-spacing: -0.01em;
+  }
+
+  .card p {
+    font-size: 11.5px;
+    line-height: 1.5;
+    flex: 1;
+  }
+
+  .card .source {
+    font-size: 9.5px;
+    font-style: italic;
+    opacity: 0.5;
+    margin-top: 10px;
+    line-height: 1.4;
+  }
+
+  .card .label {
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    opacity: 0.4;
+    margin-bottom: 6px;
+  }
+
+  @media screen {
+    .card-grid {
+      max-width: 8.5in;
+      margin: 0 auto;
+    }
+  }
+
+  @media print {
+    body { padding: 0; background: white; }
+    h1, .subtitle, .screen-only { display: none; }
+
+    .card-grid {
+      gap: 0;
+    }
+
+    .card {
+      border: 0.5pt solid #999;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      page-break-inside: avoid;
+    }
+
+    @page {
+      size: letter;
+      margin: 0;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>Tools for Thinking</h1>
+<p class="subtitle">Conceptual building blocks for the oral assessment conversation. Quarter-letter cards — 4 per page.</p>
+<p class="screen-only" style="font-size: 14px; opacity: 0.6; margin-bottom: 24px;">Print this page (Cmd+P / Ctrl+P) for clean cards. Set margins to "None" in print settings.</p>
+
+<div class="card-grid">
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Every Technology Triggers the Same Anxiety</h2>
+  <p>In the <em>Phaedrus</em> (c. 370 BCE), Socrates warned that writing would "implant forgetfulness" and produce "the appearance of wisdom, not the reality." Medieval scribes resisted print. We resist AI. The pattern doesn't mean the anxiety is wrong. It means the response has always been the same: a turn toward dialogue as the technology's corrective. The question is always how to design for both.</p>
+  <div class="source">Rob Nelson, "A Phaedrus Moment" (2025) | Plato, Phaedrus</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>False Fluency</h2>
+  <p>AI makes it easy to perform understanding you don't have. A student can produce fluent work on a topic they barely grasp, or articulate a position they couldn't defend under questioning. The result is a new epistemic risk: <em>false fluency</em> — the illusion of mastery where only surface competence exists. The struggle that used to signal the gap between not-knowing and knowing gets smoothed away. Even well-intentioned students may not be able to tell whether they've internalized something or merely outsourced it.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Disappearance of the Junior Role</h2>
+  <p>Expertise develops through doing junior versions of expert work first. You can't train supervisors who never did the work being supervised. You can't develop taste without making bad art first. If AI does the junior work, the whole gradient disappears. The university has always been a place for doing junior versions of expert work — the first clumsy essay, the bad lab report. If that function is automated, what remains?</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Degree Certifies Authorization, Not Execution</h2>
+  <p>In the past, a degree certified you could <em>do</em> the work. In a post-AI world, a degree may certify you can <em>authorize</em> the work — verify intent, assess risk, take responsibility for outputs you didn't personally generate. The failure mode shifts from "I didn't finish" to "I didn't notice." How do you train someone to authorize work they've never authored?</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Forensic Reading and the Logic Audit</h2>
+  <p>If the paper is no longer proof of thinking, one approach is to put the student in the hot seat — not to prove they did the work (the work is cheap now) but to prove they can <em>account</em> for the work. Instead of "don't trust AI," the reframe is: "prove <em>why</em> this AI is wrong." The student becomes a detective of logic. Not a student at a podium with a PowerPoint, but a student at a table with a panel, defending an audit trail.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>"AI Can Simulate Interest. It Can't Transmit Desire."</h2>
+  <p>One of the things the university actually does is socialize people into <em>caring</em> about certain questions. You don't just learn what historians know; you learn to want to know what historians know. AI can produce competent text about the French Revolution. It can't make someone fall in love with the archive. In an age of infinite competent output, genuine intellectual desire may be the scarcest resource.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Not All Slowness Is Friction</h2>
+  <p>Friction is what you want to eliminate: bureaucratic delay, unnecessary obstacles. Temporal structure is what you want to protect: the requirement that some things take time because the <em>taking of time</em> is part of what produces the result. The slow absorption of a discipline's ways of seeing. The formation of intellectual character through years of practice. AI makes many things faster. It cannot compress everything. Which slownesses are essential, and which are merely traditional?</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Three Models, Not One</h2>
+  <p>The phrase "oral exam" obscures three fundamentally different designs. The <strong>Oxbridge Tutorial</strong> (1:1 weekly dialogue) requires a 3:1 faculty ratio. The <strong>French Colles</strong> (weekly low-stakes check-ins) scaffold high-stakes assessment through habitual practice. The <strong>Medical OSCE</strong> (standardized stations, rubrics, multiple examiners) prioritizes reliability over authenticity. Which model you choose depends on what you're trying to assess. Conflating them guarantees failure.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Oral Exams Fix AI Cheating but Create Equity Problems</h2>
+  <p>Oral assessment addresses the AI authorship problem while creating new equity challenges. Students who struggle with real-time speech — international students, those with anxiety disorders, neurodiverse learners — face higher-stakes gatekeeping. The 19th-century shift from oral to written exams was itself driven by democratization. AI has inverted the incentives, but the reasons written assessment became dominant haven't disappeared. The paradox doesn't resolve. It must be managed.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Written Exams Test What AI Does Best</h2>
+  <p>Walter Ong showed that oral thought is aggregative, redundant, participatory, and agonistic — knowledge embedded in struggle and debate. Written thought is sparse, linear, and analytic. Written exams test "sparsely linear analytic thought" — precisely what AI excels at. Oral assessment tests real-time, situated, responsive dialogue — which AI struggles with. When we default to written assessment, we privilege a narrow cognitive mode and call it "understanding."</p>
+  <div class="source">Walter Ong, Orality and Literacy (1982)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Students Evaluate Systems, Not Write Papers</h2>
+  <p>If AI can generate competent prose on demand, the paper stops being the privileged endpoint. Learning shifts toward comparison, critique, iterative refinement, and diagnosing failure modes. The assignment moves from "write a paper about X" to "design a system that reliably produces insight about X, then explain where it fails." Learning becomes less linear and more exploratory — closer to studio or lab models even in text-heavy fields.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>From Producing Texts to Caring About Them</h2>
+  <p>The university's value has migrated: possession of texts → access to texts → selection among texts → caring about texts at all. "We are drowning in the competent." In an age of infinite average outputs, the student's work shifts from producing the competent middle to distinguishing it from the genuinely good. That's taste. And it's teachable, but only through extensive encounter with examples, guided discussion, and practice making judgments that others will evaluate.</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>No Fix Is Permanent — and That's the Point</h2>
+  <p>AI and assessment is a "wicked problem" — every intervention creates new trade-offs, and the problem itself evolves continuously. Three permissions this grants: the <em>permission to compromise</em> (every assessment sacrifices something), the <em>permission to diverge</em> (context determines everything), and the <em>permission to iterate</em> (what works this semester may not work next year). The only irresponsible response is pretending you've found the answer.</p>
+  <div class="source">Corbin et al., A&EHE (2025)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Low-Stakes Frequent Beats High-Stakes One-Shot</h2>
+  <p>The pattern across post-AI experiments: high-stakes one-shot oral exams produced equity concerns and backlash without clear learning gains. Low-stakes frequent oral work improved outcomes. UC Davis: replacing a paper with an oral defense <em>decreased</em> evaluations by 0.8 points. Michigan: weekly five-minute "argument audits" <em>increased</em> engagement and grades. The format matters less than the frequency and stakes.</p>
+  <div class="source">Inside Higher Ed (2024) | EDUCAUSE (2024)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Weight-Lifting Analogy</h2>
+  <p>"When a worker needs to move weight quickly, they use a forklift. When they want to build muscle, they go to the gym." In liberal arts education, the primary objective isn't to produce polished essays — it's to build intellectual muscle. AI is the forklift. The question is whether oral assessment makes the workout more visible, or whether it just changes which muscles get tested.</p>
+  <div class="source">Hartmann, College Teaching (2025)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Why Harvard Destroyed Rhetoric</h2>
+  <p>John Quincy Adams held the Boylston Chair of Rhetoric at Harvard in 1806 and taught oral persuasion as "the paramount democratic skill." After Adams, the chair drifted from oral address toward written composition. Harvard fell "in thrall to" Petrus Ramus, who stripped rhetoric of its oral power. Rhetoric became "style, a corpse in brilliant clothing." The current conversation about oral assessment echoes this older one about what was lost.</p>
+  <div class="source">Jay Heinrichs, Harvard Magazine</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Even McKinsey Can't Make Oral Assessment Perfectly Predictive</h2>
+  <p>Consulting firms have conducted millions of case interviews since the 1970s. Their hard-won conclusions: structured rubrics are essential (free-form interviews favored charismatic bullshitters). Multiple evaluators reduce bias. And oral performance predicts <em>narrow</em> skills — real-time problem-solving and communication, not strategic thinking or sustained analysis. The lesson: know exactly which cognitive skills oral performance reveals, and which it doesn't.</p>
+  <div class="source">McKinsey | HBR (2016)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Gender Gap</h2>
+  <p>Women systematically underperform relative to their written work in oral contexts — not because they understand less, but because gendered communication norms distort evaluation. Across ten UK universities, women received lower oral scores than men despite higher written marks. The gap widened with male examiners. Women face interruption more frequently, are penalized for assertive speech, and trigger competence penalties from vocal patterns regardless of content quality.</p>
+  <div class="source">Studies in Higher Education (2018)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Neurodivergent Penalty</h2>
+  <p>Autistic students performing at the 90th percentile on written exams can drop to the 40th in oral formats — not from reduced knowledge, but because oral assessment demands simultaneous processing of social cues, verbal formulation, and self-regulation under scrutiny. Students with ADHD report that dynamic questioning makes their compensation strategies impossible. Extended time doesn't solve fundamental format incompatibility.</p>
+  <div class="source">National Autistic Society | ERIC (2020)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Student Resistance Isn't Irrational</h2>
+  <p>When students resist oral assessment, 73% cite fairness, not difficulty: "I'm better at showing my knowledge in writing." "My accent will be judged." "Extroverts will get higher grades for personality." "One bad day will tank my GPA." These are sophisticated critiques of construct validity. Students intuitively grasp what researchers have documented: oral exams often measure anxiety, cultural capital, and charisma rather than mastery.</p>
+  <div class="source">A&EHE (2022)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The TA Bottleneck</h2>
+  <p>A course with 150 students, three TAs, and 15-minute oral exams requires 37.5 hours of examination time — plus scheduling, training, and rubric calibration. Each TA must block 12+ hours, on top of teaching, dissertation work, and grading. TAs are often ABD students with minimal assessment experience. Without compensation, training, or workload reduction, asking them to become skilled oral examiners produces wildly inconsistent student experiences.</p>
+  <div class="source">Chronicle of Higher Education</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Recording Paradox</h2>
+  <p>Oral exams must be documented for fairness — but recording intensifies anxiety, creates privacy concerns under FERPA, and raises questions about data retention. Oral exams are framed as "more human" than written work, yet ensuring fairness requires documentation that makes the experience feel less human. When fairness requires surveillance but surveillance undermines authenticity, the tension doesn't resolve. It has to be named and managed.</p>
+  <div class="source">UK QAA | FERPA Guidance</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Reliability Problem</h2>
+  <p>Inter-rater reliability for oral exams (0.4–0.6) is substantially worse than written work (0.7–0.85). A landmark study found that variance <em>between examiners</em> exceeded variance <em>between students</em> — "who evaluates you" predicted grades more than "how well you performed." This persists even with experienced faculty and detailed rubrics. Strategies that improve reliability add cost and complexity most courses can't absorb.</p>
+  <div class="source">PubMed Central (1990) | Review of Ed Research (1996)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Cambridge vs. Oxford</h2>
+  <p>Cambridge pioneered written exams because Newtonian mathematics demanded numerical ranking. Oxford retained oral traditions because classics valued community dialogue. Cambridge used numbers; Oxford used Greek letters. Cambridge shifted by 1839; Oxford held vivas into the 1930s. The divergence shows the choice between oral and written assessment was always disciplinary and political — never purely epistemological.</p>
+  <div class="source">Stray, Assessment in Education (2001)</div>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>The Audit Trail Matters More Than the Output</h2>
+  <p>As AI-generated text floods the zone, the gold standard may shift toward things AI can't hallucinate: raw field data, physical lab results, primary archival discovery. If a student can't prove where the data touched the real world, the system design doesn't matter. The degree becomes a kind of epistemic notarization — not "this person wrote a good essay" but "this person worked through a process we can verify."</p>
+</div>
+
+<div class="card">
+  <div class="label">Tools for Thinking</div>
+  <h2>Iterative Writing as Alternative</h2>
+  <p>If oral assessment's costs sometimes exceed benefits, the alternative is process-focused writing. Stanford's "unessay," Yale's scaffolded portfolios, and Brown's staged revision model show that when students submit multiple drafts with visible revision, AI-generated work becomes pedagogically useless. You can't fake a learning trajectory. Brown's 2024 pilot found staged assignments reduced AI use voluntarily: when the process is where learning happens, outsourcing means missing the point.</p>
+  <div class="source">Stanford Daily (2024) | Brown University (2024)</div>
+</div>
+
+</div>
+</body>
+</html>
