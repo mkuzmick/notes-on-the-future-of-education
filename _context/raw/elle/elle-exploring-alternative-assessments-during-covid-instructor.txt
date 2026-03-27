@@ -1,3 +1,14 @@
+---
+title: "COVID-era oral exams in chemistry: empirical evidence for deeper learning"
+source_url: "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379886/full"
+source_title: "Frontiers in Education"
+author: ""
+date: "2024"
+type: research-paper
+tags: [oral-exam-design, deep-learning, cognitive-science, equity, stem, faculty-experience]
+summary: "Empirical study showing oral exams in chemistry produced deeper engagement than written exams, created cognitive apprenticeship opportunities, and may benefit non-native English speakers and students with dyslexia who struggle with timed written tests."
+harvard_relevance: ""
+---
 Exploring alternative assessments during COVID: Instructor experiences using oral exams
 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379886/full
 

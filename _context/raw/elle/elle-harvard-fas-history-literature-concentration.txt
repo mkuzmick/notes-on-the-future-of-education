@@ -1,3 +1,14 @@
+---
+title: "Harvard History & Literature Senior Oral Exam"
+source_url: "https://histlit.fas.harvard.edu/senior-oral-exam"
+source_title: "Harvard FAS History & Literature"
+author: "Harvard FAS"
+date: ""
+type: institutional-policy
+tags: [harvard, oral-exam-design, humanities, capstone, high-stakes]
+summary: "All History & Literature honors seniors take a mandatory one-hour oral exam with three faculty members covering thesis and five prepared topics, proving rigorous oral assessment already works for Harvard undergraduates."
+harvard_relevance: "Existing proof of concept at Harvard itself; if one concentration can do this systematically, the infrastructure exists for others to adapt."
+---
 Harvard FAS History & Literature Concentration
 https://histlit.fas.harvard.edu/senior-oral-exam
 

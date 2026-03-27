@@ -1,3 +1,14 @@
+---
+title: "Reconsidering the Use of Oral Exams"
+source_url: "https://journals.sagepub.com/doi/10.3102/0013189X251333638"
+source_title: "Educational Researcher (SAGE)"
+author: ""
+date: "2025"
+type: literature-review
+tags: [oral-exam-design, student-anxiety, equity, academic-integrity, scaffolding, history]
+summary: "Comprehensive review covering oral exam history (since 5th century), types, benefits, and challenges; even proponents acknowledge anxiety effects on introverts and second-language speakers, making examiner training and accommodations essential for fair implementation."
+harvard_relevance: "Harvard must design accommodations and alternative pathways for students affected by anxiety and introversion; oral exams are authentic assessment but require careful equity infrastructure."
+---
 Reconsidering the Use of Oral Exams
 https://journals.sagepub.com/doi/10.3102/0013189X251333638
 

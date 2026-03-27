@@ -1,3 +1,14 @@
+---
+title: "The Socratic Method in the Age of Trauma"
+source_url: "https://harvardlawreview.org/print/vol-130/the-socratic-method-in-the-age-of-trauma/"
+source_title: "Harvard Law Review"
+author: "Jeannie Suk Gersen"
+date: "2017"
+type: research-paper
+tags: [harvard, socratic-method, equity, gender, student-experience, student-anxiety, law, pedagogy]
+summary: "A Harvard Law professor describes how the Socratic method transformed her from silent to speaking -- a life-changing revelation -- while acknowledging critiques about disproportionate adverse impact on women and minorities and grappling with tensions between pedagogical tradition and student well-being."
+harvard_relevance: "A first-person Harvard faculty account of oral pedagogy's transformative power alongside its equity challenges, written by the first Asian woman tenured at HLS."
+---
 The Socratic Method in the Age of Trauma
 https://harvardlawreview.org/print/vol-130/the-socratic-method-in-the-age-of-trauma/
 

@@ -1,3 +1,14 @@
+---
+title: "TED Talks and the Commodification of Oral Presentation"
+source_url: "https://ed.ted.com/blog/2025/08/21/public-speaking-101-launched-to-teach-essential-communication-and-presentation-skills"
+source_title: "TED-Ed"
+author: ""
+date: "2025-08-21"
+type: practitioner-guide
+tags: [pedagogy, performance, professional-domains, oral-exam-design, scaffolding]
+summary: "TED has standardized a genre of oral presentation (18-minute narrative arc with personal anecdotes), making speaking skills teachable and desirable, but critics argue TED-style talks favor slick delivery and oversimplification over intellectual depth."
+harvard_relevance: "Harvard should resist making all oral exams 'TED-like'; different fields need different oral genres, and students should critique TED Talks as a genre rather than just emulate them."
+---
 quality: University press coverage; credible but not peer-reviewed research. Describes existing Harvard programs.
 https://ed.ted.com/blog/2025/08/21/public-speaking-101-launched-to-teach-essential-communication-and-presentation-skills
 

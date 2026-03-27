@@ -1,3 +1,14 @@
+---
+title: "The Medieval University at Cambridge"
+source_url: "https://www.cam.ac.uk/about-the-university/history/the-medieval-university"
+source_title: "University of Cambridge"
+author: "University of Cambridge"
+date: ""
+type: historical-source
+tags: [history, viva-voce, oral-exam-design, pedagogy, peer-institutions]
+summary: "For 500+ years, oral disputation was the assessment at medieval universities -- students defended theses under cross-examination from peers and faculty, and you could not fake understanding in real-time argument."
+harvard_relevance: "Harvard inherited the oral disputation tradition directly from its 1636 founding; the question is not whether to try oral exams but why we abandoned what worked for half a millennium."
+---
 The Medieval University
 https://www.cam.ac.uk/about-the-university/history/the-medieval-university
 

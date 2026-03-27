@@ -1,3 +1,14 @@
+---
+title: "AI-powered language assessment: ETS, Cambridge, and Duolingo already use AI speech scoring"
+source_url: "https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/"
+source_title: "Bridge Education Group"
+author: "Bridge Education Group"
+date: "2025-07"
+type: news-article
+tags: [ai-tools, grading, scale, rubrics]
+summary: "Major testing bodies (ETS, Cambridge, Duolingo) have already integrated AI speech assessment at scale, proving automated oral evaluation is technically feasible and commercially deployed."
+harvard_relevance: ""
+---
 Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI
 https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/
 

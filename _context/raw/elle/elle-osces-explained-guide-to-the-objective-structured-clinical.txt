@@ -1,3 +1,13 @@
+---
+title: "OSCEs Explained: Guide to the Objective Structured Clinical Examination"
+source_url: "https://medschoolinsiders.com/medical-student/osce-objective-structured-clinical-examination/"
+source_title: "Med School Insiders"
+author: "Dhaval Gandhi"
+date: "2025-06-02"
+type: practitioner-guide
+tags: [medicine, oral-exam-design, rubrics, scale, history]
+summary: "Medicine developed the OSCE in the 1970s because traditional oral and written exams failed to assess real-world clinical skills; now used globally with standardized patients at timed stations, it is the standard for assessing clinical competence."
+---
 OSCEs Explained: Guide to the Objective Structured Clinical Examination
 https://medschoolinsiders.com/medical-student/osce-objective-structured-clinical-examination/
 

@@ -1,3 +1,14 @@
+---
+title: "Radcliffe Fellowship and GSD: Oral Presentation as Institutional Practice"
+source_url: "https://www.radcliffe.harvard.edu/radcliffe-fellowship/become-a-radcliffe-fellow"
+source_title: "Radcliffe Institute for Advanced Study"
+author: ""
+date: ""
+type: institutional-policy
+tags: [harvard, pedagogy, discussion, performance, professional-domains]
+summary: "Radcliffe fellows present work to interdisciplinary audiences requiring translation of specialized knowledge for non-experts; GSD uses daily desk critiques as formative oral assessment, making oral feedback frequent rather than rare and summative."
+harvard_relevance: "The Radcliffe model suggests cross-concentration oral events where seniors present to panels from other fields, and GSD's desk crit model shows frequent formative oral feedback is more effective than rare summative oral exams."
+---
 quality: Official GSD program descriptions and policies. Authoritative for institutional practice.
 https://www.radcliffe.harvard.edu/radcliffe-fellowship/become-a-radcliffe-fellow
 

@@ -1,3 +1,14 @@
+---
+title: "Oral Communication across Disciplines: Adding Value"
+source_url: "https://eric.ed.gov/?id=ED411553"
+source_title: "ERIC"
+author: "Heather Howard Donofrio, Kimberly Davis"
+date: "1997"
+type: research-paper
+tags: [pedagogy, oral-exam-design, curriculum-design, professional-domains, humanities, stem]
+summary: "The Communication Across the Curriculum movement established that oral competency is discipline-specific (engineering presentations differ from literary criticism) and should be integrated through 'Speaking Intensive' designated courses, not isolated public speaking requirements."
+harvard_relevance: "The 'Speaking Intensive' course model offers Harvard a proven framework for designating courses where oral assessment is primary, similar to existing writing-intensive requirements."
+---
 Oral Communication across Disciplines: Adding Value to Academic Pursuit and Marketability
 https://eric.ed.gov/?id=ED411553
 

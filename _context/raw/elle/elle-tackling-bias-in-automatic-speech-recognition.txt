@@ -1,3 +1,14 @@
+---
+title: "Tackling Bias in Automatic Speech Recognition"
+source_url: "https://www.colorado.edu/research/ai-institute/2025/01/22/tackling-bias-automatic-speech-recognition-two-examples-our-ongoing-work"
+source_title: "CU Boulder AI Institute"
+author: "Wayne Ward, Rosy Southwell"
+date: "2025-01-22"
+type: research-paper
+tags: [equity, ai-tools, accessibility, neurodivergence, oral-exam-design, recording-and-documentation]
+summary: "ASR tools show 24% lower accuracy for Black speakers and 56% word error rate for teenagers, revealing critical equity barriers to AI-powered oral assessment that fine-tuning only partially resolves."
+harvard_relevance: "If ASR systematically disadvantages Black students and teenagers, AI-powered oral exams replicate existing inequities rather than solving them."
+---
 Tackling Bias in Automatic Speech Recognition
 https://www.colorado.edu/research/ai-institute/2025/01/22/tackling-bias-automatic-speech-recognition-two-examples-our-ongoing-work
 

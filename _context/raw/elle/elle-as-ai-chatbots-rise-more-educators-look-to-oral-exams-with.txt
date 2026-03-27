@@ -1,3 +1,14 @@
+---
+title: "EdSurge: Stanford Sherpa enables asynchronous AI-powered oral exams"
+source_url: "https://www.edsurge.com/news/2023-10-05-as-ai-chatbots-rise-more-educators-look-to-oral-exams-with-high-tech-twist"
+source_title: "EdSurge"
+author: "Jeffrey R. Young"
+date: "2023-10-05"
+type: news-article
+tags: [ai-tools, oral-exam-design, scale, academic-integrity, scaffolding]
+summary: "Stanford students built Sherpa, an AI tool for asynchronous oral exams where students record video responses to adaptive questions. AI triages weak answers for instructor review, making oral assessment feasible for 100-300 student courses without 30 hours of Zoom calls."
+harvard_relevance: ""
+---
 As AI Chatbots Rise, More Educators Look to Oral Exams — With High-Tech Twist
 https://www.edsurge.com/news/2023-10-05-as-ai-chatbots-rise-more-educators-look-to-oral-exams-with-high-tech-twist
 

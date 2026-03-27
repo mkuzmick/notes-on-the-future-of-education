@@ -1,3 +1,14 @@
+---
+title: "University and School Entrance Exams in Japan"
+source_url: "https://factsanddetails.com/japan/cat23/sub150/item1790.html"
+source_title: "Facts and Details"
+author: "Facts and Details (citing Miki Y. Ishikida)"
+date: "2005"
+type: case-study
+tags: [peer-institutions, student-anxiety, oral-exam-design, scale, professional-domains]
+summary: "Japan's shift from pure written standardized tests to AO admissions including interviews and portfolio reviews recognized that written exams select for test-taking skill rather than intellectual capacity, motivation, or communication ability."
+harvard_relevance: "If undergraduate admission already uses interviews, why not undergraduate assessment? The competencies tested -- motivation, communication, synthesis -- are identical."
+---
 University and School Entrance Exams in Japan
 https://factsanddetails.com/japan/cat23/sub150/item1790.html
 

@@ -1,3 +1,13 @@
+---
+title: "Help Students Retain, Organize and Integrate Knowledge"
+source_url: "https://tll.mit.edu/teaching-resources/how-to-teach/help-students-retain-organize-and-integrate-knowledge/"
+source_title: "MIT Teaching + Learning Lab"
+author: "MIT TLL"
+date: ""
+type: pedagogy-guide
+tags: [cognitive-science, deep-learning, memory-and-retention, pedagogy]
+summary: "MIT's synthesis of learning science identifies retrieval practice and self-explanation as key to long-term retention: actively retrieving information improves retention and transfer of learning far more than restudying."
+---
 Help Students Retain, Organize and Integrate Knowledge
 https://tll.mit.edu/teaching-resources/how-to-teach/help-students-retain-organize-and-integrate-knowledge/
 

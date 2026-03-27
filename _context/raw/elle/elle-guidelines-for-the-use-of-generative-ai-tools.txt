@@ -1,3 +1,13 @@
+---
+title: "Yale's Guidelines for the Use of Generative AI Tools"
+source_url: "https://provost.yale.edu/news/guidelines-use-generative-ai-tools"
+source_title: "Yale Office of the Provost"
+author: "Scott Strobel et al."
+date: "2023-09-20"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, academic-integrity]
+summary: "Yale encourages AI experimentation while delegating enforcement entirely to individual faculty, acknowledging AI outputs can be biased and inaccurate but providing no institution-wide assessment framework."
+---
 Guidelines for the Use of Generative AI Tools
 https://provost.yale.edu/news/guidelines-use-generative-ai-tools
 

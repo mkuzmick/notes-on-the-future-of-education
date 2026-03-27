@@ -1,3 +1,14 @@
+---
+title: "Navigating AI Policies for PhD Students in 2025"
+source_url: "https://www.thesify.ai/blog/phd-ai-policies-2025"
+source_title: "Thesify"
+author: "Alessandra Giugliano"
+date: "2025-10"
+type: practitioner-guide
+tags: [ai-policy, academic-integrity, peer-institutions, harvard, cambridge]
+summary: "Even at the doctoral level, AI policies emphasize verification and disclosure; Cambridge, Harvard, and Caltech all treat unacknowledged AI in summative work as academic misconduct."
+harvard_relevance: "Harvard's own guideline that 'users remain responsible for any content containing AI material' is contextualized alongside peer institutions' doctoral AI policies."
+---
 Navigating AI Policies for PhD Students in 2025: A Doctoral Researcher's Guide
 https://www.thesify.ai/blog/phd-ai-policies-2025
 

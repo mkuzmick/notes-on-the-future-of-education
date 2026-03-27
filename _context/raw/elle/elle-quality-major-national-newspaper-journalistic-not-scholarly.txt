@@ -1,3 +1,14 @@
+---
+title: "The Unessay: AI Cannot Make It"
+source_url: "https://ahenetwork.org/students-and-teachers-love-it-ai-cannot-make-it-the-necessity-of-the-unessay-in-our-assessment-world/"
+source_title: "Academic Health Economists' Network"
+author: "Milena Marinkova, Joy Robbins"
+date: "2023-08"
+type: opinion
+tags: [pedagogy, academic-integrity, ai-tools, curriculum-design, student-experience]
+summary: "The 'unessay' invites students to demonstrate learning through non-traditional formats (podcasts, videos, performances) that are inherently AI-resistant because they require personal creativity and multimodal skills; students and teachers report higher satisfaction and deeper learning."
+harvard_relevance: "Harvard already has examples (VES portfolios, Music compositions) and the unessay offers an alternative to oral exams for AI-resistant assessment while maintaining creative expression."
+---
 quality: Major national newspaper; journalistic not scholarly, but reflects real pedagogical shifts. Likely amplifies trends beyond their actual prevalence (selection bias toward early adopters).
 https://ahenetwork.org/students-and-teachers-love-it-ai-cannot-make-it-the-necessity-of-the-unessay-in-our-assessment-world/
 

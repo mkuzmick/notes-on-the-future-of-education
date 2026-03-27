@@ -1,3 +1,14 @@
+---
+title: "Harvard Kennedy School Master in Public Policy Curriculum"
+source_url: "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy"
+source_title: "Harvard Kennedy School"
+author: "Harvard Kennedy School"
+date: ""
+type: institutional-policy
+tags: [harvard, professional-domains, oral-exam-design, capstone, performance, curriculum-design]
+summary: "HKS requires MPP students to defend their Policy Analysis Exercise orally before the community, reflecting that policy work demands oral advocacy, presentation, and persuasion alongside written analysis."
+harvard_relevance: "If HBS, HMS, and HKS all require oral performance because their fields demand it, undergraduate programs preparing students for these careers should integrate oral assessment earlier."
+---
 Master in Public Policy: Curriculum
 https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy
 

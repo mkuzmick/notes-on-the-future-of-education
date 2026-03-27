@@ -1,3 +1,14 @@
+---
+title: "Harvard Folklore and Mythology: mandatory oral general exam for all concentrators"
+source_url: "https://folkmyth.fas.harvard.edu/concentration-requirements"
+source_title: "Harvard FAS Folklore and Mythology"
+author: "Harvard FAS"
+date: ""
+type: institutional-policy
+tags: [harvard, oral-exam-design, humanities, capstone, curriculum-design]
+summary: "Folklore and Mythology requires all concentrators (not just honors) to complete a General Examination with both written and oral components, making it philosophically aligned with a concentration that studies oral traditions and oral performance."
+harvard_relevance: "Joins History & Literature and Social Studies as proof that comprehensive oral exams work for Harvard undergraduates across disciplines."
+---
 Concentration Requirements
 https://folkmyth.fas.harvard.edu/concentration-requirements
 

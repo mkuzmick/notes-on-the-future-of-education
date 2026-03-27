@@ -1,3 +1,14 @@
+---
+title: "Yale AI guidance: detection tools unreliable, faculty must adapt"
+source_url: "https://poorvucenter.yale.edu/teaching/teaching-resource-library/ai-guidance-for-teachers"
+source_title: "Yale Poorvu Center for Teaching and Learning"
+author: "Yale University"
+date: "2025"
+type: institutional-policy
+tags: [peer-institutions, ai-policy, ai-detection, pedagogy]
+summary: "Yale explicitly declares AI detection tools unreliable and unsupported, encouraging faculty to adapt course policies and experiment thoughtfully rather than police AI use."
+harvard_relevance: ""
+---
 AI Guidance for Teachers
 https://poorvucenter.yale.edu/teaching/teaching-resource-library/ai-guidance-for-teachers
 

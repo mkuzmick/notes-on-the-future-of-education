@@ -1,3 +1,13 @@
+---
+title: "Berkeley Executive Leadership Communications Program"
+source_url: "https://executive.berkeley.edu/programs/leadership-communications-program"
+source_title: "UC Berkeley Executive Education"
+author: "UC Berkeley"
+date: ""
+type: case-study
+tags: [professional-domains, business, ai-tools, practice-and-rehearsal, feedback, performance]
+summary: "A $5,600 three-day intensive combining AI-powered feedback with small-group coaching demonstrates the market value of oral communication skills; corporate executives pay premium prices for what Harvard could embed in undergraduate education."
+---
 Leadership Communications Program
 https://executive.berkeley.edu/programs/leadership-communications-program
 

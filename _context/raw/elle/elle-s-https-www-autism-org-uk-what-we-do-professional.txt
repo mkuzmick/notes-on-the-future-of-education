@@ -1,3 +1,14 @@
+---
+title: "Inter-Rater Reliability Crisis and Three Questions Before Adopting Oral Assessment"
+source_url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114733/"
+source_title: "PMC / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [grading, rubrics, equity, neurodivergence, accessibility, oral-exam-design, faculty-experience, tf-training]
+summary: "Inter-rater reliability for oral exams (0.4-0.6) is substantially worse than written work (0.7-0.85), meaning examiner assignment predicts grades more than student performance; three critical questions before adopting oral assessment: is oral performance your learning outcome, can you commit to equity infrastructure, and will you accept lower reliability?"
+harvard_relevance: "Evidence-based recommendation to reserve oral assessment for specific limited use cases with clear pedagogical value, not as wholesale essay replacement; invest instead in iterative writing pedagogy and smaller seminar sizes."
+---
 s: https://www.autism.org.uk/what-we-do/professional-development/training-and-conferences/online-training/autistic-students-in-higher-education (National Autistic Society on HE assessment) | https://eric.ed.gov/?id=EJ1240113 (ADHD students and oral assessment challenges)
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114733/
 

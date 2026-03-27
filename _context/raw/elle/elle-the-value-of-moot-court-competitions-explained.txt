@@ -1,3 +1,14 @@
+---
+title: "The Value of Moot Court Competitions Explained"
+source_url: "https://www.fedbar.org/blog/the-value-of-moot-court-competitions-explained/"
+source_title: "Federal Bar Association"
+author: "Federal Bar Association"
+date: "2024-03-20"
+type: practitioner-guide
+tags: [law, oral-exam-design, professional-domains, performance, practice-and-rehearsal, scale]
+summary: "Moot court, formalized at Harvard Law in 1820, proves oral examination works at scale in professional education -- students research and write briefs, then defend oral arguments under unpredictable judicial questioning, combining prepared material with real-time thinking."
+harvard_relevance: "If Harvard Law can require oral advocacy for 500+ JD students annually, Harvard College can implement oral assessment for undergraduates."
+---
 The Value of Moot Court Competitions Explained
 https://www.fedbar.org/blog/the-value-of-moot-court-competitions-explained/
 

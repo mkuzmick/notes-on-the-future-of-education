@@ -1,3 +1,14 @@
+---
+title: "OSCE: The Assessment of Choice in Medical Education"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3191703/"
+source_title: "Oman Medical Journal"
+author: "Marliyya Zayyan"
+date: "2011-07"
+type: research-paper
+tags: [medicine, oral-exam-design, rubrics, scale, history]
+summary: "The OSCE, standard in medical education since 1975, solved the reliability problem of traditional oral exams (inter-examiner correlation was below 0.25) through standardized stations, trained patients, and predetermined objective marking criteria."
+harvard_relevance: "Medicine solved the 'oral assessment is subjective' problem 50 years ago through structured design; if it works for life-or-death clinical competency, the model is directly applicable to undergraduate assessment."
+---
 Objective Structured Clinical Examination: The Assessment of Choice
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3191703/
 

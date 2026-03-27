@@ -1,3 +1,14 @@
+---
+title: "Inside Yale's Quiet Reckoning with AI"
+source_url: "https://thenewjournalatyale.com/2025/10/inside-yales-quiet-reckoning-with-ai/"
+source_title: "The New Journal at Yale"
+author: ""
+date: "2025-10"
+type: news-article
+tags: [peer-institutions, ai-policy, academic-integrity, student-experience, student-anxiety]
+summary: "Yale's radical faculty autonomy on AI policy produces widespread student confusion and guilt; one student used AI to write philosophy papers to avoid late submissions while feeling the guilt 'was just eating me alive,' illustrating the human cost of inconsistent institutional policy."
+harvard_relevance: "Harvard currently resembles Yale's 'individual faculty discretion' model; the confusion and guilt students report suggests this approach has limits requiring baseline institutional expectations."
+---
 Inside Yale's Quiet Reckoning with AI
 https://thenewjournalatyale.com/2025/10/inside-yales-quiet-reckoning-with-ai/
 

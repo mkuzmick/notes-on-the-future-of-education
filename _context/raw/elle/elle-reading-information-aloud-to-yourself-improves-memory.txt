@@ -1,3 +1,13 @@
+---
+title: "Reading Information Aloud to Yourself Improves Memory"
+source_url: "https://www.sciencedaily.com/releases/2017/12/171201090940.htm"
+source_title: "ScienceDaily"
+author: "Colin MacLeod"
+date: "2017-12-01"
+type: research-paper
+tags: [cognitive-science, memory-and-retention, deep-learning, pedagogy]
+summary: "The 'production effect' shows that reading aloud produces the best long-term retention (tested across four methods with 95 participants) because the dual action of speaking AND hearing oneself creates distinctiveness in memory--meaning oral exams are pedagogically superior, not just AI-resistant."
+---
 Reading Information Aloud to Yourself Improves Memory
 https://www.sciencedaily.com/releases/2017/12/171201090940.htm
 

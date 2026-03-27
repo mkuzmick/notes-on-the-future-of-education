@@ -1,3 +1,14 @@
+---
+title: "Joughin's six dimensions of oral assessment framework"
+source_url: "https://www.tandfonline.com/doi/abs/10.1080/0260293980230404"
+source_title: "Assessment & Evaluation in Higher Education"
+author: "Gordon Joughin"
+date: "1998"
+type: research-paper
+tags: [oral-exam-design, pedagogy, rubrics, written-vs-oral]
+summary: "Seminal 1998 framework identifying six dimensions of oral assessment (content type, interaction, authenticity, structure, examiners, orality) that provides a design toolkit for faculty implementing oral exams with evidence-based rigor."
+harvard_relevance: "This framework prevents ad-hoc oral exam implementation and grounds design in 25+ years of educational research."
+---
 Assessment & Evaluation in Higher Education, Vol. 23, No. 4
 https://www.tandfonline.com/doi/abs/10.1080/0260293980230404
 

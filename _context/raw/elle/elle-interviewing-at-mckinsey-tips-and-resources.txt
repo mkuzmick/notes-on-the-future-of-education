@@ -1,3 +1,14 @@
+---
+title: "McKinsey Case Interview as Oral Assessment Model"
+source_url: "https://www.mckinsey.com/careers/interviewing"
+source_title: "McKinsey & Company"
+author: "McKinsey & Company"
+date: ""
+type: practitioner-guide
+tags: [professional-domains, business, oral-exam-design, performance, written-vs-oral]
+summary: "Management consulting firms use 30-60 minute oral case interviews as their primary hiring mechanism, testing thinking-on-your-feet, adaptability, and real-time articulation of complex reasoning -- skills Harvard's written-only curriculum fails to develop."
+harvard_relevance: "Harvard students spend months practicing oral case delivery for McKinsey but the curriculum assesses only through writing, creating a pedagogy-profession mismatch."
+---
 Interviewing at McKinsey | Tips and Resources
 https://www.mckinsey.com/careers/interviewing
 

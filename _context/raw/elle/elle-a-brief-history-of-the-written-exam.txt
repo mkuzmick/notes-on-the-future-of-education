@@ -1,3 +1,14 @@
+---
+title: "A brief history of the written exam: scale killed oral assessment"
+source_url: "https://www.independentthinking.co.uk/resources/a-brief-history-of-the-written-exam/"
+source_title: "Independent Thinking"
+author: "Independent Thinking"
+date: ""
+type: news-article
+tags: [history, scale, written-vs-oral, equity]
+summary: "Oral exams did not fail pedagogically -- they failed logistically when Industrial Revolution enrollment growth made them impractical. Elite institutions with low student-faculty ratios face no such constraint, and AI now solves the scalability problem."
+harvard_relevance: "Harvard's 9:1 student-faculty ratio means the historical barrier that killed oral exams does not apply."
+---
 A Brief History of the Written Exam
 https://www.independentthinking.co.uk/resources/a-brief-history-of-the-written-exam/
 

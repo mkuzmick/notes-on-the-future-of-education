@@ -1,3 +1,14 @@
+---
+title: "Rethinking Oral Examinations for Undergraduate Students"
+source_url: "https://ii.library.jhu.edu/2016/06/22/rethinking-oral-examinations-for-undergraduate-students/"
+source_title: "Johns Hopkins Innovative Instructor"
+author: "Richard Brown"
+date: "2016-06-22"
+type: case-study
+tags: [oral-exam-design, stem, deep-learning, scale, feedback, low-stakes]
+summary: "JHU math professor used 20-minute oral finals with 6 students: could probe deeper when students got stuck and adjust follow-up questions (impossible with written exams); 4 of 6 students liked the format, but acknowledged it wouldn't work with more than 10 students."
+harvard_relevance: "Demonstrates oral exams' diagnostic power for assessing deep understanding but confirms the scalability challenge that Harvard must solve for larger enrollments."
+---
 Rethinking Oral Examinations for Undergraduate Students
 https://ii.library.jhu.edu/2016/06/22/rethinking-oral-examinations-for-undergraduate-students/
 

@@ -1,3 +1,14 @@
+---
+title: "The Quiet Transformation of Higher Education in the AI Era"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12438950/"
+source_title: "Open Research Europe (PubMed Central)"
+author: "Nora Pireci Sejdiu, Sejdi Sejdiu"
+date: "2025-08-22"
+type: research-paper
+tags: [ai-policy, academic-integrity, oral-exam-design, faculty-experience, curriculum-design]
+summary: "Faculty are turning to oral defenses, collaborative projects, and reflective journals to create AI-resistant assessments, while the digital divide in algorithmic literacy affects faculty as much as students."
+harvard_relevance: "Frames the shift from digital literacy to algorithmic literacy as a faculty development challenge, not just a student conduct issue."
+---
 The Quiet Transformation of Higher Education in the AI Era
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12438950/
 

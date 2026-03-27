@@ -1,3 +1,13 @@
+---
+title: "Plato's Pharmacy: Derrida on Speaking, Writing, and Plato"
+source_url: "https://www.thecollector.com/platos-pharmacy-jacques-derrida/"
+source_title: "The Collector"
+author: "Moses May-Hobbs"
+date: "2023-02-15"
+type: opinion
+tags: [philosophy, history, written-vs-oral, humanities]
+summary: "The Greek word pharmakon (remedy/poison) encapsulates writing's ambiguity; Derrida's twist on Plato is that speech's adaptability lets it both respond to questions and 'mislead and pretend most effectively,' while writing's fixity is both limitation and protection."
+---
 Plato's Pharmacy: Derrida on Speaking, Writing, and Plato
 https://www.thecollector.com/platos-pharmacy-jacques-derrida/
 

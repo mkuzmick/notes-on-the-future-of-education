@@ -1,3 +1,14 @@
+---
+title: "The Oral Defence: Higher Education's Shield in the Generative AI World"
+source_url: "https://scientect.org/2025/10/27/the-oral-defence-higher-educations-shield-in-the-generative-ai-world/"
+source_title: "Scientect E-Mag"
+author: "A. Amankwaa"
+date: "2025-10-27"
+type: opinion
+tags: [academic-integrity, oral-exam-design, viva-voce, grading, written-vs-oral, scale, faculty-experience]
+summary: "Proposes a 30% written / 70% oral defense model where written work allows declared AI assistance but oral defense assesses process ownership, methodological choices, and connection to broader disciplinary concepts."
+harvard_relevance: "The 30/70 written-oral split offers a concrete weighting model Harvard could adapt, though it requires institutional investment in smaller class sizes and more teaching staff."
+---
 The Oral Defence: Higher Education's Shield in the Generative AI World
 https://scientect.org/2025/10/27/the-oral-defence-higher-educations-shield-in-the-generative-ai-world/
 

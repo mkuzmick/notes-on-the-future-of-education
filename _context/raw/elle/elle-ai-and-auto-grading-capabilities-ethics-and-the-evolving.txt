@@ -1,3 +1,14 @@
+---
+title: "AI auto-grading shows systematic bias: lenient on weak work, harsh on strong"
+source_url: "https://ascode.osu.edu/news/ai-and-auto-grading-higher-education-capabilities-ethics-and-evolving-role-educators"
+source_title: "Ohio State University ASCODE"
+author: "Ohio State University"
+date: "2025-07-15"
+type: research-paper
+tags: [ai-tools, grading, rubrics, equity, feedback]
+summary: "LLMs systematically compress grade distributions -- inflating weak work and deflating strong work -- making AI unsuitable as a sole grading tool for nuanced tasks. Best practice is AI for formative feedback, humans for summative grading."
+harvard_relevance: ""
+---
 AI and Auto-Grading: Capabilities, Ethics, and the Evolving Role of Educators
 https://ascode.osu.edu/news/ai-and-auto-grading-higher-education-capabilities-ethics-and-evolving-role-educators
 

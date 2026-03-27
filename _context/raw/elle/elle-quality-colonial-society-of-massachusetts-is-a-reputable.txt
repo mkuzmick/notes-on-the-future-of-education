@@ -1,3 +1,14 @@
+---
+title: "Women's Colleges as 'Dangerous Experiments': Proving Intellectual Equality"
+source_url: "https://www.womenshistory.org/articles/dangerous-experiment"
+source_title: "National Women's History Museum"
+author: ""
+date: ""
+type: historical-source
+tags: [history, gender, equity, oral-exam-design, accessibility]
+summary: "Women's colleges founded 1865-1893 were 'dangerous experiments' testing whether women could receive higher education; their collaborative oral pedagogies (study circles, peer teaching) contrasted with adversarial male disputations, offering a model for supportive oral assessment design."
+harvard_relevance: "Gender history matters for contemporary oral assessment: research shows women and non-binary students experience higher public speaking anxiety, so Harvard must address equity dimensions or risk reproducing 19th-century hierarchies."
+---
 quality: Colonial Society of Massachusetts is a reputable historical organization; Fiveable is an educational study guide (less scholarly but useful overview). Mixed credibility but historically grounded.
 https://www.womenshistory.org/articles/dangerous-experiment
 

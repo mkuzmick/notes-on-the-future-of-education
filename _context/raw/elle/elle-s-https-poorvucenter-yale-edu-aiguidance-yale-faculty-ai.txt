@@ -1,3 +1,14 @@
+---
+title: "Fluency Heuristic Bias, Cambridge's 1850s Reform, and Cultural Communication Norms"
+source_url: "https://poorvucenter.yale.edu/AIguidance"
+source_title: "Yale Poorvu Center / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [equity, grading, history, gender, accessibility, neurodivergence, oral-exam-design, rubrics, peer-institutions]
+summary: "Three equity critiques of oral assessment: examiners systematically overestimate confident speakers' competence (fluency heuristic); Cambridge replaced oral with written exams in the 1850s specifically to combat class-based bias; and Western academic norms penalize East Asian indirect communication and Indigenous collective knowledge-building styles."
+harvard_relevance: "Harvard faculty must train themselves to value epistemic humility markers as rigor rather than weakness, use rubrics separating content mastery from rhetorical style, and recognize that 24% international students bring diverse communication norms."
+---
 s: https://poorvucenter.yale.edu/AIguidance (Yale faculty AI guidance) | https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence (Stanford teaching with AI) | https://mcgraw.princeton.edu/artificial-intelligence-teaching-and-learning (Princeton AI pedagogy resources)
 https://poorvucenter.yale.edu/AIguidanceelle-with-claws
 

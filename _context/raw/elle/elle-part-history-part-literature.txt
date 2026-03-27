@@ -1,3 +1,14 @@
+---
+title: "Part History, Part Literature: Hist & Lit at 100"
+source_url: "https://www.harvardmagazine.com/2007/01/part-history-part-litera-html"
+source_title: "Harvard Magazine"
+author: "Casey N. Cep"
+date: "2007-01"
+type: news-article
+tags: [harvard, history, humanities, oral-exam-design, capstone, viva-voce]
+summary: "Harvard's History & Literature concentration, founded in 1906, has never stopped requiring oral exams--118+ years of continuous practice where alumni credit the rigor with shaping their thinking, raising the question of whether this boutique model can scale college-wide."
+harvard_relevance: "History & Literature is Harvard's first concentration and longest-running oral exam requirement, providing direct institutional evidence that oral assessment works but in a small, self-selecting context."
+---
 Part History, Part Literature
 https://www.harvardmagazine.com/2007/01/part-history-part-litera-html
 

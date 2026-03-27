@@ -1,3 +1,13 @@
+---
+title: "How Venture Capitalists Really Assess a Pitch"
+source_url: "https://hbr.org/2017/05/how-venture-capitalists-really-assess-a-pitch"
+source_title: "Harvard Business Review"
+author: "Lakshmi Balachandra"
+date: "2017-05"
+type: research-paper
+tags: [professional-domains, business, performance, written-vs-oral]
+summary: "VCs routinely get excited by written business plans then lose all interest after an in-person pitch, demonstrating that oral performance reveals what written documents cannot about a person's competence and understanding."
+---
 How Venture Capitalists Really Assess a Pitch
 https://hbr.org/2017/05/how-venture-capitalists-really-assess-a-pitch
 

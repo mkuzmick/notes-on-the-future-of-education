@@ -1,3 +1,14 @@
+---
+title: "Harvard Should Teach Speech"
+source_url: "https://www.thecrimson.com/article/2025/9/25/barnum-harvard-free-speech-classes/"
+source_title: "The Harvard Crimson"
+author: "Amelia F. Barnum"
+date: "2025-09-25"
+type: opinion
+tags: [harvard, pedagogy, oral-exam-design, student-experience, written-vs-oral]
+summary: "A current Harvard student argues AI has eliminated the scarcity of competent analytical writing, making oral skills the differentiator: 'Good oratory isn't AI-replaceable' and 'speech takes practice.'"
+harvard_relevance: "Student voice directly advocating for restored speech education at Harvard, with AI as explicit justification."
+---
 Harvard Should Teach Speech
 https://www.thecrimson.com/article/2025/9/25/barnum-harvard-free-speech-classes/
 

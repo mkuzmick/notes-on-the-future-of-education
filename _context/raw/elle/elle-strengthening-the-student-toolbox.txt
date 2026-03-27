@@ -1,3 +1,13 @@
+---
+title: "Strengthening the Student Toolbox: Study Strategies to Boost Learning"
+source_url: "https://www.aft.org/ae/fall2013/dunlosky"
+source_title: "American Educator (AFT)"
+author: "John Dunlosky"
+date: "2013"
+type: research-paper
+tags: [cognitive-science, memory-and-retention, pedagogy, deep-learning, practice-and-rehearsal]
+summary: "Landmark review of 10 learning strategies: practice testing and distributed practice are most effective; highlighting and rereading have limited impact; elaborative interrogation (asking 'why?') and self-explanation show moderate utility--teaching students how to learn is as important as teaching content."
+---
 Strengthening the Student Toolbox
 https://www.aft.org/ae/fall2013/dunlosky
 

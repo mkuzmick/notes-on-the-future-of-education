@@ -1,3 +1,14 @@
+---
+title: "Loora and SmallTalk2Me: AI Oral Practice Platforms"
+source_url: "https://www.loora.com/"
+source_title: "Loora"
+author: ""
+date: ""
+type: practitioner-guide
+tags: [ai-tools, practice-and-rehearsal, student-anxiety, equity, accessibility, scaffolding]
+summary: "Commercial AI platforms now offer conversational oral practice with instant feedback in a 'judgement-free zone,' revealing an ecosystem that could either exacerbate inequities (paid access) or democratize oral exam preparation if institutions provide access."
+harvard_relevance: "Harvard could provide institutional access to AI oral practice platforms (like the Writing Center for writing) to scaffold fluency and reduce the equity gap in oral assessment preparation."
+---
 Loora (AI English tutor platform)
 https://www.loora.com/
 

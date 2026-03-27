@@ -1,3 +1,14 @@
+---
+title: "UK Bar Training Course: mandatory oral advocacy in groups of five"
+source_url: "https://www.bpp.com/law/btc-barrister-training-course"
+source_title: "BPP University"
+author: "BPP University"
+date: ""
+type: case-study
+tags: [law, professional-domains, oral-exam-design, scaffolding, practice-and-rehearsal, high-stakes]
+summary: "UK barristers must pass mandatory oral advocacy assessments in small groups of 5, practicing cross-examination and client conferences in simulated scenarios -- proving high-stakes oral assessment scales with scaffolded practice and a 60% pass standard."
+harvard_relevance: "If law schools require oral competency for professional licensure, Harvard can require it for undergraduate degrees."
+---
 Bar Training Course
 https://www.bpp.com/law/btc-barrister-training-course
 

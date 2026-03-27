@@ -1,3 +1,14 @@
+---
+title: "The Decline of the Socratic Method at Harvard"
+source_url: "https://digitalcommons.unl.edu/nlr/vol78/iss1/6/"
+source_title: "Nebraska Law Review"
+author: "Orin S. Kerr"
+date: "2014"
+type: research-paper
+tags: [harvard, socratic-method, history, law, pedagogy, oral-exam-design, faculty-experience]
+summary: "The traditional Socratic method at Harvard Law School, once the defining pedagogy, is nearly extinct; faculty now split among traditionalists, quasi-traditionalists, and counter-traditionalists who explicitly reject it."
+harvard_relevance: "Harvard Law pioneered oral pedagogy in America in 1870, yet Harvard College largely abandoned it -- the decline was driven by scale and standardization, not pedagogical failure."
+---
 The Decline of the Socratic Method at Harvard
 https://digitalcommons.unl.edu/nlr/vol78/iss1/6/
 

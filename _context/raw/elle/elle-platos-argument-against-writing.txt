@@ -1,3 +1,14 @@
+---
+title: "Plato's Argument Against Writing"
+source_url: "https://fs.blog/an-old-argument-against-writing/"
+source_title: "Farnam Street"
+author: "Shane"
+date: "2013-02-04"
+type: historical-source
+tags: [philosophy, history, written-vs-oral, socratic-method, memory-and-retention]
+summary: "Socrates warned writing would 'implant forgetfulness' because people would rely on external marks rather than internalizing knowledge; written texts 'seem intelligent' but 'go on telling just the same thing forever'--a critique that applies eerily well to AI-generated essays."
+harvard_relevance: "The foundational philosophical argument for oral assessment, 2,400 years before ChatGPT: Socratic dialogue as the gold standard for testing real comprehension through interactive questioning."
+---
 Plato's Argument Against Writing
 https://fs.blog/an-old-argument-against-writing/
 

@@ -1,3 +1,14 @@
+---
+title: "Making the Case: History of the Case Method at Harvard"
+source_url: "https://www.harvardmagazine.com/2003/09/making-the-case-html"
+source_title: "Harvard Magazine"
+author: ""
+date: "2003-09"
+type: historical-source
+tags: [harvard, socratic-method, law, medicine, business, pedagogy, history]
+summary: "Langdell invented the case method at HLS in 1870 and developed the Socratic method through trial and error; HBS adopted cases in 1920, HMS in 1985 -- oral dialogue-based pedagogy has been central to Harvard's professional schools for over 150 years."
+harvard_relevance: "Harvard's own professional schools have relied on oral Socratic pedagogy for over a century; the College remains the outlier in not systematically assessing oral competency."
+---
 Making the Case
 https://www.harvardmagazine.com/2003/09/making-the-case-html
 

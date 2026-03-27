@@ -1,3 +1,14 @@
+---
+title: "Harvard DCE executive training in oral presentation skills"
+source_url: "https://professional.dce.harvard.edu/programs/communication-strategies-presenting-with-impact/"
+source_title: "Harvard Division of Continuing Education"
+author: "Harvard DCE"
+date: ""
+type: case-study
+tags: [harvard, business, professional-domains, performance, pedagogy]
+summary: "Harvard already teaches oral presentation skills at the professional level for executive education, recognizing that oral communication determines career success in business, consulting, and leadership -- yet FAS undergraduates receive minimal equivalent training."
+harvard_relevance: "If Harvard charges executives thousands for public speaking training, Harvard College should prioritize the same skills for undergraduates."
+---
 Communication Strategies: Presenting with Impact
 https://professional.dce.harvard.edu/programs/communication-strategies-presenting-with-impact/
 

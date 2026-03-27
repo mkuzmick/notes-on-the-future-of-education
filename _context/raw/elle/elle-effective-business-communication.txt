@@ -1,3 +1,14 @@
+---
+title: "Chicago Booth: oral communication as the essential management skill"
+source_url: "https://www.chicagobooth.edu/executiveeducation/programs/leadership/effective-business-communication"
+source_title: "Chicago Booth Executive Education"
+author: "Chicago Booth"
+date: ""
+type: case-study
+tags: [business, professional-domains, performance, pedagogy]
+summary: "Chicago Booth positions oral communication as the most essential management skill, offering a $3,200 six-week program focused on persuasion, influence, and executive presence -- underscoring the gap between professional reality and writing-heavy undergraduate education."
+harvard_relevance: ""
+---
 Effective Business Communication
 https://www.chicagobooth.edu/executiveeducation/programs/leadership/effective-business-communication
 

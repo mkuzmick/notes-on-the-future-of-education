@@ -1,3 +1,14 @@
+---
+title: "AI-resistant assessments: 88% of UK students used GenAI for assessments in 2025"
+source_url: "https://www.educatorstechnology.com/2026/02/ai-resistant-assessments.html"
+source_title: "Educators Technology"
+author: "Educators Technology"
+date: "2026-02"
+type: practitioner-guide
+tags: [ai-policy, academic-integrity, oral-exam-design, pedagogy, curriculum-design]
+summary: "Oral exams are naturally AI-resistant because students must think on their feet and respond to follow-ups in real time. With 88% of UK university students using GenAI for assessments, the question is no longer whether to redesign assessment but how."
+harvard_relevance: ""
+---
 AI-Resistant Assessments: Practical Tips and Strategies for Teachers
 https://www.educatorstechnology.com/2026/02/ai-resistant-assessments.html
 

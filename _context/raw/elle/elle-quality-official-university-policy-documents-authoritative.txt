@@ -1,3 +1,14 @@
+---
+title: "The Cambridge Approach to Generative AI and Assessment"
+source_url: "https://www.cambridge.org/news-and-insights/The-Cambridge-approach-to-generative-AI-and-assessment"
+source_title: "Cambridge University Press & Assessment"
+author: ""
+date: "2025"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, academic-integrity, oral-exam-design, written-vs-oral]
+summary: "Cambridge's nuanced position: 'AI reinforces the value of in-person exams' but recognizes in-person supervision (not necessarily oral format) is key, framing AI as a challenge requiring diverse assessment methods rather than mandating oral exams specifically."
+harvard_relevance: "Cambridge suggests options beyond oral exams for AI-resistant assessment: in-class exams, proctored digital exams, process-based portfolios, with oral exams as one option among several."
+---
 quality: Official university policy documents. Authoritative for institutional practice.
 https://www.cambridge.org/news-and-insights/The-Cambridge-approach-to-generative-AI-and-assessment
 

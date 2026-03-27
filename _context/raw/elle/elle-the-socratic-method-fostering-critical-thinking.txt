@@ -1,3 +1,14 @@
+---
+title: "The Socratic Method: Fostering Critical Thinking"
+source_url: "https://tilt.colostate.edu/the-socratic-method/"
+source_title: "Colorado State University TILT"
+author: "Colorado State University (based on Rob Reich, Stanford)"
+date: ""
+type: pedagogy-guide
+tags: [socratic-method, pedagogy, deep-learning, oral-exam-design, discussion]
+summary: "The Socratic method is better used to demonstrate complexity, difficulty, and uncertainty than to elicit facts; it creates productive discomfort through shared dialogue where the teacher leads by posing thought-provoking questions rather than delivering answers."
+harvard_relevance: "Reframes oral assessment as belief-examining rather than fact-checking -- probing students' underlying assumptions and reasoning that AI cannot replicate or fake."
+---
 The Socratic Method: Fostering Critical Thinking
 https://tilt.colostate.edu/the-socratic-method/
 

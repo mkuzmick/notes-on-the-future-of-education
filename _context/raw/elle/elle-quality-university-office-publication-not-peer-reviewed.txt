@@ -1,3 +1,14 @@
+---
+title: "Bias Evaluation for Multiple Sensitive Attribute Speech Recognition"
+source_url: "https://www.sciencedirect.com/science/article/abs/pii/S0885230825000129"
+source_title: "Computer Speech & Language (ScienceDirect)"
+author: "Zigang Chen, Yuening Zhou, Zhen Wang, Fan Liu, Tao Leng, Haihua Zhu"
+date: "2025-03"
+type: research-paper
+tags: [ai-tools, equity, accessibility, neurodivergence, grading]
+summary: "Speech recognition systems exhibit bias across race, gender, accent, and age; if used for assessment, they systematically disadvantage certain populations, meaning AI-graded oral exams would automate discrimination rather than reduce it."
+harvard_relevance: "If Harvard adopts AI tools to evaluate oral presentations, it must audit for demographic bias; human review remains mandatory for high-stakes assessments, and students with accented English or speech impediments need alternative pathways."
+---
 quality: University office publication; not peer-reviewed research but reflects institutional policy thinking.
 https://www.sciencedirect.com/science/article/abs/pii/S0885230825000129
 

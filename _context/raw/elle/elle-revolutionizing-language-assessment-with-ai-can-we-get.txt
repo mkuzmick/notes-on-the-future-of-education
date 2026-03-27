@@ -1,3 +1,13 @@
+---
+title: "Revolutionizing Language Assessment with AI"
+source_url: "https://fltmag.com/language-assessment-ai/"
+source_title: "FLTMAG"
+author: "James Ayres, Carlos Seoane"
+date: "2025-03-11"
+type: research-paper
+tags: [ai-tools, oral-exam-design, pedagogy, accessibility]
+summary: "Unscripted speech remains AI's hardest assessment challenge because there is no 'known truth' to match against; of 20 speech elements identified, only 12 can be reliably measured algorithmically, making human evaluation essential for oral assessment."
+---
 Revolutionizing Language Assessment with AI: Can We Get There in 2025?
 https://fltmag.com/language-assessment-ai/
 

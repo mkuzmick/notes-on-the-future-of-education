@@ -1,3 +1,14 @@
+---
+title: "Oracy in the Classroom: A Teacher's Guide"
+source_url: "https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development"
+source_title: "Structural Learning"
+author: ""
+date: ""
+type: pedagogy-guide
+tags: [pedagogy, scaffolding, oral-exam-design, equity, accessibility]
+summary: "Introduces the Four-Pillar Oracy Framework (evidence/reasoning, response/listening, delivery/expression, prioritisation/organisation) showing that oracy is a structured, assessable skill comparable to literacy, with post-pandemic gaps especially affecting disadvantaged students."
+harvard_relevance: "Gives Harvard faculty a concrete vocabulary and framework for designing and assessing oral assignments as structured skill development, not just 'talk more.'"
+---
 Oracy in the classroom: A teacher's guide
 https://www.structural-learning.com/post/the-importance-of-oracy-in-language-development
 

@@ -1,3 +1,14 @@
+---
+title: "UBC Arts: Reshaping Teaching and Learning in the Age of AI"
+source_url: "https://www.arts.ubc.ca/news/how-ubc-arts-is-reshaping-teaching-and-learning-in-the-age-of-ai/"
+source_title: "University of British Columbia Faculty of Arts"
+author: "UBC Faculty of Arts"
+date: "2025"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, oral-exam-design, academic-integrity, curriculum-design, faculty-experience]
+summary: "UBC's 'We're Only Human' program offers a three-pronged institutional framework: AI-secure assessments (including oral responses), AI-open assessments where students use AI critically, and hybrid models -- explicitly endorsing oral examination as a structural response to AI."
+harvard_relevance: "UBC offers a middle path between prescriptive and laissez-faire approaches, giving faculty choice while institutionally validating oral assessment as a legitimate AI-secure option."
+---
 University of British Columbia Faculty of Arts
 https://www.arts.ubc.ca/news/how-ubc-arts-is-reshaping-teaching-and-learning-in-the-age-of-ai/
 

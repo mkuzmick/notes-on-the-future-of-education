@@ -1,3 +1,14 @@
+---
+title: "Harvard's original curriculum was fundamentally oral: disputations and Latin instruction"
+source_url: "https://guides.library.harvard.edu/hua/earlycurriculum"
+source_title: "Harvard University Archives"
+author: "Harvard University Archives"
+date: ""
+type: historical-source
+tags: [harvard, history, oral-exam-design, socratic-method]
+summary: "Harvard was founded as an oral institution: Latin instruction, commencement disputations, and thesis defenses supervised by each president. A return to oral assessment is not a novelty but a homecoming."
+harvard_relevance: "Harvard was not founded as a written-exam institution; the disputation tradition was core to its founding mission."
+---
 Early Curriculum at Harvard: Historical Sources
 https://guides.library.harvard.edu/hua/earlycurriculum
 

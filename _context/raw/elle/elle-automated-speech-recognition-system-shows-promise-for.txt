@@ -1,3 +1,14 @@
+---
+title: "OpenAI Whisper achieves near-perfect correlation with human raters for speech assessment"
+source_url: "https://phys.org/news/2025-04-automated-speech-recognition-language-accessible.html"
+source_title: "Phys.org"
+author: "Doshisha University"
+date: "2025-04"
+type: research-paper
+tags: [ai-tools, grading, scale, accessibility]
+summary: "OpenAI Whisper with Word Error Rate scoring achieves near-perfect correlation with human raters across 900 speech samples, enabling real-time smartphone-based oral assessment with exceptional accuracy even with background noise."
+harvard_relevance: ""
+---
 Automated Speech Recognition System Shows Promise for Making Language Testing More Accessible and Scalable
 https://phys.org/news/2025-04-automated-speech-recognition-language-accessible.html
 

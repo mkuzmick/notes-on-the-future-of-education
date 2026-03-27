@@ -1,3 +1,14 @@
+---
+title: "Tips on Oral Advocacy"
+source_url: "https://law.duke.edu/life/mootcourt/tips"
+source_title: "Duke Law School"
+author: "Duke Law School"
+date: ""
+type: practitioner-guide
+tags: [law, rubrics, oral-exam-design, practice-and-rehearsal, performance, professional-domains]
+summary: "A detailed rubric for oral assessment in legal education covering theme statements, roadmapping, memorized openings, adaptability to judge interruptions, and the critical skill of listening carefully to questions rather than delivering a pre-scripted answer."
+harvard_relevance: "Provides a transferable rubric framework for oral assessment design beyond legal education."
+---
 Tips on Oral Advocacy
 https://law.duke.edu/life/mootcourt/tips
 

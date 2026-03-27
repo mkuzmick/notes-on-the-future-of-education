@@ -1,3 +1,14 @@
+---
+title: "Oral Exams for a Generative AI World: Logistics for Humanities Instruction"
+source_url: "https://www.tandfonline.com/doi/full/10.1080/87567555.2025.2558563"
+source_title: "College Teaching (Taylor & Francis)"
+author: ""
+date: "2025-01"
+type: pdf-summary
+tags: [oral-exam-design, humanities, logistics, student-anxiety, grading, pedagogy, faculty-experience]
+summary: "A peer-reviewed implementation guide for oral exams in humanities courses addresses time constraints, student anxiety, and grading consistency with practical solutions, signaling oral assessment has moved from 'should we?' to 'how to?' phase."
+harvard_relevance: "The Bok Center could host workshops using this article as a template, validating what History & Lit and Social Studies have done for decades as evidence-based best practices."
+---
 College Teaching (Taylor & Francis)
 https://www.tandfonline.com/doi/full/10.1080/87567555.2025.2558563
 

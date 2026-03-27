@@ -1,3 +1,14 @@
+---
+title: "Business presentations: verbal communication as vital professional skill"
+source_url: "https://pressbooks.bccampus.ca/businesswritingessentials/chapter/chapter-11-business-presentations/"
+source_title: "BCcampus Business Writing Essentials"
+author: "BCcampus"
+date: ""
+type: practitioner-guide
+tags: [business, professional-domains, performance, discussion]
+summary: "Business communication pedagogy emphasizes that people in the workplace spend the majority of their time communicating verbally, and the biggest failure is passing up opportunities to practice presenting and public speaking."
+harvard_relevance: "Harvard MBA students already practice oral communication; FAS undergraduates deserve similar training through oral assignments."
+---
 Business Presentations
 https://pressbooks.bccampus.ca/businesswritingessentials/chapter/chapter-11-business-presentations/
 

@@ -1,3 +1,14 @@
+---
+title: "Think-Pair-Share: Effects of Collaboration on In-Class Participation"
+source_url: "https://www.sciencedirect.com/science/article/pii/S1041608021000522"
+source_title: "Learning and Individual Differences (ScienceDirect)"
+author: "Lukas Mundelsee, Susanne Jurkowski"
+date: "2021-05"
+type: research-paper
+tags: [pedagogy, scaffolding, low-stakes, student-anxiety, equity, discussion]
+summary: "Think-Pair-Share increases in-class participation (especially for shy students) by having students think individually, discuss with a partner, then share with the class; the peer validation step reduces state anxiety and builds oral confidence incrementally."
+harvard_relevance: "TPS offers scalable oral assessment even in large classes, with AI resistance (students can't pre-generate responses to spontaneous questions) and equity benefits (low-stakes frequent practice reduces the 'oral fluency = privilege' problem)."
+---
 quality: Peer-reviewed journals (Nature, Taylor & Francis). Recent empirical research with strong credibility.
 https://www.sciencedirect.com/science/article/pii/S1041608021000522
 

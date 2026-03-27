@@ -1,3 +1,14 @@
+---
+title: "BCG case interview: elite consulting assesses almost entirely through oral exams"
+source_url: "https://careers.bcg.com/global/en/case-interview-preparation"
+source_title: "BCG Careers"
+author: "Boston Consulting Group"
+date: ""
+type: practitioner-guide
+tags: [business, professional-domains, oral-exam-design, socratic-method]
+summary: "Elite consulting firms assess candidates almost entirely through oral case interviews simulating real-world client problems, emphasizing structured thinking, business judgment, and transparent reasoning -- not memorized frameworks."
+harvard_relevance: ""
+---
 Case Interview Preparation
 https://careers.bcg.com/global/en/case-interview-preparation
 

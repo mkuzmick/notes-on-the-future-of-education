@@ -1,3 +1,14 @@
+---
+title: "Governance of Generative AI at Top 50 US Universities"
+source_url: "https://freedomforallamericans.org/generative-ai-governance-higher-education/"
+source_title: "Freedom for All Americans"
+author: "Dwight Decker"
+date: "2025-11-07"
+type: research-paper
+tags: [ai-policy, peer-institutions, harvard, academic-integrity, curriculum-design]
+summary: "The consensus at elite universities is 'redesign assessment' rather than 'detect AI,' but most lack systematic frameworks for what that redesign looks like; Harvard FAS uses a three-tier course policy model."
+harvard_relevance: "Harvard's tiered AI policy (AI-permitted, some AI, no AI) is documented alongside peers, but no institution has yet positioned oral assessment as the systematic redesign framework."
+---
 Governance of Generative AI in Higher Education: Top 50 Universities
 https://freedomforallamericans.org/generative-ai-governance-higher-education/
 

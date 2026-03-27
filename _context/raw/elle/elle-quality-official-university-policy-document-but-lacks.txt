@@ -1,3 +1,14 @@
+---
+title: "How AI Has Changed Penn Faculty Grading and Teaching"
+source_url: "https://www.thedp.com/article/2025/03/penn-faculty-discuss-ai-concerns"
+source_title: "The Daily Pennsylvanian"
+author: ""
+date: "2025-03"
+type: news-article
+tags: [ai-policy, peer-institutions, faculty-experience, grading, academic-integrity]
+summary: "Penn faculty are changing assessment methods in response to AI without centralized coordination, creating equity problems where students in one concentration face oral exams while peers still submit take-home essays graded permissively."
+harvard_relevance: "Penn's decentralized experience mirrors what Harvard faces: without proactive guidance from FAS, faculty solve AI problems idiosyncratically, leading to wildly inconsistent student experiences."
+---
 quality: Official university policy document, but lacks empirical evidence on effectiveness. This is guidance, not research.
 https://www.thedp.com/article/2025/03/penn-faculty-discuss-ai-concerns
 

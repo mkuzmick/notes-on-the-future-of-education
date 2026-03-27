@@ -1,3 +1,14 @@
+---
+title: "HMS student assessment policy: OSCEs as standard oral/performative assessment"
+source_url: "https://medstudenthandbook.hms.harvard.edu/104-student-assessment-md-program"
+source_title: "Harvard Medical School Student Handbook"
+author: "Harvard Medical School"
+date: ""
+type: institutional-policy
+tags: [harvard, medicine, oral-exam-design, rubrics, grading, professional-domains]
+summary: "Harvard Medical School requires OSCEs for all MD students because written tests cannot verify clinical competency, proving oral/performative assessment is already standard practice within Harvard."
+harvard_relevance: "HMS already mandates oral assessment; the question is why Harvard College does not."
+---
 1.04 Student Assessment in the MD Program
 https://medstudenthandbook.hms.harvard.edu/104-student-assessment-md-program
 

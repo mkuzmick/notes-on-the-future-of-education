@@ -1,3 +1,14 @@
+---
+title: "Harvard Curriculum 1640-1800: Archives and Research Sources"
+source_url: "https://guides.library.harvard.edu/c.php?g=405381&p=6465805"
+source_title: "Harvard Library Research Guides"
+author: "Harvard University Archives"
+date: ""
+type: historical-source
+tags: [history, harvard, oral-exam-design, written-vs-oral]
+summary: "Harvard Archives document that oral performance -- prayers, recitations, disputations -- structured the daily rhythm of undergraduate life far more than written work from 1640-1800, with thesis disputation topics shaping assessment across presidencies."
+harvard_relevance: "A goldmine for faculty interested in historical precedent; a working group could map the evolution of assessment formats at Harvard from 1636-present."
+---
 Harvard in the 17th and 18th Centuries
 https://guides.library.harvard.edu/c.php?g=405381&p=6465805
 

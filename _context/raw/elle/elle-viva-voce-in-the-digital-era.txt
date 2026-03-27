@@ -1,3 +1,14 @@
+---
+title: "Viva Voce in the Digital Era"
+source_url: "https://samejohn.com/2024/12/19/viva-voce-in-the-digital-era/"
+source_title: "SameJohn (University of Melbourne)"
+author: "University of Melbourne engineering professor"
+date: "2024-12-19"
+type: case-study
+tags: [viva-voce, oral-exam-design, recording-and-documentation, equity, gender, rubrics, stem, faculty-experience]
+summary: "A Melbourne engineering professor shares 5+ years of exclusive viva voce assessment, addressing bias concerns with dual examiners (one male, one female), recorded sessions, and pre-determined base questions -- a mature implementation model predating ChatGPT."
+harvard_relevance: "Harvard faculty do not need to start from scratch; this framework addresses common objections about bias, fairness, and scaling with practical solutions."
+---
 Viva Voce in the Digital Era
 https://samejohn.com/2024/12/19/viva-voce-in-the-digital-era/
 

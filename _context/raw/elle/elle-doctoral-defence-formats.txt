@@ -1,3 +1,14 @@
+---
+title: "International study of doctoral defence formats across 26 countries"
+source_url: "https://www.tandfonline.com/doi/full/10.1080/03075079.2022.2137123"
+source_title: "Studies in Higher Education"
+author: ""
+date: "2022"
+type: research-paper
+tags: [viva-voce, oral-exam-design, high-stakes, capstone, peer-institutions]
+summary: "24 of 26 countries studied use an oral defence format for doctoral degrees, with variations in timing, privacy, and structure. No research university globally awards PhDs without oral defense, proving academia never abandoned oral assessment at the highest level."
+harvard_relevance: "Every Harvard PhD must orally defend; the question is why this gold standard for competency verification is reserved for doctoral candidates."
+---
 Doctoral defence formats
 https://www.tandfonline.com/doi/full/10.1080/03075079.2022.2137123
 

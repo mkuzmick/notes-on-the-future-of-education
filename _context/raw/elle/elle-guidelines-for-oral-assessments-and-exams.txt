@@ -1,3 +1,14 @@
+---
+title: "Guidelines for Oral Assessments and Exams"
+source_url: "https://otl.uoguelph.ca/guidelines-oral-assessments-and-exams"
+source_title: "University of Guelph Office of Teaching and Learning"
+author: "University of Guelph"
+date: ""
+type: practitioner-guide
+tags: [oral-exam-design, rubrics, accessibility, student-anxiety, equity, scaffolding]
+summary: "Honest institutional guidance acknowledging oral assessment disadvantages (time intensity, student stress, bias risk, reliability issues) alongside benefits, warning that oral exams should NOT be used solely to prevent academic dishonesty."
+harvard_relevance: "Provides the balanced, evidence-based guidance Harvard faculty need for implementation, including accessibility alternatives and rubric design."
+---
 Guidelines for Oral Assessments and Exams
 https://otl.uoguelph.ca/guidelines-oral-assessments-and-exams
 

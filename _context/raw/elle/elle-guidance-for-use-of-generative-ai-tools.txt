@@ -1,3 +1,13 @@
+---
+title: "MIT Guidance for Use of Generative AI Tools"
+source_url: "https://ist.mit.edu/ai-guidance"
+source_title: "MIT Information Systems & Technology"
+author: "MIT IS&T"
+date: "2025"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, academic-integrity]
+summary: "MIT explicitly warns against using AI for evaluating student academic performance without risk assessment and prohibits entering confidential data into AI tools, while requiring disclosure of all AI use in academic work."
+---
 Guidance for Use of Generative AI Tools
 https://ist.mit.edu/ai-guidance
 

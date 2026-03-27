@@ -1,3 +1,14 @@
+---
+title: "Management Consulting Presentation Standards: McKinsey/BCG Model"
+source_url: "https://www.udemy.com/course/present-like-a-top-consultant/"
+source_title: "Udemy / Analyst Academy"
+author: "Lucas Lin"
+date: "2024"
+type: practitioner-guide
+tags: [professional-domains, business, performance, pedagogy, oral-exam-design]
+summary: "Consulting firms have developed highly standardized oral presentation formats emphasizing simplifying complexity and persuading under pressure; however, this McKinsey aesthetic is precisely what AI-generated student work mimics, so Harvard oral exams should not inadvertently reward it."
+harvard_relevance: "Many Harvard graduates enter consulting, but if oral exams reward consulting-style presentations, they may privilege performance over substance and corporate norms over nuanced analysis."
+---
 quality: Peer-reviewed education research (SAGE) + established curriculum (PBS). Credible pedagogical models.
 https://www.udemy.com/course/present-like-a-top-consultant/
 

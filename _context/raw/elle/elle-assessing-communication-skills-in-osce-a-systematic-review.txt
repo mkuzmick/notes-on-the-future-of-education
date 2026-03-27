@@ -1,3 +1,14 @@
+---
+title: "Systematic review of OSCE communication skills rating scales"
+source_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152717"
+source_title: "PLOS ONE"
+author: ""
+date: "2016-03"
+type: literature-review
+tags: [medicine, rubrics, oral-exam-design, grading, professional-domains]
+summary: "Effective physician-patient communication requires seven key elements (Kalamazoo Consensus) assessed in real-time oral interactions via OSCEs, with summative assessments that can deny graduation to protect patients."
+harvard_relevance: ""
+---
 Assessing Communication Skills in OSCE: A Systematic Review of Rating Scales
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152717
 

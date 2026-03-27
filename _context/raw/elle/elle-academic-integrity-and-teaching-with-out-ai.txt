@@ -1,3 +1,14 @@
+---
+title: "Harvard FAS guidance: oral defenses as AI-era integrity tool"
+source_url: "https://oaisc.fas.harvard.edu/academic-integrity-and-teaching-without-ai/"
+source_title: "Harvard FAS Office of Academic Integrity and Student Conduct"
+author: "Harvard FAS OAISC"
+date: ""
+type: institutional-policy
+tags: [harvard, academic-integrity, ai-policy, oral-exam-design, pedagogy]
+summary: "Harvard FAS already recommends oral defenses to evaluate comprehension and AI application, positioning oral assessment as both AI-resistant verification and a pedagogically valuable opportunity for higher-order thinking."
+harvard_relevance: "Internal Harvard guidance already endorses oral assessment as a response to AI; the challenge is scaling it beyond graduate defenses."
+---
 Academic Integrity and Teaching With(out) AI
 https://oaisc.fas.harvard.edu/academic-integrity-and-teaching-without-ai/
 

@@ -1,3 +1,14 @@
+---
+title: "The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900"
+source_url: "https://www.tandfonline.com/doi/abs/10.1080/09695940120033243"
+source_title: "Assessment in Education: Principles, Policy & Practice"
+author: "Christopher Stray"
+date: "2001"
+type: research-paper
+tags: [history, written-vs-oral, peer-institutions, scale, grading, oral-exam-design]
+summary: "The transition from oral to written exams at Oxbridge was driven by four factors: the shift from group socio-moral to individual cognitive assessment, standardization pressures, examiner convenience, and perceived objectivity of written work -- not by any pedagogical superiority of writing."
+harvard_relevance: "The foundational historical paper on why Western universities abandoned oral assessment -- the reasons (efficiency, standardization) may need revisiting in light of AI."
+---
 The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900
 https://www.tandfonline.com/doi/abs/10.1080/09695940120033243
 

@@ -1,3 +1,14 @@
+---
+title: "Georgia Tech Socratic Mind: AI conducts oral exams with 5000+ students"
+source_url: "https://www.gatech.edu/news/2024/09/24/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge"
+source_title: "Georgia Institute of Technology News"
+author: "Georgia Institute of Technology"
+date: "2024-09-24"
+type: case-study
+tags: [ai-tools, socratic-method, oral-exam-design, scale, academic-integrity, stem]
+summary: "Socratic Mind uses AI to conduct dynamic oral exams with follow-up probing, achieving 70-95% positive student experience at scale (5000+ students). The AI resists human persuasion, making memorized AI-generated answers ineffective."
+harvard_relevance: "Could bridge the gap between pedagogical superiority of oral exams and practical challenge of examining 600+ students per course."
+---
 AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge
 https://www.gatech.edu/news/2024/09/24/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge
 

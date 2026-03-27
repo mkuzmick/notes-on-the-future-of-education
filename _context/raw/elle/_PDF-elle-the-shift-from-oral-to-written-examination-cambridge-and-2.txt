@@ -1,3 +1,14 @@
+---
+title: "The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900"
+source_url: "https://www.researchgate.net/publication/248939168_The_Shift_from_Oral_to_Written_Examination_Cambridge_and_Oxford_1700-1900"
+source_title: "ResearchGate"
+author: "Christopher Stray"
+date: "2001"
+type: pdf-summary
+tags: [history, written-vs-oral, peer-institutions, humanities, stem]
+summary: "Written exams won at Cambridge not because they were universally better, but because math departments pioneered them and the model spread by imitation; humanities and social sciences adopted written assessment for institutional conformity, not pedagogical necessity."
+harvard_relevance: "If non-quantitative fields never needed written exams, AI's disruption of written work is permission to return to more authentic formats like oral argument and dialogue."
+---
 The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900
 https://www.researchgate.net/publication/248939168_The_Shift_from_Oral_to_Written_Examination_Cambridge_and_Oxford_1700-1900
 

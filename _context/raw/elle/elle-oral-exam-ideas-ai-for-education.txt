@@ -1,3 +1,13 @@
+---
+title: "Oral Exam Ideas -- AI for Education"
+source_url: "https://www.aiforeducation.io/prompts/oral-exam-ideas"
+source_title: "AI for Education"
+author: "Guest User"
+date: "2024-10"
+type: practitioner-guide
+tags: [ai-tools, oral-exam-design, rubrics, scaffolding, practice-and-rehearsal]
+summary: "Prompt templates for using ChatGPT to design oral exams, develop rubrics, help students prepare, and generate pronunciation guides--demonstrating AI as a tool for creating oral assessments, not just a threat to written ones."
+---
 Oral Exam Ideas — AI for Education
 https://www.aiforeducation.io/prompts/oral-exam-ideas
 

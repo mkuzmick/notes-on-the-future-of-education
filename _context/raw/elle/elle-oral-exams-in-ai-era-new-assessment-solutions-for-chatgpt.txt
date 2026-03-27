@@ -1,3 +1,13 @@
+---
+title: "Oral Exams in AI Era: New Assessment Solutions"
+source_url: "https://academync.com/articles/oral-exams-in-ai-era"
+source_title: "AcademyNC"
+author: ""
+date: ""
+type: practitioner-guide
+tags: [oral-exam-design, ai-detection, academic-integrity, deep-learning, written-vs-oral]
+summary: "AI detection tools range from 33% to 81% accuracy making them unreliable; oral exams provide 'immediate authentication' through spontaneous questioning that tests deep understanding, with students reporting feeling 'like a professional.'"
+---
 Oral Exams in AI Era: New Assessment Solutions for ChatGPT Age
 https://academync.com/articles/oral-exams-in-ai-era
 

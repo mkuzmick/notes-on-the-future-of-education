@@ -1,3 +1,14 @@
+---
+title: "Faculty Development, Rubrics, and Oxford Tutorial Model for Oral Assessment"
+source_url: "https://www.heacademy.ac.uk/knowledge-hub/assessing-oral-presentations"
+source_title: "UK Higher Education Academy / Multiple Sources"
+author: "Elle (synthesis)"
+date: ""
+type: opinion
+tags: [faculty-experience, tf-training, rubrics, oral-exam-design, scaffolding, equity, pedagogy]
+summary: "Most faculty never learned to conduct oral exams; fewer than 15% receive formal training. Single-point rubrics outperform analytic rubrics for oral assessment, and Harvard cannot simply import the Oxford tutorial model but can adapt its principle of making oral work ordinary through habitual practice."
+harvard_relevance: "Faculty development must come first -- Bok Center workshops, calibration sessions, and mentorship pairing experienced oral examiners with newcomers are prerequisites for equitable implementation."
+---
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0174:text=Phaedrus (Plato's critique of writing, 274b-278e)
 https://www.heacademy.ac.uk/knowledge-hub/assessing-oral-presentations
 

@@ -1,3 +1,14 @@
+---
+title: "A Phaedrus moment: AI anxiety as historical pattern"
+source_url: "https://www.ailog.blog/p/a-phaedrus-moment"
+source_title: "AI Log"
+author: "Rob Nelson"
+date: "2025-07-06"
+type: opinion
+tags: [philosophy, history, written-vs-oral, socratic-method, ai-policy]
+summary: "ChatGPT is the latest 'Phaedrus moment' -- every major communication technology (writing, print, computers) triggered defensive reactions from incumbents. Plato did not reject writing but used it strategically; similarly, oral exams can preserve Socratic interactive reasoning in the AI era."
+harvard_relevance: "Reframes AI anxiety as an invitation to return to Socratic roots rather than a crisis."
+---
 A Phaedrus Moment
 https://www.ailog.blog/p/a-phaedrus-moment
 

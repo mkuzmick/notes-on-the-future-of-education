@@ -1,3 +1,14 @@
+---
+title: "Embracing Oral Examinations in the Age of AI"
+source_url: "https://www.theteachingastrophysicist.com/post/the-future-of-assessment-embracing-oral-examinations-in-the-age-of-ai"
+source_title: "The Teaching Astrophysicist"
+author: "The Teaching Astrophysicist"
+date: "2025"
+type: practitioner-guide
+tags: [oral-exam-design, recording-and-documentation, accessibility, scale, logistics, curriculum-design]
+summary: "Recording and transcribing oral exams enables asynchronous evaluation and flexible scheduling, solving the scalability problem while creating audit trails across subjects from literary analysis to math problem-solving."
+harvard_relevance: "The asynchronous oral exam model -- recorded, transcribed, evaluated at faculty convenience -- addresses Harvard's key scalability concern."
+---
 The Future of Assessment: Embracing Oral Examinations in the Age of AI
 https://www.theteachingastrophysicist.com/post/the-future-of-assessment-embracing-oral-examinations-in-the-age-of-ai
 

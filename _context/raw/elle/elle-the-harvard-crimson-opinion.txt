@@ -1,3 +1,14 @@
+---
+title: "Harvard Needs the Kind of Exams AI Can't Take"
+source_url: "https://www.thecrimson.com/article/2025/9/8/dolan-harvard-oral-exam/"
+source_title: "The Harvard Crimson"
+author: "Victoria Dolan"
+date: "2025-09-08"
+type: opinion
+tags: [harvard, student-experience, student-anxiety, academic-integrity, oral-exam-design, ai-detection, written-vs-oral]
+summary: "A Harvard undergraduate publicly advocates for oral exams and paper defenses, citing 90% AI usage among peers and erosion of trust in grades; proposes 10-minute professor conversations to verify authorship as a scalable addition to existing assignments."
+harvard_relevance: "This is student demand for harder assessment -- a Harvard undergraduate sees peers gaming the system and feels disadvantaged for doing her own work."
+---
 The Harvard Crimson (Opinion)
 https://www.thecrimson.com/article/2025/9/8/dolan-harvard-oral-exam/
 

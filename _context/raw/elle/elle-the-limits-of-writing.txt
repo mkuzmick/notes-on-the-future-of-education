@@ -1,3 +1,14 @@
+---
+title: "Plato's Phaedrus: The Limits of Writing"
+source_url: "https://www.litcharts.com/lit/phaedrus/themes/the-limits-of-writing"
+source_title: "LitCharts"
+author: "Plato (analysis by LitCharts)"
+date: "2024"
+type: historical-source
+tags: [history, philosophy, written-vs-oral, deep-learning, socratic-method, pedagogy]
+summary: "Plato argued 2,400 years ago that writing produces the appearance of wisdom without genuine understanding because it cannot respond, adapt, or defend itself -- only face-to-face dialectic can be tailored to individual souls."
+harvard_relevance: "AI is writing's logical endpoint as a technology that outsources cognition; oral dialogue remains the antidote Plato prescribed."
+---
 The Limits of Writing
 https://www.litcharts.com/lit/phaedrus/themes/the-limits-of-writing
 

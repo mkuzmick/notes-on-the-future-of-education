@@ -1,3 +1,14 @@
+---
+title: "Integrated oral exams produce unanticipated learning benefits across courses"
+source_url: "https://www.sciencedirect.com/science/article/abs/pii/S1877129725000231"
+source_title: "Currents in Pharmacy Teaching and Learning"
+author: "Gardner A. Lepp, Sarah M. Westberg, Jungeun Lee, Kristin K. Janke"
+date: "2025-02"
+type: research-paper
+tags: [oral-exam-design, deep-learning, curriculum-design, pedagogy, feedback]
+summary: "Integrated oral exams testing material across multiple courses simultaneously produced unanticipated formative benefits including caring, learning-how-to-learn, and cross-course knowledge synthesis -- functioning as both summative assessment and high-impact learning practice."
+harvard_relevance: "Could address Harvard's General Education goal of connected learning by forcing integrative thinking across courses."
+---
 Exploring the unanticipated value of an oral exam integrating content across courses
 https://www.sciencedirect.com/science/article/abs/pii/S1877129725000231
 

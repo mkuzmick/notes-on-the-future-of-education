@@ -1,3 +1,14 @@
+---
+title: "Understanding Students' Views of the Crit Assessment"
+source_url: "https://www.tandfonline.com/doi/full/10.11120/jebe.2011.06010044"
+source_title: "Journal for Education in the Built Environment"
+author: "Liverpool John Moores University researchers"
+date: "2011"
+type: research-paper
+tags: [student-experience, oral-exam-design, rubrics, feedback, performance, humanities, curriculum-design]
+summary: "Architecture's crit/jury format -- where students present designs orally before panels and defend decisions under questioning -- proves complex visual-spatial reasoning can be assessed orally, though students associate more negative than positive experiences with the traditional format."
+harvard_relevance: "If buildings can be defended verbally, so can literary arguments or historical theses; the crit model with rubrics and multiple jurors proves oral assessment can be rigorous and fair."
+---
 Understanding Students' Views of the Crit Assessment
 https://www.tandfonline.com/doi/full/10.11120/jebe.2011.06010044
 

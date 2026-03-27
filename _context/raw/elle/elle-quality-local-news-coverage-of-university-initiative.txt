@@ -1,3 +1,14 @@
+---
+title: "Northwestern: Exploring Pedagogical Possibilities of Generative AI"
+source_url: "https://searle.northwestern.edu/resources/our-tools-guides/learning-teaching-guides/pedagogical-possibilities-ai.html"
+source_title: "Northwestern Searle Center for Teaching Excellence"
+author: ""
+date: "2024"
+type: pedagogy-guide
+tags: [ai-policy, ai-tools, peer-institutions, pedagogy, accessibility, curriculum-design]
+summary: "Northwestern's integrationist approach views AI as 'one more option' for learning, suggesting multiple means of expression (presentations, video essays) following Universal Design principles, and training students to use AI ethically rather than banning it."
+harvard_relevance: "Northwestern's model suggests Harvard should ask 'How do we teach with AI?' rather than just 'How do we teach despite AI?'--without clear guidance, faculty create inconsistent policies."
+---
 quality: Local news coverage of university initiative; credible but not academic research. Describes policy process, not outcomes.
 https://searle.northwestern.edu/resources/our-tools-guides/learning-teaching-guides/pedagogical-possibilities-ai.html
 

@@ -1,3 +1,14 @@
+---
+title: "Verbalized Studying and Elaborative Interrogation in the Virtual Classroom"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9053051/"
+source_title: "Journal of Microbiology & Biology Education"
+author: "Rachel Tomco Novak, Elizabeth G. Bailey, Bethany D. Blinsky"
+date: "2022-04-04"
+type: research-paper
+tags: [cognitive-science, deep-learning, memory-and-retention, student-anxiety, pedagogy, scaffolding]
+summary: "Students who study by speaking aloud achieve learning outcomes similar to peer tutoring; even students with social anxiety can benefit from solo verbalized study, suggesting oral practice need not require social interaction to boost retention."
+harvard_relevance: "Verbalized studying offers a low-stakes scaffolding step toward oral assessment that accommodates students with social anxiety."
+---
 Verbalized Studying and Elaborative Interrogation in the Virtual Classroom
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9053051/
 

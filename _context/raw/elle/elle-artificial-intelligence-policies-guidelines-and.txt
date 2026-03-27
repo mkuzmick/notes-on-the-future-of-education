@@ -1,3 +1,14 @@
+---
+title: "Duke AI policy: unauthorized GenAI use treated as cheating"
+source_url: "https://ctl.duke.edu/ai-and-teaching-at-duke-2/artificial-intelligence-policies-in-syllabi-guidelines-and-considerations/"
+source_title: "Duke Center for Teaching and Learning"
+author: "Elise Mueller"
+date: "2025-08-25"
+type: institutional-policy
+tags: [peer-institutions, ai-policy, academic-integrity, pedagogy]
+summary: "Duke requires all instructors to define AI policies in syllabi and treats unauthorized AI use as cheating, while emphasizing AI literacy through reflective assignments documenting how students used AI tools."
+harvard_relevance: "Duke's reflective assignment model suggests oral exams could include a component where students verbally defend their AI use."
+---
 Artificial Intelligence Policies: Guidelines and Considerations
 https://ctl.duke.edu/ai-and-teaching-at-duke-2/artificial-intelligence-policies-in-syllabi-guidelines-and-considerations/
 

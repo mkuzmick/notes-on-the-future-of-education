@@ -1,3 +1,14 @@
+---
+title: "Active learning statistics: 13x more learner talk time, 54% higher test scores"
+source_url: "https://www.engageli.com/blog/active-learning-statistics-2025"
+source_title: "Engageli"
+author: "Engageli"
+date: "2025-01"
+type: research-paper
+tags: [pedagogy, deep-learning, student-experience, discussion]
+summary: "Hard data shows active learning produces 13x more learner talk time, 62.7% participation rates vs 5% in lectures, 54% higher test scores, and a 33% reduction in achievement gaps -- directly supporting oral engagement as pedagogy."
+harvard_relevance: ""
+---
 Active Learning Statistics: Benefits for Education & Training in 2025
 https://www.engageli.com/blog/active-learning-statistics-2025
 

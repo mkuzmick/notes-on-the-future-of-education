@@ -1,3 +1,13 @@
+---
+title: "Is AI Killing Academic Integrity?"
+source_url: "https://www.mcgilldaily.com/2026/01/is-ai-killing-academic-integrity/"
+source_title: "The McGill Daily"
+author: "Margot Aloccio"
+date: "2026-01-26"
+type: news-article
+tags: [academic-integrity, ai-policy, oral-exam-design, student-experience, scale, equity]
+summary: "88% of students now use AI for assessments (up from 53% in 2024); live oral exams are 'about as cheat-proof as it gets' but faculty must address scaling, bias, and accessibility rather than presenting oral assessment as a panacea."
+---
 Is AI Killing Academic Integrity?
 https://www.mcgilldaily.com/2026/01/is-ai-killing-academic-integrity/
 

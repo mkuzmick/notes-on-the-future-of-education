@@ -1,3 +1,14 @@
+---
+title: "Havelock's Preface to Plato: Oral vs. Literate Culture"
+source_url: "https://www.hup.harvard.edu/books/9780674699069"
+source_title: "Harvard University Press"
+author: "Eric Havelock"
+date: "1963"
+type: research-paper
+tags: [history, philosophy, written-vs-oral, deep-learning, memory-and-retention, pedagogy]
+summary: "Havelock showed the Iliad functioned as an 'oral encyclopedia' -- the primary educational technology before literacy -- and that Plato's attack on poets was actually an attack on oral pedagogy itself, representing the transition from oral to literate culture."
+harvard_relevance: "If AI now performs literate functions (abstraction, analysis), Havelock's work suggests recovering oral culture's emphasis on presence, dialogue, and adaptive performance."
+---
 Harvard University Press, Preface to Plato
 https://www.hup.harvard.edu/books/9780674699069
 

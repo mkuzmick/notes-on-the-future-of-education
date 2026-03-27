@@ -1,3 +1,14 @@
+---
+title: "PhD Viva Voces: A Complete Guide"
+source_url: "https://www.discoverphds.com/advice/doing/vivas"
+source_title: "DiscoverPhDs"
+author: ""
+date: ""
+type: practitioner-guide
+tags: [viva-voce, oral-exam-design, scaffolding, high-stakes, written-vs-oral]
+summary: "The US system trains students in written assessment for 16-22 years then suddenly requires oral defense at PhD level, creating a skills gap; every research university globally requires the viva, admitting oral assessment is irreplaceable for demonstrating mastery."
+harvard_relevance: "If oral defense is essential for doctoral mastery, integrating oral assessment earlier in undergraduate education (junior thesis defense, senior capstone) would prepare students progressively rather than having them face it cold in graduate school."
+---
 PhD Viva Voces - A Complete Guide
 https://www.discoverphds.com/advice/doing/vivas
 

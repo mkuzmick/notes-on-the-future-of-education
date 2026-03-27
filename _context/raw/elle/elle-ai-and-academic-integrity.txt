@@ -1,3 +1,14 @@
+---
+title: "Cornell normalizes oral defense as routine academic integrity practice"
+source_url: "https://elso.as.cornell.edu/ai-and-academic-integrity"
+source_title: "Cornell English Language Support Office"
+author: "Cornell ELSO"
+date: "2025-09"
+type: institutional-policy
+tags: [peer-institutions, academic-integrity, ai-policy, oral-exam-design, written-vs-oral]
+summary: "Cornell requires all students to be prepared to orally discuss any submitted work, treating oral defense as standard procedure for AI-era integrity rather than an extraordinary intervention."
+harvard_relevance: "Cornell's model suggests Harvard could adopt a light-version oral verification policy tomorrow without infrastructure changes."
+---
 AI and Academic Integrity
 https://elso.as.cornell.edu/ai-and-academic-integrity
 

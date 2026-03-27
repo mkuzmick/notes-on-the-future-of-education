@@ -1,3 +1,14 @@
+---
+title: "Harvard Extension School Bachelor's Degree Requirements"
+source_url: "https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/bachelors-degree-program-requirements/"
+source_title: "Harvard Extension School"
+author: ""
+date: ""
+type: institutional-policy
+tags: [harvard, curriculum-design, oral-exam-design, accessibility, scale]
+summary: "Surveying Harvard's own oral assessment across schools reveals oral assessment thrives where aligned with professional practice (GSD crits, Law Socratic method, Medicine rounds) but is absent where accessibility or scale requires different formats, like Extension School."
+harvard_relevance: "Harvard's own internal diversity shows oral exams aren't universally required for rigorous Harvard education; the meta-question is whether undergraduate liberal arts aims to prepare citizens for public discourse or master disciplinary knowledge."
+---
 quality: Official Extension School program requirements. Notable for what's absent (oral mandates).
 https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/bachelors-degree-program-requirements/Harvard
 

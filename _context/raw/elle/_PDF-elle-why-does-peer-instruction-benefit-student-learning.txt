@@ -1,3 +1,13 @@
+---
+title: "Why Does Peer Instruction Benefit Student Learning?"
+source_url: "https://link.springer.com/article/10.1186/s41235-020-00218-5"
+source_title: "Cognitive Research: Principles and Implications (Springer)"
+author: ""
+date: "2020-04-09"
+type: pdf-summary
+tags: [cognitive-science, deep-learning, discussion, pedagogy, stem]
+summary: "When students verbally explain answers to peers, they identify knowledge gaps and construct new knowledge; accuracy consistently improved after peer discussion across physics, biology, chemistry, calculus, computer science, and philosophy."
+---
 Why Does Peer Instruction Benefit Student Learning?
 https://link.springer.com/article/10.1186/s41235-020-00218-5
 

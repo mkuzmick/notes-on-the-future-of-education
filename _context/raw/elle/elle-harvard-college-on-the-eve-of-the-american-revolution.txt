@@ -1,3 +1,14 @@
+---
+title: "Harvard College on the Eve of the American Revolution"
+source_url: "https://www.colonialsociety.org/node/1239"
+source_title: "Colonial Society of Massachusetts"
+author: "Sheldon S. Cohen"
+date: ""
+type: historical-source
+tags: [history, harvard, oral-exam-design, written-vs-oral, pedagogy]
+summary: "Pre-Revolutionary Harvard explicitly trained students in Latin orations and syllogistic disputations as the capstone demonstration of learning; oral disputation was both assessment and public spectacle for over 130 years before the shift to written exams."
+harvard_relevance: "Oral examination is not a novel response to AI but a return to Harvard's founding pedagogy from 1636-1770s."
+---
 Harvard College on the Eve of the American Revolution
 https://www.colonialsociety.org/node/1239
 

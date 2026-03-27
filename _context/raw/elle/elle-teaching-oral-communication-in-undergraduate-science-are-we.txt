@@ -1,3 +1,14 @@
+---
+title: "Teaching Oral Communication in Undergraduate Science"
+source_url: "https://eric.ed.gov/?id=EJ940652"
+source_title: "Journal of Learning Design"
+author: "Vincent Chan"
+date: "2011"
+type: research-paper
+tags: [stem, pedagogy, oral-exam-design, professional-domains, scaffolding, curriculum-design]
+summary: "Science courses rarely teach or assess oral communication despite it being critical for professional practice; simple authentic exercises like lab report defenses and problem-solving presentations can embed oral skills without wholesale curriculum redesign."
+harvard_relevance: "For Harvard STEM concentrations, integrating oral assessment is not just AI-proofing but professional preparation for conferences, grant defenses, and lab meetings."
+---
 Teaching Oral Communication in Undergraduate Science: Are We Doing Enough and Doing it Right?
 https://eric.ed.gov/?id=EJ940652
 

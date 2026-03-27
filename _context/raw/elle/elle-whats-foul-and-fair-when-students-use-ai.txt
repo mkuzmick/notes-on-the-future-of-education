@@ -1,3 +1,14 @@
+---
+title: "What's Foul and Fair When Students Use AI?"
+source_url: "https://paw.princeton.edu/article/whats-foul-and-fair-when-students-use-ai"
+source_title: "Princeton Alumni Weekly"
+author: "Sofia Cipriano"
+date: "2025-10-14"
+type: news-article
+tags: [peer-institutions, academic-integrity, ai-policy, oral-exam-design, student-experience, student-anxiety, written-vs-oral]
+summary: "A Princeton history professor replaced take-home essays with oral midterms and in-person finals after concluding that uneven AI use made written homework inequitable; 25% of AB and 37% of BSE seniors admitted using LLMs when not allowed."
+harvard_relevance: "A peer institution case study where the shift to oral assessment was driven not by pedagogical preference but by ethical imperative -- written take-home work became inequitable because enforcement is impossible."
+---
 What's Foul and Fair When Students Use AI?
 https://paw.princeton.edu/article/whats-foul-and-fair-when-students-use-ai
 

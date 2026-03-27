@@ -1,3 +1,14 @@
+---
+title: "Harvard Social Studies Oral Examinations"
+source_url: "https://socialstudies.fas.harvard.edu/oral-examinations"
+source_title: "Harvard Social Studies"
+author: ""
+date: ""
+type: institutional-policy
+tags: [harvard, oral-exam-design, capstone, viva-voce, deep-learning]
+summary: "Social Studies requires all seniors to take a 1.5-hour oral exam (thesis defense + general exam on Social Studies 10 foundations), with a 1,000-word 'intellectual autobiography' preventing surface-level cramming by requiring students to narrate their own learning journey."
+harvard_relevance: "Proof that oral exams work beyond History & Lit: Social Studies has used this model for 60+ years, testing synthesis across the entire concentration."
+---
 Oral Examinations
 https://socialstudies.fas.harvard.edu/oral-examinations
 

@@ -1,3 +1,14 @@
+---
+title: "The Power of Self-Explanation"
+source_url: "https://learning.northeastern.edu/the-power-of-self-explanation/"
+source_title: "Northeastern Center for Advancing Teaching and Learning Through Research"
+author: "Northeastern CATLR"
+date: "2019"
+type: pedagogy-guide
+tags: [cognitive-science, deep-learning, memory-and-retention, pedagogy, scaffolding]
+summary: "Students prompted to generate verbal explanations show significant learning gains over those who receive explanations or simply review material, with benefits across content areas and ability levels, especially when self-explanation happens in the moment rather than after the fact."
+harvard_relevance: "Oral assignments that require students to explain reasoning in real time leverage one of the most research-validated learning techniques in cognitive science."
+---
 The Power of Self-Explanation
 https://learning.northeastern.edu/the-power-of-self-explanation/
 

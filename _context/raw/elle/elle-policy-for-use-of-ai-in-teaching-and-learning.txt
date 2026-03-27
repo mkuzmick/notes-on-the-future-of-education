@@ -1,3 +1,14 @@
+---
+title: "NUS Policy for Use of AI in Teaching and Learning"
+source_url: ""
+source_title: "National University of Singapore"
+author: "NUS / Ashraf Kassim"
+date: "2024-08"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, oral-exam-design, academic-integrity, ai-tools]
+summary: "NUS institutionally recognizes oral interviews as a legitimate AI-secure assessment format in official policy, with the provost declaring that trying to catch AI use is a 'lost cause' and shifting to structural assessment redesign."
+harvard_relevance: "NUS (QS #8 globally) formally names oral interviews in university AI policy as an assessment option--not experimental pedagogy but official institutional practice, providing Asian precedent for Harvard."
+---
 Policy for Use of AI in Teaching and Learning
 
 Elle's notes:

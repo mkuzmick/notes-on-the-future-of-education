@@ -1,3 +1,13 @@
+---
+title: "Reid Hoffman Predicts Oral Exams Will Become Standard"
+source_url: "https://www.businessinsider.com/linkedin-reid-hoffman-ai-education-college-exams-harder-cheat-2025-5"
+source_title: "Business Insider"
+author: "Sarah Perkel"
+date: "2025-05-15"
+type: news-article
+tags: [ai-policy, oral-exam-design, academic-integrity, ai-tools]
+summary: "LinkedIn cofounder Reid Hoffman predicts oral exams will expand beyond PhDs to every class: 'to be prepared for oral exams, you've got to be across the whole zoom,' envisioning AI examiners alongside human faculty."
+---
 LinkedIn Cofounder Says Tests Will Get Harder Because of AI
 https://www.businessinsider.com/linkedin-reid-hoffman-ai-education-college-exams-harder-cheat-2025-5
 

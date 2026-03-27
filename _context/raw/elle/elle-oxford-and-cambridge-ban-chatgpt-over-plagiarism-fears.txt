@@ -1,3 +1,14 @@
+---
+title: "Oxford and Cambridge Ban ChatGPT over Plagiarism Fears"
+source_url: "https://inews.co.uk/news/oxford-cambridge-ban-chatgpt-plagiarism-universities-2178391"
+source_title: "iNews"
+author: ""
+date: "2023-03"
+type: news-article
+tags: [ai-policy, peer-institutions, academic-integrity, oral-exam-design, written-vs-oral]
+summary: "Oxbridge initially banned ChatGPT for assessed work, but a Cambridge instructor later revealed they quietly shifted to 'essentially oral exams' while letting students use AI freely--showing the trajectory from prohibition to enforcement failure to assessment redesign."
+harvard_relevance: "Oxbridge's trajectory mirrors Harvard's likely path: initial prohibition, enforcement failure, then assessment redesign where oral defense becomes the verification mechanism for AI-assisted work."
+---
 Oxford and Cambridge ban ChatGPT over plagiarism fears
 https://inews.co.uk/news/oxford-cambridge-ban-chatgpt-plagiarism-universities-2178391
 

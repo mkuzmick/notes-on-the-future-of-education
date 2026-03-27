@@ -1,3 +1,14 @@
+---
+title: "LLM prototype for simulated oral exams in STEM education"
+source_url: "https://ai-scholar.tech/en/articles/large-language-models/future-proofing-llms"
+source_title: "AI-Scholar"
+author: "Andre Nitze"
+date: "2023-12-22"
+type: research-paper
+tags: [ai-tools, oral-exam-design, stem, socratic-method, academic-integrity]
+summary: "Researchers built a working LLM prototype that conducts oral exams with follow-up questions and grading on a university scale, framing oral exams as reducing academic fraud because face-to-face format makes dishonesty more difficult."
+harvard_relevance: ""
+---
 AI Simulation of Oral Exams: LLM Revolutionizing STEM Education
 https://ai-scholar.tech/en/articles/large-language-models/future-proofing-llms
 

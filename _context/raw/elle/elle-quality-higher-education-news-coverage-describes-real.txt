@@ -1,3 +1,14 @@
+---
+title: "Oral Exams for a Generative AI World: Managing Concerns and Logistics"
+source_url: "https://www.academia.edu/144892156/Oral_Exams_for_a_Generative_AI_World_Managing_Concerns_and_Logistics_for_Undergraduate_Humanities_Instruction"
+source_title: "Academia.edu"
+author: ""
+date: "2025-11"
+type: practitioner-guide
+tags: [oral-exam-design, humanities, student-anxiety, scaffolding, rubrics, logistics]
+summary: "Practical guide for humanities faculty addressing common oral exam concerns (anxiety, fairness, time) through evidence-based strategies: scheduling protocols, question design, rubric creation, and accommodations--framing oral exams as skill-building, not AI punishment."
+harvard_relevance: "The Derek Bok Center could commission a similar guide customized for Harvard's context with concentration-specific examples, tutorial integration, and equity considerations."
+---
 quality: Higher education news coverage; describes real classroom practice but not peer-reviewed research. Credible for documenting trends.
 https://www.academia.edu/144892156/Oral_Exams_for_a_Generative_AI_World_Managing_Concerns_and_Logistics_for_Undergraduate_Humanities_Instruction
 

@@ -1,3 +1,14 @@
+---
+title: "Why Professors Are Reviving Oral Exams To Outsmart AI Cheating"
+source_url: "https://techynerdus.com/universities-revive-oral-exams-to-counter-ai-cheating-crisis/"
+source_title: "Techy Nerdus"
+author: "Techy Nerdus"
+date: "2025"
+type: news-article
+tags: [oral-exam-design, academic-integrity, scale, faculty-experience, tf-training, rubrics]
+summary: "Real professors at real institutions are scaling oral exams with hundreds of students using structured rubrics and trained TAs, shifting from acting as AI detectives to their primary role as evaluators of learning."
+harvard_relevance: "The Wyoming model of 30-minute oral finals and UCSD/Western Ontario scaling efforts with trained TAs offer replicable templates for Harvard's large courses."
+---
 Why Professors Are Reviving Oral Exams To Outsmart AI Cheating
 https://techynerdus.com/universities-revive-oral-exams-to-counter-ai-cheating-crisis/
 

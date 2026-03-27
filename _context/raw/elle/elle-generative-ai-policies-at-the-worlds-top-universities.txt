@@ -1,3 +1,14 @@
+---
+title: "Generative AI Policies at the World's Top 20 Universities"
+source_url: "https://www.thesify.ai/blog/gen-ai-policies-update-2025"
+source_title: "Thesify"
+author: "Alessandra Giugliano"
+date: "2025-10-16"
+type: research-paper
+tags: [ai-policy, peer-institutions, academic-integrity, harvard]
+summary: "Systematic analysis of top-20 universities finds no major peer has positioned oral assessment as a systematic institutional response to AI; the landscape remains reactive (detection, disclosure, prohibition) rather than pedagogically proactive."
+harvard_relevance: "No peer institution has yet claimed the oral assessment space institutionally, representing a gap Harvard could fill."
+---
 Generative AI Policies at the World's Top Universities: October 2025 Update
 https://www.thesify.ai/blog/gen-ai-policies-update-2025
 

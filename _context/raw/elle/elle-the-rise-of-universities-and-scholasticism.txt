@@ -1,3 +1,14 @@
+---
+title: "The Rise of Universities and Scholasticism"
+source_url: "https://fiveable.me/the-middle-ages/unit-10/rise-universities-scholasticism/study-guide/xHzFbvoSQKtOYHwC"
+source_title: "Fiveable"
+author: "Fiveable Content Team"
+date: "2024-07"
+type: pedagogy-guide
+tags: [history, pedagogy, socratic-method, viva-voce, oral-exam-design]
+summary: "The medieval university curriculum was fundamentally oral -- lectio, disputatio, and quaestio were the three pedagogical methods, and the Bachelor's, Master's, and Doctoral degrees all originated from systems where speaking was the primary mode of intellectual demonstration."
+harvard_relevance: "The modern university's DNA is oral; writing-based assessment came later and represents a departure from the founding model."
+---
 The Rise of Universities and Scholasticism
 https://fiveable.me/the-middle-ages/unit-10/rise-universities-scholasticism/study-guide/xHzFbvoSQKtOYHwC
 

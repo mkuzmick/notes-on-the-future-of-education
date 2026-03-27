@@ -1,3 +1,14 @@
+---
+title: "Objective Assessment Criteria Reduce Judgmental Bias in Grading"
+source_url: "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1386016/full"
+source_title: "Frontiers in Education"
+author: ""
+date: "2024"
+type: research-paper
+tags: [rubrics, grading, equity, oral-exam-design, pedagogy]
+summary: "Pre-service teachers with negative implicit associations graded migration-background students worse--but only when no rubric was used; structured criteria eliminated bias by forcing rule-based rather than heuristic judgment."
+harvard_relevance: "Bias in oral assessment is real but mitigatable; Harvard should never implement oral assessment without explicit, predetermined criteria."
+---
 Objective assessment criteria reduce the influence of judgmental bias on grading
 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1386016/full
 

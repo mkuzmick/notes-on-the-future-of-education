@@ -1,3 +1,14 @@
+---
+title: "Making Assessment Meaningful and Fun: Using Oral Exams"
+source_url: ""
+source_title: "Talk About Teaching & Learning, vol. 71 issue 28"
+author: "Robin Pemantle"
+date: "2025-03-25"
+type: practitioner-guide
+tags: [oral-exam-design, rubrics, grading, feedback, deep-learning, scaffolding, student-anxiety, scale, faculty-experience, stem, pedagogy]
+summary: "A math professor finds that 15-minute oral exams with a simple 4-point rubric are nearly time-neutral versus written midterms at 50 students, while yielding far richer diagnostic feedback — students learn to self-assess, and retake requests stay under 10%."
+harvard_relevance: "Demonstrates oral exams are feasible at scale in STEM lecture courses, directly relevant to Harvard's math and science pedagogy."
+---
 Making Assessment Meaningful and Fun: Using Oral Exams
 March 25, 2025 
 vol 71 issue 28

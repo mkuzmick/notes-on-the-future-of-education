@@ -1,3 +1,14 @@
+---
+title: "The PhD viva voce: universal capstone of doctoral education worldwide"
+source_url: "https://www.vitae.ac.uk/doing-research/doing-a-doctorate/completing-your-doctorate/your-viva"
+source_title: "Vitae"
+author: "Vitae"
+date: ""
+type: pedagogy-guide
+tags: [viva-voce, oral-exam-design, high-stakes, capstone, deep-learning]
+summary: "Every PhD worldwide requires live oral defense because written dissertations are necessary but insufficient -- interactive questioning reveals gaps memorized content cannot hide, and defense under pressure tests professional readiness."
+harvard_relevance: "If Harvard requires oral defenses for PhDs, why not for undergraduates? The cognitive skills tested are equally valuable for BA/BS students."
+---
 Defending your doctoral thesis: the PhD viva
 https://www.vitae.ac.uk/doing-research/doing-a-doctorate/completing-your-doctorate/your-viva
 

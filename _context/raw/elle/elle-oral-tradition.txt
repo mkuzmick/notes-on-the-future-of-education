@@ -1,3 +1,13 @@
+---
+title: "Oral Tradition"
+source_url: "https://www.britannica.com/topic/oral-tradition"
+source_title: "Britannica"
+author: ""
+date: ""
+type: historical-source
+tags: [history, philosophy, memory-and-retention, performance]
+summary: "Milman Parry and Albert Lord's 1930s fieldwork revealed oral poets memorize thousands of lines through formulaic phrases and story patterns, not rote memorization--solving the Homeric Question and showing oral tradition as compositional fluency using systematic oral languages."
+---
 Oral Tradition
 https://www.britannica.com/topic/oral-tradition
 

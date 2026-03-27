@@ -1,3 +1,14 @@
+---
+title: "University of Sydney two-lane assessment framework for the AI era"
+source_url: "https://educational-innovation.sydney.edu.au/teaching@sydney/aligning-our-assessments-to-the-age-of-generative-ai/"
+source_title: "University of Sydney Teaching@Sydney"
+author: "University of Sydney"
+date: ""
+type: institutional-policy
+tags: [peer-institutions, ai-policy, oral-exam-design, curriculum-design, academic-integrity]
+summary: "Sydney divides all assessment into Secure (in-person, supervised, including interactive oral) and Open (scaffolded AI use), after research showed AI can pass virtually all take-home assessments without detection -- including via voice cloning for online oral exams."
+harvard_relevance: "Sydney's emphasis on in-person interactive oral assessment as the secure verification method directly addresses Harvard faculty concerns."
+---
 Aligning our assessments to the age of generative AI
 https://educational-innovation.sydney.edu.au/teaching@sydney/aligning-our-assessments-to-the-age-of-generative-ai/
 

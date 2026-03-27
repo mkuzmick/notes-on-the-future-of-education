@@ -1,3 +1,14 @@
+---
+title: "Who Wants Progressive Education? The Influence of John Dewey"
+source_url: "https://www.theatlantic.com/magazine/archive/1953/04/who-wants-progressive-education-the-influence-of-john-dewey-on-the-public-schools/640458/"
+source_title: "The Atlantic"
+author: "Albert Lynd"
+date: "1953-04"
+type: historical-source
+tags: [history, pedagogy, philosophy, oral-exam-design, written-vs-oral, curriculum-design]
+summary: "Dewey's progressive education movement shifted American schools away from traditional oral recitation and formal performance, yet ironically his own pragmatism -- knowledge is tested by how it works in action -- actually supports oral assessment over written representation."
+harvard_relevance: "Documents when and why American education abandoned oral assessment: not because it failed pedagogically, but because Progressive Era reformers prioritized experiential learning over formal recitation."
+---
 Who Wants Progressive Education? The Influence of John Dewey on the Public Schools
 https://www.theatlantic.com/magazine/archive/1953/04/who-wants-progressive-education-the-influence-of-john-dewey-on-the-public-schools/640458/
 

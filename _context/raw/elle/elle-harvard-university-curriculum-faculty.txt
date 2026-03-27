@@ -1,3 +1,14 @@
+---
+title: "Harvard University: Curriculum and Faculty History"
+source_url: "https://education.stateuniversity.com/pages/2031/Harvard-University.html"
+source_title: "StateUniversity.com"
+author: ""
+date: ""
+type: historical-source
+tags: [history, harvard, written-vs-oral, pedagogy, curriculum-design]
+summary: "Harvard's original forms of instruction were oral exercises -- lecture, declamation, and disputation -- lasting through the 18th century; the shift to written exams came with Eliot's modernization (1869-1909), making written assessment a modernist intervention, not the institutional heritage."
+harvard_relevance: "Frames written exams as a later development, not Harvard's DNA; the oral tradition was the original pedagogy."
+---
 Harvard University: Curriculum, Faculty
 https://education.stateuniversity.com/pages/2031/Harvard-University.html
 

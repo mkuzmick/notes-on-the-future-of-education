@@ -1,3 +1,14 @@
+---
+title: "5-step workflow for AI-assisted oral exam grading"
+source_url: "https://annmichaelsen.com/2023/12/19/automating-oral-examination-grading-with-ai/"
+source_title: "The Digital Classroom"
+author: "Ann Michaelsen"
+date: "2023-12-19"
+type: practitioner-guide
+tags: [ai-tools, grading, rubrics, recording-and-documentation, oral-exam-design]
+summary: "Practical workflow for AI-assisted oral exam grading: record with dictation, transcribe with AI, develop rubric, use AI for initial grading, then teacher review. AI grading evaluates fluency, organization, and vocabulary beyond factual accuracy."
+harvard_relevance: ""
+---
 Automating Oral Examination Grading with AI
 https://annmichaelsen.com/2023/12/19/automating-oral-examination-grading-with-ai/
 

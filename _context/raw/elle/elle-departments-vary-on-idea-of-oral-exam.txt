@@ -1,3 +1,14 @@
+---
+title: "1953 Crimson: Harvard Economics mandates oral exams, other departments decline"
+source_url: "https://www.thecrimson.com/article/1953/12/7/departments-vary-on-idea-of-oral/"
+source_title: "The Harvard Crimson"
+author: "The Harvard Crimson"
+date: "1953-12-07"
+type: historical-source
+tags: [harvard, history, oral-exam-design, faculty-experience]
+summary: "In 1953, Harvard Economics introduced mandatory junior oral exams to make tutorial count toward the degree, but History, Government, and English declined. The system was later quietly abandoned -- a pattern that mirrors the broader 20th-century retreat from oral assessment."
+harvard_relevance: "Historical evidence that Harvard tried and dropped oral exams; the reasons for abandonment did not age well in the AI era."
+---
 Departments Vary on Idea Of Oral Exam
 https://www.thecrimson.com/article/1953/12/7/departments-vary-on-idea-of-oral/
 

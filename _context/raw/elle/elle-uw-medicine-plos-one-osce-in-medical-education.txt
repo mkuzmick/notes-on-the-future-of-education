@@ -1,3 +1,14 @@
+---
+title: "OSCE in Medical Education"
+source_url: "https://education.uwmedicine.org/curriculum/exams/osce/"
+source_title: "UW Medicine"
+author: "UW School of Medicine"
+date: ""
+type: practitioner-guide
+tags: [medicine, oral-exam-design, rubrics, scale, professional-domains, performance]
+summary: "The Objective Structured Clinical Examination uses standardized patients and validated rubrics to assess communication, clinical reasoning, and medical knowledge at scale -- proving oral assessment can be rigorous and standardized, not subjective vibes."
+harvard_relevance: "Medicine's OSCE model with trained evaluators and validated rubrics could inform Harvard's approach to scaling oral assignments beyond seminars."
+---
 UW Medicine / PLOS ONE — OSCE in Medical Education
 https://education.uwmedicine.org/curriculum/exams/osce/
 

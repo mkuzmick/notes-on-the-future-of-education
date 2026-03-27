@@ -1,3 +1,14 @@
+---
+title: "Stanford's Generative AI Policy Guidance"
+source_url: "https://communitystandards.stanford.edu/generative-ai-policy-guidance"
+source_title: "Stanford Board on Conduct Affairs"
+author: "Stanford University"
+date: "2023-02"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, academic-integrity]
+summary: "Stanford treats AI use analogously to human assistance -- unauthorized use is misconduct, but individual instructors can permit it, creating a sensible middle ground between blanket bans and full permissiveness."
+harvard_relevance: "Stanford's 'AI equals collaboration' analogy offers Harvard a precedent for university-wide principles that preserve faculty autonomy."
+---
 Generative AI Policy Guidance
 https://communitystandards.stanford.edu/generative-ai-policy-guidance
 

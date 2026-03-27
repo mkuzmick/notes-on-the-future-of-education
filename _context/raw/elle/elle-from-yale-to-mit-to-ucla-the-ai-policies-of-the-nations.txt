@@ -1,3 +1,14 @@
+---
+title: "Survey of AI Policies at Major US Colleges"
+source_url: "https://mashable.com/article/university-ai-policies-what-to-know"
+source_title: "Mashable"
+author: ""
+date: "2025"
+type: news-article
+tags: [ai-policy, peer-institutions, academic-integrity, student-experience]
+summary: "Most elite universities defer AI policy to individual instructors, creating inconsistency; 85%+ of students use generative AI while nearly half are unsure of their school's stance."
+harvard_relevance: "The 'instructor discretion' model creates confusion; Harvard could differentiate by establishing institution-wide oral assessment frameworks."
+---
 From Yale to MIT to UCLA: The AI policies of the nation's biggest colleges
 https://mashable.com/article/university-ai-policies-what-to-know
 

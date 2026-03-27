@@ -1,3 +1,14 @@
+---
+title: "Paulo Freire: Dialogue, Praxis and Education"
+source_url: "https://infed.org/dir/welcome/paulo-freire-dialogue-praxis-and-education/"
+source_title: "infed.org (Informal Education Encyclopedia)"
+author: ""
+date: "2025"
+type: pedagogy-guide
+tags: [philosophy, pedagogy, equity, discussion, socratic-method, deep-learning]
+summary: "Freire distinguished 'banking education' (depositing knowledge into passive students) from 'problem-posing education' (dialogue as equals); dialogue is oral by definition, requiring real-time exchange, and is an ethical act requiring profound love and mutual respect."
+harvard_relevance: "Freire warns that if oral exams simply interrogate students to check deposited knowledge, they become oppressive rituals; the alternative is conversational assessment where students and faculty explore questions together."
+---
 quality: Peer-reviewed PMC article synthesizing Vygotsky's work. Highly credible scholarly overview.
 https://infed.org/dir/welcome/paulo-freire-dialogue-praxis-and-education/
 

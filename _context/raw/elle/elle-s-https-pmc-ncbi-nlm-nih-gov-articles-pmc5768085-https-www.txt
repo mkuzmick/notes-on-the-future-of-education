@@ -1,3 +1,14 @@
+---
+title: "Self-Explanation Effect, Scalability Solutions, and French Kholle Model"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/"
+source_title: "PMC / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [cognitive-science, deep-learning, scale, oral-exam-design, low-stakes, practice-and-rehearsal, medicine, equity]
+summary: "Synthesizes three arguments: the self-explanation effect shows oral assessment tests fundamentally different cognitive skills than writing; CQUniversity conducted 600+ oral exams in one week proving scalability is a design problem; France's weekly kholles build oral fluency through repeated low-stakes practice."
+harvard_relevance: "Harvard's path should be embedding low-stakes oral work throughout the semester (brief think-alouds, 3-minute pitches, rotating presentations) rather than replacing essays with one-shot high-stakes oral exams."
+---
 s: https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/ | https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocr-factsheet-anxiety-disorders-202409.pdf | https://languagetestingasia.springeropen.com/articles/10.1186/s40468-024-00321-0
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/SpringerLinkTo
 

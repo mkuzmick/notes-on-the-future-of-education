@@ -1,3 +1,13 @@
+---
+title: "Oral Examinations at German Universities"
+source_url: "https://www.researchgate.net/publication/240518791_Oral_Examinations_at_German_Universities"
+source_title: "ResearchGate"
+author: ""
+date: "2001"
+type: pdf-summary
+tags: [peer-institutions, oral-exam-design, stem, viva-voce, history]
+summary: "European universities never fully abandoned oral assessment; Germany maintains oral exams especially for finals and PhD defenses, and Italy conducted five oral exams per day during COVID, demonstrating that the shift to written-only was culturally specific to America, not pedagogically necessary."
+---
 Oral Examinations at German Universities
 https://www.researchgate.net/publication/240518791_Oral_Examinations_at_German_Universities
 

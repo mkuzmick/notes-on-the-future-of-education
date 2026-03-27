@@ -1,3 +1,14 @@
+---
+title: "The End of the English Paper"
+source_url: "https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper"
+source_title: "The New Yorker"
+author: "Hua Hsu"
+date: "2025-07-07"
+type: news-article
+tags: [academic-integrity, ai-tools, ai-detection, student-experience, written-vs-oral, humanities]
+summary: "An NYU student openly admits using AI for all writing -- uploading museum photos to Claude for an A-minus art history paper -- revealing wholesale abandonment of writing as authentic academic practice, while AI detectors gave inconclusive 28-61% likelihood results."
+harvard_relevance: "This is the existential case for oral assessment: not occasional cheaters but students who use AI for any type of writing in life, with detection tools unable to provide definitive proof."
+---
 The New Yorker, Annals of Education
 https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper
 

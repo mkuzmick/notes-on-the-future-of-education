@@ -1,3 +1,14 @@
+---
+title: "Fortune 500 executive presentation training: structured oral skill development"
+source_url: "https://communispond.com/presentation-skills/executive-presentation-skills/"
+source_title: "Communispond"
+author: "Communispond"
+date: ""
+type: case-study
+tags: [business, professional-domains, performance, practice-and-rehearsal, recording-and-documentation, feedback]
+summary: "Corporate training uses video recording, structured feedback, rubrics for executive presence, and explicit anxiety management to develop oral communication skills -- the same infrastructure could support Harvard oral assessment courses."
+harvard_relevance: ""
+---
 Executive Presentation Skills®
 https://communispond.com/presentation-skills/executive-presentation-skills/
 

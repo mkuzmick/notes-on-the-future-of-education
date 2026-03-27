@@ -1,3 +1,14 @@
+---
+title: "Moot Court: 200 Years of Oral Assessment at Harvard Law"
+source_url: "https://www.law.cornell.edu/wex/moot_court"
+source_title: "Cornell Law School Legal Information Institute"
+author: ""
+date: "2020-09"
+type: practitioner-guide
+tags: [law, harvard, oral-exam-design, performance, socratic-method, professional-domains]
+summary: "Moot court started at Harvard Law School in 1820 and remains central to legal education, requiring students to deliver oral arguments before judges who force them to think analytically on their feet -- law school never abandoned oral assessment because the profession requires it."
+harvard_relevance: "Harvard FAS can learn from Harvard Law School's 200-year experiment in oral pedagogy; if law can assess orally at scale with structured rubrics, other disciplines can too."
+---
 Moot Court
 https://www.law.cornell.edu/wex/moot_court
 

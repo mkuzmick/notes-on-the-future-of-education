@@ -1,3 +1,13 @@
+---
+title: "Oral Language and Written Composition: A Meta-Analysis"
+source_url: "https://journals.sagepub.com/doi/10.3102/00346543251320359"
+source_title: "Review of Educational Research (SAGE)"
+author: ""
+date: "2025-01"
+type: pdf-summary
+tags: [cognitive-science, written-vs-oral, pedagogy, deep-learning]
+summary: "A meta-analysis finds oral fluency and writing ability are mutually reinforcing, not competing skills; oral language competency predicts writing quality, and students study harder for oral exams than written tests, refuting the false dichotomy that oral assessment replaces writing instruction."
+---
 Unpacking the Relation Between Oral Language and Written Composition
 https://journals.sagepub.com/doi/10.3102/00346543251320359
 

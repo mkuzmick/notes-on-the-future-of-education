@@ -1,3 +1,14 @@
+---
+title: "India UPSC civil service oral exam: viva voce at national scale"
+source_url: "https://www.nextias.com/blog/upsc-interview-preparation/"
+source_title: "NEXT IAS"
+author: "NEXT IAS"
+date: ""
+type: practitioner-guide
+tags: [professional-domains, viva-voce, high-stakes, scale, oral-exam-design]
+summary: "India's UPSC civil service exam culminates in a mandatory viva voce worth 275 marks, administered to ~10,000 candidates annually by expert panels, proving high-stakes structured oral assessment scales to national level."
+harvard_relevance: "If India can orally examine 10,000 candidates for career-defining positions, Harvard can examine 6,700 undergraduates."
+---
 Best Strategy to Crack UPSC Interview
 https://www.nextias.com/blog/upsc-interview-preparation/
 

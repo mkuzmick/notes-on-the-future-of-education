@@ -1,3 +1,14 @@
+---
+title: "Cost-Benefit Analysis of Oral Assessment and Alternatives"
+source_url: "https://www.qaa.ac.uk/docs/qaa/quality-code/advice-on-assessment.pdf"
+source_title: "QAA / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [oral-exam-design, scale, logistics, equity, student-anxiety, recording-and-documentation, scaffolding, low-stakes]
+summary: "Comprehensive cost-benefit analysis concluding oral assessment demands extraordinary institutional investment for modest gains; UK universities report 40-60% cost increases, and the AI-proofing rationale is largely illusory since students use AI to prepare for oral exams too."
+harvard_relevance: "For most undergraduate courses, costs vastly exceed benefits; Harvard would better invest in iterative writing with visible drafts, process-focused portfolios, and smaller class sizes than wholesale oral exam adoption."
+---
 s: https://ctlt.ubc.ca/programs/all-our-programs/oral-communication/ (UBC oral communication program) | https://www.tandfonline.com/doi/full/10.1080/02602938.2020.1742925 (Assessment validity and construct-irrelevant variance)
 https://www.qaa.ac.uk/docs/qaa/quality-code/advice-on-assessment.pdf
 

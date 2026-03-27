@@ -1,3 +1,14 @@
+---
+title: "Northwestern Students and Professors Navigate AI Confusion"
+source_url: "https://dailynorthwestern.com/2025/05/20/campus/northwestern-students-and-professors-navigate-confusion-opportunity-with-generative-ai/"
+source_title: "The Daily Northwestern"
+author: "Jenny Jang"
+date: "2025-05-20"
+type: news-article
+tags: [ai-policy, peer-institutions, ai-detection, student-experience, faculty-experience]
+summary: "Faculty autonomy over AI policy at Northwestern creates inconsistency and student confusion; the university advised faculty not to rely on Turnitin's AI detection due to low accuracy, leaving each professor to decide independently."
+harvard_relevance: "Northwestern represents the default trajectory for elite US universities without coherent policy, validating that decentralized AI decision-making burdens faculty and confuses students."
+---
 Northwestern students and professors navigate confusion, opportunity with generative AI
 https://dailynorthwestern.com/2025/05/20/campus/northwestern-students-and-professors-navigate-confusion-opportunity-with-generative-ai/
 

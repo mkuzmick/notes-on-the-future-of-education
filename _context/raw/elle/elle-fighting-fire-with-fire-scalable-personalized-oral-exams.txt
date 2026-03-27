@@ -1,3 +1,14 @@
+---
+title: "Scalable AI-Administered Oral Exams at NYU Stern"
+source_url: "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html"
+source_title: "A Computer Scientist in a Business School"
+author: "Panos Ipeirotis"
+date: "2025-12-29"
+type: case-study
+tags: [ai-tools, oral-exam-design, scale, grading, logistics, stem, business]
+summary: "An NYU professor used an ElevenLabs voice AI agent to conduct oral finals for 36 students at $0.42 each, with a 'council of LLMs' grading approach that matched human judgment 89% of the time -- demolishing the scalability objection to oral exams."
+harvard_relevance: "Proves AI can administer oral exams at trivial cost ($15 for 36 students vs. ~$750 for human graders), offering Harvard a scalable model for large courses."
+---
 Fighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI Agent
 https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html
 

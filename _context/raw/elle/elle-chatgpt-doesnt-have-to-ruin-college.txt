@@ -1,3 +1,14 @@
+---
+title: "Haverford honor code culture suppresses AI cheating without surveillance"
+source_url: "https://www.theatlantic.com/ideas/archive/2024/10/chatgpt-vs-university-honor-code/680336/"
+source_title: "The Atlantic"
+author: ""
+date: "2024-10"
+type: opinion
+tags: [academic-integrity, student-experience, student-anxiety, peer-institutions]
+summary: "Haverford students showed little interest in AI cheating due to honor code culture, small classes, and accessible faculty -- but the article argues this is not scalable beyond wealthy private institutions. Structural solutions like oral assessment work where cultural solutions alone struggle."
+harvard_relevance: "Harvard has Haverford's advantages but also intense career pressure that may corrode honor; oral exams provide structural integrity assurance."
+---
 ChatGPT Doesn't Have to Ruin College
 https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-surveyThe
 

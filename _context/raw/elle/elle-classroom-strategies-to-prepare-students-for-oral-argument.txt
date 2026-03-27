@@ -1,3 +1,14 @@
+---
+title: "Law school strategies for building oral argument skills through scaffolded practice"
+source_url: "https://www.lwionline.org/article/classroom-strategies-prepare-students-oral-argument"
+source_title: "Legal Writing Institute"
+author: "Legal Writing Institute"
+date: "2024-10"
+type: practitioner-guide
+tags: [law, professional-domains, scaffolding, practice-and-rehearsal, student-anxiety, oral-exam-design]
+summary: "Law schools use layered practice progressions (2-min to 6-min), anxiety-as-learning-opportunity framing, multiple feedback styles, and video self-review to build oral argument skills systematically."
+harvard_relevance: ""
+---
 Classroom Strategies to Prepare Students for Oral Argument
 https://www.lwionline.org/article/classroom-strategies-prepare-students-oral-argument
 

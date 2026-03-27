@@ -1,3 +1,14 @@
+---
+title: "The Rhetoric(s) of St. Augustine's Confessions"
+source_url: "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1002&context=comm_facpub"
+source_title: "University of New Hampshire Scholars Repository"
+author: "UNH Communication Faculty"
+date: ""
+type: historical-source
+tags: [history, philosophy, pedagogy, performance, humanities]
+summary: "Augustine's rhetorical education in late-Roman Carthage, Rome, and Milan consisted of intensive oral training -- declamation, controversiae, and suasoriae -- preparing students for careers requiring verbal mastery in law courts, political assemblies, and imperial administration."
+harvard_relevance: "Late antique higher education was fundamentally oral; the liberal arts were called liberal because they prepared free citizens for civic participation that was performative and oral."
+---
 The Rhetoric(s) of St. Augustine's Confessions
 https://scholars.unh.edu/cgi/viewcontent.cgi?article=1002&context=comm_facpub
 

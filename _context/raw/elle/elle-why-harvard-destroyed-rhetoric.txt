@@ -1,3 +1,14 @@
+---
+title: "Why Harvard Destroyed Rhetoric"
+source_url: "http://inpraiseofargument.squarespace.com/harvard/"
+source_title: "Harvard Magazine (via In Praise of Argument)"
+author: "Jay Heinrichs"
+date: ""
+type: historical-source
+tags: [harvard, history, pedagogy, philosophy, oral-exam-design, written-vs-oral]
+summary: "John Quincy Adams taught rhetoric at Harvard as the paramount democratic skill, but after him the Boylston chair drifted away from oral address and practical persuasion, with Harvard's Ramist tradition stripping rhetoric of its performative power."
+harvard_relevance: "Harvard bears direct institutional responsibility for rhetoric's decline in American education; restoring oral assessment would be a form of atonement for abandoning its own founding tradition."
+---
 Why Harvard Destroyed Rhetoric
 http://inpraiseofargument.squarespace.com/harvard/
 

@@ -1,3 +1,14 @@
+---
+title: "Nine in 10 UK Undergraduates Now Using AI in Assessments"
+source_url: "https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey"
+source_title: "Times Higher Education"
+author: "Higher Education Policy Institute"
+date: "2025-02"
+type: news-article
+tags: [ai-tools, student-experience, equity, scale, academic-integrity]
+summary: "UK survey finds 88% of undergraduates used AI in assessments (up from 53% in 2024), with a widening digital divide where wealthier students benefit more; recommends rewriting any exam where AI skills alone can earn high grades."
+harvard_relevance: "Harvard's 90% AI use rate is the international norm, not an aberration; the UK data confirms that predictable, low-interactivity assessments are obsolete."
+---
 Nine in 10 UK undergraduates now using AI in assessments – survey
 https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey
 

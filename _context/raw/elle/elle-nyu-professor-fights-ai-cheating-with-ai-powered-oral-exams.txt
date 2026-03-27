@@ -1,3 +1,14 @@
+---
+title: "NYU Professor Fights AI Cheating with AI-Powered Oral Exams"
+source_url: "https://the-decoder.com/nyu-professor-fights-ai-cheating-with-ai-powered-oral-exams-that-cost-42-cents-per-student/"
+source_title: "The Decoder"
+author: "Matthias Bastian"
+date: "2026-01-04"
+type: case-study
+tags: [oral-exam-design, ai-tools, academic-integrity, written-vs-oral, scale]
+summary: "NYU Prof. Ipeirotis found students' written work looked like 'McKinsey memos' but they couldn't explain basic decisions orally; he concluded 'the old system where take-home papers could reliably measure understanding is dead.'"
+harvard_relevance: "Clearest articulation of the problem that written work no longer reliably indicates understanding, making oral verification necessary for assessment validity."
+---
 NYU Professor Fights AI Cheating with AI-Powered Oral Exams
 https://the-decoder.com/nyu-professor-fights-ai-cheating-with-ai-powered-oral-exams-that-cost-42-cents-per-student/
 

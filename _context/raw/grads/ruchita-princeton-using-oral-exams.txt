@@ -1,3 +1,14 @@
+---
+title: "Using Oral Exams"
+source_url: ""
+source_title: "Princeton University — McGraw Center for Teaching and Learning"
+author: "McGraw Center for Teaching and Learning"
+date: "2025"
+type: pedagogy-guide
+tags: [oral-exam-design, rubrics, scaffolding, student-anxiety, practice-and-rehearsal, tf-training, grading, feedback, academic-integrity, curriculum-design, peer-institutions, deep-learning]
+summary: "Princeton's teaching center recommends oral exams as an AI-era assessment strategy that probes reasoning depth and mirrors professional scenarios, but stresses structured rubrics, low-stakes practice opportunities, and TA norming sessions to ensure fairness."
+harvard_relevance: "Peer-institution guidance directly applicable to Harvard's own AI-assessment pivot; the TA norming protocol is especially relevant for large Harvard courses with many TFs."
+---
 Using Oral Exams
 Princeton University — McGraw Center for Teaching and Learning
 Faculty Resource Library

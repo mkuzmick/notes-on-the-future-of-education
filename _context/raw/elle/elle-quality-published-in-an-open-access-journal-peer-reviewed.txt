@@ -1,3 +1,14 @@
+---
+title: "Oral Communication in the Disciplines: A Resource for Teacher Development"
+source_url: "https://parlorpress.com/products/oral-communication-in-the-disciplines"
+source_title: "Parlor Press"
+author: "Deanna P. Dannels"
+date: "2019"
+type: research-paper
+tags: [pedagogy, oral-exam-design, curriculum-design, faculty-experience, tf-training, humanities, stem]
+summary: "Oral communication is not a generic transferable skill; engineers, historians, and literary critics have different oral genres, norms, and values, so effective oral pedagogy must be discipline-specific with each concentration defining its own oral competencies."
+harvard_relevance: "Challenges the idea of a single 'Oral Communication' requirement analogous to Expos; instead suggests each Harvard concentration should define and scaffold discipline-specific oral competencies progressively."
+---
 quality: Published in an open-access journal; peer-reviewed but not a top-tier venue. Findings are plausible but would benefit from replication.
 https://parlorpress.com/products/oral-communication-in-the-disciplines
 

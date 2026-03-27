@@ -1,3 +1,14 @@
+---
+title: "Stanford Academic Integrity Working Group on AI and Exam Policies"
+source_url: "https://studentaffairs.stanford.edu/news/academic-integrity-working-group-addresses-generative-ai-and-exam-policies"
+source_title: "Stanford Student Affairs"
+author: "Stanford AIWG"
+date: "2025-12"
+type: institutional-policy
+tags: [peer-institutions, ai-policy, ai-detection, oral-exam-design, academic-integrity]
+summary: "Stanford's AIWG found AI detection tools unreliable (biased, false positives/negatives) and officially recommends 'in-person formats such as oral exams and in-class writing assignments' for AI-restricted assessments; their proctoring pilot now includes 50+ courses."
+harvard_relevance: "Peer precedent from a direct competitor: Stanford has moved beyond detection to assessment redesign, officially recommending oral exams as one validated approach."
+---
 Stanford Academic Integrity Working Group (Dec 2025)
 https://studentaffairs.stanford.edu/news/academic-integrity-working-group-addresses-generative-ai-and-exam-policies
 

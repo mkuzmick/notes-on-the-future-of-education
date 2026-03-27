@@ -1,3 +1,14 @@
+---
+title: "Washington Post: oral exams experiencing a renaissance as AI response"
+source_url: "https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/"
+source_title: "The Washington Post"
+author: "Joanna Slater"
+date: "2025-12-12"
+type: news-article
+tags: [oral-exam-design, academic-integrity, ai-policy, peer-institutions, faculty-experience]
+summary: "A growing number of professors are independently adopting oral exams to circumvent AI temptation, with UCSD's Academic Integrity director calling it 'a renaissance.' Faculty are making tactical decisions rather than waiting for institutional mandates."
+harvard_relevance: "Harvard faculty have the same autonomy to adopt oral exams; this is a national movement, not a fringe experiment."
+---
 College professors use oral exams to combat AI
 https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/
 

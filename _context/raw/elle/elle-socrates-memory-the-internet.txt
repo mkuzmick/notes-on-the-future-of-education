@@ -1,3 +1,13 @@
+---
+title: "Socrates, Memory and The Internet"
+source_url: "https://philosophynow.org/issues/122/Socrates_Memory_and_The_Internet"
+source_title: "Philosophy Now"
+author: "Matt Bluemink"
+date: ""
+type: opinion
+tags: [philosophy, memory-and-retention, cognitive-science, history, written-vs-oral]
+summary: "Plato's argument against writing applies directly to the internet and AI: external memory storage (smartphones, search engines) degrades internal memory because sustained attention is required for memory formation, and we are 'adapting to forgetting.'"
+---
 Socrates, Memory & The Internet
 https://philosophynow.org/issues/122/Socrates_Memory_and_The_Internet
 

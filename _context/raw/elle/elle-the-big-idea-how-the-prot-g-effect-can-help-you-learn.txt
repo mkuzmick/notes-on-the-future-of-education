@@ -1,3 +1,14 @@
+---
+title: "The Protege Effect: Learning by Teaching"
+source_url: "https://www.theguardian.com/books/article/2024/sep/09/the-big-idea-how-the-protege-effect-can-help-you-learn-almost-anything"
+source_title: "The Guardian"
+author: "David Robson"
+date: "2024-09-09"
+type: news-article
+tags: [cognitive-science, deep-learning, memory-and-retention, pedagogy, oral-exam-design]
+summary: "Students who prepare to teach others learn considerably more than those in self-study conditions, with least-able students benefiting most; the expectation of oral explanation drives deeper encoding and greater brain activity in attention and working memory regions."
+harvard_relevance: "Oral assignments function as learning experiences, not just exams -- when students know they must explain material orally, they prepare more deeply and correct misunderstandings proactively."
+---
 The Big Idea: How the 'Protégé Effect' Can Help You Learn Almost Anything
 https://www.theguardian.com/books/article/2024/sep/09/the-big-idea-how-the-protege-effect-can-help-you-learn-almost-anything
 

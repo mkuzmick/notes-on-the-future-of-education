@@ -1,3 +1,14 @@
+---
+title: "HBS cold calling: oral pedagogy at scale for a century"
+source_url: "https://www.hbs.edu/teaching/case-method/leading-in-the-classroom/Pages/Cold-Calling.aspx"
+source_title: "Harvard Business School"
+author: "Harvard Business School"
+date: ""
+type: pedagogy-guide
+tags: [harvard, discussion, socratic-method, oral-exam-design, scale, pedagogy]
+summary: "HBS case method is proof that oral participation can be a primary mode of learning and assessment at scale, with cold calls framed as developmental opportunities rather than punishments, using strategic student selection to drive preparation and engagement."
+harvard_relevance: "HBS has done oral assessment at massive scale for decades; FAS faculty can learn from a century of refinement within the same university."
+---
 Cold Calling
 https://www.hbs.edu/teaching/case-method/leading-in-the-classroom/Pages/Cold-Calling.aspx
 

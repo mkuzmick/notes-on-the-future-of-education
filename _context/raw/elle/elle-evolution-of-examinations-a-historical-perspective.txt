@@ -1,3 +1,14 @@
+---
+title: "Evolution of examinations: from oral traditions to standardized testing"
+source_url: "https://teachers.institute/instruction-in-higher-education/evolution-examinations-historical-assessment-reforms/"
+source_title: "Teachers Institute"
+author: "Teachers Institute"
+date: "2025-10"
+type: news-article
+tags: [history, oral-exam-design, written-vs-oral, equity]
+summary: "Ancient oral traditions assessed memory, clarity, and communicative ability; the University of Bologna (1088) used oral debates for mastery evaluation. Medieval exams were a form of social mobility based on demonstrated oral competency, not just gatekeeping."
+harvard_relevance: ""
+---
 Evolution of Examinations: A Historical Perspective
 https://teachers.institute/instruction-in-higher-education/evolution-examinations-historical-assessment-reforms/
 

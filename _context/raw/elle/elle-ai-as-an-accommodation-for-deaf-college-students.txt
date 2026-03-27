@@ -1,3 +1,14 @@
+---
+title: "AI as accommodation for deaf students: the captioning paradox"
+source_url: "https://nationaldeafcenter.org/news-items/ai-as-an-accommodation-for-deaf-college-students/"
+source_title: "National Deaf Center"
+author: "National Deaf Center"
+date: "2025-09"
+type: research-paper
+tags: [accessibility, neurodivergence, ai-tools, equity, oral-exam-design]
+summary: "AI transcription enables oral assessment for deaf students but often fails in high-stakes contexts; 87% of deaf students prefer human captions. Oral exam design must build accommodations in from the start, not retrofit them."
+harvard_relevance: "If Harvard adopts AI-assisted oral exams, disability services must ensure human-reviewed transcripts and ASL alternatives."
+---
 AI as an Accommodation for Deaf College Students
 https://nationaldeafcenter.org/news-items/ai-as-an-accommodation-for-deaf-college-students/
 

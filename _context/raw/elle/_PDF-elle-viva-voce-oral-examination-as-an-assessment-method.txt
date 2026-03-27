@@ -1,3 +1,13 @@
+---
+title: "Viva Voce as an Assessment Method in Marketing Education"
+source_url: "https://journals.sagepub.com/doi/10.1177/0273475309334050"
+source_title: "Journal of Marketing Education (SAGE)"
+author: ""
+date: ""
+type: pdf-summary
+tags: [oral-exam-design, viva-voce, business, pedagogy]
+summary: "While oral exams are ubiquitous in medical education, clinical settings, and doctoral defenses, they are rarely discussed as a deliberate pedagogical choice in business and general undergraduate education -- this article provides a scholarly framework for treating oral assessment as a design choice."
+---
 Viva Voce (Oral Examination) as an Assessment Method
 https://journals.sagepub.com/doi/10.1177/0273475309334050
 

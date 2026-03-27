@@ -1,3 +1,13 @@
+---
+title: "Jacques Derrida on Logocentrism and the Speech/Writing Binary"
+source_url: "https://iep.utm.edu/jacques-derrida/"
+source_title: "Internet Encyclopedia of Philosophy"
+author: ""
+date: ""
+type: research-paper
+tags: [philosophy, written-vs-oral, history]
+summary: "Derrida's deconstruction critiques the Western tradition's privileging of speech over writing (logocentrism), arguing the speech/writing binary is a false opposition -- both are forms of 'arche-writing,' complicating naive claims that oral assessment is inherently more authentic."
+---
 Jacques Derrida
 https://iep.utm.edu/jacques-derrida/
 

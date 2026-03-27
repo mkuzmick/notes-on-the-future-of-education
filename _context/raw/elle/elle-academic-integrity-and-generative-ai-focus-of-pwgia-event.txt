@@ -1,3 +1,14 @@
+---
+title: "Cornell institutionalizes assessment innovation with PWGIA working group"
+source_url: "https://news.cornell.edu/stories/2025/10/academic-integrity-and-generative-ai-focus-pwgia-event"
+source_title: "Cornell University News"
+author: "Cornell University"
+date: "2025-10"
+type: news-article
+tags: [peer-institutions, academic-integrity, ai-policy, curriculum-design, grading]
+summary: "Cornell created a named Provost's Working Group on Innovation in Assessment with faculty fellows exploring alternatives to traditional exams, including portfolios, labor-based grading, and assessments that incentivize genuine learning over AI shortcuts."
+harvard_relevance: "Harvard could model a similar institutional structure to coordinate oral assignment development across FAS."
+---
 Academic Integrity and Generative AI Focus of PWGIA Event
 https://news.cornell.edu/stories/2025/10/academic-integrity-and-generative-ai-focus-pwgia-event
 

@@ -1,3 +1,14 @@
+---
+title: "Viva, Soutenance, Disputation: How PhD Students Defend Their Thesis Worldwide"
+source_url: "https://www.lexacademic.com/blog/viva-soutenance-disputation-how-phd-students-around-the-world-defend-their-thesis/"
+source_title: "Lex Academic"
+author: "Lex Academic"
+date: ""
+type: practitioner-guide
+tags: [viva-voce, oral-exam-design, peer-institutions, capstone, high-stakes]
+summary: "Oral defense remains central to doctoral education worldwide but takes radically different forms -- UK private vivas, French public soutenances, German graded disputations, and Scandinavian ceremonial opponent-based debates -- offering diverse models for oral assessment design."
+harvard_relevance: "Faculty designing oral assignments can learn from this international diversity: public vs. private, graded vs. pass/fail, opponent-based vs. panel-based formats."
+---
 Viva, Soutenance, Disputation: How PhD Students around the World Defend Their Thesis
 https://www.lexacademic.com/blog/viva-soutenance-disputation-how-phd-students-around-the-world-defend-their-thesis/
 

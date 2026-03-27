@@ -1,3 +1,14 @@
+---
+title: "Theatre Voice Training and Technology in Teaching Oral Skills"
+source_url: "https://www.researchgate.net/publication/222026665_Theatre_voice_training_and_technology_in_teaching_oral_skills_Integrating_the_components_of_a_speech_event"
+source_title: "ResearchGate"
+author: ""
+date: ""
+type: pdf-summary
+tags: [performance, practice-and-rehearsal, scaffolding, feedback, pedagogy, oral-exam-design]
+summary: "Theatre pedagogy demonstrates that oral performance is both teachable and measurable through structured repetition with feedback; drama schools have 100+ years of experience evaluating vocal technique, articulation, and real-time responsiveness using rubrics."
+harvard_relevance: "Harvard could adopt theatre's infrastructure: low-stakes practice presentations, peer feedback sessions, recorded self-review before high-stakes oral finals."
+---
 Theatre voice training and technology in teaching oral skills
 https://www.researchgate.net/publication/222026665_Theatre_voice_training_and_technology_in_teaching_oral_skills_Integrating_the_components_of_a_speech_event
 

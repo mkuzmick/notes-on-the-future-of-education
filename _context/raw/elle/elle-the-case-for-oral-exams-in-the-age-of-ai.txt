@@ -1,3 +1,14 @@
+---
+title: "The Case for Oral Exams in the Age of AI"
+source_url: "https://www.auckland.ac.nz/en/news/2025/10/02/the-case-for-oral-exams-in-the-age-of-ai.html"
+source_title: "University of Auckland"
+author: "University of Auckland"
+date: "2025-10"
+type: case-study
+tags: [oral-exam-design, academic-integrity, ai-detection, peer-institutions, socratic-method, scale, student-experience]
+summary: "After abandoning AI detection software, Auckland piloted 7-minute interactive oral assessments using Socratic questioning with 42 students; grade distributions normalized and students reported the process felt fairer than written exams."
+harvard_relevance: "Auckland's pilot shows oral assessment can normalize AI-inflated grade distributions while students perceive it as fairer than written alternatives."
+---
 The Case for Oral Exams in the Age of AI
 https://www.auckland.ac.nz/en/news/2025/10/02/the-case-for-oral-exams-in-the-age-of-ai.html
 

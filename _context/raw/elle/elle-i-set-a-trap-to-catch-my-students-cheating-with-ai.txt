@@ -1,3 +1,13 @@
+---
+title: "I Set a Trap to Catch My Students Cheating with AI"
+source_url: "https://www.huffpost.com/entry/history-professor-ai-cheating-students_n_69178150e4b0781acfd62540"
+source_title: "HuffPost"
+author: "Will Teague"
+date: "2025"
+type: opinion
+tags: [ai-detection, academic-integrity, student-experience, oral-exam-design]
+summary: "A history professor found 39% of student papers were AI-generated using a hidden-text trap; students couldn't explain their own submissions, revealing that they lack the foundational knowledge to assess AI output quality and that oral follow-up is becoming the standard verification fallback."
+---
 I Set A Trap To Catch My Students Cheating With AI
 https://www.huffpost.com/entry/history-professor-ai-cheating-students_n_69178150e4b0781acfd62540
 

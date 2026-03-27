@@ -1,3 +1,13 @@
+---
+title: "Speech, Plurality, and Natality in Dialogue"
+source_url: "https://medium.com/amor-mundi/speech-plurality-and-natality-in-dialogue-29bd95b9a300"
+source_title: "Medium (Amor Mundi / Hannah Arendt Center)"
+author: ""
+date: ""
+type: opinion
+tags: [philosophy, discussion, pedagogy, deep-learning, socratic-method]
+summary: "Arendt positions speech as how humans become political beings--a 'second birth' requiring courage and goodwill; dialogue requires hearing multiple viewpoints for better judgment, meaning oral assignments are not just assessment but formation, practicing being seen and heard in ways AI cannot replicate."
+---
 Speech, Plurality, and Natality in Dialogue
 https://medium.com/amor-mundi/speech-plurality-and-natality-in-dialogue-29bd95b9a300
 

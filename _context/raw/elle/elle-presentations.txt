@@ -1,3 +1,14 @@
+---
+title: "Presentations: Research on Oral Communication in the Classroom"
+source_url: "https://ablconnect.harvard.edu/presentations-research"
+source_title: "Harvard ABLConnect"
+author: ""
+date: ""
+type: pedagogy-guide
+tags: [harvard, pedagogy, scaffolding, oral-exam-design, professional-domains, feedback]
+summary: "Harvard's own ABLConnect resource shows oral presentations improve both communication skills and content mastery simultaneously, emphasizing clear expectations, explicit modeling, constructive feedback, and multiple practice opportunities per semester."
+harvard_relevance: "Harvard already has pedagogical infrastructure publishing research-based guidance on oral assignments; faculty don't need to start from scratch."
+---
 Presentations
 https://ablconnect.harvard.edu/presentations-research
 

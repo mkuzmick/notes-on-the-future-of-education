@@ -1,3 +1,14 @@
+---
+title: "Ong on the Differences between Orality and Literacy"
+source_url: "https://newlearningonline.com/literacies/chapter-1/ong-on-the-differences-between-orality-and-literacy"
+source_title: "New Learning Online"
+author: "Walter Ong"
+date: "1982"
+type: historical-source
+tags: [history, philosophy, written-vs-oral, cognitive-science, deep-learning]
+summary: "Ong identifies how oral cultures structure knowledge through additive, aggregative, redundant, and situational thinking; writing frees the mind for new speculation but imposes 'sparsely linear analytic thought'--an artificial creation compared to oral naturalness."
+harvard_relevance: "Orality and literacy are fundamentally different cognitive modes; written exams test analytic thought AI excels at, while oral exams test real-time dialogue requiring spontaneity and context-switching that AI struggles with."
+---
 Ong on the Differences between Orality and Literacy
 https://newlearningonline.com/literacies/chapter-1/ong-on-the-differences-between-orality-and-literacy
 

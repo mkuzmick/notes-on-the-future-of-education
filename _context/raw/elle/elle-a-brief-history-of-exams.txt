@@ -1,3 +1,14 @@
+---
+title: "A brief history of exams: disputatio to viva voce continuity"
+source_url: "https://www.northwestcareercollege.edu/blog/a-brief-history-of-exams/"
+source_title: "Northwest Career College"
+author: "Northwest Career College"
+date: "2025-02-24"
+type: news-article
+tags: [history, viva-voce, written-vs-oral, equity]
+summary: "Doctoral viva voce defenses are a direct survival of pre-written-exam pedagogy; early Ivy League written entrance exams in Latin and Greek were designed partly to exclude the 'socially unsuited,' revealing that written exams carried their own biases."
+harvard_relevance: ""
+---
 A Brief History of Exams
 https://www.northwestcareercollege.edu/blog/a-brief-history-of-exams/
 

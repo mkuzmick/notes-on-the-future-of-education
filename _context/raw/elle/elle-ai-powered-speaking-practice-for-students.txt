@@ -1,3 +1,14 @@
+---
+title: "Speakable: AI-powered speaking practice with rubric-based feedback"
+source_url: "https://www.speakable.io/"
+source_title: "Speakable"
+author: "Speakable"
+date: ""
+type: case-study
+tags: [ai-tools, practice-and-rehearsal, feedback, rubrics, scale]
+summary: "Speakable provides AI-powered oral practice with instant rubric-based feedback, auto-grading, and LMS integration (Canvas, Google Classroom), demonstrating a model for low-stakes oral practice at scale."
+harvard_relevance: ""
+---
 AI-Powered Speaking Practice for Students
 https://www.speakable.io/
 

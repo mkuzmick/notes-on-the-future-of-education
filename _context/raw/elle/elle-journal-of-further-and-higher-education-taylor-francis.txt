@@ -1,3 +1,14 @@
+---
+title: "Student Fear of Oral Presentations in Higher Education"
+source_url: "https://www.tandfonline.com/doi/full/10.1080/0309877X.2021.1948509"
+source_title: "Journal of Further and Higher Education"
+author: ""
+date: "2021"
+type: research-paper
+tags: [student-anxiety, student-experience, equity, scaffolding, oral-exam-design, accessibility]
+summary: "A qualitative survey of UK students identified six themes driving oral presentation fear, with 80% reporting presentations as a source of anxiety impacting learning; institutions must provide scaffolding (low-stakes practice, feedback, modeling) rather than expecting students to 'just cope.'"
+harvard_relevance: "If Harvard adopts oral assessment, anxiety mitigation must be central; first-generation students and those from educational systems without oral traditions face steeper learning curves."
+---
 Journal of Further and Higher Education (Taylor & Francis)
 https://www.tandfonline.com/doi/full/10.1080/0309877X.2021.1948509
 

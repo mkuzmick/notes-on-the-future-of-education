@@ -1,3 +1,14 @@
+---
+title: "A brief history of exams: from disputatio to standardized testing"
+source_url: "https://higheredstrategy.com/a-brief-history-of-exams/"
+source_title: "Higher Ed Strategy Associates"
+author: "Alex Usher"
+date: "2016-10-05"
+type: news-article
+tags: [history, written-vs-oral, scale, equity]
+summary: "Written exams are not native to Western education; they were imported from China via Jesuits in the 16th century. Medieval universities assessed via oral disputatio, and the shift to written exams was driven by bureaucratic credentialing needs, not pedagogy."
+harvard_relevance: ""
+---
 A Brief History of Exams
 https://higheredstrategy.com/a-brief-history-of-exams/
 

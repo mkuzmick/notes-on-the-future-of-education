@@ -1,3 +1,14 @@
+---
+title: "Why Universities Should Return to Oral Exams in the AI Era"
+source_url: "https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429"
+source_title: "The Conversation"
+author: "The Conversation"
+date: "2026-01"
+type: opinion
+tags: [oral-exam-design, academic-integrity, history, scale, peer-institutions, high-stakes, low-stakes]
+summary: "CQUniversity assessed 600 oral exams in under a week for a first-year course with no integrity issues, and Norway still uses vivas at undergraduate, postgraduate, and even high school levels -- integrity is 100% assured with oral assessment versus constant AI detection concerns."
+harvard_relevance: "The CQUniversity example of 600 students in one week directly challenges the assumption that oral exams do not scale."
+---
 Why universities should return to oral exams in the AI and ChatGPT era
 https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429
 

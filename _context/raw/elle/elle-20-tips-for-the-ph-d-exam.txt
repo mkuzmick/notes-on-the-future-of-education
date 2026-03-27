@@ -1,3 +1,14 @@
+---
+title: "20 tips for the PhD oral exam"
+source_url: "https://history.washington.edu/20-tips-phd-exam"
+source_title: "University of Washington History Department"
+author: "University of Washington History Department"
+date: "2013"
+type: practitioner-guide
+tags: [oral-exam-design, practice-and-rehearsal, scaffolding, viva-voce, humanities]
+summary: "Practical student-facing advice for PhD oral exams emphasizing synthesis across fields, taking control of the conversation, and practicing answers aloud beforehand."
+harvard_relevance: ""
+---
 20 Tips for the Ph.D. Exam
 https://history.washington.edu/20-tips-phd-exam
 

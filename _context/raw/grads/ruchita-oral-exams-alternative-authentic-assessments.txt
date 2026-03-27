@@ -1,3 +1,14 @@
+---
+title: "Oral Exams as Alternative (and Authentic) Assessments"
+source_url: ""
+source_title: "The Cowbell — UW-Green Bay Center for the Advancement of Teaching and Learning"
+author: "Amy J. Kabrhel, James E. Kabrhel"
+date: "2023"
+type: practitioner-guide
+tags: [oral-exam-design, academic-integrity, feedback, student-experience, scaffolding, logistics, scale, stem, practice-and-rehearsal, recording-and-documentation, equity, accessibility]
+summary: "Chemistry instructors who adopted oral exams during COVID found them roughly time-neutral with written exams (grading happens live), dramatically reduced cheating, and improved student communication skills — though they cap feasibility at ~24 students without TA support."
+harvard_relevance: "Practical logistics model for small-to-mid-size science courses considering oral assessment, with candid pros/cons from two instructors."
+---
 Oral Exams as Alternative (and Authentic) Assessments
 The Cowbell — UW-Green Bay Center for the Advancement of Teaching and Learning
 Article by Amy J. & James E. Kabrhel, Ph.D., Associate Professors of Chemistry

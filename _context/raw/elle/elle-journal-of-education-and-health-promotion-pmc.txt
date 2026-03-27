@@ -1,3 +1,14 @@
+---
+title: "Reliability of Rubrics in Clinical Oral Presentation Assessment"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11392252/"
+source_title: "Journal of Education and Health Promotion"
+author: "Muhamood Moothedath"
+date: "2024-07-05"
+type: research-paper
+tags: [rubrics, grading, oral-exam-design, medicine, equity]
+summary: "A study of 300 dental students found rubric-based oral assessment showed high statistical significance (P < 0.0001) for reliability compared to traditional methods, empirically refuting the 'too subjective' objection to oral exams."
+harvard_relevance: "Rubrics make oral assessment as reliable as written work grading; Harvard should create standardized rubrics, train faculty via calibration sessions, and share rubrics with students in advance."
+---
 Journal of Education and Health Promotion (PMC)
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11392252/
 

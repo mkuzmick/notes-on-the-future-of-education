@@ -1,3 +1,14 @@
+---
+title: "UPenn faculty share oral exam implementation details across disciplines"
+source_url: "https://cetli.upenn.edu/news-features/feature-stories/building-deeper-learning-through-oral-exams/"
+source_title: "UPenn Center for Teaching and Learning Innovation"
+author: "UPenn CETLI"
+date: "2025-11"
+type: case-study
+tags: [oral-exam-design, scaffolding, grading, faculty-experience, peer-institutions, academic-integrity]
+summary: "Penn faculty across math, history, and Middle Eastern studies share practical oral exam designs: 30-minute Zoom sessions, low-stakes grading (Check system with Check = 93), TAs for scale, and oral defense of papers that makes AI-written submissions require more preparation work."
+harvard_relevance: ""
+---
 Building Deeper Learning Through Oral Exams: Conversations That Count
 https://cetli.upenn.edu/news-features/feature-stories/building-deeper-learning-through-oral-exams/
 

@@ -1,3 +1,14 @@
+---
+title: "No T10 school publicly uses AI detectors; all rely on attestation and honor codes"
+source_url: "https://gradpilot.com/news/ai-college-admissions-t10"
+source_title: "GradPilot"
+author: "GradPilot"
+date: "2026-02"
+type: news-article
+tags: [peer-institutions, ai-detection, ai-policy, academic-integrity]
+summary: "No top-10 university has publicly stated it uses AI detectors on admissions essays; Johns Hopkins explicitly disabled them. Duke stopped assigning numerical essay ratings partly due to AI concerns. All rely on attestation and honor codes instead."
+harvard_relevance: ""
+---
 Do Top 10 Colleges Check for AI? Official Policies (2026)
 https://gradpilot.com/news/ai-college-admissions-t10
 
