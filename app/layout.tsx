@@ -10,7 +10,7 @@ const newsreader = Newsreader({
 });
 
 export const metadata: Metadata = {
-  title: "Marlon Kuzmick",
+  title: "Bok Oral Assessments Team",
   description: "Notes on the Future of Education",
   openGraph: {
     title: "After Abundance: Questions for the Future of Education",

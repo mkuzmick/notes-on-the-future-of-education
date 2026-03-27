@@ -5,7 +5,8 @@ import EssayClient from "../essay-client";
 export default function Takes() {
   const filePath = path.join(
     process.cwd(),
-    "content",
+    "_content",
+    "docs",
     "takes.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");

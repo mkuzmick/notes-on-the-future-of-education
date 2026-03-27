@@ -5,7 +5,8 @@ import EssayClient from "../essay-client";
 export default function MkFirstDraft() {
   const filePath = path.join(
     process.cwd(),
-    "content",
+    "_content",
+    "docs",
     "mk-first-draft.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");

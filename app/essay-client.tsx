@@ -111,7 +111,7 @@ export default function EssayClient({ markdown, date, links }: { markdown: strin
         >
           &#9776;
         </button>
-        <span className="author-name">Marlon Kuzmick</span>
+        <span className="author-name">Bok Oral Assessments Team</span>
         <div className="header-controls">
           <button
             className="copy-btn"

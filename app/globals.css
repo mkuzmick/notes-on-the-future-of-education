@@ -375,18 +375,57 @@ body {
 }
 
 @media print {
+  @page {
+    margin: 1in;
+  }
+
   .site-header,
   .toc-sidebar,
   .toc-overlay,
-  .site-footer {
+  .site-footer,
+  .page-links,
+  .hamburger-btn {
     display: none !important;
   }
 
   .essay-layout {
-    padding: 0;
+    display: block !important;
+    padding: 0 !important;
+    gap: 0 !important;
   }
 
   .essay-content {
-    max-width: 100%;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .essay-content h1 {
+    font-size: 48px !important;
+  }
+
+  .essay-content h2 {
+    break-before: page;
+    page-break-before: always;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  .essay-content h2:first-of-type {
+    break-before: auto;
+    page-break-before: avoid;
+  }
+
+  .essay-content p,
+  .essay-content li,
+  .essay-content blockquote {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .essay-content h2,
+  .essay-content h3,
+  .essay-content h4 {
+    break-after: avoid;
+    page-break-after: avoid;
   }
 }

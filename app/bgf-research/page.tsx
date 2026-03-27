@@ -5,7 +5,8 @@ import EssayClient from "../essay-client";
 export default function BgfResearch() {
   const filePath = path.join(
     process.cwd(),
-    "content",
+    "_content",
+    "docs",
     "bgf-research.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");

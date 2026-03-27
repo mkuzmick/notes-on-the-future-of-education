@@ -5,7 +5,8 @@ import EssayClient from "../essay-client";
 export default function HistoryLens() {
   const filePath = path.join(
     process.cwd(),
-    "content",
+    "_content",
+    "docs",
     "history-lens.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");

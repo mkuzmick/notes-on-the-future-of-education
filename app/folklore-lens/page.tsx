@@ -5,7 +5,8 @@ import EssayClient from "../essay-client";
 export default function FolkloreLens() {
   const filePath = path.join(
     process.cwd(),
-    "content",
+    "_content",
+    "docs",
     "folklore-lens.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");
