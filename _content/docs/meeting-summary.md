@@ -2,17 +2,11 @@
 
 ## Next Steps for PCP Teams After Meeting with Faculty
 
-1. **Review transcripts and pull out key ideas.** Work with BGFs to review transcripts from the faculty conversation and identify big ideas, specific quotes, and examples we may want to highlight — particularly around practical implementation, rubric design, and the range of oral assessment formats discussed.
+1. **Schedule a follow-up meeting with faculty** for late April / early May. Get faculty feedback on the document, especially around their firsthand experience running oral exams.
 
-2. **Circulate the executive summary** for email comment and discussion with faculty.
+2. **Publish website resources** — batch and prep the produce resources to the Bok Center website (the executive summary, full briefing, tools for thinking, example rubrics, testimonaials, etc.)
 
-3. **Schedule a follow-up meeting with faculty** for late April / early May.
-   If a second meeting is not possible:
-   - Consider individual follow-up conversations (e.g., with Lauren Kaminsky or Sarah Craycraft) to get feedback on the document, especially around their firsthand experience running oral exams.
-
-4. **Publish website resources** — the research site with the executive summary, full briefing, tools for thinking, and supporting lenses is ready for circulation.
-
-5. **Plan summer workshops?** A faculty teach-in or workshop where instructors could try oral assessment formats, practice grading with rubrics, and share case studies was proposed — but format, timing, and scope are still open questions.
+3. **Plan summer workshops?** A faculty teach-in or workshop where instructors could try oral assessment formats, practice grading with rubrics, and share case studies was proposed — but format, timing, and scope are still open questions.
 
 ---
 
