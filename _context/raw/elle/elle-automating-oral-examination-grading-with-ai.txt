@@ -1,0 +1,114 @@
+---
+title: "5-step workflow for AI-assisted oral exam grading"
+source_url: "https://annmichaelsen.com/2023/12/19/automating-oral-examination-grading-with-ai/"
+source_title: "The Digital Classroom"
+author: "Ann Michaelsen"
+date: "2023-12-19"
+type: practitioner-guide
+tags: [ai-tools, grading, rubrics, recording-and-documentation, oral-exam-design]
+summary: "Practical workflow for AI-assisted oral exam grading: record with dictation, transcribe with AI, develop rubric, use AI for initial grading, then teacher review. AI grading evaluates fluency, organization, and vocabulary beyond factual accuracy."
+harvard_relevance: ""
+---
+Automating Oral Examination Grading with AI
+https://annmichaelsen.com/2023/12/19/automating-oral-examination-grading-with-ai/
+
+Elle's notes:
+Ann Michaelsen (The Digital Classroom), December 2023
+Key insight: A practical 5-step workflow for AI-assisted oral exam grading: (1) record using Word's dictation, (2) transcribe and correct with ChatGPT/Bard/Bing, (3) develop grading rubric, (4) use AI for initial grading against rubric, (5) teacher review and adjustment. Key benefit: "AI-based grading systems can impartially evaluate a broader spectrum of criteria, including fluency, organization, and vocabulary usage."
+
+--
+
+December 19, 2023 Ann S. Michaelsen AI for teachers One comment
+ 
+
+ While the utilization of AI technology for recording, transcribing, and grading oral examinations may seem intricate, it offers several noteworthy advantages. Firstly, it relieves educators of the manual transcription burden, allowing them to focus on delivering personalized feedback and fostering more meaningful interactions with students. Secondly, AI-based grading systems can impartially evaluate a broader spectrum of criteria, including fluency, organization, and vocabulary usage, transcending mere factual accuracy. This ensures a comprehensive assessment of student performance.
+
+However, it is crucial to address potential ethical concerns and prioritize data privacy. Obtaining prior informed consent from students before recording their examinations is essential, and strict data security measures must be in place to safeguard their privacy. Furthermore, providing students with access to their grades and AI-generated feedback is vital to ensure transparency and facilitate a better understanding of their performance.
+
+Plan for Recording, Transcription, and AI Grading of Oral Examinations
+
+Objective:
+
+- To efficiently record, transcribe, and grade oral examinations for each student using AI tools.
+
+Plan:
+
+- 
+Recording:
+
+- 
+Equipment: Leverage Microsoft Word’s built-in dictation feature to record the student’s oral responses directly within the document. This eliminates the need for external recording devices or third-party software.
+
+- 
+Settings: Ensure that Word’s dictation settings are configured correctly, including the microphone sensitivity, language, and dictation language model. This optimizes the accuracy and clarity of the recorded audio.
+
+- 
+Conversation: Engage the student in brief conversations after each question to assess their fluency, articulation, and overall comprehension of the subject matter. This provides a holistic evaluation of their oral communication skills.
+
+By utilizing Word’s dictation feature, the entire oral examination process can be recorded and transcribed seamlessly within the document, eliminating the need for external recordings or transcription services. This streamlines the grading process and allows for immediate feedback for both teachers and students.
+
+- 
+
+- Step 1: Transcription and Correction: After recording the oral examination, utilize automatic transcription services to convert spoken words into a written format. Subsequently, employ advanced language processing tools such as ChatGPT, Google Bard, or Microsoft Bing to correct transcription errors. This step ensures a high level of accuracy in the written representation of the oral responses, accounting for nuances in language and context.
+
+- Step 2: Grading Rubric Development: Create a comprehensive grading rubric aligned with the specific learning outcomes or objectives of the oral examination. Identify key criteria for assessment, including accuracy of factual information, organization of thoughts, relevance of examples, clarity of explanations, and the use of appropriate vocabulary. Each criterion should be clearly defined to provide a structured framework for evaluation.
+
+- Step 3: AI-Enhanced Grading Criteria: Integrate AI into the grading process by utilizing machine learning models trained to evaluate written responses against the established rubric. The AI system should be programmed to assess the identified criteria, assigning scores based on the degree to which students meet each criterion. This ensures an objective and consistent evaluation process.
+
+- Step 4: Teacher Review and Adjustment: Although AI plays a significant role in the initial grading, it is essential for teachers to review the results carefully. Teachers can provide a human touch by assessing the overall coherence of responses, considering contextual nuances, and making adjustments as needed. This step ensures that the AI-generated grades align with the teacher’s expertise and the specific requirements of the examination.
+
+- Step 5: Feedback and Continuous Improvement: Communicate the grades to students along with personalized feedback. This feedback should highlight areas of strength and areas that need improvement based on the grading criteria. Encourage students to seek clarification and engage in a dialogue about their performance. Collect feedback from both students and teachers to refine the grading rubric and improve the AI model for future assessments.By combining advanced transcription services, AI language processing tools, and teacher expertise, this integrated approach to grading ensures a thorough and efficient evaluation of recorded oral examinations. The system promotes consistency, objectivity, and continuous improvement in assessing students’ oral communication skills.
+
+Benefits of This Approach:
+
+- Efficient grading of multiple oral examinations
+
+- By recording the conversation you eliminate any misunderstanding of students claiming they
+
+- Consistent and objective grading based on clearly defined criteria
+
+- Reduced workload for teachers, allowing them to focus on providing personalized feedback
+
+- Opportunity to utilize AI to enhance the assessment process
+
+Additional Considerations:
+
+- Obtain informed consent from students prior to recording their examinations.
+
+- Ensure that the recording environment complies with data privacy and security regulations.
+
+- Consider using pseudonyms for students’ recordings to maintain confidentiality.
+
+- Provide students with an opportunity to review their grades and AI-generated feedback.
+
+Share this:
+- 
+ Share on Facebook (Opens in new window)
+ Facebook
+ 
+- 
+ Share on X (Opens in new window)
+ X
+ 
+- 
+ Share on LinkedIn (Opens in new window)
+ LinkedIn
+ 
+- 
+ Share on Bluesky (Opens in new window)
+ Bluesky
+ 
+- More
+- 
+- 
+ Email a link to a friend (Opens in new window)
+ Email
+ 
+- 
+
+Like this:
+Like Loading...
+
+ 
+
+Related

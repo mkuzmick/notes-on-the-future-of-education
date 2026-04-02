@@ -1,0 +1,27 @@
+---
+title: "The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900"
+source_url: "https://www.tandfonline.com/doi/abs/10.1080/09695940120033243"
+source_title: "Assessment in Education: Principles, Policy & Practice"
+author: "Christopher Stray"
+date: "2001"
+type: research-paper
+tags: [history, written-vs-oral, peer-institutions, scale, grading, oral-exam-design]
+summary: "The transition from oral to written exams at Oxbridge was driven by four factors: the shift from group socio-moral to individual cognitive assessment, standardization pressures, examiner convenience, and perceived objectivity of written work -- not by any pedagogical superiority of writing."
+harvard_relevance: "The foundational historical paper on why Western universities abandoned oral assessment -- the reasons (efficiency, standardization) may need revisiting in light of AI."
+---
+The Shift from Oral to Written Examination: Cambridge and Oxford 1700-1900
+https://www.tandfonline.com/doi/abs/10.1080/09695940120033243
+
+Elle's notes:
+Christopher Stray, Assessment in Education: Principles, Policy & Practice, 2001
+This is the foundational historical paper on how Western universities transitioned away from oral assessment. Key points:
+• In medieval Oxford and Cambridge, examinations were "public, oral, and in Latin" — a form of intellectual performance before the academic community
+• The shift to written exams in the 1700s-1800s was driven by the desire to grade students numerically and individually, rather than placing them in broad categories
+• Oral exams were retained at Oxford into the 20th century, longer than Cambridge
+• Four factors drove the shift: (1) move from group socio-moral to individual cognitive assessment, (2) rise of standardization, (3) examiner convenience, (4) perceived objectivity of written assessment
+
+Harvard relevance: This history is crucial context — we're not proposing something "new" but returning to a tradition that was the default for centuries. The reasons for the shift (efficiency, standardization) may need revisiting in light of AI.
+
+--
+
+Abstract The typical modern examination involves the production of written answers to printed questions in a secluded physical location. In 16th century England university examinations were conducted in public, orally and in Latin, with the participation of the academic community. The paper gives an account of the shift from oral to written examinations at Oxford and Cambridge in the 18th and 19th centuries. Cambridge took the lead in this shift, largely because of the domination of its curriculum by Newtonian mathematics. Practice in Oxford began to converge in the 19th century, but oral testing was retained into the 20th century. Four factors are identified as crucial in the oral/written shift: the move from group socio-moral to individual cognitive assessment in the later 18th century; the differential difficulty of oral testing in different subjects; the impact of increased student numbers; the internal politics of Oxford and Cambridge.

@@ -1,0 +1,35 @@
+---
+title: "A brief history of exams: from disputatio to standardized testing"
+source_url: "https://higheredstrategy.com/a-brief-history-of-exams/"
+source_title: "Higher Ed Strategy Associates"
+author: "Alex Usher"
+date: "2016-10-05"
+type: news-article
+tags: [history, written-vs-oral, scale, equity]
+summary: "Written exams are not native to Western education; they were imported from China via Jesuits in the 16th century. Medieval universities assessed via oral disputatio, and the shift to written exams was driven by bureaucratic credentialing needs, not pedagogy."
+harvard_relevance: ""
+---
+A Brief History of Exams
+https://higheredstrategy.com/a-brief-history-of-exams/
+
+Elle's notes:
+Higher Ed Strategy Associates (Alex Usher), 2017
+Key insight: The West was originally oral; written exams are imported technology. Medieval universities awarded degrees when students could "credibly argue a position in a debate format (the disputatio)." Written exams came via Matteo Ricci, a 16th-century Jesuit who brought the Chinese imperial examination model to Rome. Prussia then adopted this "Chinese system" for civil service meritocracy, and universities followed.
+
+--
+A Brief History of Exams
+October 5, 2016
+Alex Usher
+Written exams are such a major part of our schools and universities that we forget sometimes that they are not actually native to the western system of education.  How did they become so ubiquitous?  Well here’s the story:
+
+Originally, the Western tradition eschewed exams.  Universities offered places based on recommendations.  If one could impress one’s teachers for a few years, one might be invited to audition for right to be granted a degree. In medieval universities, for instance, one obtained a degree once one was capable of giving lectures or credibly argue a particular position in a debate format (the disputatio).  This was more or less the case right through until the 17th century.  This was completely different from how it was done in China.  There, ferociously difficult examinations for entry into the Imperial Civil Service had been the norm since the first century AD (give or take a couple of centuries of inter-dynastic interregnums due to societal collapse, civil wars, etc).  To help students through these exams, “academies” were created, which, with a bit of squinting, can be seen as forerunners of today’s universities (for more on early Chinese higher education see here).
+
+In the late 16th century, a Jesuit priest named Matteo Ricci was sent to China and eventually rose to a very senior position within the order.  He was very impressed by the competitive and meritocratic nature of the Chinese examination system, and described it in glowing terms to his superiors in Rome.  Being a pedagogically-minded order, the Jesuits themselves adopted written examinations in order to make their own system tougher and more competitive.  In the 18th century, absolutist reformers trying to create meritocratic civil services (as opposed to ones run by aristocratic place-holders) decided to put the Jesuits’ “Chinese” system to work.  Starting in Prussia, then spreading around Europe over the following century, bureaucrats now had to pass examinations.  As more and more people tried to apply to the civil service, the universities – which were mainly prep schools for the civil service – became more crowded and gradually introduced their own entrance examinations as well.  The first of these was the German Abitur, which is still the qualification required to enter university.
+
+The question of who set these exams – the education ministries in charge of secondary education?  the universities themselves? – was answered different ways in different countries.  In the United States, the Ivies maintained their own exams well into the twentieth century.  To keep out the riff-raff they would do things like test for ability in Greek – a subject not taught at public schools.  As universities began to expand the range of their intakes, they started to see problems with exams based on curricula and started looking for something that would measure potential regardless of which state or school they came from.  This led them to consider psychometric examinations instead, and hence the SAT was born.
+
+Psychometric testing never really caught on outside the US (thought Sweden uses a variant of it).  Generally speaking, the dominant form of testing around the world remains a high-stakes test at the end of secondary school: the gaokao in China, the Korean suneung and the Japanese center are the most famous of these, but most of Europe and Africa operate on some variant of this (albeit without causing the same level of commotion and stress because European university systems are less hierarchically stratified than East Asian ones).  In many of the post-Soviet countries, university entrance exams were a source of lucre.  A prestige institution could set its own exam, and rake off money from students either through preparatory classes or by requesting bribes to pass.  The establishment of national university entrance exams in these countries were thus as much as an anti-graft measure as a pro-merit measure.
+
+Many parts of the world – but particularly Asian countries – are seeing the downsides of basing so much on a single set of exams, and are trying in various ways to try to de-emphasize testing as a means of distinguishing between students, both because they are seen as overly stressful to youth and because the results have been time and again to reinforce class privilege.  The problem with the latter is that no one has yet come up with alternative measures of academic prowess or potential which are significantly less correlated with privilege; and exam results, whatever their faults, do provide transparency in results, and hence a greater appearance of fairness.
+
+In short: there’s lots wrong with high-stakes exams, but they aren’t going anywhere soon.

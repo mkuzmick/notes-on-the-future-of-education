@@ -1,0 +1,354 @@
+---
+title: "Scalable AI-Administered Oral Exams at NYU Stern"
+source_url: "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html"
+source_title: "A Computer Scientist in a Business School"
+author: "Panos Ipeirotis"
+date: "2025-12-29"
+type: case-study
+tags: [ai-tools, oral-exam-design, scale, grading, logistics, stem, business]
+summary: "An NYU professor used an ElevenLabs voice AI agent to conduct oral finals for 36 students at $0.42 each, with a 'council of LLMs' grading approach that matched human judgment 89% of the time -- demolishing the scalability objection to oral exams."
+harvard_relevance: "Proves AI can administer oral exams at trivial cost ($15 for 36 students vs. ~$750 for human graders), offering Harvard a scalable model for large courses."
+---
+Fighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI Agent
+https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html
+
+Elle's notes:
+An NYU Stern professor ran final exams for 36 students in an AI/ML Product Management course using an ElevenLabs voice AI agent. The system conducted two-part exams: (1) "Talk me through your project" with personalized questions based on each student's capstone, and (2) "Do a case" testing course material comprehension. Cost: $0.42 per student ($15 total for 36 students, plus $99/month subscription). Average exam: 25 minutes, 65 conversational turns. Grading used a "council of LLMs" approach—Claude, Gemini, and ChatGPT each assessed transcripts independently, then revised after seeing each other's assessments. Result: 89% of AI grades within 1 point of human judgment.
+
+Harvard relevance: The economics are stunning. Traditional approach: 36 students × 25 min × 2 graders = 30 hours at ~$750 (TA rates) or "we don't do this" (faculty rates). AI approach: $15. The professor notes: "For 15 dollars, we got real-time oral examination, a three-model grading council with deliberation, structured feedback with verbatim quotes, and a complete audit trail." This demolishes the scalability objection. The "council of LLMs" grading is methodologically sophisticated—it avoids single-model bias by requiring consensus. For Harvard faculty worried about workload, this is a proof of concept: AI can administer oral exams, not just prevent cheating on them.
+
+--
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+
+- 
+
+Fighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI Agent | A Computer Scientist in a Business School
+
+- 
+
+- 
+
+Monday, December 29, 2025
+
+Fighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI Agent
+
+It all started with cold calling.
+
+In our new "AI/ML Product Management" class (co-taught with Konstantinos Rizakos), the "pre-case" submissions (short assignments meant to prepare students for class discussion) were looking suspiciously good. Not "strong student" good. More like "this reads like a McKinsey memo that went through three rounds of editing," good.
+
+And let's be clear: We have zero problems with students using AI for their work. (Banning AI in an AI course? That would be... special.) We actively encourage it. But here's the distinction that matters: using AI to enhance your thinking versus outsourcing your thinking entirely and learning nothing at the end. One of these is education. The other is expensive credential theater.
+
+So we started cold calling students randomly during class.
+
+The result was... illuminating. Many students who had submitted thoughtful, well-structured work could not explain basic choices in their own submission after two follow-up questions. Some could not participate at all. This gap was too consistent to blame on nerves or bad luck. If you cannot defend your own work live, then the written artifact is not measuring what you think it is measuring.
+
+Brian Jabarian has been doing interesting work on this problem, having shown that AI is actually better than humans at conducting job interviews. Why? Humans get tired, have biases, and are less consistent at following a script. His results both inspired us and gave us the confidence to try something that would have sounded absurd two years ago: running the final exam with a Voice AI agent.
+
+Why oral exams? And why now?
+
+The core problem is almost embarrassingly simple: students now have immediate access to LLMs that can handle most exam questions we traditionally use for assessment. The old equilibrium—where take-home work could reliably measure understanding—is dead. Gone. Kaput.
+
+OK, so we go pen and paper in the classroom. We did exactly that for the midterm. Problem solved, right?
+
+Well, not quite. We also needed to ensure that students had done deep work on their group projects. In the past, our worry was freeriding: students offloading their work to teammates. But then, in the middle of our class, the AI landscape shifted dramatically. Gemini 3.0 dropped, and NotebookLM started generating flawless presentations. Suddenly, a student could deliver a polished, sophisticated presentation about a project they barely touched.
+
+And we'd have no way to tell.
+
+Oral exams were the natural response. They force real-time reasoning, application to novel prompts, and defense of actual decisions. No LLM whispering in your ear. No "let me just check something real quick" while ChatGPT generates your answer. Just you, your knowledge, and an evaluator.
+
+The problem? Oral exams are a logistical nightmare.
+
+With 36 students and two instructors, we could maybe manage. But even at that scale, the accommodation requests started piling up immediately. "I have a flight on the 15th." "I have three other finals that day." "I'm traveling for a family event." All legitimate! But multiply that by a factor of ten for a larger class, and you're looking at a month-long hostage situation.
+
+So: oral exams don't scale. Everyone knows this. It's why we abandoned them in the first place.
+
+Unless you cheat.
+
+Enter the Voice Agent
+
+We used ElevenLabs Conversational AI to build the examiner. The platform bundles the messy parts (speech-to-text, text-to-speech, turn-taking, interruption handling, …) into something usable. And here is the thing that surprised me: a basic version for a low-stakes setting (e.g., an assignment) can be up and running in literally minutes. Minutes. Just write a prompt describing what the agent should ask the student, and you are done.
+
+Two features mattered a lot for our setup:
+
+- Dynamic variables: pass the student's name, project details, and other per-student context into the conversation as parameters, to allow personalized exams
+
+- Workflows: build a structured flow with sub-agents instead of a single "chatty" agent trying to do everything
+
+What the exam looked like
+
+We ran a two-part oral exam.
+
+Part 1: "Talk me through your project." The agent asks about the student's capstone project: goals, data, modeling choices, evaluation, failure modes. This is where the "LLM did my homework" strategy dies. You can paste an assignment into ChatGPT. It is much harder to improvise consistent answers about specific decisions when someone is drilling into details.
+
+Part 2: "Now do a case." The agent picks one of the cases we discussed in class and asks questions spanning the topics we covered: basically testing whether students absorbed the material or just showed up.
+
+To handle this structure, we split the exam into sub-agents in a workflow:
+
+- Authentication agent: Asks for the student's ID and refuses to proceed without a valid one. (In a more productized version, we would integrate with NYU SSO instead of checking against a list.)
+
+- Project discussion agent: Gets project context injected via parameters. The prompt includes details of each project so the agent can ask informed questions. The next step is obvious: connect retrieval over the student's submitted slides and reports so the agent can quote and probe precisely.
+
+- Case discussion agent: Selects a case and runs structured questioning. Again, RAG would help with richer case details.
+
+This "many small agents" approach is not just aesthetic. It prevents the system from drifting into unbounded conversation, and it makes debugging possible.
+
+If you want to try: Link to try the voice agent (use Konstantinos as the name and kr888 as the net id to authenticate; the project was a "LinkedIn Recruiter, an agent that scans profiles and automatically sends personalized DMs to candidates on behalf of a recruiter. It engages in the first 3 turns of chat to answer basic questions (salary, location) before handing off to a human.")
+
+By the Numbers
+
+- 36 students examined over 9 days
+
+- 25 minutes average (range: 9–64)
+
+- 65 messages per conversation on average
+
+- 0.42 USD per student (15 USD total), but also the $99/month ElevenLabs subscription
+
+- 89% of LLM grades within 1 point
+
+- Shortest exam (9 min) → highest score (19/20)
+
+The economics
+
+Let's talk money.
+
+Total cost for 36 students: 15 USD.
+
+That's 8 USD for Claude (the chair and heaviest grader), 2 USD for Gemini, 0.30 USD for OpenAI, and roughly 5 USD for ElevenLabs voice minutes. Forty-two cents per student.
+
+The alternative? 36 students × 25-minute exam × 2 graders = 30 hours of human time. At TA rates (~$25/hour), that's $750. At faculty rates, it's "we don't do oral exams because they don't scale."
+
+For $15, we got: real-time oral examination, a three-model grading council with deliberation, structured feedback with verbatim quotes, a complete audit trail, and—as you'll see—a diagnosis of our own teaching gaps.
+
+The unit economics in terms of cost work. We will see next that the real benefit is in the value that is delivered, not in the 50x cost savings.
+
+What broke (and how we fixed it)
+
+The first version had problems. Here is what we learned.
+
+1) The voice was intimidating
+
+A few students complained that the agent sounded severe. We had cloned Foster Provost's voice because, frankly, his clone was much more accurate than the clones of our own voices. But the students found it... intense. Here is an email from a student:
+
+> I had prepared thoroughly and felt confident in my understanding of the material, but the intensity of the interviewer's voice during the exam unexpectedly heightened my anxiety and affected my performance. The experience was more triggering than I anticipated, which made it difficult to fully demonstrate my knowledge. Throughout the course, I have actively participated and engaged with the material, and I had hoped to better demonstrate my knowledge in this interview.
+
+And here is another:
+
+> Just got done with my oral exam. [...] I honestly didn't feel comfortable with it at all. The voice you picked was so condescending that it actually dropped my confidence. [...] I don't know why but the agent was shouting at me.
+
+Fix: We are split on that. We love FakeFoster. But next time we will A/B test, and we will try to test other voices. At the end of the day, we want to optimize for comprehension, not charisma. ElevenLabs has guidance on voice and personality tuning: they treat this as a product design problem, and probably a good idea.
+
+2) The agent stacked questions
+
+This was the biggest real issue. The agent would ask something like: "Explain your metric choice, and also tell me what baselines you tried, and why you did not use X, and what you would do next."
+
+That is not one question. That is four questions wearing a trench coat. The cognitive load for an oral exam is already high. Stacking questions makes it brutal.
+
+Fix: Hard rule in the prompt: one question at a time. If you want multi-part probing, chain it across turns. For grading the exam, we included an "interference protocol": students received full credit if they had questions stacked like that and answered only some of them.
+
+3) Clarifications became moving targets
+
+Student: "Can you repeat the question?"
+
+Agent: paraphrases the question in a subtly different way
+
+Now the student is solving a different problem than the one they were asked. Very frustrating.
+
+Fix: Explicit instruction in the prompt: repeat verbatim when asked to repeat. No paraphrasing. Same words.
+
+4) The agent did not let students think
+
+Humans rush to fill silence. Agents do too. Students would pause to think, and the agent would jump in with follow-up probes or worse: interpret the silence as confusion and move on.
+
+Fix: Tell the agent to allow think-time without probing aggressively. It made the exam feel less like an interrogation. We also increased the time-out before the agent asks "Are you there?" from 5 to 10 seconds.
+
+5) Lack of randomization
+
+We asked the agent to "randomly select" a case study. It did not.
+
+From December 12–18, when Zillow was in the case list, the agent picked Zillow 88% of the time. After we removed Zillow from the prompt on December 18, the agent immediately latched onto Predictive Policing—picking it for 16 out of 21 exams on December 19 alone.
+
+LLMs are not random. They have implicit preferences and ordering biases. Asking an LLM to "pick randomly" is like asking a human to "think of a number between 1 and 10"—you're going to get a lot of 7s.
+
+Fix: Pass an explicit random number as a parameter and map it to cases deterministically. Do the randomization in code, not in the prompt.
+
+Grading: the council deliberation actually worked
+
+OK, so here is where things got interesting.
+
+We graded using a "council of LLMs" approach, an idea we borrowed from Andrej Karpathy. Three models (Claude, Gemini, ChatGPT) assessed each transcript independently. Then they saw each other's assessments and revised. Finally, the chair (Claude) synthesized the final grade with evidence.
+
+Round 1 was a mess. When the models graded independently, agreement was poor: 0% of grades matched exactly, and only 23% were within 2 points. The average maximum disagreement was nearly 4 points on a 20-point scale.
+
+And here's the kicker: Gemini was a softie: It averaged 17/20. Claude averaged 13.4/20. That's a 3.6-point gap—the difference between a B+ and a B-.
+
+Meanwhile, Claude and OpenAI were already aligned: 70% of their grades were within 1 point of each other in Round 1.
+
+Model
+Round 1 Mean
+Round 2 Mean
+Change
+
+Claude
+13.4/20
+13.9/20
++0.5
+
+OpenAI
+14.0/20
+14.0/20
++0.0
+
+Gemini
+17.0/20
+15.0/20
+-2.0
+
+Then came consultation. After each model saw the others' assessments and evidence, agreement improved dramatically:
+
+Metric
+Round 1
+Round 2
+Improvement
+
+Perfect agreement
+0%
+21%
++21 pp
+
+Within 1 point
+0%
+62%
++62 pp
+
+Within 2 points
+23%
+85%
++62 pp
+
+Mean max difference
+3.93 pts
+1.41 pts
+-2.52 pts
+
+Gemini lowered its grades by an average of 2 points after seeing Claude's and OpenAI's more rigorous assessments. It couldn't justify giving 17s when Claude was pointing to specific gaps in the experimentation discussion.
+
+But here's what's interesting: the disagreement wasn't random. Problem Framing and Metrics had 100% agreement within 1 point. Experimentation? Only 57%.
+
+Why? When students give clear, specific answers, graders agree. When students give vague hand-wavy answers, graders (human or AI) disagree on how much partial credit to give. The low agreement on experimentation reflects genuine ambiguity in student responses, not grader noise.
+
+The grading was stricter than my own default. That's not a bug. Students will be evaluated outside the university, and the world is not known for grade inflation. (Just in case you are wondering, I graded all exams myself and I asked the TA to also grade the exams; we mostly agreed with the LLM grades, and I aligned mostly with the softie Gemini. However, when examining the cases when my grades disagreed with the council, I found that the council was more consistent across students and I often thought that the council graded more strictly but more fairly.)
+
+The feedback was better than any human would produce. The system generated structured "strengths / weaknesses / actions" summaries with verbatim quotes from the transcript. Sample feedback from the highest scorer:
+
+> "Your understanding of metric trade-offs and Goodhart's Law risks was exceptional—the hot tub example perfectly illustrated how optimizing for one metric can corrupt another."
+
+Sample from a B- student:
+
+> "Practice articulating complete A/B testing designs: state a hypothesis, define randomization unit, specify guardrail metrics, and establish decision criteria for shipping or rolling back."
+
+Specific. Actionable. Tied to evidence. No human grader has the time to generate that for every student.
+
+It diagnosed our teaching gaps
+
+Ha! This one stung.
+
+When we analyzed performance by topic, one bar stuck out like a sore thumb: Experimentation. Mean score: 1.94 out of 4. Compare that to Problem Framing at 3.39.
+
+The breakdown was brutal:
+
+- 3 students (8%) scored 0—couldn't discuss it at all
+
+- 7 students (19%) scored 1—superficial understanding
+
+- 15 students (42%) scored 2—basic understanding
+
+- 0 students scored 4—no one demonstrated mastery
+
+We had rushed through A/B testing methodology in class. The external grader made it impossible to ignore.
+
+The grading output became a mirror reflecting our own weaknesses as instructors. Ooof.
+
+Duration ≠ Quality
+
+One finding I found strangely fascinating: exam duration had zero correlation with score (r = -0.03). The shortest exam—9 minutes—got the highest score (19/20). The longest—64 minutes—scored 12/20.
+
+Taking longer doesn't mean you know more. If anything, it signals struggling to articulate. Confidence is efficient.
+
+Anti-cheating (or: trust but verify)
+
+We asked students to record themselves while taking the exam (webcam + audio). This discourages blatantly outsourcing the conversation, having multiple people in the room, or having an LLM in voice mode whispering answers. It also gives us a backup record in case something goes really badly.
+
+And here is an underrated benefit of this whole setup: the exam is powered by guidelines, not by secret questions. We can publish exactly how the exam works—the structure, the skills being tested, the types of questions. No surprises. The LLM will pick the specific questions live, and the student will have to handle them.
+
+This reduces anxiety and pushes students toward actual preparation instead of guessing what the instructor "wants." And it eliminates the leaked-exam problem entirely. Practice all you want—it will only make you better prepared.
+
+What the students said
+
+We surveyed students before releasing grades to capture their experience. Some of the results:
+
+- Only 13% preferred the AI oral format. 57% wanted traditional written exams. 83% found it more stressful.
+
+- But here's the thing: 70% agreed it tested their actual understanding: the highest-rated item. They accepted the assessment but not the delivery.
+
+- At the same time, they almost universally liked the flexibility of taking the exam at their own place and time. Yes, many of them would have also preferred a take-home exam instead of the oral exam, but this format is dead now.
+
+- 83% of students found the oral exam framework more stressful than a written exam.
+
+- The fix is clear: one question at a time, slower pacing, calmer tone. The concept works. The execution needs iteration.
+
+Try it yourself
+
+If you want to experiment with this approach, here are some resources:
+
+- Prompt for the voice agent
+
+- Prompt for the grading council
+
+- Link to try the voice agent (use Konstantinos as the name and kr888 as the net id to authenticate; the project was a "LinkedIn Recruiter, an agent that scans profiles and automatically sends personalized DMs to candidates on behalf of a recruiter. It engages in the first 3 turns of chat to answer basic questions (salary, location) before handing off to a human.")
+
+What I would change next time
+
+- Slower pacing and a calmer voice: We love you FakeFoster, but GenZ is not ready for you. Perhaps we will deploy FakePanos next time. Too bad ElevenLabs hasn't perfected thick accents yet to deliver a real Panos experience.
+
+- RAG over student artifacts (slides, reports, notebooks). ElevenLabs supports this directly. If the agent can quote the student's own submission, the exam becomes much harder to game and much more diagnostically useful.
+
+- Better case randomization with explicit seeding and tracking. Randomness that "feels random" is not enough. Pass explicit parameters.
+
+- Audit triggers in grading. If the LLM committee disagrees beyond a threshold, flag for human review. The point of a committee is not to pretend the result is always certain; it is to surface uncertainty.
+
+- Accessibility defaults. Offer practice runs, allow extra time, and provide alternatives when voice interaction creates unnecessary barriers.
+
+The bigger point
+
+Take-home exams are dead. Reverting to pen-and-paper exams in the classroom feels like a regression. In our case, we wanted to check that the students who worked in the team projects actually contributed and understood what they submitted; we would not be able to do that with pen-and-paper exams in the classroom.
+
+We need assessments that evolve towards formats that reward understanding, decision-making, and real-time reasoning. Oral exams used to be standard until they could not scale. Now, AI is making them scalable again.
+
+And here is the delicious part: you can give the whole setup to the students and let them prepare for the exam by practicing it multiple times. Unlike traditional exams, where leaked questions are a disaster, here the questions are generated fresh each time. The more you practice, the better you get. That is... actually how learning is supposed to work.
+
+Fight fire with fire.
+
+Thanks to Brian Jabarian for the inspiration and for giving us confidence that these interviews will work, Foster Provost for lending his voice to create the FakeFoster agent (sorry, students found you intimidating!), and Andrej Karpathy for the council-of-LLMs idea.
+
+Posted by
+
+Panos Ipeirotis
+
+at
+2:46 PM
+
+Email ThisBlogThis!Share to XShare to FacebookShare to Pinterest
+
+Newer Post
+
+Older Post
+
+Home

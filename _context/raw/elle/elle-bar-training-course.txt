@@ -1,0 +1,212 @@
+---
+title: "UK Bar Training Course: mandatory oral advocacy in groups of five"
+source_url: "https://www.bpp.com/law/btc-barrister-training-course"
+source_title: "BPP University"
+author: "BPP University"
+date: ""
+type: case-study
+tags: [law, professional-domains, oral-exam-design, scaffolding, practice-and-rehearsal, high-stakes]
+summary: "UK barristers must pass mandatory oral advocacy assessments in small groups of 5, practicing cross-examination and client conferences in simulated scenarios -- proving high-stakes oral assessment scales with scaffolded practice and a 60% pass standard."
+harvard_relevance: "If law schools require oral competency for professional licensure, Harvard can require it for undergraduate degrees."
+---
+Bar Training Course
+https://www.bpp.com/law/btc-barrister-training-course
+
+Elle's notes:
+UK barristers must complete the Bar Training Course (BTC), which includes mandatory oral advocacy training in groups of up to 5 students. The course explicitly states: "You will study criminal themes, each of which integrates with the key oral skills of conference, cross examination, and examination-in-chief." Assessment includes "oral assessments and written elements" with a 60% pass mark set by the Bar Standards Board. Students practice witness cross-examination, client conferences, and courtroom advocacy in "realistic legal scenarios" before being examined on these skills orally. The BTC uses "simulated client scenarios" within "Virtual Chambers" to mirror legal practice. Small advocacy groups (5 students) ensure "detailed, real-time feedback" that improves performance faster than lecture-based learning.
+PubMed Central (PMC)Objective Structured Clinical Examination: The Assessment of ChoiceThe Objective Structured Clinical Examination is a versatile multipurpose evaluative tool that can be utilized to assess health care professionals in a clinical setting. It assesses competency, based on objective testing through direct observation. ...https://pmc.ncbi.nlm.nih.gov/articles/PMC3191703/BPP - Building Careers Through EducationBar Training CoursePrepare for a thriving Barrister career with a Bar Training Course that supports you from the exam room to the courtroom. Apply today![10:09 AM]Harvard relevance: The legal profession recognizes that you cannot become a barrister without demonstrating oral competency—written legal knowledge is necessary but insufficient. The BTC model shows how to scale oral assessment: small-group practice throughout the course → high-stakes oral exam at the end. This is the scaffolding model SoTL research recommends (Theme 3, Cycles 1&2): don't throw students into oral exams unprepared; build fluency through repeated low-stakes practice with feedback. For Harvard, this suggests: tutorial/section leaders conduct mini oral check-ins weekly (formative) → final oral exam tests cumulative understanding (summative). The 60% pass mark also matters—UK bar examiners accept that oral assessment can have clear, defensible grading standards. If law schools worldwide require it for professional licensure, Harvard can require it for undergraduate degrees.
+
+--
+
+{"@context":"https://schema.org/","@id":"https://www.bpp.com/law/btc-barrister-training-course","@type":"Course","name":"Barrister Training Course ","description":"About the Barrister Training Course\nTried and tested training to secure your barrister career. \nWith professional skills and practical application at the forefront, our expert tutors bring their years of courtroom experience into the classroom. Get practice-ready skills you can use from day one, with small classes for advocacy training that give you the time and space you need to prepare for the Bar. \nWhat you'll study\nOur Barrister courses are designed to ensure you have the knowledge, skills, and behaviours to stand out in a competitive market. \nCollaborate in an interactive classroom of up to 20 students \n\nAdvocacy and conference taught in groups of up to five \n\nSpecialist Bar Advisory Board to ensure training is aligned to practice \n\nInstant access to Bridge to the Bar with 40 hours of additional study \n\nPeace of mind with our Career Guarantee* \n\nConnect with chambers across a range of specialist practice areas \n\nUpgrade to our BTC (Master’s) to access postgraduate loan funding \n\n\n *T&Cs apply \nEntry requirements\nThe entry requirements for our Barrister Training Course (BTC) are as follows:  \nQualifying law degree or non-law degree plus our Law Conversion Course, or a CPE/GDL/PGDL at a minimum 2:1 (or 2:2 at BPP's discretion where there are extenuating circumstances)\n\nFluency in English \n\nMembership of an Inn of Court  \n\n\nIf your undergraduate degree is not from the UK and you have undertaken a law conversion course in order to become a barrister, you will also need a Certificate of Academic Standing from the Bar Standards Board (BSB). More information can be found on the BSB website.\nEnglish language requirements  \nTo study at BPP, it is important that you are able to communicate and engage in English effectively in an academic setting.  \nIf English is not your first language, you will be required to provide proof of your ability across reading, writing, listening, and speaking in English.  \nView details of accepted English language qualifications","about":"Law","educationalLevel":"Degree","image":["undefined?ar=1:1&fit=crop","undefined?ar=4:3&fit=crop","undefined?ar=16:9&fit=crop"],"teaches":"About the Barrister Training Course\nTried and tested training to secure your barrister career. \nWith professional skills and practical application at the forefront, our expert tutors bring their years of courtroom experience into the classroom. Get practice-ready skills you can use from day one, with small classes for advocacy training that give you the time and space you need to prepare for the Bar. \nWhat you'll study\nOur Barrister courses are designed to ensure you have the knowledge, skills, and behaviours to stand out in a competitive market. \nCollaborate in an interactive classroom of up to 20 students \n\nAdvocacy and conference taught in groups of up to five \n\nSpecialist Bar Advisory Board to ensure training is aligned to practice \n\nInstant access to Bridge to the Bar with 40 hours of additional study \n\nPeace of mind with our Career Guarantee* \n\nConnect with chambers across a range of specialist practice areas \n\nUpgrade to our BTC (Master’s) to access postgraduate loan funding \n\n\n *T&Cs apply \nEntry requirements\nThe entry requirements for our Barrister Training Course (BTC) are as follows:  \nQualifying law degree or non-law degree plus our Law Conversion Course, or a CPE/GDL/PGDL at a minimum 2:1 (or 2:2 at BPP's discretion where there are extenuating circumstances)\n\nFluency in English \n\nMembership of an Inn of Court  \n\n\nIf your undergraduate degree is not from the UK and you have undertaken a law conversion course in order to become a barrister, you will also need a Certificate of Academic Standing from the Bar Standards Board (BSB). More information can be found on the BSB website.\nEnglish language requirements  \nTo study at BPP, it is important that you are able to communicate and engage in English effectively in an academic setting.  \nIf English is not your first language, you will be required to provide proof of your ability across reading, writing, listening, and speaking in English.  \nView details of accepted English language qualifications","hasCourseInstance":[{"@type":"CourseInstance","@id":"https://www.bpp.com/law/btc-barrister-training-course#instance-1","courseMode":"Onsite","location":[{"@type":"Place","name":"London Central (Holborn)","address":{"@type":"PostalAddress","addressLocality":"London Central (Holborn)","addressCountry":"UK"}}],"courseSchedule":{"@type":"Schedule","duration":"P9M","startDate":"2026-01-01","repeatCount":9,"repeatFrequency":"Weekly"},"offers":{"@type":"Offer","category":"Paid","priceCurrency":"GBP","price":0,"availability":"FullTime"}},{"@type":"CourseInstance","@id":"https://www.bpp.com/law/btc-barrister-training-course#instance-2","courseMode":"Onsite","location":[{"@type":"Place","name":"London Central (Holborn)","address":{"@type":"PostalAddress","addressLocality":"London Central (Holborn)","addressCountry":"UK"}},{"@type":"Place","name":"Birmingham","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressCountry":"UK"}},{"@type":"Place","name":"Leeds","address":{"@type":"PostalAddress","addressLocality":"Leeds","addressCountry":"UK"}},{"@type":"Place","name":"Manchester","address":{"@type":"PostalAddress","addressLocality":"Manchester","addressCountry":"UK"}},{"@type":"Place","name":"Bristol (BTC with PLS only)*","address":{"@type":"PostalAddress","addressLocality":"Bristol (BTC with PLS only)*","addressCountry":"UK"}}],"courseSchedule":{"@type":"Schedule","duration":"P9M","startDate":"2026-09-01","repeatCount":9,"repeatFrequency":"Weekly"},"offers":{"@type":"Offer","category":"Paid","priceCurrency":"GBP","price":0,"availability":"FullTime"}},{"@type":"CourseInstance","@id":"https://www.bpp.com/law/btc-barrister-training-course#instance-3","courseMode":"Onsite","location":[{"@type":"Place","name":"London Central (Holborn)","address":{"@type":"PostalAddress","addressLocality":"London Central (Holborn)","addressCountry":"UK"}}],"courseSchedule":{"@type":"Schedule","duration":"P24M","startDate":"2026-09-01","repeatCount":24,"repeatFrequency":"Weekly"},"offers":{"@type":"Offer","category":"Paid","priceCurrency":"GBP","price":0,"availability":"PartTime"}}],"offers":[{"@type":"Offer","@id":"https://www.bpp.com/law/btc-barrister-training-course#offer-primary","category":"Paid","priceCurrency":"GBP","price":17100,"availability":"InStock","validFrom":"September and January"},{"@type":"Offer","@id":"https://www.bpp.com/law/btc-barrister-training-course#offer-table-1","category":"Paid","priceCurrency":"GBP","price":18400,"name":"2026-2027 academic year","description":"London Central (Holborn) - Domestic Students","availableAtOrFrom":{"@type":"Place","name":"London Central (Holborn)","address":{"@type":"PostalAddress","addressLocality":"London Central (Holborn)","addressCountry":"UK"}}}],"financialAidEligible":"We offer a number of ways to support you with funding your university studies:\nPostgraduate loan funding is available if you upgrade to our Barrister Training Course (Master's)\n\nInterest-free payment plans enabling you to spread the cost of your course through instalments\n\nA dedicated £1.4m+ Scholarship fund awarded to applicants of BPP’s postgraduate law programmes\n\n\n\nNeed to discuss finance?\nIf you have any questions or require help, contact us on 03300 603100.","timeRequired":"9 months","startDate":"September and January","applicationDeadline":"","provider":{"@context":"https://schema.org","@type":"Organization","url":"https://www.bpp.com","logo":"https://www.datocms-assets.com/106045/1768981856-bpp_endorsed-logo_reversed_rgb.svg","name":"BPP","description":"Building Careers Through Education.","telephone":"03330 608 310","address":{"@type":"PostalAddress","streetAddress":"142-144 Uxbridge Road, Aldine Place","addressLocality":"London","addressCountry":"UK","postalCode":"W12 8AW"},"accreditingBody":{"@type":"Organization","name":"Bar Standards Board (BSB) "}}}{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.bpp.com/"},{"@type":"ListItem","position":2,"name":"Law ","item":"https://www.bpp.com/law"},{"@type":"ListItem","position":3,"name":"Barrister Training Course ","item":"https://www.bpp.com/law/btc-barrister-training-course"}]}
+
+Bar Training Course (BTC)
+Prepare for a thriving career at the Bar, with a barrister training course that supports you from the exam room to the courtroom. Learn specialist knowledge and skills in the context of realistic legal scenarios, giving you the edge to secure pupillage. 
+
+Apply nowGet in touch
+
+Advocacy taught in groups of max. five students, allowing you to refine your skills and get real-time feedback Centralised BSB assessments staggered throughout the course so you can focus on one set of assessments at a time Hard copies of the White Book and Blackstone’s Criminal Practice (worth over £1,200) included in course fee 
+
+About the Barrister Training Course
+Tried and tested training to secure your barrister career. 
+
+With professional skills and practical application at the forefront, our expert tutors bring their years of courtroom experience into the classroom. Get practice-ready skills you can use from day one, with small classes for advocacy training that give you the time and space you need to prepare for the Bar. 
+
+What you'll study
+Our Barrister courses are designed to ensure you have the knowledge, skills, and behaviours to stand out in a competitive market. 
+
+- Collaborate in an interactive classroom of up to 20 students 
+
+- Advocacy and conference taught in groups of up to five 
+
+- Specialist Bar Advisory Board to ensure training is aligned to practice 
+
+- Instant access to Bridge to the Bar with 40 hours of additional study 
+
+- Peace of mind with our Career Guarantee* 
+
+- Connect with chambers across a range of specialist practice areas 
+
+- Upgrade to our BTC (Master’s) to access postgraduate loan funding 
+
+ *T&Cs apply 
+
+Entry requirements
+The entry requirements for our Barrister Training Course (BTC) are as follows:  
+
+- Qualifying law degree or non-law degree plus our Law Conversion Course, or a CPE/GDL/PGDL at a minimum 2:1 (or 2:2 at BPP's discretion where there are extenuating circumstances)
+
+- Fluency in English 
+
+- Membership of an Inn of Court  
+
+If your undergraduate degree is not from the UK and you have undertaken a law conversion course in order to become a barrister, you will also need a Certificate of Academic Standing from the Bar Standards Board (BSB). More information can be found on the BSB website.
+
+English language requirements  
+To study at BPP, it is important that you are able to communicate and engage in English effectively in an academic setting.  
+
+If English is not your first language, you will be required to provide proof of your ability across reading, writing, listening, and speaking in English.  
+
+View details of accepted English language qualifications 
+
+Course details
+Course lengthFull time9 monthsPart time24 monthsStart datesSeptember and JanuaryStudy methodsFace-to-faceFees and fundingfrom £17,100.00Price includes VATQualificationPostgraduate Diploma in Legal Practice (Bar) AccreditationBar Standards Board (BSB) 
+
+What can I do after the Bar Training Course (BTC)?
+Undertake pupillageTo practise as a barrister, you’ll need to undertake pupillage.Called to the BarOnce you’ve passed the BTC, you can be called to the Bar by your Inn of Court.Apply for tenancySecure your space at a chambers and start your career as a barrister
+
+Course structure
+Your training will focus on developing the core advocacy skills you need for the courtroom. Practising in small groups, you’ll become a confident advocate and learn faster with detailed, real-time feedbackPreparing for Pupillage 1  (60 credits)Follow the typical life cycle of civil cases – thematically studying civil litigation and evidence, which will be integrated with submission advocacy and drafting, along with the pervasive skills of legal research and case analysis, as well as professional ethics.   
+
+Through face-to-face workshops you will experience how a barrister’s procedural knowledge works hand-in-hand with the vital skills required at the Bar.  
+
+Modules:  
+
+- Civil Litigation & Evidence (30 credits)  
+
+- Submission Advocacy (15 credits)  
+
+- Drafting (15 credits)  
+
+Preparing for Pupillage 2(60 credits)You will study criminal themes, each of which integrates with the key oral skills of conference, cross examination, and examination-in-chief. Enhancing your oral skills in realistic legal contexts, you’ll follow the life-cycle of a criminal case. You’ll meet with the client at various stages of proceedings, before conducting witness handling at the client’s trial.  
+
+For the Opinion Writing & Legal Research module, you’ll attend workshops based on common and commercial law cases. This ensures you experience a range of practice areas and replicates the work you’ll encounter in practice. 
+
+Modules:  
+
+- Oral Skills (20 credits)  
+
+- Criminal Litigation, Evidence & Sentencing (20 credits)  
+
+- Opinion Writing & Legal Research (20 credits)  
+
+- Professional Ethics (non-credit bearing)  
+
+How will you study
+
+Face-to-face
+You’ll experience live, face-to-face teaching in a collaborative learning environment, with valuable interactive with our professionally experienced tutors, who use their expertise to bring their studies to life
+
+Practical learning optimised for success
+Apply your knowledge via simulated client scenarios within our Virtual Chambers, which mirrors legal practice to give you a real insight into life as a barrister
+
+Performance boosted by AI
+You’ll use our AI-driven adaptive learning platform, BPP Adapt. Adapt identifies your strengths and areas for improvement, adapting to your performance and flexing as you develop 
+
+Never miss an opportunity to improve
+Whether you’re in-class, at home, or on the go, our learning resources are available in both hard copy and online format, including The White Book and Blackstone’s Criminal Practice, worth over £1,200 
+
+24/7 access to everything you need
+Get instant access to interactive learning materials, course notes, and recorded lectures through The Hub. Our course materials are tailored to how you learn best, with the flexibility to ensure you can maximise your independent learning
+
+Types of assessment
+- Bar Standards Board (BSB) centralised assessments  
+
+- Coursework (to test written and oral skills)  
+
+- Examinations (including multiple choice and problem-based questions)  
+
+ Examinations will be in the form of oral assessments and written elements or multiple-choice questions and may be unseen or part-seen, where assessment material is released in advance.  
+
+ The pass mark for these assessments is set by the BSB at 60%.  
+
+ Full details on BPP University’s feedback policy on examinations and assessment can be found in the University Policies and Procedures.
+
+Learning support
+Access a full range of learning support services for students with any specialist learning needs.
+
+Get in touch
+Show more
+
+Dates and locations
+All locationsClearApplyFull timePart timeMoreJanuary 2026Course length:9 months (Full-time) Study centres:London Central (Holborn)Apply nowSeptember 2026Course length:9 months (Full-time) Study centres:London Central (Holborn), Birmingham, Leeds, Manchester, Bristol (BTC with PLS only)*Apply nowSeptember 2026Course length:24 months (Part-time) Study centres:London Central (Holborn)Apply nowExplore BPP study locations*We offer the Barrister Training Course with Professional Legal Studies at our Bristol study centre.
+
+Full-time: You will have around 10 hours face-to-face teaching per week, split across three or four days. Up to 32 hours of independent learning per week is also required.  
+
+Part-time : Part-time study is available with a minimum duration of 24 months, taught across six terms. Typically, you will have 10 hours face-to-face teaching across one weekend per month.  
+
+Fees and funding
+
+Fees
+2026-2027 academic yearLondon Central (Holborn) - Domestic Students£18,400.00Birmingham, Leeds, Manchester - Domestic Students£17,100.00London Central (Holborn) - International Students£19,800.00Birmingham, Leeds, Manchester - International Students£18,400.00Fees include BSB registration fee of £840.
+
+A deposit of £350 will need to be paid within 48 hours of accepting your offer on all our courses, to secure your place. 
+
+Funding options
+We offer a number of ways to support you with funding your university studies:
+
+- Postgraduate loan funding is available if you upgrade to our Barrister Training Course (Master's)
+
+- Interest-free payment plans enabling you to spread the cost of your course through instalments
+
+- A dedicated £1.4m+ Scholarship fund awarded to applicants of BPP’s postgraduate law programmes
+
+Need to discuss finance?
+If you have any questions or require help, contact us on 03300 603100. 
+
+Why choose BPP University Law School?
+
+30+ years
+of training the brightest legal talent 
+
+600+
+legal employers trust us to deliver their legal training
+
+100,000 alumni
+across the globe
+
+Join us at a Barrister Open Evening 
+Join us for an exclusive online event where you'll learn all about BPP's Barrister training courses. Get an in-depth look at how our courses can help you succeed in your legal career. Chat with tutors and students and get to know about important things like funding and securing qualifying work experience. 
+
+Register your place todayView other Law events
+
+I really enjoyed the amount of advocacy we had practice of, and that's something that has really spurred me on and put me in good stead for pupillage.
+
+Ayesha Smart Barrister Training Course (BTC)
+
+Related courses
+Degree
+
+LLM Bar Training Course
+Degree
+
+Barrister Training Course with Professional Legal Studies
+Degree
+
+Barrister Training Course with Professional Legal Studies (Master's)
+{"@context":"https://schema.org/","@type":"ItemList","numberOfItems":"3","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Course","url":"https://www.bpp.com/law/btc-barrister-training-course-masters","name":"LLM Bar Training Course","description":"Gain a competitive edge, with the skills and knowledge you need to secure pupillage. Earn a Masters alongside your Barrister and boost your chances of securing pupilage.","provider":{"@context":"https://schema.org","@type":"Organization","url":"https://www.bpp.com","logo":"https://www.datocms-assets.com/106045/1768981856-bpp_endorsed-logo_reversed_rgb.svg","name":"BPP","description":"Building Careers Through Education.","telephone":"03330 608 310","address":{"@type":"PostalAddress","streetAddress":"142-144 Uxbridge Road, Aldine Place","addressLocality":"London","addressCountry":"UK","postalCode":"W12 8AW"}},"offers":[{"@type":"Offer","category":"Paid","priceCurrency":"GBP"}],"hasCourseInstance":[{"@type":"CourseInstance","courseMode":"Onsite","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Online","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Blended","courseWorkload":"PT0H"}]}},{"@type":"ListItem","position":2,"item":{"@type":"Course","url":"https://www.bpp.com/law/btc-barrister-training-course-professional-legal-studies","name":"Bar Training Course with Professional Legal Studies","description":"Get the support you need to prepare for the Bar, with a foundation term that gives you the confidence to succeed.","provider":{"@context":"https://schema.org","@type":"Organization","url":"https://www.bpp.com","logo":"https://www.datocms-assets.com/106045/1768981856-bpp_endorsed-logo_reversed_rgb.svg","name":"BPP","description":"Building Careers Through Education.","telephone":"03330 608 310","address":{"@type":"PostalAddress","streetAddress":"142-144 Uxbridge Road, Aldine Place","addressLocality":"London","addressCountry":"UK","postalCode":"W12 8AW"}},"offers":[{"@type":"Offer","category":"Paid","priceCurrency":"GBP"}],"hasCourseInstance":[{"@type":"CourseInstance","courseMode":"Onsite","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Online","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Blended","courseWorkload":"PT0H"}]}},{"@type":"ListItem","position":3,"item":{"@type":"Course","url":"https://www.bpp.com/law/btc-barrister-training-course-professional-legal-studies-masters","name":"Bar Training Course with Professional Legal Studies (Masters)","description":"Take control, with more time to prepare for the Bar and master’s level training that gives you the competitive edge. ","provider":{"@context":"https://schema.org","@type":"Organization","url":"https://www.bpp.com","logo":"https://www.datocms-assets.com/106045/1768981856-bpp_endorsed-logo_reversed_rgb.svg","name":"BPP","description":"Building Careers Through Education.","telephone":"03330 608 310","address":{"@type":"PostalAddress","streetAddress":"142-144 Uxbridge Road, Aldine Place","addressLocality":"London","addressCountry":"UK","postalCode":"W12 8AW"}},"offers":[{"@type":"Offer","category":"Paid","priceCurrency":"GBP"}],"hasCourseInstance":[{"@type":"CourseInstance","courseMode":"Onsite","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Online","courseWorkload":"PT0H"},{"@type":"CourseInstance","courseMode":"Blended","courseWorkload":"PT0H"}]}}]}
+
+Apply now
+Ready to make your move? Our online application is fast and efficient. Create your account, submit your details, and we’ll guide you through each step.
+
+Apply nowGet support with your applicationWhat happens when you apply?Create your accountSet up your personal BPP profile to begin your application and track your progress online
+
+Select your courseChoose your course, and continue your application through the portal
+
+Upload supporting documentsProvide any documents, like proof of ID and academic qualifications
+
+We’ll review your applicationOur Admissions team will review your application and be in touch if they need more information
+
+Receive your offerIf successful, you’ll receive your offer
+
+universityCourse100LawDegreePostgraduate

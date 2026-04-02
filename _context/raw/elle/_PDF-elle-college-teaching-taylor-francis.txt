@@ -1,0 +1,22 @@
+---
+title: "Oral Exams for a Generative AI World: Logistics for Humanities Instruction"
+source_url: "https://www.tandfonline.com/doi/full/10.1080/87567555.2025.2558563"
+source_title: "College Teaching (Taylor & Francis)"
+author: ""
+date: "2025-01"
+type: pdf-summary
+tags: [oral-exam-design, humanities, logistics, student-anxiety, grading, pedagogy, faculty-experience]
+summary: "A peer-reviewed implementation guide for oral exams in humanities courses addresses time constraints, student anxiety, and grading consistency with practical solutions, signaling oral assessment has moved from 'should we?' to 'how to?' phase."
+harvard_relevance: "The Bok Center could host workshops using this article as a template, validating what History & Lit and Social Studies have done for decades as evidence-based best practices."
+---
+College Teaching (Taylor & Francis)
+https://www.tandfonline.com/doi/full/10.1080/87567555.2025.2558563
+
+Elle's notes:
+A January 2025 peer-reviewed article titled "Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction" examines "the implementation of oral exams in an upper-level humanities course as a response to generative AI." The article addresses faculty concerns (time constraints, student anxiety, grading consistency) and provides logistical recommendations for making oral exams feasible in humanities contexts. This represents SoTL maturity—not theoretical arguments for oral assessment but practical implementation guides based on real classroom experiments. The publication in College Teaching (a practitioner-oriented journal) signals that oral exams are moving from "should we?" to "how to?" phase.
+
+Harvard relevance: The existence of this article—published in a major teaching journal in January 2025—shows oral assessment has become mainstream pedagogy in humanities response to AI. Harvard humanities faculty can now cite peer-reviewed implementation research, not just anecdotal experiments (Theme 4). The "managing concerns" framing is important: the article acknowledges legitimate obstacles (time, anxiety, grading) rather than dismissing them. This makes adoption more likely—faculty see themselves in the author's position and gain confidence from documented solutions. For Harvard: The Bok Center for Teaching and Learning could host workshops using this article as a template, inviting humanities faculty to design oral exam rubrics and practice conducting mock oral defenses. The article's existence also validates what History & Lit/Social Studies/Folklore & Mythology have done for decades (Theme 2)—their practices are now evidence-based best practices, not outliers.
+
+--
+
+[Article content not automatically extracted — needs manual copy]

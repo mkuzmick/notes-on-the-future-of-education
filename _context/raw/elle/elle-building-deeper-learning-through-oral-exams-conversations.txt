@@ -1,0 +1,306 @@
+---
+title: "UPenn faculty share oral exam implementation details across disciplines"
+source_url: "https://cetli.upenn.edu/news-features/feature-stories/building-deeper-learning-through-oral-exams/"
+source_title: "UPenn Center for Teaching and Learning Innovation"
+author: "UPenn CETLI"
+date: "2025-11"
+type: case-study
+tags: [oral-exam-design, scaffolding, grading, faculty-experience, peer-institutions, academic-integrity]
+summary: "Penn faculty across math, history, and Middle Eastern studies share practical oral exam designs: 30-minute Zoom sessions, low-stakes grading (Check system with Check = 93), TAs for scale, and oral defense of papers that makes AI-written submissions require more preparation work."
+harvard_relevance: ""
+---
+Building Deeper Learning Through Oral Exams: Conversations That Count
+https://cetli.upenn.edu/news-features/feature-stories/building-deeper-learning-through-oral-exams/
+
+Elle's notes:
+UPenn CETLI (Center for Teaching & Learning), November 2025
+Key insight: Multiple Penn faculty share implementation details. Math professor Phil Gressman: 30-minute Zoom sessions, asks "What do you want to talk about?" then follows up. History/Law professor Karen Tani: low-stakes grading (Check Minus/Check/Check Plus, with Check = 93), TAs critical for scale. MELC professor Emily Hammer uses oral defense of papers: "If they have used AI to write their paper, they're going to have to do a lot more work to prepare for the oral exam."
+
+--
+
+- 
+- 
+
+
+
+Building Deeper Learning Through Oral Exams: Conversations That Count
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+
+- - - 
+
+- 
+
+
+
+
+
+
+
+- 
+
+- 
+
+- 
+
+Skip to main content
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Building Deeper Learning Through Oral Exams: Conversations That Count
+
+
+
+- Home
+- News & Features
+- Feature Stories
+- Building Deeper Learning Through Oral Exams: Conversations That Count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14Nov’25
+
+
+AI Stories, Feature Stories, Spotlights
+
+- Erin Bartnett
+
+- 0 Comment
+
+
+
+
+November 14, 2025 by Erin Bartnett
+
+“I remember feeling like I was maybe going to die,” Phil Gressman of Mathematics says, about his first time taking an oral exam. The exam in question was the qualifying exam for his PhD. Luckily, the brush with mortality was fleeting: “five minutes in,” he recalls, “it was fine.”  
+
+In 2020, when the pandemic forced Gressman to re-evaluate how he was testing his students’ learning, he considered the oral exam format. He thought it might be an opportunity to have his students learn, in a much lower stakes way, that an oral exam was not fatal and might even be "a friendlier way of doing assessment.” 
+
+So he swapped the final written exam with an oral exam. In 30-minute Zoom sessions, Gressman would begin by asking students “What do you want to talk about?” Then, Gressman would ask them one of the questions he had prepared beforehand that was related to their interests. Rather than assessing students' ability to do live computations or recite facts off the top of their head, the conversations gave Gressman the opportunity to assess their deeper learning across the course material. If he wasn’t sure they understood a concept, he could ask follow-up questions. “I felt like I got a better sense of what's going on.” 
+
+But what about student stress? Did the oral exam feel fatal for them, like it did for Gressman? While they might have been nervous heading into the exam, Gressman says students ultimately felt more aligned with how they were assessed. This was also part of Gressman’s design. During the exam, Gressman would share his screen, where he took notes on their conversation, giving the students opportunities to further confirm or clarify their point as expressed in his transcript. After it was over, students had fewer questions about their final grades: “The students came away with a clear sense of how they had done, which is not always the case for a written exam.”  
+
+Gressman has continued the practice since 2020, with very few changes to his system. “My takeaway is that I’m a super big fan of oral exams,” he says.  
+
+Gressman isn’t alone. Faculty have found oral exams to be useful assessment tools. The dual forces of academic disruption — a global pandemic dovetailed by the introduction of generative AI —have combined to raise important questions for faculty across Penn: How do we know students are learning? How can we show we value the process of learning, not just the end result?  
+
+The oral exam, assessment, or check-in, is gaining traction as one way to potentially address concerns about inappropriate AI use so that students can show what they authentically know and how they think. Faculty share that oral exams are helping in that arena. But what they also share is the surprise bonus: the stress associated with exams also seems to dissipate in an oral assessment— for faculty and their students.  
+
+Supporting Student Writing
+
+Sometimes there are students who put things together in a really creative, eccentric way that actually opens my mind up.
+
+Karen Tani
+Penn Carey Law, School of Arts & Sciences
+
+Karen Tani of History and Law teaches the second half of a large legal history survey, with about 140 students enrolled. Rather than replace any part of her existing assessments, the oral assessment becomes an opportunity for students to test out their ideas before the final written exam.   
+
+For the oral assessment, Tani gives students a set of prompts in advance, which ask them to make connections across the course material. As far as grading, the oral assessment is low stakes in nature—Tani grades oral assessments with a Check Minus, Check, or Check Plus, with most students receiving a Check. The grade for a Check is a 93. Tani says the grading communicates to students that if they make a good faith effort, they’ll get a decent grade. “I think that kind of lowers the temperature,” she says.  
+
+Teaching Assistants, Tani notes, are critical for conducting oral exams at scale. Tani and her TAs break down the class into smaller groups, and grade everyone on a well-defined rubric.  
+
+Part of what makes the assessment meaningful for students is accountability: “At the end of the day, they are accountable to you in a face-to-face conversation.” This face-to-face conversation has also been inspiring for Tani and deepened her relationship with her students: “Sometimes there are students who put things together in a really creative, eccentric way that actually opens my mind up,” she says.  
+
+I will defend to the death the value of learning to write yourself. But not everybody is going to agree with that. And it is true that people will be able, in their professional lives, to offload a lot of the writing that they would have been doing in earlier times. But we can't completely offload thinking.
+
+Emily Hammer
+School of Arts & Sciences
+
+Emily Hammer of Middle Eastern Languages & Cultures also uses an oral assessment in conjunction with written assignments. She started using oral assessments in her Spring 2025 course “Who Owns the Past? Archaeology and Politics in the Middle East.” In previous years, she had assigned four papers that addressed major conceptual themes and incorporated class reading. But when she observed that students were using generative AI to write their essays, her own experience of the assessment process changed: “It fills me with existential despair when I discover that I’m grading something that was written by a robot.” It was time to try something new.  
+
+So Hammer redesigned the writing assignments in her course. Now, students spend the last 30 minutes of class writing on a prompt informed by what they read that week and discussed in class. Students still write two big papers at home, but for each paper, Hammer also conducts an oral defense. The defense is a 15 to 20-minute conversation. Hammer is candid with students. She explains that while the course policy is that students do not use AI, she can’t really control for that. However, if they have used AI to write their paper, they’re going to have to do a lot more work to prepare for the oral exam, where it will become obvious if they have exclusively relied on AI. But if they actually write the paper, the oral exam is “going to be a pleasant conversation about your paper, and you’re going to have interesting things to say when I ask you questions about it.”  
+
+The process has made Hammer a proponent of the oral exam because it “prepares students much better for the real world.” She still thinks writing is a critical skill: “I will defend to the death the value of learning to write yourself. But not everybody is going to agree with that. And it is true that people will be able, in their professional lives, to offload a lot of the writing that they would have been doing in earlier times. But we can't completely offload thinking.” 
+
+Learning To Be Nimble
+
+For Robin Pemantle of Mathematics, the oral exam helps him learn a lot more about his students—not only what they know about math, but how they learn it. Pemantle teaches Freshman Calculus to about 50 students each semester. In an ideal world, students would enter the course with foundational math skills. But Pemantle says, “this is not an ideal world.” And while exams gave him some information, talking to students was often more clarifying.  
+
+He started to explore oral exams. In his exam, students get two questions—one easier, one harder—and work through the problem on the board while they talk with Pemantle about what they’re doing. If a student stalls out on one problem, they go on to the other, or get a new problem in its place. In those 15 minutes, he gets a clear sense for where they are in their learning and what support they might need in the future. 
+
+What Pemantle likes about the exam is that it “values intellectual curiosity in a way that strategy for a written exam cannot.” The oral exam gives him the ability to assess whether students have acquired specific skills to solve problems. But it also gives him an opportunity to observe and reward how students think. On an oral exam, the student has time to sit and puzzle through a single problem. They can stumble or take a wrong turn, and Pemantle can ask questions to help them continue thinking, then pull away to let them keep going on their own. If they can’t solve the problem but take an interesting intellectual journey to get to their answer, Pemantle can give them some credit for their thinking. “When the point is to display how one interacts with math, thinks about connections, formulates conjectures,” he says, “it makes sense to reward on an exam the same type of behavior you’d like to see in class.”  
+
+It also gives students a chance to assess their own learning. “What you learn in the exam,” he tells his students, is that “you know your stuff, or you don’t, but knowing what you don’t know is useful, too.”  
+
+Ruth Elliott of LPS also wanted her students to experience how rewarding it can be to learn about your own learning. She teaches a Pre-Med Biochemistry course for students transitioning into medicine from other backgrounds. During the pandemic, she realized that having access to all the information on the entire internet created a drive for perfection. Students were requesting more time for exams which were open-book, open-note exams. “Students don't finish because they think if the device is allowed, then they need to use it for every little thing, even if it's something they already know,” she says.   
+
+After Elliott attended CETLI’s Faculty-to-Faculty session on Oral Exams in 2024, she decided to give them a try. Based on Pemantle’s advice, she decided to do a low-stakes experiment. The  oral exam would be 15 minutes, and students would answer questions based on one of two papers, which would be assigned beforehand. During the exam, Elliott would randomly pull one of the papers out of a hat. Students answered big, zoom-out questions like “How would you explain this disease to a kindergartener?” and more detailed, zoomed-in questions about class subjects like “Why would this enzyme deficiency cause this symptom?”  
+
+The oral exam, she assured students, would be part of the final, but only if it helped their grade. “And the punchline,” Elliott says, “is it helped everyone. Everyone’s final exam grade went up with an oral exam.”   
+
+She says the exam also taught her something about why students might turn to inappropriate AI use in the first place: they’ve lost the rewarding experience of learning something for themselves: “Sometimes, the reason people are not learning the right way is because they're stressed, because they don't have that feeling anymore. They're so disconnected from that feeling of having accomplished something or knowing something.” 
+
+In addition to experiencing that sense of accomplishment, Elliott also says there’s something valuable about the opportunity to engage with one another, person-to-person. “I think we're in a time where we're losing the art of conversation, and we're losing the art of in-person interaction,” she says. “It’s been a cool opportunity for me to encourage that in students and give them the feeling of—but you can do this, we still can do this.” 
+
+When the point is to display how one interacts with math, thinks about connections, formulates conjectures, it makes sense to reward on an exam the same type of behavior you’d like to see in class.”
+
+Robin Pemantle
+School of Arts & Sciences
+
+Intellectually in It
+
+For those considering conducting oral exams, Pemantle recommends observing someone who already uses them. Learning how to conduct an oral exam well might take a few tries; you have to learn how to adjust in real-time: “[Students] get started and have to have a little kindling to start the fire, but then you back off.” It requires different skills: “It's a little demanding on the instructor, because you have to be able to think on your feet.”  
+
+Indeed, it does take additional time to prepare for and administer oral exams. But faculty who use them think it is worth it. 
+
+Conducting one round of oral assessments for the whole class takes Gressman 10 hours, Tani and her teaching team 24 hours, Pemantle 15 hours, and Elliott and Hammer each about 7.5 hours. They schedule them in blocks over the course of one to two long days. Yes, Hammer admits, these exams take time to administer, which can make them difficult to schedule during the semester, and can also limit how far you might scale the exam for larger classes. But the experience, Hammer says, is better for her, too: “The workload was more, but more pleasant, and easier to break up.”  
+
+It seems oral exams might do something alchemical with time. Time accumulates: the instructor’s time spent creating and administering the exam, the student’s time spent preparing for the exam and fearing their potential demise. But then, time also disappears: for instructors, grading goes quickly, and for the students, so does the exam.  
+
+“I think they're always just amazed by how fast the time goes,” Tani says. At the beginning of the exam, she says, her students might flush with the same mortal fear Gressman described. But once they get going, like Gressman, they’re okay. By the end, she says, the students are even smiling. “The timer rings and we're mid-conversation and we're having a good time and we're intellectually in it.”   
+
+
+
+
+
+
+
+
+
+
+
+
+News & Features
+- Overview
+
+- Feature Stories
+
+- CETLI News
+
+- Teaching Award Winners
+
+More Resources
+- Overview
+
+- Supporting Your Students
+
+- Teaching that Enables Every Student to Thrive
+
+- Teaching with Technology
+
+- Generative AI & Your Teaching
+
+- Structured Active In-class Learning (SAIL)
+
+- Syllabus Language & Policies
+
+- Academic Integrity
+
+- Course Evaluations
+
+- Teaching Online
+
+- Course Roster, Classroom & Calendar Info
+
+- Policies Concerning Student-Faculty Interactions
+
+- For New Faculty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+Center for Excellence in Teaching, Learning and Innovation

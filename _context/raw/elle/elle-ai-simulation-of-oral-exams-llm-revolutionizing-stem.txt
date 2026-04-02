@@ -1,0 +1,167 @@
+---
+title: "LLM prototype for simulated oral exams in STEM education"
+source_url: "https://ai-scholar.tech/en/articles/large-language-models/future-proofing-llms"
+source_title: "AI-Scholar"
+author: "Andre Nitze"
+date: "2023-12-22"
+type: research-paper
+tags: [ai-tools, oral-exam-design, stem, socratic-method, academic-integrity]
+summary: "Researchers built a working LLM prototype that conducts oral exams with follow-up questions and grading on a university scale, framing oral exams as reducing academic fraud because face-to-face format makes dishonesty more difficult."
+harvard_relevance: ""
+---
+AI Simulation of Oral Exams: LLM Revolutionizing STEM Education
+https://ai-scholar.tech/en/articles/large-language-models/future-proofing-llms
+
+Elle's notes:
+AI-Scholar (arXiv paper summary), July 2024
+Key insight: Researchers built a working prototype where an LLM conducts simulated oral exams. The system asks questions within a given subject area, corrects misinformation, asks follow-up questions for unclear responses, and "provides grades using a university rating scale upon request." The paper explicitly frames oral exams as reducing academic fraud risk because "the face-to-face format makes it more difficult to use dishonest means."
+
+--
+
+AI Simulation Of Oral Exams, LLM Revolutionizing STEM Education 
+ Large Language Models 30/07/2024 3 main points
+✔️ Aim to improve the quality of education and reduce the burden on educators by integrating large-scale language models
+✔️ Enables personalization of the learning experience to meet individual learning needs
+✔️ AI enables students to demonstrate problem-solving and reasoning skills, testing their ability to understand and explain complex concepts
+
+
+Future-proofing Education: A Prototype for Simulating Oral Examinations Using Large Language Models
+written by André Nitze
+(Submitted on 22 Dec 2023)
+Comments: Published on arxiv.
+Subjects: Computers and Society (cs.CY); Artificial Intelligence (cs.AI)
+code：
+The images used in this article are from the paper, the introductory slides, or were created based on them.
+
+
+
+Summary
+
+STEM education has evolved rapidly in recent years. Leading this evolution are advanced information technologies such as artificial intelligence (AI) and large-scale language models (LLM). These technologies are driving innovation innewways oflearning in education.
+
+
+In particular, the use of large-scale language models has the potential to improve the quality of education. Compared to traditional methods,large-scale languagemodels make it easier to create multiple-choice questions, provide personalized feedback, and support many other education-related tasks. The vast amount of textual data that these models can process helps educators generate questions that match desired learning outcomes. As a result, educators save time and effort in creating assessments, allowing them to focus more on instructional design and tutoring. In addition ,large-scale languagemodels are useful for generating explanations, providing real-time feedback, and providing additional learning resources. These diverse capabilities make large-scale languagemodels a valuable tool for augmenting traditional teaching methods and meeting evolving educational needs.
+
+
+Against this backdrop, the emergence of GPT with OpenAI is a major advance in the field of education. Many new features that were previously technically challenging can now be implemented, and innovative applications such as "Study Buddy" have been created. Indeed, now that the "test effect" is widely recognized as a way to improve learning, leveraging these technologies to create a simulated practice environment with AI to help students prepare for oral exams is a very useful approach.
+
+
+And this oral examination is gaining attention as a method of evaluation in the age of AI. This method provides a means to delve deeper into student learning outcomes that cannot be measured by traditional written exams. In today's rapidly changing academic and professional environment, skills such as critical thinking and understanding of complex concepts are essential. Oral exams allow students to think on the fly and test their ability to express advanced knowledge, such as explaining how an algorithm works or a system design.
+
+
+This form of assessmentrequires real-world problem-solving and reasoning skills, not just knowledge recall. Students must demonstrate a deep understanding of complex programming concepts and algorithms and the ability to explain them to others, not simply memorized content.
+
+
+As AI and automation technologies advance, the ability to communicate effectively is also becoming increasingly important. Oral exams allow students to practice communicating complex ideas clearly, which is very helpful in situations where technical concepts need to be explained to non-experts. Oral exams are also a good way to assess understanding of interdisciplinary knowledge. The field of computer science has many connections to mathematics, electrical engineering, and psychology, and the oral exam encourages a comprehensive understanding across these multiple disciplines.
+
+
+This testing method also has the advantage of reducing the risk of academic fraud through accessible information and advanced AI tools. The face-to-face format makes it more difficult to use dishonest means or plagiarize answers and allows for a more accurate assessment of student competence.For students with specific learning disabilities, oral examinations also provide a more suitable means of assessment than written examinations, giving them the opportunity to better demonstrate their understanding and knowledge. While written assessments have their place, oral examinations are considered to play a particularly important role in AI-era education as a valuable means of measuring a variety of abilities.
+
+
+This paper examines how well a large-scale language model can accurately mimic a real oral exam, taking advantage of the multifaceted benefits of oral examinations. A large-scale languagemodel-based prototype thatreplicates oral examinations in higher education is developed, from its design to implementation and evaluation of its effectiveness.
+
+
+Through this research, we may learn about the role that large-scale language models play in the field of education and their limitations, and we may be inspired to consider new possibilities in the field of education.
+
+
+
+Technique
+
+In this paper, we are developing a prototype using a large-scale language model (LLM) for the purpose of replicating oral examinations in STEM education. Here is an overview of the development process.
+
+
+The requirements for this prototype are based on the educator's experience. The goal is to develop a solution that addresses the specific needs faced by students and enhances their learning experience. This requires individualized difficulty settings, providing feedback, reducing the burden on educators, and creating an educational environment that is accessible to all students from diverse backgrounds. Drawing on knowledge from actual educational settings, the prototype aims to provide clear benefits to both students and educators.
+
+
+The system is outlined in the figure below.The system is divided into a front end and a back end. The front end is developed using Typescript and the VueJS framework.The backend, on the other hand, is built using Python and the Flask framework, and is responsible for server-side processing and communication with third-party REST APIs. In particular, the method of accessing OpenAI's REST API conforms to the official OpenAI documentation.
+
+
+
+
+*Because the bottom of the image in the original book was missing, we have used it as is.
+
+
+It also provides educators and students with an intuitive interface.To make it easy for users to engage in the process, we have put a great deal of effort into designing a familiar interface that mimics a normal chat format. This interface includes a chat history view, text entry fields, a send button, and an optional "give me a hint" button.
+
+
+
+
+The prototype uses OpenAI's "Assistant API" to input user messages and generate appropriate responses. The Assistant uses existing language models such as GPT-3.5-Turbo and GPT-4. The Assistant is able to provide customized instruction and feedback to students as they prepare for oral examinations.
+
+
+The assistant asks questions within a given subject area and provides detailed, subject-specific feedback based on the student's responses. It also has the ability to correct misinformation and ask additional questions for unclear responses. Additionally, it assesses the student's level of knowledge and provides grades using a university rating scale upon request.
+
+
+The development of this prototype also includes the ability to use manually added PDF files. This allows assistants to understand the content of a particular teaching unit and test their ability to apply knowledge in a fictional scenario.
+
+
+During the actual testing phase, the effectiveness of the prototype and its impact on the learning experience was evaluated with educators and students who participated in education-related events held on the author's university campus. Based on this feedback, the prototype has been further refined and deployed in a secure hosting environment. A limited group of educators and students are available for testing and evaluation.
+
+
+
+Experimental results
+
+Here we discuss the possibilities and challenges of this prototype from the pedagogical, technical, user feedback, and privacy and data protectionperspectives on the experimental results.
+
+
+The pedagogical perspective reveals how the new assistant functions as a trusted partner and plays a key role in oral exam preparation. The assistant assists the learner in deepening his/her knowledge in each area by asking questions and providing accurate answers on all tested topics. It asks and answers questions on specific topics according to the language entered by the learner. They also provide additional clarification on unclear points and offer specific advice for the oral exam.
+
+
+This paper focuses on the areas of computer science and business information systems. The language model utilized covers a wide range of topics and provides high quality responses to textbook-level definitions. This allows students to deepen their own knowledge through interaction with assistants and by using other learning resources.
+
+
+However, the accuracy and reliability of the simulated oral test is highly dependent on the capabilities of the language model used. Factual errors and inaccurate assertions can occur during a conversation, and without human checks, these errors have not been corrected. This point needs to be clearly communicated when guiding future users.
+
+
+From a technical standpoint, we have found that the response behavior of the model can be precisely tailored to specific niche areas. By providing appropriate written instructions, assistants can provide specialized support for exam preparation in specific subjects, while leveraging their extensive capabilities. This capability demonstrates the ability to tailor to detailed needs while having a background of in-depth knowledge of almost all topics covered in the university syllabus.
+
+
+We also found that importing documents in formats such as PDF, DOCX, PPTX, TXT, and CSV into the assistant further enhances its capabilities and minimizes implementation effort. In particular, the assistant is now able to handle richer content, overcoming the limitations of the context window, which had been a limitation in previous versions of ChatGPT. This is a major improvement that also allows users to upload content directly.
+
+
+However, the report notes that generating a response can take up to 5 seconds, which can seem like a long wait for today's users. In addition, the ability to instruct assistants to behave in specific ways allows for customization of responses on the front and back end, but also points to the risk of using the model in unexpected ways. This could lead to issues such as misappropriation of training data or use for unintended purposes, and countermeasures to these issues are cited as a future challenge.
+
+
+From the perspective of user feedback, we have selected educators and students during the testing phase to actually experience the newly developed prototypes and observe their reactions. This is an opportunity for educators and students to experience a realistic test environment and share their reactions in real time.
+
+
+Positive feedback from educators and students included that the automated feedback generation feature was appreciated as it reduces the workload on educators. All participants also appreciated the personalized feedback and the interactivity of the simulation. In particular, first-time users of the chatbot were surprised by the accuracy of their answers.
+
+
+However, it is also clear that improvements are needed throughout the testing phase. Educators have requested greater customization of the test scenarios and assurance of the accuracy and reliability of the responses generated. Students have also expressed a desire for features such as real-time interaction, especially through a voice-activated interface.
+
+
+Next, I would like to discuss the importance of privacy and data protection perspectives in educational technology.The use of large-scale language models can greatly improve access to knowledge, but privacy and data protection considerations must be taken into account. Proper implementation of these measures is essential to ensure the protection of intellectual property and the security of personal data, while at the same time increasing the reliability of the system and enhancing its usefulness in education and research.
+
+
+In a real operational environment, robust authentication and authorization mechanisms are absolutely necessary to protect the identity and access rights of users. These security measures ensure that only authorized users can use the system, that the confidentiality of the information exchanged is maintained, and that the load on the system is properly managed. Adhering to these principles of privacy and data protection in the development of educational technology is essential to its success and sustainability.
+
+
+
+Summary
+
+This paper develops a prototype based on large-scale language models that simulates oral examinations in higher education,explores the potential oflarge-scale languagemodels in educational settings, and demonstrates the wide range of possibilities for implementing AI in education. Although the research is in its early stages, it provides important insights into the capabilities and limitations oflarge-scale languagemodels in this new application area, and the latest version of the OpenAI API and its assistant have shown excellent performance in tailoring learning experiences for a variety of students.
+
+
+The prototype developed shows great potential, especially in terms of providing knowledge assessment and personalized feedback in the early academic years. This is an important result that addresses the need for personalized education tailored to each student's learning path. Direct user feedback indicates that the prototype has been smoothly accepted as a learning tool. However, it is also clear that the depth and accuracy of personalization that the prototype can currently provide needs further improvement.
+
+
+It also suggests the potential to reduce the burden on educators and improve the quality of education. It also suggests that automating oral exam preparation can actually assist educators, but more extensive evaluation is needed to fully understand its impact on the educational ecosystem.
+
+
+Evaluations oflarge-scale languagemodelsspecifically designed to assess knowledge in higher education curriculaalso show excellent performance. At the undergraduate level, the large-scale language modelshows understanding and interaction commensurate with higher education standards. However, further research is needed on more complex question formats.
+
+
+The prototype proposed by this paperoffers a promising means of making STEM education more accessiblethrough large-scale language models. Additional research and development is expected to further refine the prototype and expand its applicability.
+
+ - 
+ - 
+ - 
+ Categories related to this article
+
+ - Large Language Models 
+ - Machine Learning 
+ - Deep Learning 
+ - ChatGPT 
+ - GPT 
+ Takumu I have worked as a Project Manager/Product Manager and Researcher at internet advertising companies (DSP, DMP, etc.) and machine learning startups. Currently, I am a Product Manager for new business at an IT company. I also plan services utilizing data and machine learning, and conduct seminars related to machine learning and mathematics.

@@ -1,0 +1,430 @@
+---
+title: "OSCE in Medical Education"
+source_url: "https://education.uwmedicine.org/curriculum/exams/osce/"
+source_title: "UW Medicine"
+author: "UW School of Medicine"
+date: ""
+type: practitioner-guide
+tags: [medicine, oral-exam-design, rubrics, scale, professional-domains, performance]
+summary: "The Objective Structured Clinical Examination uses standardized patients and validated rubrics to assess communication, clinical reasoning, and medical knowledge at scale -- proving oral assessment can be rigorous and standardized, not subjective vibes."
+harvard_relevance: "Medicine's OSCE model with trained evaluators and validated rubrics could inform Harvard's approach to scaling oral assignments beyond seminars."
+---
+UW Medicine / PLOS ONE — OSCE in Medical Education
+https://education.uwmedicine.org/curriculum/exams/osce/
+
+Elle's notes:
+The Objective Structured Clinical Examination (OSCE) is the gold standard for clinical assessment:
+• Students demonstrate competency in "communication, history taking, physical examination, clinical reasoning, medical knowledge, and integration of these skills"
+• Uses standardized patients (actors) in simulated scenarios
+• Highly structured with rating scales for communication skills
+• Has been used in medical education for decades with extensive research validating its effectiveness
+
+Why it matters: Medicine shows that oral assessment can be rigorous and standardized at scale. OSCEs aren't subjective "vibes"—they use validated rubrics and trained evaluators. This model could inform Harvard's approach to scaling oral assignments beyond seminars.
+
+--
+
+- 
+
+ 
+
+ 
+ OSCE: ​​​​​​​​​​​​​​​​​​​​​​General Information - UWSOM Intranet
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://education.uwmedicine.org/curriculum/assessment/osce/","url":"https://education.uwmedicine.org/curriculum/assessment/osce/","name":"OSCE: ​​​​​​​​​​​​​​​​​​​​​​General Information - UWSOM Intranet","isPartOf":{"@id":"https://education.uwmedicine.org/#website"},"datePublished":"2019-06-11T22:25:08+00:00","dateModified":"2026-02-20T19:55:43+00:00","breadcrumb":{"@id":"https://education.uwmedicine.org/curriculum/assessment/osce/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://education.uwmedicine.org/curriculum/assessment/osce/"]}]},{"@type":"BreadcrumbList","@id":"https://education.uwmedicine.org/curriculum/assessment/osce/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://education.uwmedicine.org/"},{"@type":"ListItem","position":2,"name":"Office of Curriculum","item":"https://education.uwmedicine.org/curriculum/"},{"@type":"ListItem","position":3,"name":"Assessment","item":"https://education.uwmedicine.org/curriculum/assessment/"},{"@type":"ListItem","position":4,"name":"OSCE: ​​​​​​​​​​​​​​​​​​​​​​General Information"}]},{"@type":"WebSite","@id":"https://education.uwmedicine.org/#website","url":"https://education.uwmedicine.org/","name":"UWSOM Intranet","description":"Intranet for the UW School of Medicine","publisher":{"@id":"https://education.uwmedicine.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://education.uwmedicine.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://education.uwmedicine.org/#organization","name":"UWSOM Intranet","url":"https://education.uwmedicine.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://education.uwmedicine.org/#/schema/logo/image/","url":"https://education.uwmedicine.org/wp-content/uploads/2019/06/logo.png","contentUrl":"https://education.uwmedicine.org/wp-content/uploads/2019/06/logo.png","width":331,"height":143,"caption":"UWSOM Intranet"},"image":{"@id":"https://education.uwmedicine.org/#/schema/logo/image/"}}]}
+ 
+
+- 
+- 
+- 
+- 
+- 
+ 
+ 
+ 
+ var mi_version = '10.0.2';
+ var mi_track_user = true;
+ var mi_no_track_reason = '';
+ var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/education.uwmedicine.org\/curriculum\/assessment\/osce\/"};
+ if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+ var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+ } else {
+ var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+ }
+
+ var disableStrs = [
+ 'ga-disable-G-398T76XK1K',
+ ];
+
+ /* Function to detect opted out users */
+ function __gtagTrackerIsOptedOut() {
+ for (var index = 0; index -1) {
+ return true;
+ }
+ }
+
+ return false;
+ }
+
+ /* Disable tracking if the opt-out cookie exists. */
+ if (__gtagTrackerIsOptedOut()) {
+ for (var index = 0; index 
+ 
+ 
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/education.uwmedicine.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()
+
+ - 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+/* */
+
+- - - 
+- 
+- 
+- 
+
+ ( function( w, d, s, l, i ) {
+ w[l] = w[l] || [];
+ w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+ var f = d.getElementsByTagName( s )[0],
+ j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+ j.async = true;
+ j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+ f.parentNode.insertBefore( j, f );
+ } )( window, document, 'script', 'dataLayer', 'GTM-58K295VT' );
+ 
+
+ 
+ 
+ - 
+- 
+- 
+- 
+- 
+
+
+
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'G-4PD85NYVLS');
+
+ Skip to content
+
+ 
+
+ 
+ 
+ 
+ 
+ Home » Office of Curriculum » Assessment » OSCE: ​​​​​​​​​​​​​​​​​​​​​​General Information
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ This is where "echo get_sidebar(); should go. The sidebar is adding some comment tags and throwing this off, so I'm removing the actual PHP snippet for now.
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+What is an OSCE?
+
+OSCE stands for “Observed Structured Clinical Examination.” OSCEs are very helpful in medical education because they allow a student to practice and demonstrate clinical skills in a standardized medical scenario.
+
+Students have the opportunity to demonstrate competency in communication, history taking, physical examination, clinical reasoning, medical knowledge, and integration of these skills. It is meant to be a fair and accurate way to assess competence, as well as identify areas that need more work and practice.
+
+OSCE stations may include:
+
+- Clinical interactions (in-person or virtual) with standardized patients: counseling, examination, history taking
+
+- ​Examination of mannequins and interpretation of findings
+
+- Computerized cases
+
+- Test Interpretation
+
+- Order writing
+
+Why Have OSCEs?​
+
+Every LCME-accredited medical school in the United States is required to use OSCEs to assess students’ clinical skills and the effectiveness of the curriculum. The goals of the UWSOM OSCEs are to:
+
+- Assess whether students are achieving required clinical skills as they move through the curriculum towards residency.
+
+- Give students feedback on clinical skills to allow for continual improvement.
+
+- Identify strengths and weaknesses in the curriculum.
+
+How do OSCEs work at UWSOM?
+
+There are three OSCEs at UWSOM; Two during the Foundations Phase and one following the Patient Care Phase.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundations OSCE
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+​​Timing
+
+The Foundations Phase OSCE is given in two parts:
+
+- Term 2 OSCE: Spring of year 1 of the Foundations Phase
+
+- Term 3 OSCE: Fall of year 2 of the Foundations Phase
+
+Content
+
+The Foundations OSCE are primarily based on the Foundations of Clinical Medicine (FCM) textbook/pressbook. Any content that has been covered by all regional campuses may be included in the Foundations OSCEs. Learning objectives that may be tested fall under:
+
+- Patient communication and interviewing skills
+
+- Physical examination benchmarks
+
+- Clinical reasoning
+
+- Content from clinical skills workshops
+
+Format
+
+A typical Foundations OSCE will have at least one standardized patient encounter. Each standardized patient encounter will include 2 minutes to read instructions and 18 minutes with the patient.
+
+During the 18 minute encounter, students are expected to perform an integrated patient visit, including taking a history and conducting a pertinent physical exam. Your patient encounters will be recorded on video.
+
+Immediately after the exam, you will write a SOA(P) note focusing on documenting your history and physical exam and explaining your differential diagnosis (you will not provide a treatment plan).
+
+You will review your video by yourself and then with a College Mentor for feedback. A College Mentor will also read your SOA(P) note and provide feedback.
+
+During the Term 3 OSCE, students are required to perform a complete head-to-toe physical exam as you were taught in Immersion.
+
+Grading and Remediation
+
+Student progress towards meeting Term 2 and Term 3 FCM milestones will be assessed by your video review and SOA(P) note. Students who do not achieve 2 or more milestones on the Term 2 OSCE will be referred to the UWSOM Clinical Learning Specialists for additional support and coaching. Students who do not achieve 2 or more milestones on the Term 3 OSCE will meet with the Clinical Learning Specialits and must demonstrate achievement of these milestones before entering the Patient Care phase.
+
+More details on everything above can be found on your FCM Canvas site.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Patient Care OSCE
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Timing
+
+The Patient Care OSCE is held in the mornings in May/June of the Patient Care Phase following completion of the required clerkships. Information about registration for exam dates will be sent to the class email list prior to the exam.
+
+Travel
+
+The Patient Care OSCE is held in Seattle, which means that if you are outside of Seattle you will have to travel for this exam. For more information about exam travel, go to the WWAMI Student Travel page or email gowwami@uw.edu.
+
+Content
+
+The Patient Care OSCEs rely on the FCM benchmarks and workshops, as well as principles identified in the learning objectives of the required clerkships. All of the following skills will be part of the examination:
+
+- Communication skills
+
+- Medical interviewing
+
+- Physical examination
+
+- Diagnosis
+
+- Management
+
+- Patient notes
+
+Format
+
+Patient Care OSCE stations differ from Foundations OSCE stations in that they ask students to integrate history and examination skills with development and documentation of a logical differential diagnosis and plan.
+
+Patient Care OSCEs may include:
+
+- History and physical exams with standardized patients
+
+- Examination of mannequins
+
+- Computerized cases
+
+- Telemedicine cases
+
+- Test Interpretation
+
+- Order writing
+
+- Patient education/counseling
+
+A typical Patient Care OSCE station is 25 minutes long, with 2 minutes to read instructions, 14 minutes with the patient, and 9 minutes for write-up or break.
+
+For standardized patient encounters, observers (trained standardized patients or clinicians) are evaluating your history and examination skills as well as your communication skills.
+
+Check the Sample Patient Care OSCE Patient Note to learn more about the general format for write-ups.
+
+Grading and Remediation
+
+For each station, you will receive a score of Meets Expectations (ME) or Needs Development (ND). Students who receive a specific number of ND scores on individual stations will receive an overall score of Needs Development for the entire exam.
+
+Successfully completing the Patient Care OSCE is a graduation requirement, so those students who need further development will undergo a remedial exam after meeting with their College Mentor and/or Clinical Skills Learning Specialist to review their test materials. If a student fails the Remediation OSCE, the case is remanded to the ​​Student Progress Committee for deliberation and recommendation. OSCE results are not recorded in the MSPE.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+What do accommodations look like for the OSCE?
+
+Because the exam focuses on assessing students’ clinical skills, most of the activities that take place during an OSCE are ones for which students do not typically have accommodations. Students who receive extra time on examinations will receive extra time on the OSCE for any written portions of the exam. If you have a disability that requires additional accommodations for the OSCE, please reach out to Disability Resources for Students (DRS) at uwdrs@uw.edu. The process of arranging OSCE accommodations can take at least 4-6 weeks to review and approve, so please reach out to DRS as soon as possible prior to your exam.
+
+Who can I contact with questions or feedback?​
+
+somosce@uw.edu
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+×
+ var relevanssi_rt_regex = /(&|\?)_(rt|rt_nonce)=(\w+)/g
+ var newUrl = window.location.search.replace(relevanssi_rt_regex, '')
+ history.replaceState(null, null, window.location.pathname + newUrl + window.location.hash)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ (function($) {
+ $(document).on('facetwp-loaded', function() {
+ var in_use = false;
+ var tpl = fUtil('.search-button');
+
+ // see if any facets are in use
+ $.each(FWP.facets, function(name, val) {
+ if (val.length > 0) {
+ in_use = true;
+ tpl.addClass('foo');
+ console.log(in_use);
+ tpl.css("border", "1px solid");
+ } else {
+ tpl.removeClass('foo');
+ }
+ });
+ });
+ })(jQuery);
+ 
+ 
+ (function($) {
+ $(document).on('facetwp-loaded', function() {
+ var in_use = false;
+ var tpl = fUtil('.search-button');
+
+ // see if any facets are in use
+ $.each(FWP.facets, function(name, val) {
+ if (val.length > 0) {
+ in_use = true;
+ tpl.addClass('foo');
+ console.log(in_use);
+ tpl.css("border", "1px solid");
+ } else {
+ tpl.removeClass('foo');
+ }
+ });
+ });
+ })(jQuery);

@@ -1,0 +1,320 @@
+---
+title: "Reliability of Rubrics in Clinical Oral Presentation Assessment"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11392252/"
+source_title: "Journal of Education and Health Promotion"
+author: "Muhamood Moothedath"
+date: "2024-07-05"
+type: research-paper
+tags: [rubrics, grading, oral-exam-design, medicine, equity]
+summary: "A study of 300 dental students found rubric-based oral assessment showed high statistical significance (P < 0.0001) for reliability compared to traditional methods, empirically refuting the 'too subjective' objection to oral exams."
+harvard_relevance: "Rubrics make oral assessment as reliable as written work grading; Harvard should create standardized rubrics, train faculty via calibration sessions, and share rubrics with students in advance."
+---
+Journal of Education and Health Promotion (PMC)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11392252/
+
+Elle's notes:
+A 2024 prospective study with 300 dental students (undergraduate, intern, postgraduate) compared traditional oral examination methods with rubric-based assessment. Rubrics showed high statistical significance (P < 0.0001) for reliability compared to traditional methods. The study tested the hypothesis that "rubrics are a reliable tool in the assessment of oral presentations in clinical subjects." Key findings: (1) Rubrics improve consistency across assessors, (2) provide explicit criteria that help students understand expectations, and (3) facilitate constructive feedback by breaking evaluation into transparent dimensions (content mastery, communication clarity, responsiveness to questions).
+
+Harvard relevance: The "it's too subjective" objection to oral assessment is empirically refuted. Rubrics make oral assessment as reliable as (or more reliable than) written work grading, which also suffers from inter-rater variability. For Harvard implementation, this means: (1) Create standardized rubrics for oral exams across concentrations (perhaps adapting History & Lit and Social Studies models), (2) Train faculty on rubric use (calibration sessions where multiple faculty score the same oral exam and discuss discrepancies), and (3) Share rubrics with students in advance so expectations are transparent. The study notes rubrics support "self-assessment and planning"—students can literally practice answering questions while self-scoring against the rubric, building metacognitive awareness before the actual exam.
+
+--
+
+J Educ Health Promot. 2024 Jul 5;13:182. doi: 10.4103/jehp.jehp_1016_23
+
+Reliability of rubrics in the assessment of clinical oral presentation: A prospective controlled study
+
+Muhamood Moothedath
+
+Muhamood Moothedath
+
+1Department of Public Health, Unit of Scientific Research, College of Applied Medical Sciences, Qassim University, AlQassim, Kingdom of Saudi Arabia
+
+2Centre for Global Health Research, Saveetha Medical College, Saveetha Institute of Medical and Technical Sciences, Chennai, Tamil Nadu, India
+Find articles by Muhamood Moothedath
+
+1,2,✉
+
+- Author information
+
+- Article notes
+
+- Copyright and License information
+
+1Department of Public Health, Unit of Scientific Research, College of Applied Medical Sciences, Qassim University, AlQassim, Kingdom of Saudi Arabia
+
+2Centre for Global Health Research, Saveetha Medical College, Saveetha Institute of Medical and Technical Sciences, Chennai, Tamil Nadu, India
+
+✉Address for correspondence: Dr. Muhamood Moothedath, Assistant Professor, Department of Public Health, Unit of Scientific Research, College of Applied Medical Sciences, Qassim University, AlQassim, 51921, Kingdom of Saudi Arabia. E-mail: m.muhamood@qu.edu.sa
+
+Received 2023 Jul 13; Accepted 2023 Oct 16; Collection date 2024.
+
+Copyright: © 2024 Journal of Education and Health Promotion
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
+
+PMC Copyright notice
+
+PMCID: PMC11392252  PMID: 39268433
+
+Abstract
+
+BACKGROUND:
+
+Rubrics are assessment tools customarily designed to judge a student’s skills in diagnosis, clinical assessment, presentations. as well as academic performance. The aim of the present study was to assess the reliability of rubrics in clinical oral presentations by students.
+
+MATERIALS AND METHODS:
+
+This was a prospective control study that enrolled 300 undergraduate students, students in their internships, and post-graduate students in various clinical streams. Ethical committee approval was obtained before finalizing the study from appropriate regulatory and institutional bodies. A pre-validated questionnaire was designed and distributed to all the participating students. All students were assessed using the traditional examination method as well as by rubric assessment. The responses obtained were compared and statistically analyzed using one-way ANOVA and the Chi-square statistical tool.
+
+RESULTS:
+
+Rubric assessment was found to have high statistical significance (P < 0.0001) when compared with the traditional method of examination.
+
+CONCLUSION:
+
+In the present study, rubrics were found to serve as an effective method for judging student skills following a clinical oral presentation. However, due to contradictory scientific evidence, there is a requirement for a large sample size to be included for rubric or traditional assessment method studies.
+
+Keywords: Clinical, data analysis, decision making, oral, presentation, rubrics, traditional, learning
+
+Introduction
+
+Rubrics are instruments or tools for assessment that have been designed to assist in the identification and evaluation of qualitative variations in performance by a student. Research on scoring types of rubrics has demonstrated their two main uses: first, to aid assessors in obtaining high consistency levels as a part of providing scores for performance-based tasks, and second, to promote the process of learning and cause improvements in instructions by explicitly assessing and also by assisting the process of feedback.[1,2]
+
+Research on rubrics has also documented positive effects on the educational system, for example, by aiding the development of students toward independent learning and improving their performance. These effects may be attributed to the explicit nature of expectations as well as criteria that facilitate processes like interpretation and making proper use of feedback. Consequently, rubrics can be used as tools to communicate expectations and provide support for different types of assessment-based learning processes.[3,4]
+
+Most rubric associated studies are on a smaller scale and make use of short interventions.[3,4] Thus, it is difficult to get an overview of the successful use and design of rubrics for academic purposes.
+
+The scoring of rubrics has facilitated the learning of students by means of two different pathways—a) the first type of pathway includes helping students to understand and use feedback collected from their teachers or peers. Rubrics are comprised of various levels in quality that are easy to attain and can be interpreted with ease using a constructive type of feedback.
+
+b) The second pathway deals with self-efficiency, anxiety, and orientation-based process of learning. All of these factors can affect the performance of a student. The most significant requirement for understanding rubrics is transparency, which allows students to self-estimate their capabilities along with planning, monitoring, and evaluating their performance as per determined criteria. Thus, the students are able to exert greater control over the process of learning, which causes a reduction in anxiety as well as negatively directed strategies toward learning. Assessment using rubrics helps to develop control along with self-responsibility to deal with stress and allows students to develop greater orientation in their performance.[5]
+
+Jonsson and Svingby (2007) studied different designing rubric features like a) task specificity, b) score-based strategy to decide if the scoring process is holistic and/or analytical in nature, and c) quality. Jonsson and Svingby[4] specifically suggested the use of rubrics that are specific to a task and reliable in nature. Such a design would not, however, be appropriate for formative purposes since fewer quality levels would make the rubric less useful for providing and understanding constructive feedback. In addition, any rubric that may be useful for performing any single task cannot be used for making any formation-oriented assessment. Learning to use a rubric requires time, while any selected rubric must be reproducible, and according to Dawson (2015), it should be capable of performing identical types of tasks.[6]
+
+The questions-and-answers session following any presentation is considered important and plays an important part in academics and conferences.[7] A scientific presentation constitutes an academically enriched monologue that is directly controlled by presenters since the presentation is most of the time scripted.[8]
+
+On the other hand, question-answer sessions following any presentation demand constant mental presence by the presenters to provide immediate, accurate responsiveness.[9] Any presenter’s professional knowledge as well as credibility may be damaged if they cannot perform up to the mark during these sessions.[10] Most of the time, if these situations arise, these presenters are considered to be academically or linguistically incapable of coping with and handling questioning during these sessions, despite delivering a well-prepared and well-polished scientific presentation in good and fluent English. During these questioning rounds following any presentation, an experienced presenter must conduct himself or herself in an appropriate and professional manner, possess the ability to think quickly, and provide an appropriate response to the question being asked.[10] Since these sessions are seen as a sort of evaluation, handling them requires an excellent skill set, as sometimes these questions may be different from the information presented. Most importantly, there is a requirement of good inter-personal skills, polite behavior, and strategic answering, which act as a face saver in a difficult question round.[11]
+
+Therefore, these sessions may indeed cause stress for a presenter, especially if a presenter has to face a huge number of unknown audiences.[11]
+
+Hence, keeping in view of existing facts about rubrics, this study was planned with the aim of testing the reliability of rubrics in the assessment of clinical oral presentations. The null hypothesis for this study was that rubrics are a reliable tool in the assessment of oral presentations in clinical subjects.
+
+Materials and Methods
+
+Study design and setting
+
+This prospective controlled purposive sampling study was based on a pre-validated questionnaire on dental students conducted at a professional dental college.
+
+Study participants and sampling
+
+This study was conducted on 300 undergraduate students that included third year, final year, and interns along with post-graduate students enrolled in a professional dental college. Selected students were then categorized into two groups 1) intervention or rubric-assessed group and 2) group assessed using traditional clinical techniques.
+
+Ethical approval for conducting this study was obtained from the institutional ethics committee. A pilot study was previously conducted on 10% of the total sample size to validate the questionnaire designed for the survey.
+
+Inclusion criteria for study participation were a) students who agreed to participate in the study and b) those who answered all questions in the questionnaire.
+
+Exclusion criterion was any subject who had previously participated in a rubric assessment study.
+
+Tool used for data collection
+
+A pre-validated questionnaire was designed by study investigators after a review of previously published literature. The questionnaire was subdivided into two parts and comprised a total of ten open-ended as well as closed-ended questions.
+
+The first portion of the questionnaire assessed student’s demographic data along with previous academic experience (questions numbered from 1 to 5), while the second component of the questionnaire contained student evaluations of tools used for assessing clinical training (both traditional methods and rubric-based assessments). This portion contained questions numbered from 6 to 10. Students were provided with the printed questionnaire, which they had to fill out and return within 15 minutes. The Cronbach’s α coefficient obtained was found to be 0.92, which showed validity.
+
+The <Investigator> explained the study to all students, and prior to circulating the questionnaire, they asked them to sign an informed consent form for study participation. All students were assessed using traditional clinical assessment tools as well as rubric assessment tools.
+
+A traditionally-based tool for clinical assessment was adopted by Eymard, Lyons, and Davis (2012).[12] It included four checklist parameters. Each of the checklists contained three options as tools for evaluation: a) Unsatisfactory = score 1, b) Satisfactory = score 2, and c) Not applicability = Score “zero.” Students were considered to achieve the learning objectives of the clinical course if their total calculated score was found to be >60% of the obtained score.
+
+In the intervention or rubric assessment group, the study investigators modified the rubric assessment tool proposed by Curran et al. (2011).[13] The tool consisted of a total of “27” items. Each of the items is comprised of a four-point scale [i.e., a) minimal, b) developing, c) competent, and d) mastery], each including a description criteria. This tool covered a total of five dimensions, that is, communication skills, collaborating with different specialties, different roles as well as responsibilities, a collaborative approach between patients and family, and teamwork. The total obtained score ranged between 27 and 108.
+
+The students were considered to achieve clinical objectives if their score obtained was >60%. A brief session for orientation purposes and to explain the assessment using rubrics was held by study investigators for selected students at the start of the study semester. They were explained about using it for assessment of clinical performance throughout and at the end of the study semester.
+
+All the students who were a part of the study were given a copy of the rubric tool by the investigators during clinical-based orientation. Students were provided with sufficient time for reviewing the rubric. They were encouraged to be inquisitive.
+
+Students’ clinical performance was assessed by researchers in the clinical area through a rubric (formative part of the evaluation, i.e., the first trial). Students were provided with a feedback form that was framed on overall clinical functioning throughout the time of clinical trainings. All participating students were instructed regarding the use of feedback-based evaluation for either maintaining good clinical performance or improving clinical skills. The clinical skills and performance of students were evaluated by study investigators at the end of the study semester by making use of the rubric tool. This constituted the summative part of the evaluation or second phase of the trial.
+
+Statistical analysis
+
+The data were analyzed using SPSS (Statistical Package for the Social Sciences) version 20.0. The ANOVA (Analysis of variance) and χ2 tests were employed to compare quantitative and qualitative variables between the groups.
+
+Results and Observations
+
+Demographics
+
+The study was conducted on 300 students who were mostly third year, final year, and interns along with post-graduate students from different clinical departments. The study comprised 180 female students and 120 male students belonging to different parts of India.
+
+The qualitative method was used for the assessment of the tools compared in this study and included statements as follows: a) accuracy of clinical information, b) student’s capability of noting the clinical examination meticulously, c) qualitative method of recording clinical observations by the student, that is, unilateral or bilateral; acute or chronic, d) student’s capability of using medical and/or dental terminologies while recording of observations such as abscess, pyrexia, and tenderness, e) student’s capability of summarizing clinical observational findings, f) student can answer questions following presentation, and g) student’s capability of maintaining composure throughout the oral presentation and in the question round following presentation [Table 1].
+
+Table 1.
+
+Table illustrating assessment of rubric in a clinical oral examination
+
+Questionnaire assessment based on rubrics
+Score
+
+Students can record accurate clinical information
+0—No 1—Yes
+
+Students can narrow down the differential diagnosis by meticulously taking clinical history
+0—No 1—Can narrow but also misses critical information
+ 2—Appropriately note down the differential diagnosis
+
+Students are capable of noting observations in a qualitative manner, most importantly in binary terms like chronic or acute; unilateral or bilateral
+0—No 1—Yes
+
+Students can express important findings using medical or dental terminology such as bradycardia, dislocation, and abscess
+0—No 1—Yes
+
+Students are able to summarize disease statement
+0—No 1—Yes
+
+Students can effectively face questioning after the presentation
+0—No 1—Yes
+
+Students are capable of maintaining their composure throughout the presentation
+0—No
+
+1—Yes
+ 2—Sometimes
+
+Open in a new tabOn analyzing the traditional assessment method and comparing it with a rubric-based assessment system, the following observations were made: Both systems demonstrated extremely high statistically significant differences in accurately representing clinical facts, narrowing differential diagnosis until final diagnosis, and the ability to transform clinical information into a suitable presentation format [Table 2 and Figure 1].
+
+Table 2.
+
+Table showing inter-observer reliability of student responses using a comparison between traditional scoring and rubric assessment method for clinical oral examination
+
+Component
+Inter-observer reliability (by means of correlation coefficient)
+95% confidence level
+
+P
+
+Accurate representation of clinical facts
+0.672
+0.562–0.765
+<0.001
+
+Narrowing of differential diagnosis to final diagnosis
+0.876
+0.786–0.854
+<0.001
+
+Transforming information derived from clinical examination to oral presentation
+0.789
+0. 671–0.782
+<0.001
+
+Open in a new tab
+
+Figure 1.
+
+Open in a new tab
+Graph representing values of all comparison parameters between traditional and rubric assessment tools
+
+Discussion
+
+Clinical diagnostic reasoning is a skill that is difficult to assess, either in a direct or indirect manner. This is mainly due to the cognitive processing used by clinicians, which makes it difficult to measure. Also, the diagnostic skill makes use of different domains, like taking a complete patient history, physical or oral examination along with application of medical or dental knowledge.[14] There are different methods that may be used for assessing one’s clinical prowess in reasoning, for example, examination of clinical details,[15] scripting and interpreting laboratory test findings,[16,17] and selecting the most appropriate answer from multiple provided answers.[18]
+
+Some of the validated evaluative tools include one’s ability to concisely summarize the clinical statement as an effective marker in clinical assessment since it has the requirement of student’s capability for synthesizing as well as prioritizing information from clinical examination and/or laboratory analysis or radiographic assessment.[19,20,21]
+
+In the present study, both systems demonstrated an extremely high statistically significant difference, as evident through P-values on comparison between the traditional method of clinical assessment of students and assessment using a rubric tool. The assessment scores were compared for parameters like an accurate representation of clinical examination-derived information, narrowing down the clinical differential diagnosis to almost the final clinical diagnosis, and the ability to make an oral presentation with all clinical details in an appropriate manner. Hence, it can be conclusively said that the use of a rubric system can be more effective in the assessment of clinical oral presentations.
+
+Similar to our study findings, Ginkel et al. (2019) in their analysis found significant improvement between pre-and post-test competence following an oral presentation.[22]
+
+Smith et al. (2016) demonstrated an appropriate rubric tool for the assessment of medical summary statements after clinical examination.[23]
+
+In contrast to our study findings, Escribano et al. (2023) concluded that clinical evaluation skills were not affected by the assessment tool used.[24]
+
+Hence, there are contrasting findings that support or oppose the use of rubrics as an assessment tool in clinical oral presentations. Although the current study strongly recommends the use of rubrics as a tool for one’s ability to make a sound in the clinical oral presentation.
+
+Limitations
+
+The limitations of the study include the limited study sample, and since all students were from a single institute, there are chances of a situational bias. Hence, samples in such studies must be derived from different sources, that is, different institutions.
+
+Conclusion
+
+A student’s clinical performance has been traditionally judged by an evaluator based on cognitive abilities along with academic as well as clinical expertise. The use of rubrics as an effective tool for assessing students has only come into focus in recent years. There are contradictory findings that support or negate its use for the assessment of various clinical skills. Hence, large sample sized studies should be planned, as this is a major limitation of such studies.
+
+Financial support and sponsorship
+
+Researcher would like to thank the Deanship of Graduate Studies and Scientific Research at Qassim University for financial support (QU-APC-2024-9/1).
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Acknowledgments
+
+The author would like to acknowledge the contributions of different clinical evaluators and students in the success of this prospective controlled study
+
+References
+
+- 
+1.Jonsson A. Facilitating productive use of feedback in higher education. Active Learning in Higher Education. 2013;14:63–76. [Google Scholar]
+
+- 
+2.Jonsson A. The use of transparency in the ‘interactive examination’ for student teachers. Assessment in Education: Principles, Policy and Practice. 2010;17:185–99. [Google Scholar]
+
+- 
+3.Brookhart SM, Chen F. The quality and effectiveness of descriptive rubrics. Educational Review. 2014;67:343–68. [Google Scholar]
+
+- 
+4.Jonsson A, Svingby G. The use of scoring rubrics: Reliability, validity and educational consequences. Educational Research Review. 2007;2:130–44. [Google Scholar]
+
+- 
+5.Torrance H. Assessment as learning? How the use of explicit learning objectives, assessment criteria and feedback in post-secondary education and training can come to dominate learning. Assessment in Education: Principles, Policy & Practice. 2007;14:281–94. [Google Scholar]
+
+- 
+6.Dawson P. Assessment rubrics: Towards clearer and more replicable design, research and practice. Assessment and Evaluation in Higher Education. 2017;42:347–60. doi: 10.1080/02602938.2015.1111294. [Google Scholar]
+
+- 
+7.Guest M. Japanese doctors in discussion sessions at internatiosnal medical conferences. Journal of medical English education: Official Journal of Japan Society for Medical English Education. 2016;15:22–8. [Google Scholar]
+
+- 
+8.Thompson G. Training teachers to ask questions. ELT J. 1997;51(2):99–105. [Google Scholar]
+
+- 
+9.Peng H. A study of L2 EAP learners’ performance in a simulated international conference: Three markers of interpersonal relationship in discussion sessions. Asian J Appl Linguist. 2018;5:130–41. [Google Scholar]
+
+- 
+10.Paribakht T. Strategic competence and language proficiency. Applied linguistics. 1985;6:132–46. [Google Scholar]
+
+- 
+11.Heino A, Tervonen E, Tommola J. Metadis course in academic conference presentations. In: Ventola E., Shalom C., Thompson S., editors. The language of conferencing. Peter Lang; 2002. pp. 127–146. [Google Scholar]
+
+- 
+12.Eymard SA, Lyons R, Davis A. Clinical Performance Evaluation Tools Utilizing the QSEN Competencies. Nurse Educator. 2012;37(2):166–9. [Google Scholar]
+
+- 
+13.Curran V, Hollett A, Casimiro LM, Mccarthy P, Banfield V, Hall P, et al. Development and validation of the inter professional collaborator assessment rubric (ICAR) J Interprof Care. 2011;25:339–44. doi: 10.3109/13561820.2011.589542. [DOI] [PubMed] [Google Scholar]
+
+- 
+14.Durning SJ, Artino AR, Jr, Schuwirth L, van der Vleuten C. Clarifying assumptions to enhance our understanding and assessment of clinical reasoning. Acad Med. 2013;88:442–8. doi: 10.1097/ACM.0b013e3182851b5b. [DOI] [PubMed] [Google Scholar]
+
+- 
+15.Bordage G, Brailovsky C, Carretier H, Page G. Content validation of key features on a national examination of clinical decision-making skills. Acad Med. 1995;70:276–81. doi: 10.1097/00001888-199504000-00010. [DOI] [PubMed] [Google Scholar]
+
+- 
+16.Charlin B, van der Vleuten C. Standardized assessment of reasoning in contexts of uncertainty: The script concordance approach. Eval Health Prof. 2004;27:304–19. doi: 10.1177/0163278704267043. [DOI] [PubMed] [Google Scholar]
+
+- 
+17.Lubarsky S, Dory V, Duggan P, Gagnon R, Charlin B. Script concordance testing: From theory to practice: AMEE guide no. 75. Med Teach. 2013;35:184–93. doi: 10.3109/0142159X.2013.760036. [DOI] [PubMed] [Google Scholar]
+
+- 
+18.Beullens J, Struyf E, Van Damme B. Do extended matching multiple-choice questions measure clinical reasoning? Med Educ. 2005;39:410–7. doi: 10.1111/j.1365-2929.2005.02089.x. [DOI] [PubMed] [Google Scholar]
+
+- 
+19.Kogan JR, Shea JA. Psychometric characteristics of a write-up assessment form in a medicine core clerkship. Teach Learn Med. 2005;17:101–6. doi: 10.1207/s15328015tlm1702_2. [DOI] [PubMed] [Google Scholar]
+
+- 
+20.Lewin LO, Beraho L, Dolan S, Millstein L, Bowman D. Interrater reliability of an oral case presentation rating tool in a pediatric clerkship. Teach Learn Med. 2013;25:31–8. doi: 10.1080/10401334.2012.741537. [DOI] [PubMed] [Google Scholar]
+
+- 
+21.Bowen JL. Educational strategies to promote clinical diagnostic reasoning. N Engl J Med. 2006;355:2217–25. doi: 10.1056/NEJMra054782. [DOI] [PubMed] [Google Scholar]
+
+- 
+22.Stan GV, Gulikers J, Biemans H, Omid N, Mila R, Tilborg T, et al. Fostering oral presentation competence through a virtual reality-based task for delivering feedback. Computers & Education. 2019;134:78–97. [Google Scholar]
+
+- 
+23.Smith S, Kogan JR, Berman NB, Dell MS, Brock DM, Robins LS. the development and preliminary validation of a rubric to assess medical students’ written summary statements in virtual patient cases. Acad Med. 2016;91:94–100. doi: 10.1097/ACM.0000000000000800. [DOI] [PubMed] [Google Scholar]
+
+- 
+24.Escribano N, Belliard V, Baracco B, Da Silva D, Ceballos L, Fuentes MV. Rubric vs. numeric rating scale: Agreement among evaluators on endodontic treatments performed by dental students. BMC Med Educ. 2023;23:197. doi: 10.1186/s12909-023-04187-3. [DOI] [PMC free article] [PubMed] [Google Scholar]

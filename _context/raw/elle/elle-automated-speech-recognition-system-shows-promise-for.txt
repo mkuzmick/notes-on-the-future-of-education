@@ -1,0 +1,243 @@
+---
+title: "OpenAI Whisper achieves near-perfect correlation with human raters for speech assessment"
+source_url: "https://phys.org/news/2025-04-automated-speech-recognition-language-accessible.html"
+source_title: "Phys.org"
+author: "Doshisha University"
+date: "2025-04"
+type: research-paper
+tags: [ai-tools, grading, scale, accessibility]
+summary: "OpenAI Whisper with Word Error Rate scoring achieves near-perfect correlation with human raters across 900 speech samples, enabling real-time smartphone-based oral assessment with exceptional accuracy even with background noise."
+harvard_relevance: ""
+---
+Automated Speech Recognition System Shows Promise for Making Language Testing More Accessible and Scalable
+https://phys.org/news/2025-04-automated-speech-recognition-language-accessible.html
+
+Elle's notes:
+_Phys.org (reporting on Doshisha University research), April 2025_
+Key insight: OpenAI Whisper + Word Error Rate scoring achieves near-perfect correlation with human raters for elicited imitation tasks. 30 students × 30 items = 900 speech samples. Automated scoring showed "exceptional accuracy" even with background noise. Researchers developing "a web-based EI testing platform... tests can be taken on a smartphone and scoring can be done online in real time."
+
+--
+
+April 11, 2025
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Automated speech recognition system shows promise for making language testing more accessible and scalable
+
+ 
+ by Doshisha University 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Editors' notes
+ 
+ 
+ 
+ 
+ This article has been reviewed according to Science X's 
+ editorial process
+ and policies.
+ Editors have highlighted
+ the following attributes while ensuring the content's credibility:
+ 
+
+ 
+ fact-checked
+ 
+
+ 
+ trusted source
+ 
+
+ 
+ proofread
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The GIST
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add as preferred source
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ The good linearity depicted in this plot indicates excellent agreement between manual scoring and fully automated scoring, showcasing the potential of the proposed system. Credit: Michael McGuire / Doshisha University, Japan
+ 
+ 
+In today's increasingly interconnected world, language learning has become essential for education, business, and cultural exchange. However, accurately measuring proficiency in language learners is a complex matter. One particularly valuable approach involves asking learners to listen to sentences and then repeat them back as accurately as possible.
+
+ 
+ 
+ 
+ 
+
+ Known as elicited imitation (EI), this method reveals much more than mere memory and mimicking abilities. When sentences exceed our working memory capacity—typically beyond eight to 10 syllables—successful repetition requires learners to quickly process and reconstruct the language using their internalized knowledge of its patterns and structures. Thus, EI can provide a window into one's true language proficiency.
+
+While EI has been refined over decades, its widespread adoption has been limited by a significant practical challenge: the need for trained human evaluators to listen to and score each response. This time-consuming process makes large-scale assessments difficult, despite EI's studied effectiveness.
+
+Even though EI-based tests gained significant traction in the early 2000s thanks to the development of a standardized scoring approach, EI's resource demands have continued to restrict its use in educational settings where it could be beneficial.
+
+Against this backdrop, a research team comprising Associate Professor Michael McGuire from the Department of English, Faculty of Letters, Doshisha University, Japan, and Dr. Jenifer Larson-Hall from The University of Kitakyushu has pioneered an automated approach for EI assessment.
+
+Their latest paper, published in Research Methods in Applied Linguistics, demonstrates how artificial intelligence can help revolutionize this process.
+
+ 
+ 
+ 
+ 
+
+ The researchers proposed a two-part solution to automate EI testing: first, using OpenAI's Whisper, an automatic speech recognition (ASR) system, to transcribe learners' spoken responses into text; and second, applying a computational metric called "Word Error Rate (WER)" to evaluate how closely these responses matched the original prompts.
+
+Whisper ASR was selected because of its high accuracy with non-native speech and tolerance for background noise, while WER offered a precise way to measure deviations from target sentences, identifying substitutions, insertions, and deletions at the word level.
+
+The team theorized that, together, these technologies could potentially replace human raters while maintaining assessment quality. To test this approach, they recruited 30 Japanese university students with varying levels of English proficiency, who completed a 30-item EI test. The resulting 900 speech samples were transcribed both by human raters and by the Whisper ASR system.
+
+Remarkably, they found that Whisper's transcriptions matched those of the human raters, demonstrating exceptional accuracy. This strong alignment persisted even though the testing conditions were not ideal and included some instances of background noise, highlighting the system's robustness in real-world educational environments.
+
+ 
+ 
+ Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights.
+ Sign up for our free newsletter and get updates on breakthroughs,
+ innovations, and research that matter—daily or weekly.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ document.querySelector('form[name="adNwSubscribe"]').addEventListener('submit', function (e) {
+ e.preventDefault();
+ const container = this.querySelector('div[data-recaptcha]');
+ const sitekey = container.getAttribute('data-sitekey');
+ let nwWidgetId = grecaptcha.render(container, {
+ sitekey: sitekey,
+ size: 'invisible',
+ callback: (token) => {
+ window.onSubscribe(this);
+ }
+ });
+
+ try {
+ // Trigger the invisible captcha
+ grecaptcha.execute(nwWidgetId);
+ } catch (err) {
+ const errorMsg = document.createElement('p');
+ errorMsg.className = 'text-danger';
+ errorMsg.textContent = 'reCaptcha error, please try again.';
+ this.appendChild(errorMsg);
+ }
+
+ return false;
+ });
+ 
+
+ Most importantly, the automated scoring aligned extremely well with traditional human evaluation methods, showing a near-perfect correlation.
+
+"Our study demonstrates the feasibility and reliability of fully automated speaking tests for English language learners, which can be conducted at scale for low cost, making the assessment of speaking proficiency much more accessible and reliable for widespread use," explains Mr. McGuire.
+
+The implications extend beyond merely saving teachers' time and resources. Automated assessment could enable more frequent evaluation of students' speaking skills, providing the timely feedback crucial for language development. It could also facilitate larger-scale studies that have previously been impractical due to the demands of manual scoring.
+
+The research team is already working towards making these goals a reality, as Mr. McGuire states, "We are currently developing a web-based EI testing platform, which we plan to fully automate using Whisper ASR and WER so that tests can be taken on a smartphone and scoring can be done online in real time. We hope to make this fully automated platform available to other researchers and educators in the near future."
+
+Looking ahead, the researchers also plan to expand their approach to develop multiple standardized test forms with equivalent difficulty levels, enabling more reliable tracking of language development over time. They also envision creating curriculum-specific tests focused on particular vocabulary and grammar features, and potentially even adaptive tests that could pinpoint oral proficiency more efficiently than current methods.
+
+As artificial intelligence continues to advance, this research represents a significant step toward making reliable language assessment more accessible and scalable.
+
+ 
+ 
+ 
+ 
+
+ More information 
+
+ Michael McGuire et al, Assessing Whisper automatic speech recognition and WER scoring for elicited imitation: Steps toward automation, Research Methods in Applied Linguistics (2025). DOI: 10.1016/j.rmal.2025.100197
+
+ 
+ 
+
+ 
+
+ 
+ 
+ Provided by
+ Doshisha University
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Citation:
+ Automated speech recognition system shows promise for making language testing more accessible and scalable (2025, April 11)
+ retrieved 2 March 2026
+ from https://phys.org/news/2025-04-automated-speech-recognition-language-accessible.html
+ 
+ 
+ This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+ part may be reproduced without the written permission. The content is provided for information purposes only.

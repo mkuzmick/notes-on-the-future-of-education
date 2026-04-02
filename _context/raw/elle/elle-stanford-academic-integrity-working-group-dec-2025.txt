@@ -1,0 +1,36 @@
+---
+title: "Stanford Academic Integrity Working Group on AI and Exam Policies"
+source_url: "https://studentaffairs.stanford.edu/news/academic-integrity-working-group-addresses-generative-ai-and-exam-policies"
+source_title: "Stanford Student Affairs"
+author: "Stanford AIWG"
+date: "2025-12"
+type: institutional-policy
+tags: [peer-institutions, ai-policy, ai-detection, oral-exam-design, academic-integrity]
+summary: "Stanford's AIWG found AI detection tools unreliable (biased, false positives/negatives) and officially recommends 'in-person formats such as oral exams and in-class writing assignments' for AI-restricted assessments; their proctoring pilot now includes 50+ courses."
+harvard_relevance: "Peer precedent from a direct competitor: Stanford has moved beyond detection to assessment redesign, officially recommending oral exams as one validated approach."
+---
+Stanford Academic Integrity Working Group (Dec 2025)
+https://studentaffairs.stanford.edu/news/academic-integrity-working-group-addresses-generative-ai-and-exam-policies
+
+Elle's notes:
+The smoking gun for Harvard's consideration: Stanford's AIWG explicitly recommends "in-person formats such as oral exams and in-class writing assignments" for instructors who wish to limit AI use in high-stakes assessments. The group found AI detection tools unreliable—prone to bias, false positives/negatives, and unable to assess mixed human/AI writing. Their proctoring pilot now includes 50+ courses.
+
+Why it matters: Stanford has moved beyond detection to redesign. Their official recommendation of oral exams validates Harvard's potential pivot. This is peer precedent from a direct competitor.
+
+--
+
+Stanford's Academic Integrity Working Group: AI and Exam Policies
+
+Stanford's Academic Integrity Working Group (AIWG) has released updated guidance for faculty regarding generative AI use and exam administration as the university enters its third year of a proctoring pilot program.
+
+Proctoring Pilot Expansion:
+The AIWG launched its multi-year pilot study in spring 2024 with seven courses. Participation has grown significantly, with over 50 courses across multiple schools now engaged in the pilot during the current quarter.
+
+AI Detection Concerns:
+The working group identified substantial limitations with AI detection tools, noting they suffer from "bias and occurrences of false positives and negatives." The group determined these tools "often fail to reliably assess the extent of AI involvement" in mixed human-AI content, making them unsuitable for high-stakes academic misconduct cases.
+
+Recommendations for Faculty:
+For courses not in the proctoring pilot, the AIWG recommends "in-person formats such as oral exams and in-class writing assignments" when faculty wish to restrict AI use during evaluations.
+
+Departmental Policy Development:
+The AIWG emphasizes that "departments and multi-section courses are encouraged to establish consistent and enforceable AI policies." Such policies should be clearly communicated and regularly discussed with students throughout the academic year.

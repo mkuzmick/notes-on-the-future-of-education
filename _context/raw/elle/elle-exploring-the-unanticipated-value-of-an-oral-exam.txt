@@ -1,0 +1,134 @@
+---
+title: "Integrated oral exams produce unanticipated learning benefits across courses"
+source_url: "https://www.sciencedirect.com/science/article/abs/pii/S1877129725000231"
+source_title: "Currents in Pharmacy Teaching and Learning"
+author: "Gardner A. Lepp, Sarah M. Westberg, Jungeun Lee, Kristin K. Janke"
+date: "2025-02"
+type: research-paper
+tags: [oral-exam-design, deep-learning, curriculum-design, pedagogy, feedback]
+summary: "Integrated oral exams testing material across multiple courses simultaneously produced unanticipated formative benefits including caring, learning-how-to-learn, and cross-course knowledge synthesis -- functioning as both summative assessment and high-impact learning practice."
+harvard_relevance: "Could address Harvard's General Education goal of connected learning by forcing integrative thinking across courses."
+---
+Exploring the unanticipated value of an oral exam integrating content across courses
+https://www.sciencedirect.com/science/article/abs/pii/S1877129725000231
+
+Elle's notes:
+A February 2025 study examined Integrated Oral Examinations (IOE) that test material across multiple courses simultaneously. Findings: "The IOE has both a summative and formative effect (ie, Assessment of Learning and Assessment for Learning) and also functions as a high-impact assessment practice." The study notes: "Compared to their written counterpart, oral assessments provide a wealth of information about student understanding. Instead of deciphering a static response, oral assessments provide instructors the opportunity to probe a student's understanding in real time." The IOE format helps students "integrate knowledge across courses" rather than compartmentalize learning by subject.
+
+Harvard relevance: This addresses a core liberal arts goal: synthesis across disciplines. Harvard's General Education program aims to develop "breadth and connected learning"—but traditional course-by-course written exams encourage siloed knowledge (students study for Econ 10 separately from Gov 20). Integrated oral exams could test whether students can connect economic theory to political institutions, literary analysis to historical context, etc. The "high-impact practice" designation is significant—these are pedagogies proven to increase retention and deep learning. For Harvard's tutorial system: joint oral examinations across related courses (e.g., History & Literature's interdisciplinary model) could replace separate written finals, forcing students to demonstrate integrative thinking. The formative + summative finding also matters: oral exams aren't just end-of-course gatekeeping—they teach students how to synthesize through the preparation process.
+
+--
+
+Currents in Pharmacy Teaching and Learning
+Volume 17, Issue 5, May 2025, 102302
+
+Exploring the unanticipated value of an oral exam integrating content across courses
+Author links open overlay panelGardner A. Lepp a, Sarah M. Westberg b, Jungeun Lee b, Kristin K. Janke bShow moreAdd to MendeleyShareCitehttps://doi.org/10.1016/j.cptl.2025.102302Get rights and content
+
+Abstract
+
+Background
+An oral examination, in addition to assessing knowledge gains, can assess various skills including communication, critical thinking, and decision-making. These anticipated outcomes are valuable in helping students matriculate. This study aims to describe and explore unanticipated effects of an oral exam, and how those effects can have a positive long-term influence on student learning.
+
+Educational activity
+An Integrated Oral Exam (IOE) was used to assess a student's ability to effectively integrate and apply knowledge from multiple pharmacotherapy content areas to address complex patient cases. Students were required to develop care plans, and verbally explain, rationalize, and defend the plans with an evaluator during a one-on-one question and answer assessment. The IOE is administered in the spring semester of the second year. It consists of two cases followed by a debriefing session using a modified plus-delta approach.
+
+Evaluation findings
+An evaluation sought to develop a deeper understanding of the exam by exploring: why is this working and what is happening? Five years of student debriefing documentation underwent multiple cycles of coding. In addition to inductive coding exploring the exam's functioning, Fink's Taxonomy of Significant Learning was used for deductive coding.
+
+Analysis of educational activity
+While it was expected that there would be evidence of the exam's influence on Foundational Knowledge and Integration, unanticipated exam effects included Caring, Learning How to Learn, and the Human Dimension from Fink's Taxonomy. The IOE has both a summative and formative effect (ie, Assessment of Learning and an Assessment for Learning) and also functions as a high-impact assessment practice.
+
+Access through your organization
+Check access to the full text by signing in through your organization.
+
+Access through your organization
+
+Section snippets
+
+Background
+Despite their relative ubiquity, written exams present development and reliability challenges.1 As noted by Xu, et al.,2 multiple choice questions may actually reinforce superficial ways of thinking about, and studying, the information students need for complex decision-making. Research suggests an oral examination can assess many skills necessary for pharmacy students to be practice-ready upon graduation, including communication, critical thinking, confidence, decision-making, integration,
+
+Educational activity
+An Integrated Oral Examination (IOE) was developed at the University of Minnesota, College of Pharmacy, which is a four-year program with class sizes ranging from 110 to 160 over the past 10 years. The IOE was initiated by faculty within a cardiovascular pharmacotherapy course in the late 1990s. While the format and content evolved over time, the student learning objectives have remained the same; students must effectively integrate and apply knowledge from multiple pharmacotherapy content
+
+Evaluation findings
+The application of Fink's taxonomy to the IOE was completed to examine the formative effect and to aid in understanding the emergent outcomes from the exam. The student debriefing documentation illustrated 5 of the 6 elements of Fink's taxonomy: Caring, Integration, Learning How to Learn, Human Dimension, and Foundational Knowledge. Foundational Knowledge, Application and Integration were anticipated outcomes (Table 2). Application was not specifically identified from the debriefing notes, but
+
+Analysis of educational activity
+While the IOE had previously been described as memorable and positive by both faculty and students, this evaluation, and the analysis of the connections to Finks' Taxonomy of Significant Learning, help to create a theory for how and why this assessment is meaningful. The IOE was initially envisioned as a summative assessment. However, findings indicate that the exam is accomplishing more than verifying competency and identifying students for support. In addition to functioning as an assessment 
+
+Summary
+While the IOE was initially designed as a summative assessment (ie, assessment of learning), documentation from five years of student debriefing provides evidence that the exam is having a formative effect (ie, assessment for learning). Evidence was identified supporting the assessment's influence on Foundational Knowledge, Integration, Caring, the Human Dimension (ie, learning something important about oneself), and Learning How to Learn. As such, the IOE has elements of a Significant Learning 
+
+CRediT authorship contribution statement
+Gardner A. Lepp: Conceptualization, Formal analysis, Project administration, Visualization, Writing – original draft, Writing – review & editing. Sarah M. Westberg: Conceptualization, Writing – original draft, Writing – review & editing. Jungeun Lee: Data curation, Formal analysis, Visualization, Writing – review & editing. Kristin K. Janke: Conceptualization, Methodology, Visualization, Writing – review & editing.
+
+Declaration of competing interest
+No conflicts to report.Recommended articles- J.S. Gortney et al.
+
+Experience and evaluation of oral examinations in a therapeutics course for second-year pharmacy students
+
+Curr Pharm Teach Learn
+(2013)
+- L.I.M. Pernar et al.
+
+Oral examinations in undergraduate medical education – what is the ‘value added’ to evaluation?
+
+Am J Surg
+(2020)
+- Z. Sokhanvar et al.
+
+Advantages of authentic assessment for improving the learning experience and employability skills of higher education students: a systematic literature review
+
+Stud Educ Eval
+(2021)
+- M.S. Medina et al.
+
+The AACP academic affairs committee’s guidance for use of the curricular outcomes and entrustable professional activities (COEPA) for pharmacy graduates
+
+Am J Pharm Educ
+(2023)
+- M.J. Rouse et al.
+
+Advancing learning to advance pharmacy practice
+
+J Am Pharm Assoc
+(2018)
+- K.K. Janke et al.
+
+Identifying high-impact and managing low-impact assessment practices
+
+Am J Pharm Educ
+(2019)
+- C. St-Onge et al.
+
+Sound practices: an exploratory study of building and monitoring multiple-choice exams at Canadian undergraduate medical education programs
+
+Acad Med
+(2020)
+- X. Xu et al.
+
+Multiple-choice questions: tips for optimizing assessment in-seat and online
+
+Scholarsh Teach Learn Psychol
+(2016)
+- S. Benavides et al.
+
+Implementation and faculty assessment of an oral examination in a therapeutics course in a distance synchronous education pharmacy programme
+
+Int J Pharm Pract
+(2011)
+- K. Ashford-Rowe et al.
+
+Establishing the critical elements that determine authentic assessment
+
+Assess Eval High Educ
+(2014)
+- G. Wiggins
+
+The case for authentic assessment
+
+Prac Assess Res Eval
+(1990)
+View more referencesView full text© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

@@ -1,0 +1,154 @@
+---
+title: "HMS student assessment policy: OSCEs as standard oral/performative assessment"
+source_url: "https://medstudenthandbook.hms.harvard.edu/104-student-assessment-md-program"
+source_title: "Harvard Medical School Student Handbook"
+author: "Harvard Medical School"
+date: ""
+type: institutional-policy
+tags: [harvard, medicine, oral-exam-design, rubrics, grading, professional-domains]
+summary: "Harvard Medical School requires OSCEs for all MD students because written tests cannot verify clinical competency, proving oral/performative assessment is already standard practice within Harvard."
+harvard_relevance: "HMS already mandates oral assessment; the question is why Harvard College does not."
+---
+1.04 Student Assessment in the MD Program
+https://medstudenthandbook.hms.harvard.edu/104-student-assessment-md-program
+
+Elle's notes:
+HMS explicitly states: "Clinical simulation exercises (objective structured clinical examinations – OSCEs, simulated patient encounters, and simulation labs) provide additional opportunities to assess an array of competencies, including clinical skills, medical knowledge, interpersonal and communication skills, professionalism, and reasoning ability." OSCEs are described as assessing competencies "including clinical skills... interpersonal and communication skills, professionalism, and reasoning ability"—none of which written exams can measure. The handbook notes assessment "may be quantitative (e.g., multiple-choice examinations, NBME subject examinations, OSCEs) or qualitative (e.g., verbal feedback given by preceptors to students based on direct observation of clinical encounters)." OSCEs are listed alongside written exams as standard assessment, not experimental pedagogy.
+
+Harvard relevance: Harvard Medical School—part of the same university as Harvard College—requires oral/performative assessment for all MD students because written tests cannot verify clinical competency. The HMS justification: "Assessment plays an essential role... to reliably collect relevant performance information... to determine each student's readiness for successful transitions." If HMS believes oral/performative assessment is essential for "readiness" verification, why doesn't Harvard College? The competencies HMS tests via OSCEs—"interpersonal and communication skills, professionalism, and reasoning ability"—are equally valuable for liberal arts graduates. HMS also addresses the "subjectivity" concern: OSCEs are "quantitative" assessment with structured scoring, proving oral formats can be rigorous.
+
+--
+
+1.04 Student Assessment in the MD Program
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Background
+
+PROGRESS (Professional Growth and Educational Support System)
+
+Formative and Summative Assessment
+
+Policy on Formative Assessment in the HMS Curriculum
+
+Policy on Written Summative Narrative Assessment in the HMS Curriculum
+
+Timeline of Grade Submission and Use of Assessments in the MSPE
+
+Policy on Appeal of Assessment Results
+
+Background
+Assessment plays an essential role in the education of students at Harvard Medical School (HMS). The purposes of assessment are several:
+
+-  To reliably collect relevant performance information to support each student’s individual understanding of their growth and achievement;
+- To provide information that facilitates students’ partnerships with faculty and advisors in creating individualized learning plans to ensure academic success and achievement of the competencies of professional development;
+- To determine each student’s readiness for successful transitions in progressive phases of the curriculum and, ultimately, graduation;
+- To use collated performance information as feedback to course and clerkship directors, faculty, and curriculum leadership to maintain ongoing curricular quality.
+Assuring appropriate progress toward and eventual attainment of the core competencies required of Harvard medical students is an ongoing, dynamic, critical endeavor. These core competencies include medical knowledge; critical thinking and inquiry; patient care; professionalism; interpersonal and communication skills; and organizational and social determinants of health care. Achieving and maintaining the core competencies is vital for our students, our faculty, our affiliated institutions, and especially for the patients and communities our graduates will serve.
+
+Assessment of students at HMS takes many forms and is integrated into the educational process. In classrooms, in learning studios, in laboratories, and at affiliated clinical sites, assessment is an ongoing, virtually continuous process. Course directors generally determine the methods, formats, and frequency of student assessment that best reflect the content and objectives of the course or clerkship (see Section 2.03, Grading and Examination). Some assessments may involve written examinations; others involve the collection and curation of the observations of faculty in preclerkship courses and supervising clinical faculty and preceptors in clinical settings. Clinical simulation exercises (objective structured clinical examinations – OSCEs, simulated patient encounters, and simulation labs) provide additional opportunities to assess an array of competencies, including clinical skills, medical knowledge, interpersonal and communication skills, professionalism, and reasoning ability.
+
+Assessment may be formative and/or summative. It may be quantitative (e.g., multiple-choice examinations, NBME subject examinations, OSCEs) or qualitative (e.g., verbal feedback given by preceptors to students based on direct observation of clinical encounters). It may be delivered in written form or via a discussion between the student and faculty. Regardless of how they are structured, obtained, or delivered, all assessments are clearly focused on and aligned with the stated objectives of each course or clerkship. These objectives are derived from and directly mapped to the six core competencies that HMS students must attain prior to graduation. Assessment discussions and written narratives provide students with feedback on their performance and, when appropriate, include suggestions for enhancement or improvement.
+
+All courses and clerkships clearly define and provide students with information on how and when students are being assessed; the format and timing of those assessments; how the assessments are being used (formative and/or summative); and how the assessments are being reported (mid-course/mid-clerkship; final grade report; transcript; Medical Student Evaluation [MSPE]). Students are informed as to who has access to which assessments (students, faculty, course/clerkship director, advisors, coordinators/staff, deans). HMS leadership and course/clerkship directors define the expectations for satisfactory completion (and in some cases, achievement of honors or honors with distinction) of the course/clerkship.
+
+PROGRESS (Professional Growth and Educational Support System)
+PROGRESS has two overarching goals: 1) comprehensive and holistic assessment of all students in their competency development toward the HMS MD program’s six core competencies, and 2) provision of longitudinal learning support for students who would benefit in any of the six competency domains. 
+
+The work of PROGRESS is conducted by the PROGRESS Professional Development Committee (PDC), which is charged with conducting regular periodic high-level reviews of the academic performance of all HMS MD students and, using a data-driven approach, identifying students who may benefit from additional learning support. The PDC works in close alignment with the support function of PROGRESS and other units within the Program in Medical Education (PME). With this primary assessment function, the PDC serves as a sub-group of the Assessment Subcommittee of the Educational Policy and Curriculum Committee (EPCC). In order to provide a longitudinal and holistic view of a student’s trajectory from matriculation to graduation, the PDC includes core faculty and administrative staff who represent key stakeholder groups knowledgeable about students’ academic experiences: faculty representatives from across the three phases of the MD curriculum: Preclerkship (Pathways and HST), Principal Clinical Experience (PCE), and post-PCE; the assessment and evaluation team in the Office of Medical Education (OME); learning support experts; and academic society advisors. 
+
+The PROGRESS PDC meets periodically and at important curricular transition points to review students’ academic trajectories to identify consistently marginal or inconsistent performance that suggests students who are not ready for subsequent curricular phase transitions and those who are at risk of continued academic struggle or potential failure. PROGRESS PDC activities include a holistic review, discussion of possible causes for a student’s academic struggle, and referral and plans for learning support. These activities are closely linked to the Office of Learning Resources and Support (OLRS) and the Clinical Learning Coaching Program (CLCP), the HMS Academic Societies advising system and the Office of Student Affairs (OSA), and when indicated, the Promotion and Review Board (PRB).
+
+The intended impact of PROGRESS is to regularly review and identify students who can benefit from academic learning support and to work centrally to support activities that enhance students’ medical knowledge and clinical skills growth, as well as the development of the expected behaviors of a medical professional. The system is grounded in the use of student’s performance data and a joint understanding of the integrative nature of said progressive performance indicators and behaviors. Ultimately, the mission of PROGRESS is to provide students with a broad range of individualized learning support to ensure successful completion of the MD curriculum and to graduate excellent clinicians, per the mission statement of Harvard Medical School.
+
+Formative and Summative Assessment
+The purpose of formative assessment is to collect and share performance information to support students’ understanding of their progressive development and to foster informed conversations between students and faculty/advisors about learning trajectories and learning plans. Formative assessments are geared toward providing actionable feedback, emphasizing areas of strength, identifying areas in need of improvement, and offering suggestions for enhancing and maintaining the objectives of the course or clerkship. These assessments occur at appropriate times during a course or clerkship to allow students ample time to identify any areas that require improvement and adequate time to satisfactorily achieve the stated objectives. Formative assessments may include quizzes or formative OSCEs, and may be delivered via in-person discussion with students or in written form.
+
+The purpose of summative assessment is to make a judgment of a student’s ability to meet the objectives of a course or clerkship, as well as their readiness to advance to the next phase of the curriculum, based on their successful achievement of learning objectives: a demonstration of knowledge, skills, and attitudes that are necessary for advanced learning. Summative assessments are judgments of student performance relative to expected standards. Summative assessments often include a discussion with the student and, importantly, provide a written narrative that presents information, observations, and evaluations of the student’s performance. Such assessments may include test scores in addition to observations made in the classroom, learning studio, or laboratory. Observations and comments from supervising clinicians on clerkships provide a significant portion of the summative assessment at the end of clerkships. The summative assessment provides end-of-course or end-of-clerkship evaluation of the student’s overall performance with careful attention to the student’s achievement of the stated course/clerkship learning objectives – objectives developed to support attainment or maintenance of core competencies.
+
+Since AY16, the following key elements have been incorporated into the clinical assessment of students:
+
+- Formative and summative assessments in clinical courses, clerkships, subinternships and electives include observations and evaluations of performance using the competency-based framework of Entrustable Professional Activities (PDF) (EPAs). EPAs are aligned with HMS core competencies and mapped to clinical experiences and different phases of the curriculum and provide a platform for assuring that students are prepared for their next stages of training and to provide safe and effective clinical care.
+- Grading in the required/core clerkships in the Principal Clinical Experience (PCE) is Satisfactory/Unsatisfactory (S/U) to align with the assessment strategy in the prior phase of the curriculum (S/U) and the education philosophy at HMS of supporting a growth/development orientation in contrast to a performance orientation.
+- Grading in required subinternships and all clinical electives is Honors with Distinction; Honors; Satisfactory; Unsatisfactory.
+
+Policy on Formative Assessment in the HMS Curriculum
+
+Preclerkship and Clinical Curriculum
+All preclerkship courses (including clinical courses), required clerkships, and clinical electives provide formal formative assessment of each student by the midpoint of the course, if not earlier. Depending on the specific course or clerkship, this formative feedback may take one or more of several forms:
+
+- Individual meetings between faculty and students, at which progress in the course is reviewed, and any necessary recommendations are made for remediation, enrichment, or modification of learning strategies;
+- Narrative feedback provided by faculty members to individual students in written form, accompanied by any necessary recommendations made for remediation, enrichment, or modification of learning strategies;
+- The provision of individual results and class-wide statistics to each student after an objective measurement of knowledge acquisition, such as a multiple-choice examination, with accompanying recommendations individualized to students with different levels of performance.
+
+Policy on Written Summative Narrative Assessment in the HMS Curriculum
+
+Preclerkship Curriculum
+- Courses in which the primary mode of instruction allows for longitudinal faculty and student engagement in active learning settings, including but not limited to small groups, large groups, CBCL groups, and clinical preceptorships provide a narrative assessment of each student at the end of the course describing the student's achievement of expected performance, including individual faculty members' observations of any notable performance behaviors of individual students within the group. Performance behaviors describe a student's demonstration and achievement of expected course objectives, including cognitive and non-cognitive behaviors.
+- Narrative assessments may also be provided for any student based on direct observation.
+
+Clinical Curriculum
+All clerkships/clinical electives that are four weeks or more in duration and in which the primary mode of instruction is clinical immersion and bedside teaching, provide a written summative narrative assessment of each student at the end of the clerkship. In most cases, this narrative assessment is the synthesis of multiple narratives submitted by individual faculty and residents who have worked with the student during the clerkship. Additional inputs that contribute to the narrative assessment may include NBME subject examinations; oral examinations; CEX (Clinical Evaluation Exercises); progress toward entrustability as outlined in the mapped EPAs for the clinical experience; and comments about relevant learning behaviors and achievement. 
+
+Timeline of Grade Submission and Use of Assessments in the MSPE
+Final grades are to be submitted by the course/clerkship director within 4 weeks of the end of the course/clerkship to the Registrar’s office, with an absolute deadline of 6 weeks. The final grade is composed of the actual grade (i.e., Honors with Distinction; Honors; Satisfactory/Pass; Unsatisfactory) and the summative narrative (where required).
+
+Formative assessments of any type (written or verbal) are not included in the MSPE. All final grades, however, are included in the MSPE, including summative narratives from all required clinical clerkships and subinternships. Preclerkship course summative narratives are not included in the MSPE.
+
+Policy on Appeal of Assessment Results
+A variety of assessment tools are employed throughout the curriculum to ensure that students are achieving course or clerkship learning objectives and HMS-wide program objectives, during all phases of the MD program (Preclerkship, PCE [Principal Clinical Experience], and Post-PCE). The implementation of these assessment tools often results in numerical scores; narrative comments based on direct observation of students that serve both formative and summative purposes; clinical skills evaluations; and/or other measures of academic and clinical performance. These results are, in turn, used to determine course and clerkship grades and narrative assessments. For more information about grading and assessment, see Sections 1.04: Student Assessment in the MD Program and 2.03: Grading and Examinations.
+
+As a component of establishing a fair and formal process for determining a grade, students may request reconsideration of their assessment results and course/clerkship grades.
+
+First Level of Appeal
+A student’s initial request for reconsideration of an original grade or narrative evaluation should be raised via email with the course/clerkship director who determined the original grade or narrative evaluation, within six weeks* of notification of the grade and/or evaluation to the student. The initial communication from the student should take the form of an email directly to the relevant course/clerkship director, noting the aspect(s) of the evaluation the student would like reconsidered and the proposed basis for that reconsideration.
+
+- Students are encouraged to consult with their Academic Society advisor before submitting an initial request for reconsideration.
+- The course/clerkship director is expected to respond within two weeks of receiving the request for reconsideration. The response should take the form of an email directly to the student and to their Society advisor. If the original grade and/or narrative is to be altered in any way, the course/clerkship director must email the HMS Registrar and the Office of Medical Education.
+It is expected that most concerns will be settled at the first level of appeal. In unique circumstances, if the student is not satisfied with the outcome of the first level of appeal, a second level of appeal is available.
+
+Second Level of Appeal
+If the student is not satisfied with the outcome of the first level of appeal, a further written appeal may be submitted to the appropriate governance committee within two weeks of receiving a response to the prior appeal. The appropriate subcommittee of the Educational Policy and Curriculum Committee/EPCC (see table below) will obtain input from the relevant course/clerkship director and review the appeal at its next regularly scheduled meeting, in consultation with the Assessment Subcommittee of the EPCC.
+
+SortCourse TypeReviewing CommitteePathways preclerkship coursePathways Preclerkship SubcommitteeHST preclerkship courseHST Curriculum SubcommitteeCore PCE clerkshipRelevant clerkship committee, with subsequent consideration
+
+ 
+
+if needed by the PCE Subcommittee
+
+Advanced course/clerkshipRelevant post-PCE subcommittee (i.e., Clinical Electives, Subinternship, AISC, Clinical Capstone) with subsequent consideration if needed by the Post-PCE Subcommittee- Students are required to consult with their Academic Society advisor before submitting a request at the second level of appeal.
+- During its consideration of the appeal, the governance subcommittee will review primary documentation related to the appeal, including:- The original grade or narrative evaluation;
+- The student’s written request for appeal;
+- The course or clerkship director’s response;
+- Additional data as determined by the relevant subcommittee, as needed to reach a conclusion.
+
+- The student and course/clerkship director are not expected to appear before the subcommittee during the review but do have the option to do so.
+- All EPCC subcommittees have full voting student members who have the same access to information as other committee members. Upon appointment to these subcommittees, students are informed of their responsibilities regarding the confidential handling of sensitive information about their peers.
+- Subcommittee members who have a conflict of interest with a student who has requested further appeal must recuse themselves from the appeal proceedings.
+- After reviewing relevant materials and thoroughly discussing the appeal, the subcommittee will vote to support or deny the appeal based on its merits. All appeals are decided by a simple majority vote of the voting members of the relevant committee.
+- The governance subcommittees will respond within two weeks after its consideration of the appeal. Written notice of the governance committee’s decision will be sent to the HMS Registrar (using the standard HMS Appeal of Assessment Results form), who will make any necessary revisions to the original grade and will keep a record of the appeal process.
+- The HMS Registrar will provide written notification of the governance subcommittee’s decision to the student, to the student’s Society advisor, and to the course or clerkship director. Notification will ordinarily be sent within 10 business days of the governance subcommittee’s notification to the HMS Registrar.
+
+Final Appeal for All Grades
+In all cases, for students who have a concern that is not settled after the determination at the second level of appeal, a written appeal should be submitted to the Assessment Subcommittee, which will have the final authority to determine if the grade should be reconsidered. This committee will consider all previous decisions before making a final determination.
+
+* In the above text, all indications of time refer to calendar units (e.g., 7 days refers to 7 calendar days, not business days; a week refers to 7 calendar days).
+
+Updated 1/21/26
+
+Reviewed 2/17/26
+
+Reviewed and approved by EPCC.

@@ -1,0 +1,202 @@
+---
+title: "Why Does Peer Instruction Benefit Student Learning?"
+source_url: "https://link.springer.com/article/10.1186/s41235-020-00218-5"
+source_title: "Cognitive Research: Principles and Implications (Springer)"
+author: ""
+date: "2020-04-09"
+type: pdf-summary
+tags: [cognitive-science, deep-learning, discussion, pedagogy, stem]
+summary: "When students verbally explain answers to peers, they identify knowledge gaps and construct new knowledge; accuracy consistently improved after peer discussion across physics, biology, chemistry, calculus, computer science, and philosophy."
+---
+Why Does Peer Instruction Benefit Student Learning?
+https://link.springer.com/article/10.1186/s41235-020-00218-5
+
+Elle's notes:
+Cognitive Research: Principles and Implications (Springer), 2020
+Key insight: When students verbally explain their answers to peers, they "identify knowledge gaps and construct new knowledge to fill those gaps." Study of 208 undergrads across 86 questions: accuracy consistently improved after peer discussion. The benefit is a "process gain"—working in a group yields better performance than individual work alone. Benefits span physics, biology, chemistry, calculus, computer science, philosophy.
+
+--
+
+Why does peer instruction benefit student learning?
+
+ 
+ 
+ - Original article
+
+ 
+ - 
+ Open access
+ 
+
+ 
+ 
+
+ - 
+ Published: 09 April 2020
+ 
+
+ 
+ 
+ - 
+ Volume 5, article number 15, (2020)
+ 
+ 
+
+ - 
+ Cite this article
+ 
+
+ 
+
+ 
+ 
+ 
+ You have full access to this open access article
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download PDF
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save article
+ 
+ 
+ 
+ 
+ View saved research
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cognitive Research: Principles and Implications
+ 
+ 
+ 
+ Aims and scope
+ 
+ 
+ 
+ 
+ 
+ Submit manuscript
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why does peer instruction benefit student learning?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download PDF
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Abstract
+In peer instruction, instructors pose a challenging question to students, students answer the question individually, students work with a partner in the class to discuss their answers, and finally students answer the question again. A large body of evidence shows that peer instruction benefits student learning. To determine the mechanism for these benefits, we collected semester-long data from six classes, involving a total of 208 undergraduate students being asked a total of 86 different questions related to their course content. For each question, students chose their answer individually, reported their confidence, discussed their answers with their partner, and then indicated their possibly revised answer and confidence again. Overall, students were more accurate and confident after discussion than before. Initially correct students were more likely to keep their answers than initially incorrect students, and this tendency was partially but not completely attributable to differences in confidence. We discuss the benefits of peer instruction in terms of differences in the coherence of explanations, social learning, and the contextual factors that influence confidence and accuracy.
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Similar content being viewed by others
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ConcepTests in Undergraduate Real Analysis: Comparing Peer Discussion and Instructional Explanation Settings
+ 
+ 
+
+ 
+ Article
+ Open access
+ 07 April 2022

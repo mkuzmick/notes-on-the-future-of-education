@@ -1,0 +1,147 @@
+---
+title: "Active learning statistics: 13x more learner talk time, 54% higher test scores"
+source_url: "https://www.engageli.com/blog/active-learning-statistics-2025"
+source_title: "Engageli"
+author: "Engageli"
+date: "2025-01"
+type: research-paper
+tags: [pedagogy, deep-learning, student-experience, discussion]
+summary: "Hard data shows active learning produces 13x more learner talk time, 62.7% participation rates vs 5% in lectures, 54% higher test scores, and a 33% reduction in achievement gaps -- directly supporting oral engagement as pedagogy."
+harvard_relevance: ""
+---
+Active Learning Statistics: Benefits for Education & Training in 2025
+https://www.engageli.com/blog/active-learning-statistics-2025
+
+Elle's notes:
+Engageli, January 2025
+Key insight: Hard data on verbal participation: 13x more learner talk time in active vs. passive environments; 62.7% participation rate vs. 5% in lectures; 54% higher test scores. Students engaged in active learning show 33% reduction in achievement gaps and are 1.5x less likely to fail. Engageli 2024 study measured both verbal and non-verbal engagement metrics.
+
+--
+
+The debate between active learning and traditional teaching methods long ago moved beyond theory into the realm of hard data. Research consistently shows that active learning strategies - where students actively engage with material rather than passively receiving information - produces better educational outcomes across multiple areas. This approach has been extensively studied, with findings showing advantages not only in academic performance but also in long-term knowledge retention and student engagement. Despite this, you’ll still find passive lecture-based learning to be the norm in many educational and corporate training settings.
+
+This article looks at the latest statistics and research demonstrating the benefits of active learning in education of all kinds, including K-12, higher education, and corporate training.
+
+Student engagement statistics: active learning increases participation and confidence
+
+Studies measuring both verbal and non-verbal student participation demonstrate that active learning environments generate higher engagement across all metrics. Active participation fosters deeper connections with the material, enabling students to better internalize and apply what they learn.
+
+A study conducted by Engageli in 2024 shows substantial differences in student engagement between lecture-based sessions and active sessions:
+
+- 13 times more learner talk time in active vs. passive environments, with significant increases in verbal participation and discussion-based learning
+
+- 16 times higher rates of non-verbal engagement through polls, chat, and interactive tools, highlighting the power of digital and collaborative elements in modern education
+
+- 62.7% participation rate in active learning sessions vs. just 5% in lecture formats
+
+- Studies also indicate that higher engagement leads to greater confidence in expressing ideas and collaborating with peers, skills that are essential for future success
+
+ 
+
+Student success statistics: active learning improves academic outcomes
+
+Research consistently highlights the stronger learning outcomes achieved through active engagement. Active learning uses interactive techniques that not only improve understanding but also boost student motivation:
+
+- 54% higher test scores in active learning sessions compared to traditional lectures, showing its effectiveness in helping students grasp and retain complex concepts
+
+- Students are 1.5x less likely to fail in active learning classes compared to traditional lecture courses
+
+- 2 times higher normalized learning gains achieved through interactive engagement
+
+- Longitudinal studies demonstrate that students taught using active learning methods perform better in follow-up courses, highlighting the lasting benefits of this approach
+
+ 
+
+Active learning across sectors
+
+Active learning in K-12 and higher education
+
+In K-12 education, active learning has shown remarkable success in addressing systemic challenges and increasing student performance. Higher education institutions have been at the forefront of adopting active learning techniques, with improvements observed across disciplines:
+
+- Students engaged in active learning show a 33% reduction in achievement gaps on examinations, demonstrating its power to create more equitable outcomes
+
+- Pass rates in mathematics courses jumped from 63% to 81% at Montana State University when active learning was implemented, showing its effectiveness in challenging subjects
+
+- Students in active learning environments demonstrate a 6% improvement in test scores on average, reflecting deeper understanding and critical thinking
+
+- Course performance improves by half a letter grade on average when active learning methods are implemented
+
+- Failure rates dropped by 50% in MIT classrooms after transitioning to active learning approaches
+
+- Active learning environments report significantly higher engagement metrics, including improved attendance rates, fewer disciplinary issues, and increased student satisfaction 
+
+ 
+
+Active learning in corporate training
+
+Active learning has also transformed corporate training programs, delivering measurable business outcomes:
+
+- Highly engaged teams achieve 21% greater profitability and 17% higher productivity 
+
+- Organizations with structured onboarding using active learning see 62% greater new hire productivity
+
+- In a study measuring knowledge retention in safety training, active learners retained 93.5% of information as compared to only 79% for passive learners, reducing the need for retraining and fostering long-term skill development
+
+- Companies with strong learning cultures show an increase in retention rates of 30-50%
+
+- Sales teams trained with active learning strategies have reported higher customer satisfaction scores, showing its efficacy in corporate environments.
+
+ 
+
+Bridging the active learning perception gap
+
+Interestingly, research reveals a disconnect between perceived and actual learning. While traditional lectures may seem more familiar and structured to students, the data paints a different picture on the actual outcomes:
+
+- 62.5% of students felt more prepared after a passive learning session as compared to 52.9% after an active learning session
+
+- However, test scores show 54% better actual retention, with an average 70% test score with active learning as compared to 45% with passive learning, demonstrating its ability to overcome the perception gap and deliver measurable results
+
+- Educators who initially resist active learning often report significant improvements in classroom dynamics and student outcomes once they make the transition.
+
+This highlights the importance of focusing on evidence-based teaching strategies rather than relying on perceptions. By presenting students with the tangible benefits of active learning, educators can encourage greater adoption and enthusiasm for these methods.
+
+Active learning: the future of education
+
+The statistics paint a clear picture: active learning consistently outperforms traditional teaching methods across all key metrics. From higher test scores and lower failure rates to improved engagement and retention, the data supports a shift toward more active, participatory learning approaches.
+
+Organizations implementing active learning strategies position themselves to achieve:
+
+- Higher knowledge retention
+
+- Improved learning outcomes
+
+- Better engagement rates
+
+- Reduced training time
+
+- Superior return on educational investment
+
+With its proven benefits across educational levels and sectors, active learning represents the future of teaching and training. It not only empowers students and employees but also drives measurable improvements in performance and satisfaction.
+
+For more information about implementing active learning in your organization, visit Engageli's research page to access the full active learning impact study.
+
+ 
+
+ 
+
+Studies referenced
+
+Engageli. (2024). "The Active Learning Impact Study: Measuring the Effects of Engagement on Knowledge Retention."
+
+Freeman, S., et al. (2014). "Active learning increases student performance in science, engineering, and mathematics." Proceedings of the National Academy of Sciences, 111(23), 8410-8415.
+
+Hake, R. (2001). “Relationship of Individual Student Normalized Learning Gains in Mechanics with Gender, High-School Physics, and Pretest Scores on Mathematics and Spatial Visualization.”
+
+Deslauriers, L., et al. (2019). “Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom”, 116 (39) 19251-19257.
+
+Gallup. (2023). "The Benefits of Employee Engagement."
+
+Queen's University. (2023). "What Research Tells Us About Active Learning." Centre for Teaching and Learning.
+
+University at Buffalo. (2023). "Evidence of Active Learning's Effectiveness." Center for Educational Innovation.
+
+MIT. (2001). "Peer instruction: Ten years of experience and results."
+
+SHRM. (2015). "Onboarding Key to Retaining, Engaging Talent."
+
+Glassdoor. (2015). "The True Cost of a Bad Hire."

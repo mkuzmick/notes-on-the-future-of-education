@@ -1,0 +1,27 @@
+---
+title: "Washington Post: oral exams experiencing a renaissance as AI response"
+source_url: "https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/"
+source_title: "The Washington Post"
+author: "Joanna Slater"
+date: "2025-12-12"
+type: news-article
+tags: [oral-exam-design, academic-integrity, ai-policy, peer-institutions, faculty-experience]
+summary: "A growing number of professors are independently adopting oral exams to circumvent AI temptation, with UCSD's Academic Integrity director calling it 'a renaissance.' Faculty are making tactical decisions rather than waiting for institutional mandates."
+harvard_relevance: "Harvard faculty have the same autonomy to adopt oral exams; this is a national movement, not a fringe experiment."
+---
+College professors use oral exams to combat AI
+https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/
+
+Elle's notes:
+Princeton Alumni WeeklyWhat’s Foul and Fair When Students Use AI?Professors and undergrads reflect on the challenges of regulating technology’s role in courseworkhttps://paw.princeton.edu/article/whats-foul-and-fair-when-students-use-aithecrimson.comHarvard Needs the Kind of Exams AI Can’t Take | Opinion | The Harvard CrimsonIt’s time to do our work ourselves instead of delegating it to AI. It’s time to hold ourselves to the standards that the Harvard name implies.https://www.thecrimson.com/article/2025/9/8/dolan-harvard-oral-exam/The Washington PostProfessors are turning to this old-school method to stop AI use on examsA small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful AI platforms.Dec 12th, 2025https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/[7:18 AM]A December 2025 Washington Post survey of the post-ChatGPT landscape reports: "A small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful AI platforms." The article quotes Tricia Bertram Gallant, director of UC San Diego's Academic Integrity Office: "Oral assessments are definitely experiencing a renaissance." Examples include University of Wyoming professor Catherine Hartmann, who redesigned courses to culminate in individual oral exams—students sit in her office for half-hour conversations rather than submitting essays. The trend began during the pandemic (cheating fears in online environments) and accelerated post-2023 with ChatGPT.
+
+Harvard relevance: Harvard isn't alone—this is a national movement. The Post documents faculty at Wyoming, UCSD, and multiple institutions independently arriving at the same solution. The pattern suggests oral assessment isn't a fringe experiment but an emerging best practice. Importantly, the article frames this as faculty adaptation, not institutional mandate. Professors are making tactical decisions to preserve learning integrity, not waiting for policy committees. Harvard faculty have the autonomy to do likewise. The "renaissance" framing is also strategic: it positions oral exams as recovery of tradition, not desperate innovation.
+
+--
+
+By Joanna SlaterWhen students in Catherine Hartmann’s honors seminar at the University of Wyoming took their final exams this month, they encountered a testing method as old as the ancient philosophers whose ideas they were studying.
+
+CommentsMore on education across AmericaHAND CURATED- Dan Rosenzweig-ZiffU.-Va. names new president, sparking outcry from some who sought delayEarlier today
+- Susan SvrlugaTrump administration appeals ruling in Harvard research funding caseDecember 19, 2025
+- Meredith KolodnerEpithets and accusations: Probes into racism in schools stall under TrumpDecember 19, 2025
+View 3 more storiesView 3 more storiesSign up

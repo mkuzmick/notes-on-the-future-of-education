@@ -1,0 +1,173 @@
+---
+title: "Oral Exams for a Generative AI World: Managing Concerns and Logistics"
+source_url: "https://www.academia.edu/144892156/Oral_Exams_for_a_Generative_AI_World_Managing_Concerns_and_Logistics_for_Undergraduate_Humanities_Instruction"
+source_title: "Academia.edu"
+author: ""
+date: "2025-11"
+type: practitioner-guide
+tags: [oral-exam-design, humanities, student-anxiety, scaffolding, rubrics, logistics]
+summary: "Practical guide for humanities faculty addressing common oral exam concerns (anxiety, fairness, time) through evidence-based strategies: scheduling protocols, question design, rubric creation, and accommodations--framing oral exams as skill-building, not AI punishment."
+harvard_relevance: "The Derek Bok Center could commission a similar guide customized for Harvard's context with concentration-specific examples, tutorial integration, and equity considerations."
+---
+quality: Higher education news coverage; describes real classroom practice but not peer-reviewed research. Credible for documenting trends.
+https://www.academia.edu/144892156/Oral_Exams_for_a_Generative_AI_World_Managing_Concerns_and_Logistics_for_Undergraduate_Humanities_Instruction
+
+Elle's notes:
+2. "Oral Exams for a Generative AI World": A Practical Guide for Humanities Faculty
+:page_facing_up: Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction
+Academia.edu, November 2025
+Summary: This recent paper directly addresses common faculty concerns about oral exams — student anxiety, fairness, and instructor time management — through "evidence-based strategies and careful implementation." The guide provides specific protocols for scheduling, question design, rubric creation, and accommodations. It frames oral exams not as punishment for AI use but as pedagogical opportunity to develop speaking skills students will need beyond graduation.
+University BusinessNYU professor turned to AI oral exams after student work began resembling McKinsey memosAn NYU professor introduced AI-powered oral exams after students struggled to explain polished, AI-assisted assignments. The move reflects how colleges are rethinking assessment in the generative AI era.Written byBusiness InsiderEst. reading time1 minuteJan 5thacademia.eduOral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities InstructionThe emergence of generative artificial intelligence has forced humanities educators to reconsider traditional assessment methods, particularly take-home writing assignments vulnerable to content produced by generative artificial intelligence. This[7:47 AM]Harvard Context: This is exactly the kind of practical resource Harvard faculty need if FAS decides to expand oral assessment. The Derek Bok Center could commission a similar guide customized for Harvard's context (concentration-specific examples, tutorial system integration, equity considerations). Key insights for Harvard: (1) Structured preparation reduces anxiety — provide sample questions, practice sessions, clear rubrics in advance; (2) Time management — 15-minute individual orals for a 20-student seminar = 5 hours total, manageable if spread across two weeks; (3) Fairness protocols — multiple examiners, standardized question pools, transparent criteria; (4) Accessibility — allow written notes, extra time, or alternative formats for documented disabilities. The paper's existence signals that faculty are actively experimenting with oral exams in humanities, creating collective knowledge that Harvard can learn from rather than reinventing from scratch.
+Source quality: Academic paper on Academia.edu; likely pre-publication or working paper. Not peer-reviewed but represents practitioner scholarship.
+
+--
+
+(PDF) Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction
+
+- 
+
+- 
+
+- - - - - - - - - - - - - - - 
+
+- 
+- 
+- 
+
+- - Log In
+- Sign Up
+- more
+- - About
+- Press
+- Papers
+- Terms
+- Privacy
+- Copyright
+- We're Hiring!
+- Help Center
+- less
+
+Outline
+
+keyboard_arrow_downTitleAbstractResults and DiscussionAll TopicsEducationEducational Assessment, Evaluation, and ResearchdownloadDownload Free PDF
+
+Download Free PDF
+
+Oral Exams for a Generative AI World: Managing Concerns and Logistics for Undergraduate Humanities Instruction
+Kate Hartmann2025, College Teaching
+
+visibility…
+
+description11 pages
+
+descriptionSee full PDFdownloadDownload PDF
+
+bookmarkSave to LibraryshareShareclose
+
+Sign up for access to the world's latest research
+Sign up for freearrow_forwardcheckGet notified about relevant paperscheckSave papers to use in your researchcheckJoin the discussion with peerscheckTrack your impact
+
+Abstract
+The emergence of generative artificial intelligence has forced humanities educators to reconsider traditional assessment methods, particularly take-home writing assignments vulnerable to content produced by generative artificial intelligence. This paper examines the implementation of oral exams in an upper-level humanities course as a response to generative AI. Using backward design principles, the author redesigned the entire course structure to support oral assessment, implementing technology-free classrooms, social annotation platforms, and systematic "cold calling" to prepare students for final oral examinations. The paper addresses common concerns about oral exams, including student anxiety, fairness, and instructor time management, through evidence-based strategies and careful implementation. The author found that oral exams not only effectively addressed AI-related academic integrity issues but also helped students develop critical communication skills. Students reported positive experiences and improved understanding of course material, while instructor time investment proved comparable to traditional paper grading. This research contributes to pedagogical literature by providing practical guidance for implementing oral exams in humanities courses, demonstrating their effectiveness as both an AI-resistant assessment method and a valuable tool for developing essential academic and professional skills. While acknowledging limitations, the study offers a viable alternative for upper-level humanities instruction in an increasingly AI-integrated educational landscape.
+
+... Read more
+
+Related papers
+Enhancing the Trustworthiness of Generative Artificial Intelligence in Responsive Pedagogy in the Context of Humanities Higher EducationAlexa Alice JoubinGeneral Aspects of Applying Generative AI in Higher Education: Opportunities and Challenges, 2024
+
+How do we enhance the trustworthiness of generative artificial intelligence (AI), such as ChatGPT, as a tool to foster students’ curiosity to learn about humanities subjects in higher education? This study analyzes what conversational AI tools can realistically accomplish in the humanities higher education context and what the substantive, rather than hyped, challenges are. As a proof of concept, this study also discusses a proprietary AI Teaching Assistant designed by Professor Joubin. Through case studies of teaching Shakespearean performance, this study offers intersectional strategies to teach with, rather than against, AI, and to produce knowledge collaboratively with students. We can use AI as a heuristic tool to teach metacognition, critical questioning, editing, bias detection, and prompt engineering skills. Sustaining passions for learning, these essential skills help students thrive in the inquiry-driven search culture we now live in. There are two challenges. The first challenge is false singularity. While the AI has deficient domain knowledge, it is able to simulate fluent prose which can be mistaken as the ultimate answer to a query. One solution is to promote critical AI literacy, which enables students to grasp the nature of AI-powered simulation, and to nurture metacognition, a self-reflexive understanding of one’s own learning and thought processes. The second challenge is the tendency to mistake AI synthesis for critical thinking, the solution to which is the flipped classroom. Instead of writing essays that respond to instructor-generate prompts, students construct open-ended but focused research questions that are refined through reiterative and interactive activities. As a probabilistic text generator, tools such as ChatGPT engage in a performative act of generating texts through paraphrases. Since the AI is coded to produce syntheses of anonymized public voices in its datasets, it is a ghost and synthetic version of the publics. AI throttles and controls the general public’s access to information. The fact that ChatGPT is a randomized representation of anonymized public voices makes it useful artistically, too. A number of artists and writers, including Mark Amerika and David Jhave Johnston, have already used ChatGPT as an aesthetic instrument.
+
+downloadDownload free PDFView PDFchevron_rightDissonance in generative AI use among student writers: How should curriculum managers respond?Franklin TalaueE3S Web of Conferences
+
+This qualitative study investigated the case of ChatGPT use by five students in an English for Academic Purposes (EAP) class comprised of 28 students in total. The results of the analysis revealed dissonance in the way the subjects of the study had intended to use ChatGPT in their written assessments and how they used it, six weeks into the writing program. The results of the study revealed that their intention to use ChatGPT may have been within the remit of fair use, but their written output as evaluated by an AI detection tool revealed that the students might have violated academic integrity. This study has clear implications for the role of educators to guide students on how to use AI in their written assessments in such a way that they uphold academic integrity. Educational institutions, therefore, should take a pedagogical stance on AI text generators, which means that proactive measures should be taken to embrace AI as an assistive tool for writing, but fair and guided use of...
+
+downloadDownload free PDFView PDFchevron_rightTHE DOUBLE CRISIS: INTEGRITY OF EVALUATION AND EFFICACY OF PEDAGOGY IN THE ERA OF GENERATIVE AILuca AngelelliBrasiliensis - International Journal of Philosophy and Theology, 2025
+
+The advent of generative Artificial Intelligence (AI) tools is provoking a seismic event in the academic world, triggering a "double crisis" that impacts both the integrity of evaluation and the efficacy of consolidated pedagogical methods. This article analyzes the nature of this crisis, examining the specific challenxxxges faced by students, from the risk of atrophy of critical thinking to the difficult management of technological plagiarism, and by faculty, who are called to radically rethink their roles as evaluators and educators, as well as by institutions, prompted to rethink tools and formative objectives. The response to the crisis cannot be a mere prohibition, but requires a redesign of assignments and the promotion of new competencies, shifting from a paradigm of an instructor type charged with mere knowledge transmission, typical of certain courses and universities with many enrolees, to an instructor who is eminently a "curator of critical thinking" integrated into the new human machine ecosystem.
+
+downloadDownload free PDFView PDFchevron_rightThe potential impact of generative AI on the future of higher education: a game-changer or a danger to academic integrityChainarong Rungruengarporn, International Journal of Evaluation and Research in Education (IJERE)International Journal of Evaluation and Research in Education (IJERE), 2025
+
+Artificial intelligence (AI) has the potential to improve education by substantially modifying knowledge acquisition. While the research on AI’s incorporation into higher education is growing, significant gaps exist in understanding its responsibilities, potential, implications for ethics, and privacy problems in educational settings. This study investigates AI’s transformative impact on higher education using a total of four essential objectives: the ever-growing capabilities of AI within customized instruction, the prospective use of smart tutoring platforms, AI-driven review and input procedures in learning evaluation, and the ethical and privacy issues inherent in these technologies. A systematic review of the literature (SLR) was carried out to answer research questions established utilizing population, intervention, comparison, outcome, and context (PICOC) criteria, resulting in a structured analysis of pertinent articles. To conduct a thorough literature search, the Publish or Perish (version 8) application and an API key were used to systematically access the Scopus database. Initial keyword searches yielded 567 articles, which were reduced to 29 following predetermined relevant screening, restricted access sorting, repetition removal, and content validation. The findings show that AI technologies are increasing personalized education by adapting instructional content to individual needs while also improving decision-making, resources deployment, and administrative duties. However, the integration of AI raises issues such as data privacy, potential redundancies of human educators, and ethical obstacles. These findings highlight AI’s immense potential for higher education, underlining the importance of tackling these problems regarding responsible and inclusive integration, furthering future research, and developing processes for responsible AI use in educational environment.
+
+downloadDownload free PDFView PDFchevron_rightThe Use of AI In Arts Education: A Didactic Tool for Sensitising Students and for the Detection of Technology Assisted Writing in the HumanitiesRunette KrugerJournal of the Kenya National Commission for UNESCO, 2025
+
+The disruption caused by the launch of generative AI such as ChatGPT in 2022 has impacted strategies for effective knowledge transfer and assessment across the higher education sector. This essay presents a model or rubric that can be used by educators in the humanities to detect the probable use of AI and to sensitise students to the unoriginality and generic nature of the generated output. The rubric was compiled by coding the artist's statements of ninety-three art students and graduates from five countries and two continents, participating in the same exhibition. Coding of the data revealed the presence of five defining characteristics that point to the probable use of AI. These are the prevalence and repetition of identified terms as well as phrases; the excessive use of flattering adjectives; hyperbolic statements; and, lastly, tortured phrases. Findings include the widespread reliance on technology in samples from all institutions in the study, across five countries on different continents. Recommendations include a focus on the development of adequate writing skills at school as well as university level combined with centring the importance of ethical conduct in research (and more broadly) as a guiding principle that goes beyond compliance. The source of the data is in the public domain. However, no students or institutions are identified in the presentation, analysis or discussion of the data.
+
+downloadDownload free PDFView PDFchevron_rightThe Reality of Artificiality: The Impact of Artificial Intelligence on Language and Culture Course Assessments and RubricsDellannia Segreti, Sylvia J Gaspari, Mohammad J Jamali, Ph.D.AI in Language Teaching, Learning, and Assessment, 2024
+
+As artificial intelligence (AI) continues to increase its presence and accessibility within education, the need to address AI's impact on assignment design and the production of original coursework is heightened. Within the context of an undergraduate language and culture course, this chapter thus offers reflections on the integration of AI tools and their effect on shaping assessment methods. The authors also highlight that there indeed remains a great need for continued research in the realm of AI and education going forward, especially where enhanced AI-detection technologies, institutional policies, academic rigour, and learner expressiveness are concerned.
+
+downloadDownload free PDFView PDFchevron_rightStudent and Faculty Perceptions of Artificial Intelligence in Student WritingGrace FrazierArtificial Intelligence (AI) can write poetry and news articles that go undetected by human readers. Can students use AI to write college assignments that go undetected by their professors? Past and current perceptions of AI in education have differed; while some people view AI as a tool, others view it as a threat to learning. We surveyed 83 students and 82 faculty, providing them with 4 writing samples, 3 generated by undergraduate students and 1 generated by the AI-chatbot, ChatGPT-3. We found that neither faculty nor students could detect AI-generated writing at above chance levels. Faculty and students had similar opinions on the ethicality of various uses of AI technology and how much these uses are likely to compromise learning. Faculty reported a high level of concern regarding the potential effects that AI could have on their pedagogical practices. Prior experience with ChatGPT-3 and analyzing the structure and organization of the response was found to improve detection abi...
+
+downloadDownload free PDFView PDFchevron_right0 Ways Artificial Intelligence Can Reinvent Education by Staff WritersByoungchul JundownloadDownload free PDFView PDFchevron_rightStudents' Perceptions of Generative Artificial Intelligence (GenAI) Use in Academic Writing in English as a Foreign LanguageEducation SciencesWhile research articles on students’ perceptions of large language models such as ChatGPT in language learning have proliferated since ChatGPT’s release, few studies have focused on these perceptions among English as a foreign language (EFL) university students in South America or their application to academic writing in a second language (L2) for STEM classes. ChatGPT can generate human-like text that worries teachers and researchers. Academic cheating, especially in the language classroom, is not new; however, the concept of AI-giarism is novel. This study evaluated how 56 undergraduate university students in Ecuador viewed GenAI use in academic writing in English as a foreign language. The research findings indicate that students worried more about hindering the development of their own writing skills than the risk of being caught and facing academic penalties. Students believed that ChatGPT-written works are easily detectable, and institutions should incorporate plagiarism detectors. Submitting chatbot-generated text in the classroom was perceived as academic dishonesty, and fewer participants believed that submitting an assignment machine-translated from Spanish to English was dishonest. The results of this study will inform academic staff and educational institutions about how Ecuadorian university students perceive the overall influence of GenAI on academic integrity within the scope of academic writing, including reasons why students might rely on AI tools for dishonest purposes and how they view the detection of AI-based works. Ideally, policies, procedures, and instruction should prioritize using AI as an emerging educational tool and not as a shortcut to bypass intellectual effort. Pedagogical practices should minimize factors that have been shown to lead to the unethical use of AI, which, for our survey, was academic pressure and lack of confidence. By and large, these factors can be mitigated with approaches that prioritize the process of learning rather than the production of a product.
+
+downloadDownload free PDFView PDFchevron_right“A starting point and a crutch”: Student and faculty perceptions of generative AIElia PowersTeaching Journalism & Mass Communication, 2025
+
+The advent of ChatGPT and other generative artificial intelligence systems has rekindled debates in higher education about ethical uses of technology. Through focus groups, this study explores how college students (n = 22) and faculty members (n = 13) from journalism and mass communication (JMC) programs view the role of AI in education. Specifically, we examine perceived opportunities and threats, and views on ethical AI use. Participants generally agreed that AI is a good starting point for conducting research, studying, or preparing lessons but can easily become a crutch. The main areas of disagreement were whether students should be consulted before AI policies are finalized and what constitutes plagiarism and other forms of academic dishonesty. We discuss implications for students and educators in JMC programs.
+
+downloadDownload free PDFView PDFchevron_rightSee full PDFdownloadDownload PDFLoading Preview
+
+Sorry, preview is currently unavailable. You can download the paper by clicking the button above.
+
+Kate HartmannUniversity of Wyoming, Faculty MemberaddFollowmailMessagePapers9Followers131View all papers from Kate Hartmannarrow_forward
+
+Related papers
+Educator and Student Perspectives on the Impact of Generative AI on Assessments in Higher EducationElaine HuberProceedings of the Tenth ACM Conference on Learning @ Scale
+
+The sudden popularity and availability of generative AI tools, such as ChatGPT that can write compelling essays on any topic, code in various programming languages, and ace standardized tests across domains, raises questions about the sustainability of traditional assessment practices. To seize this opportunity for innovation in assessment practice, we conducted a survey to understand both the educators' and students' perspectives on the issue. We measure and compare attitudes of both stakeholders across various assessment scenarios, building on an established framework for examining the quality of online assessments along six dimensions. Responses from 389 students and 36 educators across two universities indicate moderate usage of generative AI, consensus for which types of assessments are most impacted, and concerns about academic integrity. Educators prefer adapted assessments that assume AI will be used and encourage critical thinking, but students' reaction is mixed, in part due to concerns about a loss of creativity. The findings show the importance of engaging educators and students in assessment reform efforts to focus on the process of learning over its outputs, higher-order thinking, and authentic applications.
+
+downloadDownload free PDFView PDFchevron_rightRethinking Educational Assessment in the Age of Generative AI: Actionable Strategies to Mitigate Academic DishonestyManuel B . GarciaPitfalls of AI Integration in Education: Skill Obsolescence, Misuse, and Bias, 2025
+
+As artificial intelligence (AI) becomes increasingly integrated into educational contexts, they present new challenges to traditional assessment methods. A particularly pressing issue is academic dishonesty, which undermines learning authenticity and the credibility of educational institutions. With generative AI tools like ChatGPT making it easier for students to produce automated answers, educational assessments are at risk of measuring AI capabilities rather than students' actual knowledge. Thus, this chapter explores a range of strategies designed to adapt assessment practices in response to the influence of AI in education. These strategies offer actionable frameworks to support authentic learning and uphold academic integrity. Additionally, the chapter highlights future research directions to guide further adaptation of educational policies and practices. Given the rapid integration of AI in the education sector, this chapter provides sensible insights that reinforce the importance of integrity-focused reforms in sustaining meaningful educational outcomes in an AI-driven world.
+
+downloadDownload free PDFView PDFchevron_rightGenerative AI in Higher Education - Teaching, Assessment, and Research in the AI EraYaron Ghilay2025
+
+Generative AI in Higher Education: Teaching, Assessment, and Research in the AI Era is a faculty-centered, practice-oriented guide that empowers educators to thoughtfully integrate generative AI into university-level teaching, assessment, and scholarly work. Drawing on real-world academic scenarios, the book presents structured frameworks and practical use cases with tools such as ChatGPT, Gemini, Claude, and others. It supports lesson planning, course design, multimodal instruction, AI-enhanced video production, inclusive assessment strategies, academic writing, and ethical policy development. Each chapter blends pedagogical insight with actionable guidance and sample generative prompts. Topics include institutional leadership, human-AI co-authorship, research publication workflows, and the preservation of academic integrity in the age of machine collaboration. This is not a speculative vision - it is a practical guide grounded in the evolving realities of higher education. Designed for university faculty, instructional designers, graduate researchers, and academic leaders, it also offers valuable insights for edtech developers and policymakers navigating the digital transformation of education.
+
+downloadDownload free PDFView PDFchevron_rightComputers and Education: Artificial IntelligenceElena C . PapanastasiouThe growing use of generative AI tools built on large language models (LLMs) calls the sustainability of traditional assessment practices into question. Tools like OpenAI's ChatGPT can generate eloquent essays on any topic and in any language, write code in various programming languages, and ace most standardized tests, all within seconds. We conducted an international survey of educators and students in higher education to understand and compare their perspectives on the impact of generative AI across various assessment scenarios, building on an established framework for examining the quality of online assessments along six dimensions. Across three universities, 680 students and 87 educators, who moderately use generative AI, consider essay and coding assessments to be most impacted. Educators strongly prefer assessments that are adapted to assume the use of AI and encourage critical thinking, while students' reactions are mixed, in part due to concerns about a loss of creativity. The findings show the importance of engaging educators and students in assessment reform efforts to focus on the process of learning over its outputs, alongside higher-order thinking and authentic applications.
+
+downloadDownload free PDFView PDFchevron_rightEmbracing a new world: authentic assessment designs in an age of generative artificial intelligence (GenAI)Eva SeidlPerspectives: Policy and Practice in Higher Education, 2026
+
+Higher education academic practices are increasingly shaped by technologies. The recent advancement of generative artificial intelligence (GenAI) has posed both challenges and opportunities. In this paper, drawing on relevant literature through a rapid review, the authors argue that rethinking assessment design in an era of artificial intelligence is essential for preparing students for a rapidly evolving world. GenAI can help reconceptualise authenticity through students' transparent, purposeful interactions with this technology. In this shifting landscape, higher education must embrace authenticity as hybrid and relational, fostering assessment practices that value insight, context, and co-constructed meaning in technologically mediated learning environments. To illustrate how authentic assessment designs can be realised in the age of GenAI, four scenarios are presented: (1) the integration of GenAI within a social science assessment task; (2) GenAI-assisted language education; (3) the use of GenAI in a computer database assignment in computer science; and (4) the adoption of GenAIenhanced assessment design in medical education. These scenarios demonstrate possibilities for aligning assessment designs in higher education with present technological realities. The paper also highlights the importance of developing GenAI literacy among staff and students, positioning such literacy as a foundational capability for effective and ethical engagement with AI-enabled assessment designs.
+
+downloadDownload free PDFView PDFchevron_rightInsights from Faculty and Students on AI Assessment Practices: Threat or OpportunityAhmed Mohamed Fahmy YousefArtificial Intelligence (AI) is transforming educational assessment, by offering innovative solutions to evaluate student learning outcomes effectively. This study seeks to explore faculty and students' perspective on AI's impact on assessment, focusing on whether it enhances or detracts assessment practices. Using a mixed-methods research design, it combines quantitative approach with quantitative data analysis to gain a comprehensive view of faculty and students' perspectives on the impact of AI in assessment processes. Data were collected from 12 university professors and a random sample of 35 students across various academic departments. The analysis revealed a broad agreement between the faculty and students on the advantages of AI in assessments, particularly in enhancing grading speed, accuracy, and feedback. However, considerable concerns were raised, like diminished critical thinking and problem-solving skills and over-reliance on technology. As a result, AI has the potential to either enhance or harm assessment practices, depending on how it is managed. This implies that AI should be integrated into educational assessment thoughtfully, improving efficiency without replacing human judgment or critical thinking, to ensure that it supports rather than detracts from the core educational mission.
+
+downloadDownload free PDFView PDFchevron_rightNov '24 CTL Session: AI Use in the Classroom? What's Cheating, What's OkayDonald VesciodownloadDownload free PDFView PDFchevron_rightHigher education assessment practice in the era of generative AI toolsOluwaseun AjaoJournal of applied learning and teaching, 2024
+
+downloadDownload free PDFView PDFchevron_rightThe rise of generative AI and enculturating AI writing in postsecondary educationIsabel PedersenFrontiers in Artificial Intelligence, 2023
+
+downloadDownload free PDFView PDFchevron_rightVoices of English major students in Literary Criticism course in the age of Artificial IntelligenceWEENA MAE G . AMPOArtificial Intelligence (AI) has transformed students' approach to learning; however, most of the literature focuses on education, with less attention given to student perceptions of AI in the humanities, particularly in literary criticism. This study investigates the experiences of ten 4th-year BSEd English majors from the College of Teacher Education to understand how AI impacts their engagement in analyzing literary works. This phenomenological study uses semi-structured interviews to determine how AI shapes students' learning experiences, with a focus on its impact on creativity and analytical thinking. Participants were purposively selected based on their enrollment in the Literary Criticism course and prior use of AI for writing-related tasks. Key findings indicate the positive and negative impacts of AI on students. Generally, students perceive AI positively as it aids in identifying analytical patterns and forming clear assumptions about the texts. Students also emphasize the importance of verifying AI-generated information to ensure accuracy in their interpretations. However, a concerning trend emerges, as some students tend to over-rely on AI. This reliance may impact their confidence in constructing independent analysis, suggesting a risk to their critical and interpretive thinking. Hence, there is a need for educational interventions to guide students in using AI responsibly. The study primarily addresses the United Nations Sustainable Development Goal (UN SDG) 4 on Quality Education by promoting responsible technology integration. The importance of developing critical thinking, analytical skills, and autonomy in learning-core components of quality education essential in the humanities and literature studies.
+
+downloadDownload free PDFView PDFchevron_rightkeyboard_arrow_downView more papers
+
+Related topics
+- Scholarship of Teaching and Lear...addFollow
+- AssessmentaddFollow
+- Assessment in Higher EducationaddFollow
+- Oral ExamsaddFollow
+
+- Explore
+- Papers
+- Topics
+- Features
+- Mentions
+- Analytics
+- PDF Packages
+- Advanced Search
+- Search Alerts
+- Journals
+- Academia.edu Journals
+- My submissions
+- Reviewer Hub
+- Why publish with us
+- Testimonials
+- Company
+- About
+- Careers
+- Press
+- Help Center
+- Terms
+- Privacy
+- Copyright
+- Content Policy
+580 California St., Suite 400San Francisco, CA, 94104© 2026 Academia. All rights reserved

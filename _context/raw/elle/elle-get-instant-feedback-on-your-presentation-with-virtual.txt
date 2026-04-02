@@ -1,0 +1,92 @@
+---
+title: "VR Presentation Practice with AI Feedback"
+source_url: "https://virtualspeech.com/blog/analysing-speech-in-vr-with-feedback"
+source_title: "VirtualSpeech"
+author: "Dom Barnard"
+date: "2023-06-15"
+type: practitioner-guide
+tags: [ai-tools, practice-and-rehearsal, feedback, student-anxiety, performance]
+summary: "VR combined with AI solves the oral practice problem by letting students rehearse presentations dozens of times with consistent feedback on delivery, content, and body language before facing a human evaluator."
+---
+Get Instant Feedback on Your Presentation with Virtual Reality
+https://virtualspeech.com/blog/analysing-speech-in-vr-with-feedback
+
+Elle's notes:
+VR presentation practice with comprehensive AI analysis:
+• Delivery feedback: Speaking pace, hesitation words, volume, eye contact, listenability, body language
+• Content feedback: Relevance, clarity, tone, empathy, confidence, structure
+• Practice in immersive environments (meeting rooms, auditoriums, panel interviews)
+• Distractions like talking audience members or ringing phones simulate real-world conditions
+• Sessions saved for progress tracking; enterprise dashboard for institutional deployment
+
+Why it matters: VR + AI solves the "practice problem." Students can rehearse presentations dozens of times with consistent feedback before facing a human evaluator. This reduces anxiety and builds genuine competence—not just performance on one day.
+
+--
+Get Instant Feedback on your Presentation with Virtual Reality
+June 15, 2023 - Dom Barnard
+
+Whether you’re preparing for a big presentation or just trying to become a more confident communicator, getting feedback on your speaking skills is essential—but not always easy. That’s where the VirtualSpeech app steps in.
+
+With AI-driven insights and realistic virtual environments, you can practice anytime and get immediate feedback on both how you speak and what you say.
+
+
+Why Use Virtual Reality for Presentation Practice?
+VirtualSpeech gives you a safe, repeatable, and realistic way to improve your communication skills.
+
+Practice in immersive environments like meeting rooms, auditoriums, or panel interviews
+Receive instant, AI-generated feedback on voice, delivery, body language, and content
+Build real-world confidence by presenting with distractions like talking audience members or ringing phones
+Track progress over time with saved recordings and performance history
+What Does the App Analyse?
+Each time you practice, VirtualSpeech evaluates your performance across a range of speaking metrics—helping you understand exactly where to improve.
+
+Delivery Feedback:
+
+Speaking pace
+Number of hesitation words
+Volume (loudness) of the learner’s voice
+Eye contact performance
+Listenability (how easy the speech was to listen to)
+Body language feedback
+
+Content feedback:
+
+VirtualSpeech now provides content-based feedback within roleplays, helping you evaluate what you’re saying—not just how you say it.
+
+Relevance and clarity of your message: Did you answer the question effectively?
+Tone and empathy: Especially important in difficult conversations or leadership scenarios.
+Confidence and structure: Was your answer logical and persuasive?
+AI-guided suggestions: Personalized tips to improve specific phrases or parts of your message
+For example, in a job interview roleplay, the app might suggest making your answer more results-focused. In a pay raise negotiation, it could highlight where you lacked assertiveness or didn’t clearly communicate your value.
+
+For a full list of VR features, see the App Guide.
+
+Feedback using speech-to-text technology
+Technology background
+The app uses speech-to-text and other vocal technology to analyse the speech and provide feedback.
+
+Once the app converts the speech to text, algorithms analyse this and provide meaningful and understandable results for the learner. This allows the learner to quantify their performance and improve areas of their speech each time.
+
+Eye contact analysis
+How eye contact is calculated
+For eye contact analysis, the app assumes the eyes are looking directly forward from the head. In this way, when the learner moves their head to look at something, the app assumes the eyes move as the head moves. If you watch presentations, you’ll notice this mostly holds true and is a fair assumption to make.
+
+The app records the learners’ eye contact throughout the speech and then provides a heatmap of where the learner was looking while speaking. This allows the learner to easily see any areas they have neglected or focussed too much on.
+
+Saving and uploading the speech for detailed evaluation
+Once learners have reviewed their performance, they have the option to save their speech and listen to it later, allowing them to identify areas that require improvement.
+
+The learning portal provides a dedicated ‘Results & Recordings’ section where saved speeches can be accessed. This can be found both in the VR apps and through your web browser.
+
+With the Enterprise package, you can also unlock an admin dashboard to track progress at scale and easily measure ROI. This will allow you to easily identify strengths and learning gaps. And you will gain access to Roleplay Studio, where you can customize roleplays and feedback criteria—ensuring your team is evaluated on what truly matters to your organization
+
+Track progress within the app
+Progress from each practice session is stored and can be viewed in VR or in the learning platform. With this, you can check how you are progressing over time.
+
+
+In conclusion
+The VirtualSpeech app provides a powerful way for people to analyse their speech or presentation. The feedback allows learners to identify weaker areas of their speech and work to improve those parts.
+
+In addition, with the realistic environments, audience, and personalisation (load in your own slides or add audience questions), the app takes you close to being fully immersed in the environment.
+
+See our range of VR courses, which give you detailed feedback on your presentation.

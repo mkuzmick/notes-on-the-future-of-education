@@ -1,0 +1,43 @@
+---
+title: "Think-Pair-Share: Effects of Collaboration on In-Class Participation"
+source_url: "https://www.sciencedirect.com/science/article/pii/S1041608021000522"
+source_title: "Learning and Individual Differences (ScienceDirect)"
+author: "Lukas Mundelsee, Susanne Jurkowski"
+date: "2021-05"
+type: research-paper
+tags: [pedagogy, scaffolding, low-stakes, student-anxiety, equity, discussion]
+summary: "Think-Pair-Share increases in-class participation (especially for shy students) by having students think individually, discuss with a partner, then share with the class; the peer validation step reduces state anxiety and builds oral confidence incrementally."
+harvard_relevance: "TPS offers scalable oral assessment even in large classes, with AI resistance (students can't pre-generate responses to spontaneous questions) and equity benefits (low-stakes frequent practice reduces the 'oral fluency = privilege' problem)."
+---
+quality: Peer-reviewed journals (Nature, Taylor & Francis). Recent empirical research with strong credibility.
+https://www.sciencedirect.com/science/article/pii/S1041608021000522
+
+Elle's notes:
+2. Think-Pair-Share: Low-Stakes Oral Participation Protocol
+:page_facing_up: Think and pair before share: Effects of collaboration on students' in-class participation / Think-Pair-Share
+ScienceDirect Learning and Instruction / Reading Rockets, 2021
+Summary: Think-Pair-Share (TPS) is a structured protocol: students first think individually about a question, then pair with a partner to discuss, finally share ideas with the full class. Research with 393 students found TPS increased in-class participation compared to "think-share" (skip pairing) or "share" (no individual thinking). The technique "maximizes participation, focuses attention, and engages students in comprehending" through progressive oral engagement.
+NatureResearch on the influencing factors of promoting flipped classroom teaching based on the integrated UTAUT model and learning engagement theoryScientific Reports - Research on the influencing factors of promoting flipped classroom teaching based on the integrated UTAUT model and learning engagement theoryhttps://www.nature.com/articles/s41598-024-66214-7Reading RocketsThink-Pair-ShareThink-pair-share is a cooperative learning strategy where students work together to solve a problem or answer a question about an assigned reading.https://www.readingrockets.org/classroom/classroom-strategies/think-pair-share[9:46 AM]Harvard Context: TPS offers scalable oral assessment even in large classes. Rather than calling on individual students (anxiety-inducing, privileges confident speakers), TPS ensures everyone speaks (at least to their partner) before volunteers share with the class. For Harvard implementation: (1) Use regularly, not occasionally — TPS becomes routine, reducing performance anxiety; (2) Grade participation holistically — observe engagement during pair discussions, not just full-class sharing; (3) Rotate pairs — students practice oral communication with diverse classmates, not just friends; (4) Provide sentence starters — scaffolding helps students who struggle initiating oral responses ("I think X because..." "Building on what you said..." "I'm uncertain about..."). The AI resistance: students can't pre-generate responses to spontaneous in-class questions, and pair dialogue reveals whether they understand or are parroting talking points. The equity benefit: low-stakes, frequent practice builds oral confidence incrementally, especially for students who fear high-stakes presentations.
+Source quality: Peer-reviewed research (ScienceDirect) + established pedagogical resource (Reading Rockets). Credible evidence and practice guidance.
+
+--
+
+Learning and Individual Differences
+Volume 88, May 2021, 102015
+
+Think and pair before share: Effects of collaboration on students' in-class participation☆
+Author links open overlay panelLukas Mundelsee, Susanne JurkowskiShow moreAdd to MendeleyShareCitehttps://doi.org/10.1016/j.lindif.2021.102015Get rights and contentUnder a Creative Commons licenseOpen access
+
+Highlights
+- •Hand raising frequencies increase after exchanging ideas with a partner.
+- •Validating own notes with a partner reduces state anxiety.
+- •State anxiety mediates the effects on hand raising when not validating own notes.
+- •Shy students participate less frequently, but also benefit from collaboration.
+- •Social evaluative concerns are the main reason why shy students participate less.
+
+Abstract
+Think-Pair-Share (TPS) is a teaching strategy thought to increase in-class participation, especially with shy students. After thinking for themselves, students talk to their seatmate to exchange their ideas and finally show their willingness to participate in-class by raising their hand. In the present field study, we tested TPS with 393 ninth-grade students against two variations, Think-Share (TS; first think, then raise hand) and Share (S; directly raise hand). Students reported on their shyness, and reported in each condition on their hand raising, state anxiety, and motives for (non-)hand raising. Analyses revealed that TPS led to more hand raising compared to the S condition. Lower levels of hand raising in TS were fully mediated by state anxiety. Shy students reported social evaluative concerns, and they raised their hand less frequently than their non-shy peers but also benefited from TPS. These results indicate the importance of peer collaboration for in-class participation.- Previous article in issue
+- Next article in issue
+
+Keywords
+Student hand raisingStudent engagementCooperative learningShynessField experimentRecommended articles☆This research was supported by a research grant of the German Federal Ministry of Education and Research (BMBF).© 2021 The Authors. Published by Elsevier Inc.

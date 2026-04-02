@@ -1,0 +1,122 @@
+---
+title: "Socrates, Memory and The Internet"
+source_url: "https://philosophynow.org/issues/122/Socrates_Memory_and_The_Internet"
+source_title: "Philosophy Now"
+author: "Matt Bluemink"
+date: ""
+type: opinion
+tags: [philosophy, memory-and-retention, cognitive-science, history, written-vs-oral]
+summary: "Plato's argument against writing applies directly to the internet and AI: external memory storage (smartphones, search engines) degrades internal memory because sustained attention is required for memory formation, and we are 'adapting to forgetting.'"
+---
+Socrates, Memory & The Internet
+https://philosophynow.org/issues/122/Socrates_Memory_and_The_Internet
+
+Elle's notes:
+Philosophy Now (Issue 122)
+Key insight: Plato's argument applies directly to digital technology. "The internet would be the single biggest means of collectivised memory loss in human history." Citing Eric Kandel: memory formation requires attention, but the internet conditions us to process information "without sustained attention." We're "adapting to forgetting." Andy Clark and Bernard Stiegler have noted how external memory storage (smartphones, search engines) degrades internal memory.
+
+--
+
+Your complimentary articles
+
+ You’ve read one of your four complimentary articles for this month.
+
+ You can read four articles free per month. To have complete access to the thousands of philosophy articles on this site, please
+
+ SUBSCRIBE NOW
+ 
+ 
+
+Socrates, Plato and Modern Life
+
+Socrates, Memory & The Internet
+
+Matt Bluemink uses a Socratic argument to assess the influence of the net on our brains and our minds.
+
+
+“This invention, O king [writing],” said Theuth, “will make the Egyptians wiser and will improve their memories; for it is an elixir of memory and wisdom that I have discovered.” But Thamus replied, “Most ingenious Theuth, one man has the ability to beget arts, but the ability to judge of their usefulness or harmfulness to their users belongs to another; and now you, who are the father of letters, have been led by your affection to ascribe to them a power the opposite of that which they really possess. For this invention will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory.” Plato, Phaedrus
+
+
+
+It’s funny, isn’t it, how a text written over two thousand years ago can be so relevant to the problems we face in modern society? In this particular quote from Plato’s Phaedrus, Socrates is using a supposed dialogue between the Egyptian god Theuth (or Thoth), the inventor of writing, and Thamus, the king of Egypt, to explain to Phaedrus the dangers of writing, and the worrying effects Socrates thinks it has on human wisdom. Theuth believes that through his creation of letters he has found a way to preserve the memories of the Egyptians, and so he thinks that this will provide the Egyptian people with a wisdom that extends beyond their natural capacities. However, Thamus argues that Theuth’s new invention – his revolutionary new technology – will not help the Egyptians to become wise at all. Instead of granting them new powers of memorisation, they will delegate their memory to an external system, and so will lose their natural capacity for internal memory, which is the foundation-stone of knowledge. Their memories, and thus their wisdom, will degrade, as knowledge becomes ever increasingly stored in external symbols.
+
+
+Let’s fast forward 2,400 years, to the present day. Let’s imagine Theuth’s invention is not letters, but the internet. It’s quite startling how well the opening quote still applies. According to Socrates’ argument, the internet would be the single biggest means of collectivised memory loss in human history. The internet’s capacity to store memories is limitless, and although books have been shown to improve memory capacity, the tendency we have to rely on modern technology, in particular the internet, as a vast external memory bank, is leading us increasingly towards a loss of memory.
+
+
+In recent years modern philosophers in both the Analytic and Continental traditions, such as Andy Clark, David Chalmers, Bernard Stiegler, and Catherine Malabou, have been aware of this, and have been keen to look at the effects of memory externalisation on our minds and culture. Chalmers for instance notes in the Foreword to Clark’s Supersizing The Mind (2008) an idea that is apparent throughout Clark’s works – that the externalisation of memory through the use of objects can have a direct impact on how memory, and so minds, can be altered by interactions with the ‘external scaffolding’ around them: “A month ago, I bought an iPhone. The iPhone has already taken over some of the central functions of my brain. It has replaced part of my memory, storing phone numbers and addresses that I once would have taxed my brain with.” Similarly Stiegler writes in his For a New Critique of Political Economy (2009) that technology “causes our memories to pass into machines, in such a way that, for example, we no longer know the telephone numbers of those close to us.” The smartphone is a perfect modern illustration of how external objects can become part of our working memory processes.
+
+
+
+Attention & Memory
+
+What actually determines what we remember and what we forget? To answer this question, a good place to start is by looking at the work of a man who dedicated his life to the study of memory, Nobel Prize-winning neuropsychiatrist Eric Kandel.
+
+
+According to Kandel, the key to the formation of memories is attention. The process of storing and retaining explicit memories by building connections between ideas requires high levels of mental concentration, which can be facilitated by a strong intellectual or emotional engagement, in other words, through attention. In his book In Search of Memory (2006), Kandel writes that for a memory to persist, “the incoming information must be thoroughly and deeply processed. This is accomplished by attending to the information and associating it meaningfully and systematically with knowledge already well established in memory.” Without paying attention to a thought or experience, the neurons involved lose their excited state of electrical activity within a few seconds, and the memory is gone, leaving maybe only a small trace in the mind.
+
+
+Attention has become one of the most pressing issues affecting Western society in recent years, because our capacity for sustained attention has dwindled since the development of the internet in the early 90s. The huge amount of messages we encounter every time we go online not only overloads our working memory, it makes it substantially harder for our brains’ frontal lobes to direct our attention onto one particular task. Kandel says that, the process of good memory construction can’t even get started. How many of us have found it increasingly difficult to concentrate for extended periods on tasks that require sustained attention, for example reading a book, or even watching a long film? And the more we use the web, the more our brains get used to being distracted – that is, to processing information extremely quickly and efficiently without sustained attention. Even in the process of writing this article I’ve noticed how difficult it is not to pop open another tab and check Facebook, Gmail, or not to get distracted by another hyperlink on a website I’m researching from. Through memory delegation and attention deterioration, our brains have essentially become adapted to forgetting, which causes them to become inept at remembering. And here we become trapped in a vicious cycle: as our use of the web makes it increasingly difficult for us to keep information stored in biological memory, we’re forced to increasingly rely on the web’s external memory banks…
+
+
+
+The Remedy That Poisons
+
+So was Socrates right? As time goes on, and our reliance on technical externalities increases, does this mean that we’re doomed to a future of attention deficit and social dementia? It may seem so. However there is another way.
+
+
+In the Phaedrus, Theuth describes his invention of writing as ‘pharmakon’, clearly the origin of our word ‘pharmacy’. But pharmakon is interesting in this context as it can be translated as both ‘poison’ and ‘remedy’ (Jacques Derrida discusses this in his 1981 essay ‘Plato’s Pharmacy’). Thus from the Phaedrus onwards, technê – what humanity makes and uses – has been thought of in this dual way, as pharmakological in nature, we could say. Modern technology also can, and must, be understood as having both poisonous and curative qualities. But to exploit the positive aspect of this drug-like dual nature of modern information technology we must utilise its capacity for actually improving our attention.
+
+
+But what’s the most effective way for us to improve our attention in our world of fleeting knowledge and sporadic information? To recapture attention, we must focus on how to think deeply. We must reverse the shallowness of understanding that the internet has brought about. As Kandel says, we must pay attention.
+
+
+
+Socrates and Plato by Gail Campbell, 2017
+
+Attention As Taking Care
+
+Well, interestingly enough, the word ‘attention’ is derived from the Latin ‘attendere’, which can mean both ‘to apply one’s mind to’ and ‘to take care of’. We can see how this word has kept this dual quality when we say, for example, a doctor is ‘attending to a patient’. What we mean is that the doctor is taking care of his or her illness. So if the key to formation of memories is indeed attentiveness, we must take care of what we do with our minds. Moreover, as Bernard Stiegler explains, in French to describe a person as attentionné is to say that they are attentive in the sense of ‘thoughtful’: “To be thoughtful means to be civil or urbane (in the original sense of the word). Although we normally take attention to be a mental capacity for concentration, it is nonetheless a social phenomenon. […] Attention has a significance at once psychological and social, and the one does not work without the other” (Relational Ecology and the Digital Pharmakon, 2012). To put it simply, to be attentive in this sense is to be compassionate. But not only this, without paying attention to another’s point of view, one loses the ability to empathise, and thus the ability to ‘take care’ of one another, and of the society in which we live.
+
+
+So we must not understand the issue of attention as purely neurocentric. Indeed, if we look at studies not just from the sciences but the humanities too, we find that literary theorist Renate Lachmann’s theory of ‘intertextuality’ provides an insightful framework for understanding books and literature as ‘culture’s memory’. She suggests that literature is “the mnemonic art par excellence. Literature supplies the memory for a culture and records such a memory. It is itself an act of memory. Literature inscribes itself in a memory space made up of texts, and it sketches out a memory space into which earlier texts are gradually absorbed and transformed” (Memory and Literature: Intertextuality in Russian Modernism, 1997). So our memory extends beyond the limits of the biological and into the cultural. And as Donald Hebb memorably put it: “cells that fire together wire together.” So synapses can be formed and unformed due to the influence of one’s cultural situation. Neuronal plasticity is thus our saving grace in the fight to recapture our attention and reclaim our memory. The very same characteristic of learning that has allowed us to fall into a culture of shallow thought and decreased attention span could bring back our memory, allowing anamnesis (recollection). If we develop a culture whereby we learn to balance our internet browsing habits with techniques that facilitate the deep concentration required when reading or writing, then we can essentially rewire our brains to utilise the vast benefits of both of these external memory forms.‬
+
+
+
+A Legacy Of Thoughts
+
+Throughout Plato’s dialogues, we see references to Socrates’ rejection of writing due to the various dangers of this exteriorisation of ideas. Yet we must note that it is only through this exteriorisation that we have been warned of these dangers. Socrates was an orator; but Plato was a writer. His legacy lives on through the books he left behind. In fact, neither Socrates nor Plato can justifiably condemn the practice of writing. Plato was arguably the most influential individual externaliser of internal memory in history; and even though Socrates did not write, it is quite evident that he was very well read. The nature of the arguments that Socrates engages in across Plato’s dialogues is based on a Greek cultural heritage itself founded upon writing. And in the Apology, Socrates was to “dine with Homer, Hesiod and Orpheus” after his death.
+
+
+The deep and sustained attention that is necessary when reading longer pieces of writing, books in particular, can be looked at as a way of taking care of our brains and minds; but to do this well, it is first necessary to understand how to care for society as a whole. (then we must pay attention, in the strictest sense of the word, to the way in which our culture is developing).If we are to regain the abilities that have started to be lost during the internet era. The internet is still young, and we’re still learning how to adapt to it, but its pharmakologically dual nature must be understood in order for us to make rational informed decisions, both individually and collectively, on how to interact with it in the future.
+
+
+To conclude I’ll leave you with a quote from a 2005 speech by an author who foresaw these issues more clearly than most of his generation, the great David Foster Wallace:
+
+
+
+“‘Learning how to think’ really means learning how to exercise some control over how and what you think. It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience… The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people.”
+
+
+
+© Matt Bluemink 2017
+
+
+Matt Bluemink is the founder and editor of bluelabyrinths.com, an online magazine dedicated to philosophy and literature. He’s based in Seoul.
+
+ 
+ 
+ Advertisement
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ if (true) {
+ document.getElementById("fba_1").addEventListener("click", function () {
+ gtag("event", "ad_MidasGroup", {});
+ });
+ }

@@ -1,0 +1,159 @@
+---
+title: "What's Foul and Fair When Students Use AI?"
+source_url: "https://paw.princeton.edu/article/whats-foul-and-fair-when-students-use-ai"
+source_title: "Princeton Alumni Weekly"
+author: "Sofia Cipriano"
+date: "2025-10-14"
+type: news-article
+tags: [peer-institutions, academic-integrity, ai-policy, oral-exam-design, student-experience, student-anxiety, written-vs-oral]
+summary: "A Princeton history professor replaced take-home essays with oral midterms and in-person finals after concluding that uneven AI use made written homework inequitable; 25% of AB and 37% of BSE seniors admitted using LLMs when not allowed."
+harvard_relevance: "A peer institution case study where the shift to oral assessment was driven not by pedagogical preference but by ethical imperative -- written take-home work became inequitable because enforcement is impossible."
+---
+What's Foul and Fair When Students Use AI?
+https://paw.princeton.edu/article/whats-foul-and-fair-when-students-use-ai
+
+Elle's notes:
+History professor Michael Brinley no longer assigns essays in his Soviet history class, replacing them with "a mix of in-class quizzes, an oral midterm, and an in-person final." The shift was driven by concerns about fairness: "If some students [use AI] and others don't, that doesn't seem very fair for a graded exercise." The article notes that Princeton's 2025 Senior Survey found 25% of AB students and 37% of BSE students admitted using LLMs when not allowed. Brinley is among many Princeton faculty who recently restructured assignments, abandoning take-home assessments for in-person formats.
+
+Harvard relevance: This is a peer institution case study—a Princeton history professor making the exact choice Harvard faculty are contemplating. Brinley's reasoning is instructive: the problem isn't pedagogical preference for oral formats, it's ethical imperative. Written take-home work has become inequitable because enforcement is impossible and accusations are career-damaging. Students themselves report feeling "trapped in an uncomfortable bind: Use AI illicitly, or risk slipping behind." The oral midterm isn't a punitive response—it's a structural solution that restores fair competition. If Princeton can do this in Soviet history, Harvard can do it anywhere.
+
+--
+
+Academics
+
+What’s Foul and Fair When Students Use AI?
+Professors and undergrads reflect on the challenges of regulating technology’s role in coursework
+
+ Adobe
+
+ By Sofia Cipriano ’27 Published Oct. 14, 2025
+
+7 min read- Copied to clipboard When asked to write a “snappy” hook for an article on generative AI’s impact on academic integrity at Princeton, ChatGPT produced the following:
+
+“At Princeton, generative Al is shaking up academic integrity — forcing students and professors to rethink what’s real work and what’s just smart software.”
+
+In this case, the chatbot may have a point: AI technology’s ubiquity has sparked a wave of conversations on the national and local levels. The Chronicle of Higher Education reported in July that, based on an amalgamation of recent studies, anywhere from one-third to almost all university students use AI. Princeton is no exception, and yet enforcement of University rules does not seem to be meeting student practices.
+
+The Daily Princetonian’s 2025 Senior Survey found that 25% of AB students and 37% of BSE students in last year’s senior class reported using a large language model (LLM) for an assignment when it was not allowed. Though Honor Code cases remain rare, the number of students found responsible for “unauthorized use” of outside material (including generative AI) on in-person exams has doubled: Between 2015 and 2020, the student-led Honor Committee found seven instances of responsibility in such cases; statistics from 2020-25 recorded 14.
+
+The Faculty-Student Committee on Discipline, which addresses academic infractions committed outside the classroom, tells a similar story. “There has been a significant increase in the number of cases involving the improper use of generative AI in the last few years,” Deputy Dean of Undergraduate Studies Joyce Chen wrote in a statement to PAW. The University’s Annual Discipline Report from 2023-24 found that, two years ago, of the 42 academic infractions reported, 10 involved the illicit use of generative AI on take-home assignments. Statistics from 2024-25 have yet to be released.
+
+Amid this backdrop, more professors are suspecting students of illicitly using AI — and more students are suspecting their peers. As the technology is developing, so too are classroom dynamics and course assignments.
+
+Princeton’s current AI policy, adopted in 2024, comes in a few parts: Students may not submit AI-generated output to fulfill an academic requirement or represent AI output as their own work, instructors have discretion to determine AI policies for their own courses, and if students use generative AI in a permitted way, they must disclose their use.
+
+“While certain aspects of the current policy are not likely to change, the University continues to have discussions around the use of generative AI and related University policies,” wrote Chen.
+
+Students “were afraid they were going to somehow get caught accidentally using AI, or be punished for breaking the Honor Code because they didn’t know what they could or couldn’t do.”
+
+— Meredith Martin, Professor of English
+
+While some professors are more skeptical of AI, others have incorporated its use into the classroom. History professor D. Graham Burnett ’93 penned a recent New Yorker article painting an optimistic portrait of his classroom experiments with the technology.
+
+Princeton’s policy gives professors maximum flexibility. “It’s so discipline specific,” said English professor Meredith Martin, who was on a University committee tasked with workshopping AI policies in 2023. Martin is also faculty director of the Center for Digital Humanities, where she employs technologies such as AI in her research.
+
+Kate Stanton, director of the McGraw Center for Teaching and Learning, said that when advising faculty on their AI policies, “our approach always starts with encouraging faculty to define their learning or curricular goals, and then to develop an AI policy that will allow students to meet those goals.”
+
+But it’s unclear whether students are always aware of the University’s policies or of their professors’ specific guidelines. Nadia Makuc ’26, a classics major and chair of the Honor Committee, said there are some professors who have “the attitude that ‘if I don’t address it, it doesn’t exist.’ But that’s clearly not the case. And so there are a lot of students who are using [AI] just because it hasn’t been made clear by the professors.”
+
+Martin said she thinks “Princeton students are already really scared” about generative AI. When she spoke to students last spring, they said that “they were afraid they were going to somehow get caught accidentally using AI, or be punished for breaking the Honor Code because they didn’t know what they could or couldn’t do.”
+
+Traditionally, breaking the rules on academic assignments may be seen as “an adversarial faculty-student issue,” said Wendy Laura Belcher, a professor of comparative literature, but she sees it as a “student-student thing”: “It’s discouraging” for students to see their peers using AI dishonestly.
+
+Students who spoke with PAW, representing a range of departments, said that they feel trapped in an uncomfortable bind: Use AI illicitly, or risk slipping behind.
+
+“I know so many people who use [AI] to actually turn in problem sets and stuff like that,” said Evelyn Wellmon ’28.
+
+“I’m disappointed that the University environment has come to this because I do like knowing that I’m not using AI for any of my work,” she said. “I’m aware that I’m missing out on some things by, like, actually taking the time to do my work, and reading the books.”
+
+Pranjal Modi ’28 said that in one of his advanced operations research and financial engineering classes last semester, he was shocked by the high average test results from the class’s first exam, which was take-home.
+
+“For a class that difficult, it was kind of crazy for the average to be that high,” he said. He strongly suspected many of his peers used AI, a concern Modi said was shared by others in the class.
+
+Now, he said, “a lot of my friends don’t really want to take courses with take-home exams.”
+
+Most of the professors interviewed by PAW recently restructured their assignments in response to generative AI, replacing take-home assessments with in-person ones.
+
+Molecular biology professor Daniel Notterman lamented abandoning a take-home midterm in a course he teaches, Diseases in Children. While the assignment was traditionally enjoyed by his students, “over the last couple of years, especially last year, I got a little concerned that some students were taking advantage of a robot to write these things,” he said.
+
+“It’s really a matter of equity. If some students [use AI] and others don’t, that doesn’t seem very fair for a graded exercise. So this year, this is what we’re doing,” he said, pulling out a stack of blue books.
+
+History professor Michael Brinley, who is no longer assigning essays in his Soviet history class — using instead a mix of in-class quizzes, an oral midterm, and an in-person final — said that he did so out of sensitivity to fairness.
+
+Professors also said they’re uncomfortable with reporting students for suspected illicit AI use, noting that finding evidence is difficult and accusations are high-stakes.
+
+“I’m not interested in being a police officer — that’s not my schtick,” Notterman said. “I want to be able to trust my students and believe them if they tell me they didn’t [use AI].”
+
+Noting the integrity of Princeton students, English professor Robert Spoo said, “I think some Princeton students almost have too much pride to take the easiest way out.”
+
+“There are a lot of Princeton students who are obviously very competitive and driven and want to do the best possible job,” said David Bell, a professor of history. “And I think they realize pretty quickly that AI is not going to get them there.” From playing with AI himself, he determined that while the technology can produce a B-level paper, it can’t produce an A-level one.
+
+Like many of his colleagues, Bell abandoned assigning a take-home midterm paper due to cheating concerns. But he kept his class’s final assignment, a research paper, and hopes that students will do the work on their own. “It’s too important an assignment to get rid of,” he said. “I will continue to preach against AI to my students.”
+
+Within the bounds of the school’s AI policy, professors and students have found many ways to employ AI productively. Princeton Ph.D. student Sayash Kapoor — who, with Professor Arvind Narayanan, co-authored the 2024 book AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference — said that “you can use AI to increase learning or to escape it.”
+
+“Most Princeton students I interact with have used AI productively,” he said. “They use it to debug code, explore ideas, [and] get unstuck on problems.”
+
+Electrical and computer engineering major Rahul Kalavagunta ’26 noted many use AI as a teaching tool, particularly in coding classes. He explained that while ChatGPT can implement code effectively, it is not useful without precise prompts. “It’s not good at solving concepts,” said Kalavagunta, who also works as a lab teaching assistant in an introductory computer science course.
+
+Martin, who teaches Data and Culture, emphasized employing a critical data studies approach when using generative AI — that is, to think about where data comes from, who analyzed it, and to what end.
+
+Thinking about how we’re thinking — what computer science and psychology professor Tom Griffiths sums up as “metacognition” — is perhaps the best way to think about higher education’s role today.
+
+“The world that we’re moving into, where people are interacting with these AI systems, is one where cognition might be becoming less important and metacognition is becoming more important,” said Griffiths, who heads Princeton’s Laboratory for Artificial Intelligence. To use AI effectively, he said, you must always ask: “What’s the right way to solve this problem?”
+
+ Published in the November 2025 Issue
+
+ Artificial Intelligence Administration 2026 2028 Academics 
+
+ 2 Responses
+
+Nap-yin Lau *86
+ 2 Months Ago
+
+Using AI in Research and Teaching
+Based on my using AI in historical research, I totally agree with Professor David Bell that AI “can produce a B-level paper. It can’t produce an A-level one” and Rahul Kalavagunta that AI “is not useful without precise prompts.” In response to Peter Severson’s analogy of gym exercise, I believe that AI can help everyone become a B-level athlete, but only you yourself can prompt AI to help you become an A-level one. To make “precise prompts” requires a lot of expertise skills and intellectual exercises (e.g. always asking “What’s the right way to solve this problem,” in Tom Griffiths’ words) that shall make you smarter. To use AI generally is one thing, to use it intellectually and expertly is another, for which we must encourage and train our students. My method is to let AI answer my question first, and then ask the students to criticize and raise their own questions for AI to answer until the students satisfy. I grade the students’ criticisms, questions, and the final answers (which actually are their collaboration with AI).
+
+- Reply
+
+Peter Severson ’09
+ 3 Months Ago
+
+Cheating With AI Is Cheating Yourself
+Professor Notterman hit the nail on the head with his fear that these “tools” turn professors into cops and students into suspects by making it so easy (and tempting) to cheat on assignments. His concession to adapt evaluating measures like essays and quizzes to contexts where it won’t be possible to cheat is probably prudent, unfortunately. I think any Princeton student who uses these products to circumvent actual learning, the scholarly work of learning to become a critical citizen of the world, is cheating first and foremost himself. Professor Robert Gehl from York University in Toronto put it best: “GenAI can simulate all of the steps: It can summarize readings, pull out key concepts, draft text, and even generate ideas for discussion. But that would be like going to the gym and asking a robot to lift weights for you.”
+
+- Reply
+
+Join the conversation
+ Name Email Princeton affiliation - Select -AlumniFacultyStaffStudentCommunity MemberNon-alumni Response
+
+Plain text
+Full name and Princeton affiliation (if applicable) are required for all published comments. For more information, view our commenting policy. Responses are limited to 500 words for online and 250 words for print consideration.
+
+ 
+
+ The Latest
+ See all Features
+
+Microbes for the Masses
+ On the Campus
+
+Princeton Librarian Anne Jarvis to Retire After 10 Years
+ On the Campus
+
+Roasting Marshmallows and Coffee, Students Learn Tasty STEM Lessons
+ Princeton Portrait
+
+He Fled Nazi Germany and Shaped the Course of Art History
+ Student Dispatch
+
+Facing a Job Market Shaped by AI, Seniors Reevaluate Their Paths
+ 
+
+Related News
+ Features
+
+Microbes for the Masses
+Rob Knight *01 is building the tools to transform health care through microbiome science
+
+ 1 Response

@@ -1,0 +1,35 @@
+---
+title: "Objective Assessment Criteria Reduce Judgmental Bias in Grading"
+source_url: "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1386016/full"
+source_title: "Frontiers in Education"
+author: ""
+date: "2024"
+type: research-paper
+tags: [rubrics, grading, equity, oral-exam-design, pedagogy]
+summary: "Pre-service teachers with negative implicit associations graded migration-background students worse--but only when no rubric was used; structured criteria eliminated bias by forcing rule-based rather than heuristic judgment."
+harvard_relevance: "Bias in oral assessment is real but mitigatable; Harvard should never implement oral assessment without explicit, predetermined criteria."
+---
+Objective assessment criteria reduce the influence of judgmental bias on grading
+https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1386016/full
+
+Elle's notes:
+Rigorous experimental study on bias in non-anonymous assessment:
+• Finding: Pre-service teachers with negative implicit associations toward students with migration backgrounds graded them worse—but only when no rubric was used
+• Solution: "When no error table was used and the pre-service teachers had negative implicit associations... they graded students with a migration background worse. No grading disparities were found when the error table was used."
+• Mechanism: Objective criteria force "rule-based" rather than "heuristic" judgment
+
+Why it matters: Bias in oral assessment is real—but mitigatable through structured rubrics. The study suggests Harvard should never implement oral assessment without explicit, predetermined criteria.
+
+--
+
+Objective Assessment Criteria Reduce the Influence of Judgmental Bias
+
+This study demonstrates that objective assessment criteria significantly reduce bias in teacher grading based on student migration background. Specifically, when teachers used error tables to guide their evaluations, grading disparities disappeared—even among instructors who held negative implicit associations about Turkish students' academic performance.
+
+Researchers had 157 pre-service teachers assess dictations under two conditions: with and without error tables. Student names were varied to suggest Turkish or German backgrounds. An implicit association test measured teachers' unconscious attitudes toward different ethnic groups.
+
+Without structured evaluation criteria, teachers with negative implicit associations graded students perceived as having Turkish backgrounds significantly lower than those presumed to be ethnically German, despite identical performance. However, "when the error table was used," no disparities emerged.
+
+The research suggests that unclear grading standards force educators to rely on heuristic mental shortcuts, where implicit biases influence judgment. Objective criteria establish "external standards" that replace association-based reasoning, promoting systematic rather than automatic information processing.
+
+Schools can mitigate demographic-based grading disparities by implementing detailed, objective assessment rubrics that specify performance expectations clearly rather than relying on subjective teacher judgment.

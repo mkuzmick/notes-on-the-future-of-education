@@ -1,0 +1,325 @@
+---
+title: "University of Sydney two-lane assessment framework for the AI era"
+source_url: "https://educational-innovation.sydney.edu.au/teaching@sydney/aligning-our-assessments-to-the-age-of-generative-ai/"
+source_title: "University of Sydney Teaching@Sydney"
+author: "University of Sydney"
+date: ""
+type: institutional-policy
+tags: [peer-institutions, ai-policy, oral-exam-design, curriculum-design, academic-integrity]
+summary: "Sydney divides all assessment into Secure (in-person, supervised, including interactive oral) and Open (scaffolded AI use), after research showed AI can pass virtually all take-home assessments without detection -- including via voice cloning for online oral exams."
+harvard_relevance: "Sydney's emphasis on in-person interactive oral assessment as the secure verification method directly addresses Harvard faculty concerns."
+---
+Aligning our assessments to the age of generative AI
+https://educational-innovation.sydney.edu.au/teaching@sydney/aligning-our-assessments-to-the-age-of-generative-ai/
+
+Elle's notes:
+Sydney has implemented a comprehensive institutional framework dividing all assessments into two categories: "Secure" (Lane 1) — in-person, supervised assessments including interactive oral assessments, vivas, and exams where AI may or may not be allowed; and "Open" (Lane 2) — unsupervised assessments that scaffold responsible AI use. The approach stems from TEQSA-commissioned research demonstrating that AI can complete virtually all take-home assessments "at a passable level without detection," including essays, presentations, reflections, and even online oral exams using voice cloning. Sydney's response is pragmatic: secure assessments verify what students actually know, while open assessments teach them to work ethically with AI tools.
+
+Harvard relevance: This is perhaps the most comprehensive peer institutional response. Sydney's framework addresses both the "verification problem" (can we trust this student did the work?) and the "preparation problem" (are we teaching skills for an AI-saturated world?). The emphasis on interactive oral assessments as a scalable, secure verification method directly speaks to Harvard faculty concerns. Note the realism: they acknowledge that even "oral exams" can be gamed online (deepfakes), hence the emphasis on in-person interactive formats. For a residential college like Harvard, this is achievable at scale.
+
+--
+
+TL;DR: The reality of assessment in the age of generative AI
+
+- Generative AI tools exist that can accurately create content (including written work, images, music, video, and the spoken word) and answer questions.
+
+- Although current AI tools can and do produce errors, the technology is improving at a very fast pace.
+
+- AI detection relies on the user not knowing how to use it properly and can circumvented by AI tools designed to do so or by tactics advertised to students available widely on social media.
+
+- Only some students can afford to pay for state-of-the-art AI tools which can complete our assessments and avoid detection even more rigorously.
+
+- We need to equip our students to be leaders in a world where AI is everywhere.
+
+Read about the ability of generative AI to complete assessments, our two-lane approach to assessment, changes to the Academic Integrity Policy for Semester 1, and how it affects coordinators, and the plan for larger changes to assessment categories and types for Semester 2 to fully align them with the reality of assessment in the age of generative AI.
+
+Background
+
+The release of ChatGPT in November 2022 represented a huge leap in the power and availability of generative AI. In the past two years, generative AI tools have multiplied in number and advanced considerably. There is no indication that investment and development will slow in the near future. Generative AI tools can take text, image, audio, video, and code inputs and generate new content into any of these formats. Numerous reports show that these tools can mimic human outputs well enough to pass or excel in the types of assessments commonly used to validate learning in higher education and elsewhere. These reports also demonstrate that new versions show a marked improvement in the grades obtained. Generative AI is becoming baked into everyday productivity tools and devices including wearables, and it will become increasingly difficult, expensive, and undesirable to control their use outside highly supervised environments.
+
+If we do not change our assessments to align them with the capabilities of generative AI, our degrees will be easier to pass and we will have failed to prepare our students for their future.
+
+Whilst the effects on our teaching, and assessment and program design are immense, the implications for our graduates is profound. Described by Silicon Valley pioneer Reid Hoffman as a “steam engine of the mind”, generative AI tools are already replacing and changing the white-collar jobs traditionally sought by our students. Our graduates are already being asked to demonstrate their AI skills in interviews and expected to be skilled users. A recent report indicated that more than half of students feel they have sufficient AI knowledge and skills.
+
+Our assessment design thus needs to both be able to assure learning and to develop students’ contemporary capabilities in an ever-changing world. If we do not change our assessments to align them with the capabilities of generative AI, our degrees will be easier to pass and we will have failed to prepare our students for their future.
+
+What assessments can a novice use generative AI to complete without reliable detection?
+
+TEQSA recently commissioned two academics from the University of Sydney, Danny Liu and Ben Miller, to make a series of short videos demonstrating the capabilities of modern generative AI tools:
+
+- Gen AI and student learning
+
+- Generative AI and reflective writing
+
+- Multiple modalities and generative AI
+
+As shown in these videos, students can use these tools to support or to subvert their learning, with AI able to potentially complete all take-home or remotely supervised assessment at a passable level without detection. In the videos, multiple assessment forms are shown to be completed by AI, including (i) MCQs and short answer questions, (ii) essays and literature reviews with real references, (ii) data analysis and scientific reports, including graphs, (iv) course discussion and discussion board posts using our resources, (v) presentations including slides, script and audio, (vi) reflective tasks and writing in any genre, (vii) reflective analysis including its own biases, (viii) online oral exams and (ix) podcasts and videos using the student’s face and voice. Other assessments or versions of these are also at risk from existing or soon-to-be-produced AI tools.
+
+The two-lane approach to assessment
+
+The University’s ‘two-lane approach’ to assessment is a realistic and forward-looking approach to assessment design for a world where generative AI is ubiquitous and can mimic many of the products of ‘traditional’ assessments (Table 1). It is deliberately binary, because we need to ensure that:
+
+- Our graduates are able to demonstrate the knowledge, skills, and dispositions detailed in the course learning outcomes through “secure” assessments (lane 1)
+
+- Our graduates have the ability to learn and prosper in the contemporary world through appropriately-designed “open” assessments that support and scaffold the use of all available and relevant tools (lane 2)
+
+Table 1: Summary of the two-lane approach.
+
+Secure (Lane 1)
+Open (Lane 2)
+
+Role of assessment
+Assessment of learning
+Assessment for and as learning
+
+Level of operation
+Mainly at program level
+Mainly at unit level
+
+Assessment security
+Secured, in person
+‘Open’ / unsecured
+
+Role of generative AI
+May or may not be allowed by examiner
+As relevant, use of AI scaffolded & supported
+
+TEQSA alignment
+Principle 2 – forming trustworthy judgements of student learning
+Principle 1 – equip students to participate ethically and actively in a society pervaded with AI
+
+Examples
+In person interactive oral assessments; viva voces; contemporaneous in-class assessments and skill development; tests and exams.
+AI to provoke reflection, suggest structure, brainstorm ideas, summarise literature, make content, suggest counterarguments, improve clarity, provide formative feedback, etc
+
+ 
+
+The two-lane approach, our legislative requirements, and the Coursework Policy
+
+The Higher Education Standards Framework (Threshold Standards) (HESF), requires:
+
+1.4.3 Methods of assessment are consistent with the learning outcomes being assessed, are capable of confirming that all specified learning outcomes are achieved and that grades awarded reflect the level of student attainment.
+
+1.4.4 On completion of a course of study, students have demonstrated the learning outcomes specified for the course of study.
+
+The accreditation functions of our professional bodies all have similar statements. For example:
+
+- The learning and assessment design must rigorously confirm delivery of the graduate outcomes specification for the program as a whole (Engineers Australia).
+
+- Graduates of the program demonstrate achievement of all the required performance outcomes (Australian Pharmacy Council).
+
+Both Threshold Standards 1.4.3 and 1.4.4 require the inclusion of secure (lane 1) assessments in our courses so that we can demonstrate that all students have achieved all the learning outcomes, irrespective of the pathway they choose. Our course learning outcomes, aligning with our overarching Graduate Qualities, also require we develop students with contemporary capabilities including cultural competence, ethical identity, information and digital literacy, and communication skills, as well as disciplinary knowledge, skills, and dispositions, through open (lane 2) assessment and related learning activities.
+
+Although TEQSA have not yet published regulations on how we need to demonstrate how our approach to generative AI will allow us to meet the Threshold Standards, the two-lane approach aligns closely with the TEQSA ‘Assessment reform for the age of artificial intelligence’ (see Table 1) and the Group of Eight principles on the use of generative artificial intelligence. Our recent submission to TEQSA’s ‘Request for Information’ on our response to generative AI, outlined below, has the two-lane approach at the centre.
+
+In November 2023, two new assessment principles were added to the Coursework Policy to align with the two-lane approach. Assessment principle 6 states that “Assessment practices develop contemporary capabilities in a trustworthy way”. This principle requires that:
+
+- assessment practices enable students to demonstrate disciplinary and graduate skills and the ability to work ethically with technologies (including artificial intelligence)
+
+- supervised assessments are designed to assure learning in a program;
+
+- unsupervised assessments are designed to motivate and drive the process of learning;
+
+- where possible, authentic assessments will involve using innovative and contemporary technologies;
+
+Requirement (a) relates to the overall approach whilst requirement (b) corresponds to secure (lane 1) and requirements (c) and (d) to open (lane 2) assessments.
+
+Program-level assessment design
+
+As noted in Table 1, it is expected that, in time, most secure (lane 1) assessments will operate at program level. This is also recommended in the TEQSA ‘Assessment reform for the age of artificial intelligence’ guidelines. The HESF standards 1.4.3 and 1.4.4 quoted above require us only to assure learning at the course or program level, with program here referring to a collection of units in a course component such as a major or specialisation. Whilst this could be achieved through assurance in every unit of study, the increasing difficulty of controlling use of generative AI in assessments means that it is likely to be considerably easier and more reliable to consider assurance at the program level.
+
+Given the complexity and flexibility of many of our courses and their components, assessment principle 5 has also been added to the Coursework Policy. This states that “Assessment practices must be integrated into program design”. Amongst its requirements is a need that:
+
+- students’ learning attainment can be validated across their program at relevant progression points and before graduation;
+
+- assessments equip students for success in their studies and in their future, using appropriate technologies; and
+
+- academic judgement of student achievement occurs over time through multiple, coherent, and trustworthy assessment tasks.
+
+Requirements (a) and (c) require planning of secure (lane 1) assessments at key stages of every program. Requirement (b) builds on assessment principle 5 in requiring students are prepared to use generative AI, and other technologies, well through appropriate open (lane 2) assessments by requiring these are also planned at the program level.
+
+The article ‘Program level assessment design and the two-lane approach’ details the literature, evidence and example typologies for how this might be achieved in our courses.
+
+Our assessments and academic integrity settings
+
+In 2024, we ran about 30,000 separate assessments with over 2.2 million student submissions. The labels for the assessment categories and types attempt to describe to students what to expect as well as to inform special consideration and academic plans. They were not chosen to reflect the two-lane approach described above, but it is estimated that around 15% of the assessments could be considered secure. Around 80% of units (corresponding to ~60% of enrolments) do not have a formal exam, although there are other forms of assessments that may be considered secure outside of examinations. As the difficulty in securing assessments increases, including from the threat of contract cheating, the development of connected devices such as wearables, and the ever-improving ability of generative AI tools, it will become more and more important to plan the placement of secure assessment above the level of the unit of study, at the program level.
+
+For now, the Academic Integrity Policy in 2024 states that “Students must not …. generative artificial intelligence to complete assignments unless expressly permitted” by the unit coordinator. In 2024, coordinators have permitted AI use in around 15% of our assessments. AI is not permitted in around 75% of assessments considered unsecure or where security has not been considered. This poses a clear problem to the validity of these assessments.
+
+Semester 1 2025
+
+‘Allowable assistance’ in the Academic Integrity Policy in Semester 1 2025
+
+From Semester 1 2025, the default position in the Academic Integrity Policy has been reversed for assessments which are not formal examinations or in-semester tests:
+
+- Except for supervised examinations and supervised in-semester tests, students may use automated writing tools or generative artificial intelligence to complete assessments, unless expressly prohibited by the unit of study coordinator.
+
+- Students must not use automated writing tools or generative artificial intelligence for examination and in-semester tests, unless expressly permitted by the unit of study coordinator.
+
+Unit outlines in Semester 1 2025
+
+To reflect the change in the Academic Integrity Policy, coordinators will be able to choose from the options shown in the image below, with the default being “Unsecured assessment full AI”. For Semester 1, a coordinator can still prohibit the use of generative AI in take-home assessments, but this should be accompanied by an appropriate risk assessment and an elaboration in the unit outline and Canvas. These choices will be reflected in the unit outline, as illustrated in the second image below.
+
+Choices available in Sydney Curriculum for Semester 1 2025 with “full AI” use selected by default.
+
+Mock-up of a unit outline for Semester 1 2025 showing an icon next to a task where generative AI is allowed.
+
+Semester 2 2025
+
+Proposed assessment categories and types
+
+The labels below have been developed through consultations with staff and students across the University. Further feedback is very welcome.
+
+Secured
+
+Secure (lane 1) covers assessment of learning. It must be appropriately secured, through in-person supervised assessment. The use of AI and other technologies is controlled by the assessor and may be restricted completely.
+
+Table 2: Proposed assessment categories and types for secured assessments for Semester 2 2025.
+
+Category
+Assessment types
+
+Final exam – secured
+Written exam
+
+Practical exam
+
+Oral exam
+
+In-semester test – secured
+Written test
+
+Practical test
+
+Oral test
+
+In class – secured
+Interactive oral
+
+Practical or skills test
+
+In person practical, skills, or performance task or test
+
+In person written or creative task
+
+Q&A following presentation, submission or placement
+
+Placement, internship, or supervision
+Peer or expert observation or supervision
+
+In person practical or creative task
+
+Clinical exam
+
+Coordinators will be able to control the use of generative AI, and other technologies, in secured assessments, including completely restricting their use.
+
+Note on online courses and units of study
+
+Our experience of remote assessment in recent years indicates that securing examination style assessments through proctoring is already difficult and costly. The availability of easy to access (and increasingly difficult to detect) powerful generative AI tools on devices and wearables indicates that future-proofing remote assessment is likely to be near impossible. Program level assessment design is therefore paramount to maximise the assurance of learning in secure settings. For example, online postgraduate courses should make use of opportunities for in-person experiential activities including on placements and in intensive sessions. The use of capstone units should also be considered with in-person assessments using exam centres, agreements with other providers etc.
+
+Non-in-person assessments designed to assure learning will be evaluated case by case, based on risk level, and approved by the relevant delegate.
+
+Open
+
+Open (lane 2) covers assessment for learning and as learning. It includes the scaffolded use of appropriate technologies where relevant. Students are assisted in how they use AI and other technologies, with their use fully allowed.
+
+The choice of the category labels has been made to focus on the types of activities known to be effective in learning and the development of evaluative judgement. The task types below align with those used by the NSW Education Authority.
+
+Table 3: Proposed assessment categories and types for open assessments for Semester 2 2025.
+
+ 
+
+Category
+Assessment types
+
+Practice or application – open
+In-class quiz
+
+Out of class quiz
+
+Practical skill
+
+Inquiry or investigation – open
+Experimental design
+
+Data analysis
+
+Case studies
+
+Research analysis
+
+Production and creation – open
+Portfolio or journal
+
+Performance
+
+Presentation
+
+Creative work
+
+Written work
+
+Dissertation or thesis
+
+Discussion – open
+Debate
+
+Contribution
+
+Conversation
+
+Evaluation
+
+Coordinators will not be able to control or restrict the use of generative AI, and other technologies, in open (lane 2) assessments. They should, though, scaffold and guide students in how to use them effectively.
+
+Special consideration including simple extensions
+
+The introduction of the new approach, categories, and types is an opportunity to rethink special consideration, including simple extension.
+
+Secured assessments measure learning in the program, and many are likely to become hurdle or “must pass” tasks. As generative AI tools become ubiquitous in applications and even wearables, controlling their use will become more difficult and potentially intrusive. Special consideration responses need to reflect this.
+
+Open assessments are for and as learning, so should be universally designed with opportunities for feedback, classroom discussion, and collaboration optimised. This may influence the nature of the special consideration that a task receives.
+
+Academic adjustments
+
+Assessment data, including assessment types, weightings, and due dates, are passed electronically from Sydney Curriculum to Sydney Assist for students who have a disability, medical condition, or carer responsibilities. The Inclusion and Disability Services Unit produce personalised academic plans with reasonable adjustments based on each student’s circumstances and the assessments. There is no equivalent of the Decisions Matrix and adjustments for non-examination assessments may include additional time, alternative formats or a different assessment. For examinations, students may get additional time, different venues, additional breaks or a scribe.
+
+Secured assessments measure learning in the program, so academic adjustments must be prioritised.
+
+Open assessments are for and as learning, so should be universally designed. Although personalised adjustments will always be available, ideally universal design will mean there is little or no need for additional adjustments to be made for most students. For example, restricting time or allowing only one attempt in online quizzes now have little or no educational value, since AI plugins exist which can complete the quiz with good accuracy in little time; making such a quiz open for a week with students allowed multiple attempts means that no adjustment is needed for most students.
+
+Support and next steps in planning for Semester 2 2025
+
+Support will be available to faculties, schools and directly to coordinators to make the required changes ahead of Semester 2, including:
+
+- 1:1 consultations with each coordinator to map existing assessment types to new assessment types.
+
+- The selection of new assessment types in Sydney Curriculum based on agreed mapping.
+
+- Workshops on new approach and assessment types.
+
+- Consultations and educational design support for uplift
+
+Academic Standards and Policy Committee (ASPC) will need to approve a number of changes early in 2025, including:
+
+- The new assessment categories and types in the Assessment Procedures.
+
+- The associated special consideration matrix in the Assessment Procedures.
+
+- The settings in the Academic Integrity Policy so that generative AI use can only be restricted for Secure (Lane 1) assessments.
+
+Tell me more
+
+- TEQSA videos on generative AI and student learning
+
+- FAQs about the two lane approach
+
+- Program level assessment design and the two-lane approach
+
+- Frequently asked questions about generative AI at Sydney
+
+- Rules, access, familiarity, and trust – A practical approach to addressing generative AI in education (includes the University of Sydney’s response to the TEQSA’s request for information)
+
+- Menus, not traffic lights: A different way to think about AI and assessments
+
+- Embracing the future of assessment at the University of Sydney

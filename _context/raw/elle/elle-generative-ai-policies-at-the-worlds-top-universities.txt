@@ -1,0 +1,355 @@
+---
+title: "Generative AI Policies at the World's Top 20 Universities"
+source_url: "https://www.thesify.ai/blog/gen-ai-policies-update-2025"
+source_title: "Thesify"
+author: "Alessandra Giugliano"
+date: "2025-10-16"
+type: research-paper
+tags: [ai-policy, peer-institutions, academic-integrity, harvard]
+summary: "Systematic analysis of top-20 universities finds no major peer has positioned oral assessment as a systematic institutional response to AI; the landscape remains reactive (detection, disclosure, prohibition) rather than pedagogically proactive."
+harvard_relevance: "No peer institution has yet claimed the oral assessment space institutionally, representing a gap Harvard could fill."
+---
+Generative AI Policies at the World's Top Universities: October 2025 Update
+https://www.thesify.ai/blog/gen-ai-policies-update-2025
+
+Elle's notes:
+Systematic analysis of top-20 universities (THE rankings). Key patterns:
+• Oxford/Cambridge: AI allowed for personal study but banned in summative assessment unless explicitly permitted
+• MIT: Focus on data privacy; course-specific rules set by departments
+• Princeton: Disclosure required; some courses require students to keep AI chat logs for verification
+• Columbia: New draft policy prohibits AI use without explicit permission
+
+Why it matters: No major peer has yet positioned oral assessment as a systematic institutional response. The landscape is reactive (detection, disclosure, prohibition) rather than pedagogically proactive. This is the gap Harvard could fill.
+
+--
+Generative AI Policies at the World’s Top Universities: October 2025 Update
+
+Alessandra Giugliano
+
+Oct 16, 2025
+
+
+As generative artificial intelligence (AI) tools have proliferated, universities have scrambled to write or rewrite policies that balance innovation with academic integrity and privacy. In February 2025 we published an overview of generative AI policies at the world’s top universities. This article is our October 2025 update, using the Times Higher Education World University Rankings 2026 as the reference list. 
+
+The goal remains the same: help you understand where AI is welcomed, restricted or forbidden so that you can make informed choices. Policies evolve quickly, and some institutions have introduced new guidelines or moved in the rankings since February 2025. Always check your syllabus and official university resources before relying on AI.
+
+Checked on 16 October 2025 (Europe). Policies and links verified at time of publication.
+
+Why Universities Care About Generative AI
+Institutions have to balance innovation with responsibility. Unacknowledged AI‑generated text can constitute academic misconduct. Entering personal or institutional data into public AI tools raises privacy concerns. 
+
+Over‑reliance on AI may undermine students’ critical thinking and writing skills. Universities therefore develop policies that emphasise transparency, data security and skill development while allowing students and researchers to experiment with emerging technology.
+
+What Changed Since February 2025
+Ranking shifts: The 2026 edition of the Times Higher Education rankings puts MIT in the #2 spot, ahead of Harvard (#3), while Princeton rises to #4 and Imperial College London enters the top 10. Columbia University and UCLA share a tie at #18, and Cornell University remains at #20.
+
+
+New or updated policies:
+
+Columbia University finalised a draft university‑wide generative AI policy that prohibits AI use without explicit permission.
+
+Imperial College London released generative AI principles and departmental guidelines in March 2025
+
+Johns Hopkins University issued a comprehensive responsible‑use guideline in May 2025.
+
+UCLA published sample syllabus statements in April 2025 to help instructors set expectations.
+
+
+
+Regulatory context: 
+
+The EU AI Act continues to influence European universities, encouraging transparency and fairness. 
+
+In the US, debates over copyright and academic honesty have led to stricter disclosure requirements. 
+
+In Asia, policies range from strict departmental rules at Peking University’s law schools to general encouragement at Tsinghua University.
+
+Visit app.thesify.ai
+Updated Rankings and Methodology
+Our analysis follows the Times Higher Education World University Rankings 2026, the most recent edition available as of October 2025. The top 20 universities in this list are:
+
+University of Oxford (UK)
+
+Massachusetts Institute of Technology (MIT) (USA)
+
+Princeton University (USA) (=3 tie)
+
+University of Cambridge (UK) (=3 tie)
+
+Harvard University (USA) (=5 tie)
+
+Stanford University (USA) (=5 tie)
+
+California Institute of Technology (Caltech) (USA)
+
+Imperial College London (UK)
+
+University of California, Berkeley (USA)
+
+Yale University (USA)
+
+ETH Zurich (Switzerland)
+
+Tsinghua University (China)
+
+Peking University (China)
+
+University of Pennsylvania (USA) 
+
+University of Chicago (USA) 
+
+Johns Hopkins University (USA)
+
+National University of Singapore (Singapore)
+
+Cornell University (USA) (=18 tie)
+
+University of California, Los Angeles (UCLA) (USA)  (=18 tie)
+
+Columbia University (USA)
+
+
+
+List of the World’s Top Universities and Their Policies (October 2025)
+Each entry below summarises the most recent generative AI policies at these universities and includes direct links to official sources. Policies often differ by department or instructor, so treat these highlights as a starting point and consult your course materials for specifics.
+
+1. University of Oxford – Responsible Use and Summative Assessment Rules
+Oxford’s research and assessment policies emphasise responsible use, transparency and academic integrity. Students may use generative AI to support their studies and research, but using AI in summative assessments is permitted only if explicitly allowed by the course or exam instructions. A declaration must accompany any permitted AI use, and unauthorized use is treated as academic misconduct. Avoid sharing personal data with AI tools.
+
+Oxford research AI policy 
+
+Oxford Guidelines on the use of generative AI 
+
+Oxford AI use in summative assessment 
+
+
+
+2. Massachusetts Institute of Technology (MIT) – Data Privacy and Integrity
+MIT’s Information Systems and Technology guidance advises students and staff to consider information security, data privacy, regulatory compliance, confidentiality and intellectual‑property issues when using generative AI tools. AI may assist with non‑confidential tasks, but users must not enter personal or institutional data into public AI tools, and they should verify outputs to avoid plagiarism or hallucinations. Departments and instructors set course‑specific rules and may require disclosure of AI use.
+
+MIT IS&T generative AI guidance
+
+Generative AI use at MIT
+
+Teaching and Learning with ChatGPT (MIT TLL)
+
+
+
+3 (tie). Princeton University – Permission Required and Disclosure
+Princeton’s library guidance reminds students to confirm with their instructors whether AI use is allowed and to disclose any use. AI may be used for brainstorming and outlining if permitted, but copying AI‑generated text or using it beyond allowed scope is considered academic integrity violation. Some courses require students to keep AI chat logs for verification.
+
+Princeton Generative AI Guidance for Faculty
+
+Princeton Generative AI
+
+Princeton Generative AI Disclosure Policy
+
+
+
+4 (tie). University of Cambridge – Personal Study vs. Summative Work
+Cambridge allows students to use generative AI for personal study, research and formative tasks. However, unacknowledged AI‑generated content in summative assessments is academic misconduct. Departments and examiners must specify whether AI is permitted in assignments; students should verify AI outputs and recognise their limitations.
+
+Using Generative AI Guidance for Students (Cambridge)
+
+Cambridge policy on generative AI and assessment
+
+
+
+5 (tie). Harvard University – Instructor‑Specific Policies and Data Security
+Harvard’s IT guidelines encourage experimentation while warning users to protect confidential data and to review AI‑generated content for accuracy. Faculty and schools may publish their own policies; examples range from fully prohibiting AI to permitting AI with disclosure. Students should always follow instructor guidance and cite AI assistance when required.
+
+Harvard IT generative AI guidelines
+
+Harvard OUE generative AI guidance 
+
+
+
+6 (tie). Stanford University – Treat AI Like Help From a Person
+Stanford’s Office of Community Standards states that, absent explicit guidance, generative AI use is treated like assistance from another person; using AI to complete assignments or exams is prohibited unless the instructor permits it. In the Graduate School of Business, instructors cannot ban AI on take‑home coursework but may limit its use during in‑class assessments. Students must disclose any AI assistance when it is allowed.
+
+Stanford GSB course policies on generative AI
+
+Stanford generative AI policy guidance
+
+
+
+7. California Institute of Technology (Caltech) – Instructor Determines Use
+Caltech’s Division of Humanities and Social Sciences policy states that students may use generative AI only for tasks explicitly allowed by their instructors. This applies to assignments, exams and research. Any unapproved use is a violation of academic integrity. Students should document any permitted AI assistance as directed.
+
+Caltech Guidelines for secure and ethical use of Artificial Intelligence (AI)
+
+Caltech HSS generative AI policy
+
+
+
+8. Imperial College London – Ethical Use and Citation
+Imperial’s library guidance emphasises using AI as a starting point, verifying information and acknowledging assistance. Students must list the AI tool, publisher, URL and description when AI contributes to assessed work. Department of Aeronautics rules allow AI for coursework unless prohibited; failure to attribute AI‑generated ideas or text constitutes plagiarism. College‑wide principles stress critical and ethical use.
+
+Imperial generative AI guidance (library)
+
+Imperial Aeronautics policy on generative AI
+
+Imperial generative AI principles
+
+
+
+9. University of California, Berkeley – Appropriate Use and Privacy
+Berkeley’s appropriate‑use guidance allows generative AI tools for research, grammar or brainstorming when instructors permit. Students should not use AI for assignments or exams without approval and must never input confidential or proprietary data into AI tools. Instructors decide whether AI is acceptable in their courses.
+
+Berkeley appropriate use of generative AI tools
+
+Berkeley AI teaching and learning overview
+
+
+
+10. Yale University – Attribution Required
+Yale’s Poorvu Center advises that policies vary by course; students should ask instructors whether AI tools are allowed. Unacknowledged AI‑generated text or images constitute academic dishonesty, and students must cite any AI‑generated material used in assignments. The provost’s guidelines warn against entering moderate or high‑risk data into AI tools.
+
+Yale AI advice for students
+
+Yale Guidelines for the Use of Generative AI Tools (Office of the Provost)
+
+
+
+11. ETH Zurich – Responsibility, Transparency and Fairness
+ETH Zurich’s teaching‑and‑learning guidelines emphasise responsibility, transparency and fairness when using generative AI. Lecturers must set clear rules regarding AI use for assignments and assessments, and students are required to reference AI‑generated content correctly. Misuse or failure to disclose AI use may lead to disciplinary action.
+
+ETH Zurich generative AI guidelines
+
+
+
+12. Tsinghua University – Encouraging Responsible Experimentation
+As of October 2025, Tsinghua University has no central generative AI policy. Instead, the university encourages responsible AI development and adaptation to new technologies. Departments may issue their own rules. Students should consult instructors and stay aware of opportunities and challenges.
+
+Tsinghua University (general)
+
+CGTN report on AI‑empowered universities
+
+
+
+13. Peking University – Strict Rules at the Law School
+Peking University’s School of Transnational Law provides detailed default rules: AI tools may be used for summarising cases, brainstorming, proofreading, translation and drafting emails. However, students may not copy AI‑generated content into final papers, research projects or assignments. Instructors may override these rules with written notice. The policy warns about inaccurate citations, privacy risks and potential penalties—including degree revocations.
+
+Peking University (general) 
+
+Peking University STL AI policy (Fall 2024)
+
+
+
+14. University of Pennsylvania – Transparency and Accountability
+The University of Pennsylvania’s statement on generative AI urges transparency, accountability and avoidance of bias. Students may use AI for brainstorming or drafting assistance if consistent with the Code of Student Conduct. Entering sensitive data into AI tools or letting AI perform tasks without critical review is discouraged. Instructors decide whether AI is permitted; absent guidance, treat AI like a human collaborator.
+
+Penn generative AI guidance
+
+Penn CETLI course policies and communication
+
+
+
+15. University of Chicago – Data Protection and Verification
+The University of Chicago’s guidance prohibits entering confidential data into AI tools and instructs users to verify the accuracy and ownership of AI‑generated content. Students should follow their instructors’ policies and consult academic integrity resources. Unauthorised AI use is treated as plagiarism or unauthorized assistance.
+
+University of Chicago generative AI guidance 
+
+UChicago Using Generative AI to Support Your Learning as a Student
+
+
+
+16. Johns Hopkins University – Approved Tools and Ethical Use
+Johns Hopkins University encourages the use of approved generative AI tools and advises users not to enter proprietary or non‑public data. Students should validate AI outputs, communicate with instructors when uncertain and be transparent. Faculty may prohibit or encourage AI use depending on course goals, and sample syllabus statements range from complete bans to limited use with attribution.
+
+JHU teaching policies – generative AI
+
+JHU engineering AI guidance
+
+JHU School of Medicine New Guidelines for Responsible Use of Generative AI (GenAI)
+
+
+
+17. National University of Singapore – Human–AI Partnership
+NUS provides infographics and institutional guidelines emphasising responsible use, a human–AI partnership and best practices. Students may use AI tools to brainstorm and improve language but should not over‑rely on them. Academic honesty requires acknowledging AI assistance and confirming that the work is one’s own Departments set specific policies.
+
+NUS AI guidelines infographics
+
+NUS Policy for Use of AI in Teaching and Learning (PDF)
+
+
+
+18 (tie). Cornell University – Accountability and Privacy
+Cornell’s IT guidance emphasises accountability, confidentiality and privacy. Users must not enter personal or institutional data into public AI tools and should verify AI outputs. The Center for Teaching Innovation (CTI) outlines seven core principles for AI in education and provides sample course policies that prohibit AI, permit AI with attribution or encourage AI use. Students should follow the Code of Academic Integrity and consult instructors.
+
+Cornell IT AI guidelines
+
+Cornell CTI AI & Academic Integrity
+
+Cornell SCE policy on AI in course assignments
+
+
+
+19 (tie). University of California, Los Angeles (UCLA) – Course‑Specific Guidance
+UCLA’s Teaching and Learning Center offers sample syllabus statements: some courses prohibit AI tools; others allow limited use with citation; and some encourage AI with no restrictions. A letter from the Academic Senate notes that using AI without permission is akin to receiving help from another person and may violate the Student Conduct Code. Students should follow instructor guidance and protect data privacy.
+
+UCLA genAI guidance
+
+UCLA Teaching guidance (Senate letter)
+
+UCLA Creating a Generative AI Policy for Your Course
+
+
+
+20 (tie). Columbia University – Permission Required
+Columbia University’s provost draft policy states that using generative AI without instructor permission is prohibited and constitutes unauthorized assistance. When permitted, AI use requires proper citation. The policy cautions against sharing sensitive data and warns that AI outputs may contain biases.
+
+Columbia generative AI policy (provost)
+
+Columbia Business School AI policy
+
+
+
+How to Navigate University AI Policies
+Policies vary widely by institution and course. Always read your syllabus and ask your instructor if AI use is unclear.
+
+Disclose AI assistance. When AI tools are permitted, you must acknowledge their use—usually in a declaration or citation.
+
+Protect sensitive data. Do not enter personal, proprietary or confidential information into public AI tools.
+
+Verify AI outputs. Generative models can hallucinate or introduce errors. Always check facts and references.
+
+Develop your own skills. Use AI to brainstorm and refine ideas, but don’t let it replace your critical thinking and writing.
+
+
+
+FAQs: Common Questions About University AI Policies
+Can I use ChatGPT for homework at MIT? 
+
+Instructors at MIT may allow generative AI for brainstorming or draft assistance, but you must avoid entering confidential data and should verify the output. If your syllabus is silent, assume AI is not allowed.
+
+How should I cite AI tools? 
+
+Many universities treat AI tools as third‑party sources. Imperial College London requires students to list the tool, publisher, URL and a description of its contribution. Princeton and Cambridge recommend including a declaration of AI use. Always follow local citation guidelines.
+
+Are any universities letting students use AI in exams? 
+
+Policies differ. Stanford’s Graduate School of Business cannot ban AI on take‑home exams but may restrict it in in‑class assessment. Peking University’s law school forbids AI‑generated text in final submissions. Most universities prohibit AI during proctored exams.
+
+What happens if I use AI without permission? 
+
+Unauthorised AI use is usually treated as plagiarism or unauthorized assistance. Consequences can range from a failing grade to suspension or even degree revocation in extreme cases.
+
+Which universities do not have a formal AI policy? 
+
+Tsinghua University has not published a central generative AI policy as of October 2025. The university promotes responsible experimentation but leaves detailed rules to departments. 
+
+
+Key Takeaways and Next Steps for University AI Policies (October 2025)
+Generative AI is reshaping education, but universities are still charting a path between innovation and integrity. The world’s top institutions emphasise transparency, accountability and data privacy. Policies continue to evolve, and differences across regions and schools remain stark. As a student or educator, stay informed by reading official guidelines, asking your instructors for clarity and using AI tools responsibly. The October 2025 update shows that more universities are issuing formal policies and refining their guidance; the trend is toward nuanced, course‑specific rules rather than blanket bans.
+
+Looking for tools to draft responsibly and stay on the right side of university policies?
+thesify can help–as fellow academics, we create AI tools designed to respect institutional rules. Try thesify for free and stay ahead of the next policy update.
+
+
+Related Posts
+AI Policies in Academic Publishing 2025: Guide & Checklist: All major publishers have established ethical frameworks to guide the use of generative artificial intelligence (AI) in academic writing. These policies try to balance between using AI as a tool while safeguarding academic integrity. Learn how major publishers regulate AI in journals. Get a practical pre‑submission checklist, disclosure templates and a comparison of Elsevier, Springer Nature, Wiley, Taylor & Francis & SAGE.
+
+How Professors Detect AI in Academic Writing: A Comprehensive Student Guide: Why do professors check for AI in academic writing? And how do professors detect AI? In this post, we cover AI detection tools, reference and citation verification, and methods used to compare student writing style. You’ll learn more about challenges in detecting AI in student writing and why using AI unethically is not worth the risk. Plus, discover how to use AI in a way your professor will approve of. 
+
+Navigating AI Tools in Academia: Your Essential Student Guide (2025):HEPI’s 2025 research on generative AI for students provides an overview of AI use trends among students (92% using AI, up from 66% in 2024). Learn about the importance of ethical and effective AI usage. We discuss why students are increasingly relying on AI, the time-saving benefits of AI, and how AI can enhance academic quality and personalized support outside study hours. Plus find out common AI pitfalls and how to avoid them.

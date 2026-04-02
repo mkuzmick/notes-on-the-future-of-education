@@ -1,0 +1,213 @@
+---
+title: "Law school strategies for building oral argument skills through scaffolded practice"
+source_url: "https://www.lwionline.org/article/classroom-strategies-prepare-students-oral-argument"
+source_title: "Legal Writing Institute"
+author: "Legal Writing Institute"
+date: "2024-10"
+type: practitioner-guide
+tags: [law, professional-domains, scaffolding, practice-and-rehearsal, student-anxiety, oral-exam-design]
+summary: "Law schools use layered practice progressions (2-min to 6-min), anxiety-as-learning-opportunity framing, multiple feedback styles, and video self-review to build oral argument skills systematically."
+harvard_relevance: ""
+---
+Classroom Strategies to Prepare Students for Oral Argument
+https://www.lwionline.org/article/classroom-strategies-prepare-students-oral-argument
+
+Elle's notes:
+Legal Writing Institute (LWI), October 2024
+Key insight: Law schools have developed systematic pedagogy for oral assessment anxiety and skill-building. Four strategies: (1) treat anxiety as a learning opportunity, (2) expose students to multiple perspectives/feedback styles, (3) create layered practice opportunities (2-min → 3-min → 6-min progressions), (4) incorporate reflection through video review. Quote: "With the legal industry increasingly expecting new lawyers to be practice-ready, we need to double down on teaching our students oral-argument skills."
+
+--
+
+Back to Publications
+ 
+ 
+ 
+
+The Second Draft - Volume 37, No. 2
+
+ 
+
+ 
+ 
+
+Classroom Strategies to Prepare Students for Oral Argument
+ DOWNLOAD PDF
+ 
+
+ October 31, 2024
+ 
+
+ 
+ - 
+ 
+ 
+ 
+ 
+ Melissa Ghrist
+ Adjunct Professor
+ Case Western Reserve University School of Law
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ Fewer phrases strike more anxiety into the hearts of many law students as oral argument.[1] And they are in good company. Americans are more afraid of public speaking than death, heights, and spiders.[2] Add in the pressure of facing a judge who will likely interrupt you with questions, an opponent who counters your arguments, and an evaluation (whether a grade, a score, or a client’s opinion), and oral arguments can really stress out both students and practitioners alike. With the legal industry increasingly expecting new lawyers to be practice-ready,[3] we need to double down on teaching our students oral-argument skills. While my experience has focused on preparing second-year students for appellate oral arguments, the four strategies below are broad enough to apply to teaching any type of oral argument in any classroom.
+
+
+
+
+ - 
+ 
+
+Treat Students’ Anxiety as a Learning Opportunity
+
+ 
+
+
+
+Stress and anxiety create an opportunity for law students to practice handling themselves during the sometimes-intense situations they’ll face as practicing lawyers. To help students manage their anxiety, first acknowledge that oral arguments can be intimidating. Dedicating a whole class session to anxiety isn’t necessary; but a few minutes here and there throughout your course can help students recognize that they aren’t alone in feeling anxious. For example, you may dig into the science and explain what anxiety is — a normal reaction to stress that alerts our bodies to danger—and how it can be used to help us prepare for something important.[4] Consider sharing statistics about how common anxiety is, including that 6.8 million American adults suffer from generalized anxiety disorder, and that anxiety disorders are highly treatable.[5] Then encourage students to brainstorm self-care strategies to help them manage their stress and anxiety. You may suggest ideas like meditation, exercise, healthy eating, deep breathing, and laughing.[6] I also ask for volunteers to share with the class how they cope when they feel overwhelmed, and we end up with a pretty comprehensive list of ideas. 
+
+
+
+
+ - 
+ 
+
+Encourage Students to Welcome Multiple Perspectives 
+
+ 
+
+
+
+Everyone seems to have a different opinion about oral-argument techniques, from how to structure a roadmap to how much time to reserve for rebuttal. For example, when judges delivered feedback after the final round of Case Western Reserve University School of Law’s intraschool moot-court competition, one of the panelists expressed displeasure at how a student moved from one point to the next, while the next panelist complimented the transition. This contradiction confused and frustrated those students who were not expecting to receive such conflicting advice.
+
+
+
+You can prepare students for inconsistent feedback by encouraging them to recognize that there’s no one right way to do things and to welcome multiple perspectives. When you get into teaching the nuts and bolts of oral argument, look for opportunities to include the thoughts of practitioners and judges to expose students to varied viewpoints. Consider having a guest speaker or panel. Or interview community members and compile a video for students to watch outside of class.[7] 
+
+
+
+If you are preparing students for a competition where various professionals will evaluate them, caution your students ahead of time that many volunteers have their own idiosyncrasies and views that will likely be different from each other’s.[8] While students may find this unfair, you can remind them that inconsistences among judges are true in the real world, too. To account for this, lawyers often research their judge(s) before they enter the courtroom, and legal-research databases have developed products that generate statistics like how often a particular judge rules in favor of a plaintiff or defendant.[9] If your students will know the identity of their judges ahead of argument, you can encourage them to find out what they can about their judges, too.
+
+
+
+
+ - 
+ 
+
+Create Opportunities to Practice
+
+ 
+
+
+
+For students to develop oral-advocacy skills, they need as many opportunities to practice as possible.[10] If you’re lucky enough to be able to allocate a few class sessions to oral argument, consider designing a series of exercises that each build upon one another to add layers of complexity as the students become more comfortable and confident. For example, in my appellate-practice course, I start with a class session in which students deliver a two-minute persuasive presentation on any topic, followed by a class in which students have three minutes to deliver their introduction, start their argument, answer questions, and conclude. And in a third session, students prepare an abbreviated, six-minute oral argument. To make time for each of my students, I split the group into different classrooms and ask my teaching assistants to facilitate the extra rooms. In addition to practicing, the students take turns acting as judges and sharing feedback with their classmates. This gets everyone in the room engaged, increases the number of questions the student-advocate faces, and gives the student judges speaking opportunities, too.[11] 
+
+
+
+Even if you don’t have the class time to dedicate to rehearsals, there are additional ways to create practice opportunities. You can partner students and have them do moot arguments with each other as homework. Consider also integrating presentations into other parts of your course to get students talking in front of their classmates. I require students to present early in the semester about various appellate procedures, for example. Bill Chin at Lewis & Clark Law School has students present a tip on writing, research, or oral advocacy.[12] Jill Barton at the University of Miami School of Law reserves a few minutes at the end of class for the first six weeks for each student to present a 90-second argument on topics unrelated to the law, such as cats versus dogs, complete with “may it please the court” and a roadmap.[13] Stephanie Juliano at the Touro University Jacob D. Fuchsberg Law Center incorporates a five-minute oral argument before her students submit their final trial briefs.[14] Students select one of the two issues they had briefed, present a roadmap, field questions from their professor, and then debrief afterward.[15] Instead of using class time, she does these exercises in lieu of providing written feedback on students’ drafts.[16]
+
+
+
+
+ - 
+ 
+
+Incorporate Reflection
+
+ 
+
+
+
+Finally, give students the opportunity to reflect on their performances or those of others. Having students watch a recording of themselves can be incredibly valuable, even if also awkward.[17] I’ve recorded students during in-class practices for this purpose. I’ve also had them perform the moot-argument-with-a-partner assignment on Zoom so they could record the arguments and reflect on the video afterward. 
+
+
+
+In addition to self-reflection, I have students watch a real-world oral argument in person or via a video recording[18] and then submit a reflection on the attorneys’ performances. Whether reflecting on themselves or practicing attorneys, I ask students to evaluate the following factors: knowledge of the law and facts, persuasiveness, responsiveness to questions, organization, and poise/courtroom manner. Tailor these considerations to the specific type of oral argument that you’re teaching.
+
+
+
+I’m always impressed by students’ perceptiveness. They tend to identify the same strengths and weaknesses in their own performances as I do, but they’re often much more critical of themselves. I also find that reflecting on oral arguments from practicing lawyers builds students’ confidence. They see actual attorneys jumbling a sentence, unartfully dodging a question, or looking down at their notes, and students realize that perfection doesn’t need to be their goal. They can recognize an attorney who didn’t properly prepare, and they know that they can do better!
+
+
+
+Whether you’re preparing students for a summary-judgment hearing, an opening statement, an appellate argument, or anything in between, the fundamentals of oral advocacy are the same. If you can engage with students’ anxiety, include practitioners’ advice, and give students the chance to practice and reflect, students will be well on their way to pleasing the court.
+
+
+
+ 
+
+
+
+[1] While bar exam is certainly up there, too, I personally remember feeling more nerves before a moot-court competition than I did before the licensure exam.
+
+
+
+[2] John Montopoli, Public Speaking Anxiety and Fear of Brain Freezes, Nat’l Soc. Anxiety Ctr. (Feb. 20, 2017), nationalsocialanxietycenter.com/2017/02/20/public-speaking-and-fear-of-brain-freezes.
+
+
+
+[3] Karen Sloan, ABA eyes increasing hands-on learning requirement for law schools, Reuters (Nov. 21, 2023), www.reuters.com/legal/legalindustry/aba-eyes-increasing-hands-on-learning-requirement-law-schools-2023-11-21/.
+
+
+
+[4] You may even play a short video in class, like the minute-and-a-half one from the American Psychiatric Association: What is Anxiety? Am. Psychiatric Ass’n (Jan. 13, 2022), www.youtube.com/watch?v=JOKS9Bx8-Sw.
+
+
+
+[5] Anxiety Disorders-Facts & Statistics, Anxiety & Depression Ass’n of Am., adaa.org/understanding-anxiety/facts-statistics (last updated Oct. 28, 2022).
+
+
+
+[6] Stress relief from laughter? It’s no joke, MayoClinic (Sept. 22, 2023), https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relief/art-20044456.
+
+
+
+[7] For an excellent example of how to create a teaching video with practitioner perspectives, check out Maureen Van Neste’s article, Integrating the Perspectives of Alumni Practitioners into the Oral Report Module to Provide an Opportunity for Professional Identity Formation Early in the First Year, Vol. 36, No. 1 The Second Draft (June 5, 2023), www.lwionline.org/article/integrating-perspectives-alumni-practitioners-oral-report-module-provide-opportunity.
+
+
+
+[8] For this reason, when preparing students for a moot-court competition, I find it helpful to encourage them to set at least one goal for themselves that doesn’t depend on anyone else. Instead of a goal to win the competition or advance to the semi-final round, which inherently depends in part on their peers’ scores, students should target features about their own performance. Such a goal could be to deliver a roadmap without consulting notes or to cut all filler words like “umm,” for example. Regardless of the argument’s outcome, students can evaluate how they did, and then try again or pick a new goal for next time.
+
+
+
+[9] The importance of knowing your judge, Thompson Reuters (Nov. 11, 2020), legal.thomsonreuters.com/blog/the-importance-of-knowing-your-judge/.
+
+
+
+[10] See Stephanie A. Vaughan, Experiential Learning, 59-1 S. Texas Law Rev. 121, 145 (2017) (emphasizing the “chance for repetition” to effectively teach oral advocacy).
+
+
+
+[11] Jill Barton, Oral Advocacy in 90 Seconds: Turning Fear into Fun, 22-2 Perspectives: Teaching Legal Research and Writing by West 116 (Spring 2014).
+
+
+
+[12] Id.
+
+
+
+[13] Id.
+
+
+
+[14] Stephanie Juliano, Before the Final Draft: Oral Argument as a Student-Centered Feedback Tool, 35-2 The Second Draft (Dec. 12, 2023), www.lwionline.org/article/final-draft-oral-argument-student-centered-feedback-tool.
+
+
+
+[15] Id.
+
+
+
+[16] Id.
+
+
+
+[17] See Vaughan, Experiential Learning, 59 S. Texas Law Rev. at 145 (suggesting “videotaping of speeches”).
+
+
+
+[18] As of 2024, a few courts that post on their websites video-recorded appellate oral arguments include the Third Circuit, the Ninth Circuit, and the Ohio Supreme Court. The Supreme Court of the United States also posts argument audio its website.

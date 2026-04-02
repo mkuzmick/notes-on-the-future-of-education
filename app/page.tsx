@@ -5,10 +5,23 @@ import EssayClient from "./essay-client";
 export default function Home() {
   const filePath = path.join(
     process.cwd(),
-    "content",
-    "puzzles-and-questions.md"
+    "_content",
+    "docs",
+    "executive-summary.md"
   );
   const markdown = fs.readFileSync(filePath, "utf-8");
 
-  return <EssayClient markdown={markdown} date="January 2026" />;
+  return (
+    <EssayClient
+      markdown={markdown}
+      date="March 2026"
+      links={[
+        { href: "/takes", label: "Tools for Thinking" },
+        { href: "/mk-first-draft", label: "Full Briefing" },
+        { href: "/history-lens", label: "The Historical Lens" },
+        { href: "/folklore-lens", label: "The Folklore Lens" },
+        { href: "/meeting-summary", label: "Meeting Summary" },
+      ]}
+    />
+  );
 }

@@ -1,0 +1,1049 @@
+---
+title: "AI-powered language assessment: ETS, Cambridge, and Duolingo already use AI speech scoring"
+source_url: "https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/"
+source_title: "Bridge Education Group"
+author: "Bridge Education Group"
+date: "2025-07"
+type: news-article
+tags: [ai-tools, grading, scale, rubrics]
+summary: "Major testing bodies (ETS, Cambridge, Duolingo) have already integrated AI speech assessment at scale, proving automated oral evaluation is technically feasible and commercially deployed."
+harvard_relevance: ""
+---
+Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI
+https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/
+
+Elle's notes:
+Bridge Education Group, July 2025
+Key insight: Major testing bodies have already integrated AI speech assessment. ETS uses e-Rater and SpeechRater for TOEFL iBT; Cambridge English uses AI in IELTS; Duolingo English Test is fully AI-driven. Lingua Level and Bright Language offer CEFR-aligned speaking assessment for corporate training. Quote: "AI hasn't just 'disrupted' language assessment. It's basically thrown a glitter bomb into the testing room."
+
+--
+
+- 
+
+ 
+ document.documentElement.className = 'js';
+ 
+ 
+ 
+ 
+ 
+ total views 0 ) { %>
+ , views today
+ 
+ 
+ 
+ 
+
+ 
+ Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI - BridgeUniverse - TEFL Blog, News, Tips & Resources
+ 
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#article","isPartOf":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/"},"author":{"name":"Shélynn Riel","@id":"https://bridge.edu/tefl/blog/#/schema/person/412be9a141a8219d6949fbe7879e120d"},"headline":"Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI","datePublished":"2025-07-16T04:02:14+00:00","dateModified":"2025-07-16T04:02:17+00:00","mainEntityOfPage":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/"},"wordCount":3030,"publisher":{"@id":"https://bridge.edu/tefl/blog/#organization"},"image":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#primaryimage"},"thumbnailUrl":"https://bridge.edu/tefl/blog/wp-content/uploads/2025/07/New-Language-Assessment-Powered-by-AI-featured-image.jpg","keywords":["AI in language learning","Edtech innovations","teaching speaking for tests","teaching test-taking strategies","TEFL trends","understanding English proficiency levels"],"articleSection":["Global ELT News","Teaching English Proficiency Test Preparation","Technology in English Language Teaching"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/","url":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/","name":"Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI - BridgeUniverse - TEFL Blog, News, Tips & Resources","isPartOf":{"@id":"https://bridge.edu/tefl/blog/#website"},"primaryImageOfPage":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#primaryimage"},"image":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#primaryimage"},"thumbnailUrl":"https://bridge.edu/tefl/blog/wp-content/uploads/2025/07/New-Language-Assessment-Powered-by-AI-featured-image.jpg","datePublished":"2025-07-16T04:02:14+00:00","dateModified":"2025-07-16T04:02:17+00:00","description":"Learn how AI is reshaping language assessment with real-time, adaptive tools that measure fluency, skills, and job readiness.","breadcrumb":{"@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#primaryimage","url":"https://bridge.edu/tefl/blog/wp-content/uploads/2025/07/New-Language-Assessment-Powered-by-AI-featured-image.jpg","contentUrl":"https://bridge.edu/tefl/blog/wp-content/uploads/2025/07/New-Language-Assessment-Powered-by-AI-featured-image.jpg","width":2048,"height":1152,"caption":"An image of four English learners working on laptops preparing for English proficiency exams"},{"@type":"BreadcrumbList","@id":"https://bridge.edu/tefl/blog/adaptive-data-rich-immediate-new-language-assessment-powered-by-ai/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bridge.edu/tefl/blog/"},{"@type":"ListItem","position":2,"name":"Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI"}]},{"@type":"WebSite","@id":"https://bridge.edu/tefl/blog/#website","url":"https://bridge.edu/tefl/blog/","name":"BridgeUniverse - TEFL Blog, News, Tips & Resources","description":"Your go-to site for TEFL news, resources, and more. Download free ebooks and infographics to save for later and catch up on the latest teaching tips and trends written by our experts.","publisher":{"@id":"https://bridge.edu/tefl/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bridge.edu/tefl/blog/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://bridge.edu/tefl/blog/#organization","name":"BridgeUniverse - TEFL Blog, News, Tips & Resources","url":"https://bridge.edu/tefl/blog/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bridge.edu/tefl/blog/#/schema/logo/image/","url":"https://bridge.edu/tefl/blog/wp-content/uploads/2024/11/logo-bridge.svg","contentUrl":"https://bridge.edu/tefl/blog/wp-content/uploads/2024/11/logo-bridge.svg","width":"1190","height":"1024","caption":"BridgeUniverse - TEFL Blog, News, Tips & Resources"},"image":{"@id":"https://bridge.edu/tefl/blog/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BridgeTEFLinsider/","https://x.com/bridgetefl","https://www.instagram.com/bridgetefl/","https://www.linkedin.com/company/bridge-education-group"]},{"@type":"Person","@id":"https://bridge.edu/tefl/blog/#/schema/person/412be9a141a8219d6949fbe7879e120d","name":"Shélynn Riel","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bridge.edu/tefl/blog/#/schema/person/image/","url":"https://bridge.edu/tefl/blog/wp-content/uploads/2023/08/Shelynn-Riel-96x96.jpg","contentUrl":"https://bridge.edu/tefl/blog/wp-content/uploads/2023/08/Shelynn-Riel-96x96.jpg","caption":"Shélynn Riel"},"description":"Shélynn Riel is Bridge's Expert Series Moderator and regularly contributes articles and ELT news reports to the BridgeUniverse blog. She has served as an English language instructor for over a decade, a program coordinator in both university and community-based programs, and an English Language Fellow with the U.S. Department of State. Her interests include holistic teacher development, learner identity, and decolonial ethics in the language classroom. She is the co-creator of The Teacher Think-Aloud Podcast, which focuses on reflective practices for teachers around the world.","sameAs":["https://www.teacherthinkaloud.com/","https://www.linkedin.com/in/sriel/"],"url":"https://bridge.edu/tefl/blog/author/shelynn-riel/"}]}
+ 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+/* */
+
+- - - 
+
+- 
+- 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-5JTXRT');
+ 
+
+- 
+
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ Explore Bridge
+ 
+ 
+ 
+ - 
+ Bridge TEFL 
+ 
+
+ - 
+ Expert Series Webinars 
+ 
+
+ - 
+ BridgeUniverse Blog 
+ 
+
+ - 
+ TEFL Jobs 
+ 
+
+ - 
+ Language Training 
+ 
+
+ - 
+ About Bridge 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ 
+ 
+ "
+ 
+ 
+
+Explore More
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Teach English Online eBook
+
+A guide to getting started in this rapidly growing, in-demand TEFL/TESOL field!
+
+ 
+iFrameResize({ log: true }, '#ebooks-form')
+
+ 
+
+Explore Topics
+
+ 
+ - Elt News
+
+ - Teaching English Online
+
+ - Classroom Activities
+
+ - Pedagogy
+
+ - Technology in English Language Teaching
+
+ - Professional Development
+
+ - Teaching English Independently
+
+ - Job Resources
+
+ - TEFL Certification
+
+ - Teaching English Abroad
+
+ - Teaching English Proficiency Test Preparation
+
+ - Teaching Business English
+
+ - Bridge News
+
+ 
+ 
+
+Popular Articles
+ 
+ 
+ - 
+ 
+ How to Teach ESL Vocabulary: Top Methods for Introducing New Words 
+ 
+
+ 
+ - 
+ 
+ What Is TESOL? What Is TEFL? Which Certificate Is Better – TEFL or TESOL? 
+ 
+
+ 
+ - 
+ 
+ 5 Popular ESL Teaching Methods Every Teacher Should Know 
+ 
+
+ 
+ - 
+ 
+ 10 Fun Ways to Use Realia in Your ESL Classroom 
+ 
+
+ 
+ - 
+ 
+ Advice From an Expert: TEFL Interview Questions & How to Answer Them 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Global ELT News    Teaching English Proficiency Test Preparation    Technology in English Language Teaching
+ 
+ 
+ 
+ 
+ 
+ 
+
+Adaptive, Data-Rich, and Immediate: The New Language Assessment Powered by AI
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 
+ 
+ Shélynn Riel 
+ 
+
+ - July 15, 2025
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Language assessment is undergoing a profound transformation, driven by the rapid advancements in Artificial Intelligence (AI). In an era where language skills are more crucial than ever for academic, professional, and personal success, traditional testing methods are being reshaped by innovative AI technologies. These tools promise greater accuracy, efficiency, and accessibility while addressing long-standing challenges such as scalability, bias, and cultural fairness.
+
+With this backdrop in mind, let’s explore how AI is currently being applied across major assessment platforms and what that means for the future of language testing.
+
+Interested in teaching English exam prep classes? Prepare with one of Bridge’s Micro-credential courses in English exam prep: Teaching TOEFL Test Prep, Teaching IELTS Exam Prep, and Teaching PTE Test Prep.
+
+ 
+ Table of Contents
+ 
+ 
+ 
+ 
+ - How AI Is Transforming Language Testing
+- Current Applications of AI in Language Testing
+- Expanding the Use of AI: Corporate and Recruitment Innovations
+- The Benefits: What AI Does Well
+- How AI Is Changing the Assessment Experience for Learners, Teachers, and Institutions
+- The Limits of AI: Bias, Transparency, and Pedagogy
+- What’s Next: Future Trends and Tools in AI Assessment
+
+ 
+ 
+
+How AI Is Transforming Language Testing
+
+AI is no longer a futuristic concept in education; it has firmly established itself as a tool with the potential to redefine how we evaluate and support language learners. Traditional language assessments have served their purpose for decades, but they are often constrained by resource intensity, scalability challenges, and cultural limitations. 
+
+AI-powered solutions address these challenges by offering adaptive, scalable, and inclusive platforms that promise a transformative impact on the field of language assessment.
+
+AI-driven tools are now present in almost every aspect of language assessment, from corporate training programs to standardized academic testing. Their ability to integrate seamlessly into existing systems while addressing the unique needs of diverse learner populations has set the stage for a paradigm shift.
+
+Take a deep dive into the spectrum of English language exams and resources with the free guide to
+
+Testing in English Language Learning
+
+Download
+
+Current Applications of AI in Language Testing
+
+The integration of AI into language assessment has been widespread, with leading institutions and companies adopting AI-driven tools to enhance the quality and reliability of their evaluations.
+
+Established players like ETS and Cambridge English have integrated AI systems such as e-Rater and SpeechRater into their TOEFL iBT and IELTS tests to automate scoring and provide instant feedback. These systems ensure consistency across tests and minimize human biases, making assessments more reliable and scalable.
+
+Emerging platforms like Duolingo English Test have further revolutionized accessibility, offering low-cost, on-demand assessments. The test’s AI-driven model evaluates speaking, listening, reading, and writing through dynamic interactions that adapt to the test-taker’s proficiency.
+
+Beyond academic testing, the corporate language training sector is also adapting swiftly to AI integration.
+
+“AI hasn’t just ‘disrupted’ language assessment. It’s basically thrown a glitter bomb into the testing room,” says Nelly Segura, Academic Operations Specialist at Bridge Education Group.
+
+“Traditional assessments are slow, rigid, and allergic to nuance. AI-powered tools like Lingua Level are finally letting us assess language the way it’s actually used: in motion, in context, in real time.”
+
+Lingua Level, Bridge’s assessment mechanism used to place and monitor progress of corporate language learners, is known for its advanced multimodal analysis of speaking proficiency, providing precise CEFR-aligned results that are actionable for both learners and educators. 
+
+Segura explains that this approach contrasts sharply with traditional assessments, which were built on the logic of control: fixed questions, time limits, and a single “correct” accent or answer. “AI blows that wide open. Suddenly, we have tools that can adapt in real time to what a learner can do, not just what they can’t. That’s a huge shift: from gatekeeping to scaffolding.”
+
+AI-powered tools like Lingua Level represent a methodological leap, enabling adaptive responses that scaffold learners’ abilities in real time.
+
+Learnship is expanding its assessment capabilities by introducing a new writing section, fully graded by AI, to complement its successful speaking assessments. This addition involves learners completing real-world writing tasks, such as drafting professional emails, to evaluate key sub-skills like grammar, vocabulary, and text organization. The AI instantly grades these responses based on strict CEFR criteria, providing learners with immediate results and inclusion in comprehensive evaluation reports.
+
+Emmersion, owned by Rosetta Stone, in addition to language certification and student placement recommendations, offers pre-hire screening that is automated and adaptive.
+
+Bright Language has emerged as a leader in tailoring assessments for both academic and corporate contexts. Their focus on flexibility allows organizations to evaluate language skills that directly relate to professional requirements, such as customer service or technical communication.
+
+Expanding the Use of AI: Corporate and Recruitment Innovations
+
+Bright Language is innovating in the AI assessment arena, tailoring its assessments to academic and professional needs, ensuring that language evaluation aligns with authentic, real-world applications and industry requirements.
+
+“In recent years, we’ve noticed that hiring practices have become more competency-driven. As a consequence, language assessments should evolve to measure not just general proficiency, but also soft skills such as effective communication, adaptability, and problem-solving, especially in job-specific contexts,” says Bright Language’s Head of Marketing Communications, Cinthia Cristaldi.
+
+“Employers today are looking for candidates who can demonstrate language fluency within industry-relevant scenarios, such as customer interactions, team collaboration, or negotiation. AI plays a key role in this transformation by enabling realistic, dynamic testing environments, where candidates respond to situational prompts,” says Cristaldi. 
+
+“It also allows the scalable customization of assessments tailored to particular roles or specific sectors like hospitality, finance, and tech.”
+
+To support this evolution in language assessment, Bright Language has developed Bright AI, an innovative AI-powered English test specifically designed for recruitment and professional contexts. Bright AI is a scenario-based assessment that places test-takers in realistic workplace situations, such as a job interview or presentation, adapting communication style based on role or audience.
+
+Cristaldi positions Bright AI as more than a test – it’s a tool for evaluating workplace fluency in action. 
+
+Whereas traditional assessments have a one-size-fits-all approach, AI-powered assessments offer personalized learning feedback.
+
+“More than a traditional language test, Bright AI evaluates both linguistic ability and key soft skills like problem solving, adaptability, and critical thinking – through natural, open-ended responses.”
+
+“Leveraging the technology of artificial intelligence, it delivers consistent, objective scoring and immediate results, making it ideal for organizations seeking efficient and scalable hiring or training tools,” says Cristaldi. 
+
+“By combining the advantages of AI – speed, personalization, fairness, and deep analytical insight – Bright AI offers a next-generation solution that reflects the demands of global employers and the modern workforce.”
+
+To better understand the shift AI is enabling, it helps to compare key features of traditional language assessments with their AI-powered counterparts.
+
+Traditional AssessmentsAI-Powered AssessmentFixed question setsAdaptive to learner responsesHuman-graded with time delaysInstant, automated scoringExpensive and hard to scaleScalable across geographies and contextsOne-size-fits-all approachPersonalized learning feedbackBias-prone due to human subjectivityMore consistent (though still dependent on data)Emphasis on accuracy and controlEmphasis on intelligibility and fluency in contextStatic test environmentsDynamic, situational, immersive environments
+
+Learn how to prepare Business English students for career success and employability with 21st-century skills, also known as key soft skills.
+
+The Benefits: What AI Does Well
+
+AI offers unparalleled efficiency by automating time-consuming processes, from test creation to scoring. Automated scoring reduces time and costs associated with manual grading, allowing institutions to scale their assessments.
+
+Adaptive testing dynamically adjusts to the learner’s proficiency level, ensuring that assessments are neither too easy nor unnecessarily challenging.
+
+“AI is reshaping the language assessment landscape by shifting from static to dynamic and context-aware assessments,” says Cristaldi. 
+
+“Traditional language testing often has limited interaction and manual scoring. AI, on the other hand, introduces the ability to evaluate spontaneous language use, simulate real-world scenarios, and provide rapid, objective feedback at scale.”
+
+AI-powered platforms make large-scale delivery easier and more affordable, even in remote or underserved areas. With technologies like speech recognition, natural language processing, and adaptive testing, AI enables more dynamic, real-time assessments that can scale globally.
+
+Bright Language’s remote testing capabilities highlight the potential of AI to make quality assessments accessible.
+
+Cristaldi highlights the efficiency gains that AI brings to large-scale testing: “Tests can be administered and scored in real-time, regardless of volume or location. Results are generated instantly, allowing organizations to test large groups quickly, ideal for high-volume recruitment or academic admissions.”
+
+AI also enhances inclusivity by addressing biases inherent in traditional assessments. “AI reduces human bias in scoring, ensuring a more fair and standardized assessment for all test-takers,” says Cristaldi.
+
+Platforms like Hallo and Pipplet are also prioritizing equity and accuracy by using diverse datasets and real-time pronunciation feedback systems designed to support rather than penalize learners from non-dominant linguistic backgrounds. Pipplet emphasizes its attention to cultural and linguistic inclusivity.
+
+Segura of Bridge Education Group reinforces the importance of checking biases housed within the assessment mechanisms themselves. “AI assessments still inherit the biases of the data and systems they’re built on. If we’re not careful, we’ll just end up automating inequity.”
+
+Upskill to keep your teaching relevant with
+
+TEFL/TESOL Micro-credentials
+
+Explore Courses
+
+How AI Is Changing the Assessment Experience for Learners, Teachers, and Institutions
+
+AI doesn’t only affect the test itself, it’s also reshaping what happens before and after assessment for learners, teachers, and decision-makers alike.
+
+The adoption of AI has impacted the way students and teachers interact with assessment.
+
+For learners, this means assessments that are more relevant and engaging, providing faster feedback, and personalized learning paths, better reflecting how language is used in academic or workplace settings.
+
+“This real-world relevance in scenario-based testing allows candidates to demonstrate how they use language in practical, job-specific contexts,” says Cristaldi, of Bright Language.
+
+Segura furthers this idea. “For learners, this means assessments that listen and respond, not just grade. Instead of circling answers on a paper test, they speak. The tool listens, responds, and gives immediate feedback. Think pronunciation feedback that adjusts to your L1 interference or grammar prompts tailored to your lexical range.”
+
+According to Segura, the learner experience is better, too. “It’s more engaging, more personalized, and a lot closer to how language works in the real world,” she says.
+
+The difference doesn’t stop with the learner experience; those on the receiving end get more from AI-enabled dashboards.
+
+Cristaldi says that “for ESL teachers and educators, AI provides actionable insights into learner performance, helping to tailor instruction more precisely and support progress with real-time feedback.”
+
+For Segura, the greatest advantage comes down to result granularity and time: “It’s the chance to actually see into learner performance at a micro level, without spending three hours marking essays with a red pen,” highlighting how AI tools can support instructional precision without burdening teachers with hours of manual grading.
+
+“No more wading through recordings or trying to decipher half-written rubrics while squinting at a spreadsheet. The AI does the heavy lifting: scoring pronunciation, tracking fluency, identifying grammatical patterns, so educators can focus on what matters: designing better lessons, giving feedback that sticks, and supporting learners where they need it,” she adds.
+
+Segura points out the importance of the backend of the assessment mechanism, noting that dashboard data alone isn’t the goal – it’s how teachers act on it that matters. 
+
+“AI tools are great at collecting data,” she says, “but unless that data points somewhere, it’s just digital clutter.” Her point underscores a broader challenge: helping teachers not just access more feedback but make it usable.
+
+Segura believes that the best tools use AI to close the feedback loop. “They don’t just report what happened, they help shape what happens next. Not ‘you scored 68% on stress placement,’ but ‘You’re missing stress on content words, here’s a focused activity to practice that.’ Instead of decoding cryptic test results or manually tracking progress, you get clear, actionable insights that feed directly into your planning. More time teaching, less time deciphering dashboards.”
+
+Segura goes on to emphasize the importance of focusing on the assessment before UX, or user experience, flair. “If AI tools only highlight what’s easy to measure, or over-focus on surface features, they risk flattening what language learning actually is: messy, dynamic, human.”
+
+And considering the uptick in Business English and Corporate Language training across the industry, teachers and students aren’t the only ones interested in assessment data. Human Resources and Learning & Development personnel and recruiters represent key stakeholders in this arena, too.
+
+“For recruiters, it enables faster and more accurate screening of candidates based on language skills that truly matter on the job,” says Cristaldi. 
+
+“With data-driven insights, academic institutions and HR teams can gain actionable analytics to identify strengths and insights on transferable skills to make better informed decisions and more targeted training and development programs.”
+
+Of course, innovation doesn’t come without complications. As AI scales in assessment, it brings with it pressing ethical questions.
+
+Discover the importance of transferable skills for ESL/EFL students.
+
+The Limits of AI: Bias, Transparency, and Pedagogy
+
+Despite its benefits, AI is not without challenges.
+
+Bias in training data remains a significant concern, as algorithms trained on limited or non-representative datasets may inadvertently favor certain linguistic or cultural groups. This is a significant area of focus for developers aiming to improve fairness.
+
+Segura comes back to the idea of intentional design. “Of course, the tech is only as good as the pedagogy behind it. If we’re not careful, AI will just automate the same tired norms. So yes, there’s promise, but only if we stay critically engaged and remember that not everything that glitters is good pedagogy,” she says.
+
+Bright Language echoes this concern.
+
+“Ensuring fairness and inclusivity is a core commitment at Bright Language. One key challenge is minimizing cultural and linguistic bias, for example, avoiding AI models or test content that might disadvantage non-native speakers from diverse backgrounds,” says Cristaldi.
+
+To address this, Bright designs tests in collaboration with experts from various linguistic and cultural backgrounds to ensure broad representation. They continuously verify and refine their content to detect potential bias, collecting user feedback to improve the candidate experience.
+
+“To avoid bias, we conduct regular content reviews to identify any potential disparities in scoring or test experience. Our goal is to reflect real-world language use without privileging any single demographic or accent,” explains Cristaldi.
+
+This also underscores broader concerns about access and equity.
+
+Cristaldi expands the equity conversation beyond bias mitigation into inclusive design, emphasizing that fairness must extend to users with disabilities: “For all of our assessments, we always follow accessibility best practices to allow takers with disabilities to engage with the content effectively. The goal is to ensure that all test-takers, regardless of their background, have a fair, meaningful opportunity to prove their language proficiency.”
+
+Transparency is another key issue; educators and learners need to understand how AI generates its results to trust its validity. Without transparency, AI systems risk losing credibility with users who need to understand the basis of feedback.
+
+Segura concurs. “We also need to push for transparency. If we don’t know how the AI is making decisions, how can we trust its results? And how can we help learners grow from them?” she asks.
+
+Many assessment providers are working to make their evaluation processes more transparent by offering detailed explanations of AI-driven feedback.
+
+Human oversight remains critical to mitigate these limitations. While AI can process large datasets and standardize assessments, human evaluators bring empathy, cultural awareness, and contextual understanding that machines cannot replicate.
+
+“AI might be doing the grading, but teachers still need to do the thinking,” says Segura. “If anything, we’re more essential than ever, because someone has to ask the awkward, important questions. Like: What exactly is the AI measuring? Who decided that? Whose English is being centered here?”
+
+While AI excels at automation, human evaluators are still necessary to interpret cultural nuances and provide context-sensitive feedback. “The role of teachers is to stay curious, stay critical, and stay connected to learners. We’re the bridge between the data and the pedagogy,” offers Segura.
+
+Combining human expertise with AI’s scalability remains essential.
+
+At Bright, they’re also thinking about key considerations for scalability. “We believe AI can enhance fairness, but only if it’s built with strong human oversight and ethical safeguards,” says Cristaldi.
+
+Data security remains an important consideration in leveraging AI for assessment. The collection of data for AI assessments must adhere to strict privacy standards to protect learner information. Bright Language prioritizes data security, ensuring compliance with global privacy laws like GDPR.
+
+“All test-taker data is handled in full compliance with GDPR and other international data protection standards. We use secure servers and strict access controls,” says Cristaldi.
+
+At Bright Language, data is only used for the purpose of assessment and is never sold or shared with third parties without consent. “Test-takers always retain their right to access and manage their personal information,” Cristaldi emphasizes.
+
+What’s Next: Future Trends and Tools in AI Assessment
+
+As AI tools continue to evolve, the next wave of language assessment will go far beyond faster scoring and adaptive testing. What’s emerging is an ecosystem where real-world communication is evaluated in real time, across modalities, and with far greater nuance.
+
+Continuous assessment will replace one-off exams, allowing for real-time tracking of progress over days, weeks, or months. This shift enables personalized development pathways and timely instructional adjustments, especially valuable in corporate training programs.
+
+Immersive technologies like virtual and augmented reality are set to transform test environments and offer situational fluency assessment. Imagine assessing a candidate’s negotiation skills inside a simulated business meeting or measuring travel-related language use while they navigate a virtual airport.
+
+Advanced bias mitigation is on the horizon as developers train AI on more diverse linguistic datasets. This will allow platforms to better accommodate accents, dialects, and communication styles from across the globe, helping to reduce inequity in high-stakes testing.
+
+Non-verbal communication analysis is also advancing. Future models may interpret gestures, facial expressions, and tone to evaluate communication more holistically, following Bright AI’s lead and assessing interpersonal dynamics like confidence, empathy, or cross-cultural sensitivity during a simulated job interview.
+
+The next chapter of language assessment will be dynamic, personalized, and performance-based, measuring how language is used in context, not just what test-takers know.
+
+Learn how to best prepare your students for English proficiency exams with one of Bridge’s Micro-credential courses in English test prep: Teaching IELTS Exam Prep, Teaching TOEFL Test Prep, and Teaching PTE Test Prep.
+
+ 
+ 
+ 
+ 
+ 
+ AI in language learning Edtech innovations teaching speaking for tests teaching test-taking strategies TEFL trends understanding English proficiency levels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Teach English Online eBook
+
+A guide to getting started in this rapidly growing, in-demand TEFL/TESOL field!
+
+ 
+iFrameResize({ log: true }, '#ebooks-form')
+
+ 
+
+Explore Topics
+
+ 
+ - Elt News
+
+ - Teaching English Online
+
+ - Classroom Activities
+
+ - Pedagogy
+
+ - Technology in English Language Teaching
+
+ - Professional Development
+
+ - Teaching English Independently
+
+ - Job Resources
+
+ - TEFL Certification
+
+ - Teaching English Abroad
+
+ - Teaching English Proficiency Test Preparation
+
+ - Teaching Business English
+
+ - Bridge News
+
+ 
+ 
+
+Popular Articles
+ 
+ 
+ - 
+ 
+ How to Teach ESL Vocabulary: Top Methods for Introducing New Words 
+ 
+
+ 
+ - 
+ 
+ What Is TESOL? What Is TEFL? Which Certificate Is Better – TEFL or TESOL? 
+ 
+
+ 
+ - 
+ 
+ 5 Popular ESL Teaching Methods Every Teacher Should Know 
+ 
+
+ 
+ - 
+ 
+ 10 Fun Ways to Use Realia in Your ESL Classroom 
+ 
+
+ 
+ - 
+ 
+ Advice From an Expert: TEFL Interview Questions & How to Answer Them 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shélynn Riel
+
+ 
+ 
+ 
+ 
+ 
+ Shélynn Riel is Bridge's Expert Series Moderator and regularly contributes articles and ELT news reports to the BridgeUniverse blog. She has served as an English language instructor for over a decade, a program coordinator in both university and community-based programs, and an English Language Fellow with the U.S. Department of State. Her interests include holistic teacher development, learner identity, and decolonial ethics in the language classroom. She is the co-creator of The Teacher Think-Aloud Podcast, which focuses on reflective practices for teachers around the world.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/tefl/blog/*"},{"not":{"href_matches":["/tefl/blog/wp-*.php","/tefl/blog/wp-admin/*","/tefl/blog/wp-content/uploads/*","/tefl/blog/wp-content/*","/tefl/blog/wp-content/plugins/*","/tefl/blog/wp-content/themes/Divi-Child-Theme-Bridge/*","/tefl/blog/wp-content/themes/Divi/*","/tefl/blog/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+
+ 
+ ( function ( body ) {
+ 'use strict';
+ body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+ } )( document.body );
+ 
+ 
+ 
+ 
+ 
+ window.chatbaseConfig = {
+ chatbotId: "7Aw3cDBX1pzn_1Ezr2qoT",
+ }
+ 
+ 
+ 
+ 
+ jQuery( function($){
+
+ $("#dec-find-events").on("click", function(){
+
+ console.log("search");
+
+ $([document.documentElement, document.body]).animate({
+ scrollTop: $( $(".append_events").get(1) ).offset().top
+ }, 2000);
+
+ });
+
+ $(document).on("keypress", "#dec-filter-search__input", function(e){
+
+ if(e.which == 13){
+
+ console.log("search");
+
+ $([document.documentElement, document.body]).animate({
+ scrollTop: $( $(".append_events").get(1) ).offset().top
+ }, 2000);
+ }
+
+ });
+
+ });
+ 
+ 
+ 
+
+ _linkedin_partner_id = "6969330"; 
+
+ window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; 
+
+ window._linkedin_data_partner_ids.push(_linkedin_partner_id); 
+
+ 
+
+ (function(l) { 
+
+ if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; 
+
+ window.lintrk.q=[]} 
+
+ var s = document.getElementsByTagName("script")[0]; 
+
+ var b = document.createElement("script"); 
+
+ b.type = "text/javascript";b.async = true; 
+
+ b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; 
+
+ s.parentNode.insertBefore(b, s);})(window.lintrk); 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ /* */ 
+ $(window).scroll(function() {
+ if ($(this).scrollTop() > 1){ 
+ $('#sticky-header').addClass("sticky");
+ }
+ else{
+ $('#sticky-header').removeClass("sticky");
+ }
+ });
+ 
+ jQuery(function($) {
+ $(document).ready(function() {
+ 
+ $("#edunaut_button").on("click", function(e){
+ e.preventDefault();
+ jQuery("#chatbase-bubble-button").trigger("click");
+ });
+
+ 
+ $('.post-carosuel').slick({
+ infinite: true, 
+ dots: false,
+ arrows: true,
+ speed: 1500,
+ slidesToShow: 2,
+ slidesToScroll: 1,
+ autoplay: false,
+ responsive: [
+ {
+ breakpoint: 1561,
+ settings: {
+ slidesToShow: 2,
+ slidesToScroll: 1,
+ 
+ }
+ },
+ {
+ breakpoint: 1281,
+ settings: {
+ slidesToShow: 2,
+ slidesToScroll: 1,
+ 
+ }
+ },
+ {
+ breakpoint: 768,
+ settings: {
+ slidesToShow: 2,
+ slidesToScroll: 2,
+ 
+ }
+ },
+ {
+ breakpoint: 641,
+ settings: {
+ slidesToShow: 1,
+ slidesToScroll: 1,
+ 
+ }
+ }
+ ]
+ })
+ $('.ebooks-carosuel').slick({
+ infinite: true, 
+ dots: false,
+ arrows: true,
+ speed: 1500,
+ slidesToShow: 4,
+ slidesToScroll: 1,
+ autoplay: false,
+ responsive: [
+ 
+ {
+ breakpoint: 1281,
+ settings: {
+ slidesToShow: 3,
+ slidesToScroll: 1,
+ 
+ }
+ },
+ {
+ breakpoint: 641,
+ settings: {
+ slidesToShow: 2,
+ slidesToScroll: 1,
+ 
+ }
+ }
+ ]
+ })
+ });
+ }); 
+ 
+ jQuery(function($) {
+ $(document).ready(function() {
+ $("body ul.et_mobile_menu li.menu-item-has-children, body ul.et_mobile_menu li.page_item_has_children").append('');
+ $('ul.et_mobile_menu li.menu-item-has-children .mobile-toggle, ul.et_mobile_menu li.page_item_has_children .mobile-toggle').click(function(event) {
+ event.preventDefault();
+ $(this).parent('li').toggleClass('dt-open');
+ $(this).parent('li').find('ul.children').first().toggleClass('visible');
+ $(this).parent('li').find('ul.sub-menu').first().toggleClass('visible');
+ });
+ iconFINAL = 'P';
+ $('body ul.et_mobile_menu li.menu-item-has-children, body ul.et_mobile_menu li.page_item_has_children').attr('data-icon', iconFINAL);
+ $('.mobile-toggle').on('mouseover', function() {
+ $(this).parent().addClass('is-hover');
+ }).on('mouseout', function() {
+ $(this).parent().removeClass('is-hover');
+ })
+ }) 
+ }) 
+ 
+
+ jQuery(".nav-footer h4").click(function(){
+ jQuery(this).parent(".nav").toggleClass("open"); 
+ }); 
+ 
+(function($) {
+ $(document).ready(function(){
+ $('.et-slide-push-toggle').click(function(){
+ $('#page-container').toggleClass('et-push-sidebar-active');
+ });
+ $('.et-slide-push-close').click(function(){
+ $('#page-container').removeClass('et-push-sidebar-active');
+ }); 
+ });
+})( jQuery ); 
+
+
+ document.addEventListener('DOMContentLoaded', function () {
+ const menuToggle = document.querySelector('.mega-menu-toggle'); // Selector del botón toggle
+ const htmlElement = document.documentElement; // 
+
+ menuToggle.addEventListener('click', function () {
+ htmlElement.classList.toggle('no-scroll'); // Alterna la clase
+ });
+});
+
+
+
+ document.addEventListener('DOMContentLoaded', function () {
+ const busquedaIcono = document.querySelector('.menu-busqueda-icono');
+ const busquedaDiv = document.getElementById('busqueda-div');
+ const cerrarBusqueda = document.querySelector('.cerrar-busqueda');
+ const menuNavegacion = document.querySelector('.et_mobile_nav_menu, .et_nav_menu'); // Ajusta según tu selector de menú
+
+ // Mostrar el div de búsqueda con animación y ocultar el menú
+ busquedaIcono.addEventListener('click', function (e) {
+ e.preventDefault();
+ busquedaDiv.style.top = '0'; // Activar la animación dropdown
+ if(menuNavegacion)
+ menuNavegacion.classList.add('nav-activo'); // Ocultar la navegación
+ });
+
+ // Cerrar el div de búsqueda con el botón o la tecla Esc
+ const cerrarBusquedaFunc = () => {
+ busquedaDiv.style.top = '-100%'; // Volver a ocultar el div con animación
+ if(menuNavegacion)
+ menuNavegacion.classList.remove('nav-activo'); // Mostrar la navegación
+ 
+ };
+
+ cerrarBusqueda.addEventListener('click', cerrarBusquedaFunc);
+
+ document.addEventListener('keydown', function (e) {
+ if (e.key === 'Escape') cerrarBusquedaFunc();
+ });
+
+ // También cerrar el buscador si el usuario hace clic fuera del formulario
+ document.addEventListener('click', function (e) {
+ if (!busquedaDiv.contains(e.target) && !busquedaIcono.contains(e.target)) {
+ cerrarBusquedaFunc();
+ }
+ });
+});
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ /* { 
+ if (ulist.querySelectorAll("li").length == 0) {
+ ulist.style.display = "none";
+
+ } 
+ }
+ );
+ /* ]]> */
+ 
+ 
+
+/* */
+
+/* */
+
+jQuery(document).ready(function($){var loader='';jQuery("#b-voices").append('Load More');jQuery(".b-voices .post-item").slice(0,9).show();jQuery(document).find("#b-voices .ald-count").text(jQuery(".b-voices .post-item:hidden").length);jQuery("#b-voices").find(".loadMoreBtn").on('click',function(e){e.preventDefault();jQuery(".b-voices .post-item:hidden").slice(0,3).slideDown();if(jQuery(".b-voices .post-item:hidden").length==0){jQuery(this).fadeOut('slow')}jQuery(document).find("#b-voices .ald-count").text(jQuery(".b-voices .post-item:hidden").length)});if(jQuery(".b-voices .post-item:hidden").length==0){jQuery("#b-voices").find(".loadMoreBtn").fadeOut('slow')}jQuery(".general-list-post-cat .general-module-grid").append('Load more');jQuery(".general-list-post-cat .list-post-primary .post-item").slice(0,6).show();jQuery(document).find(".general-list-post-cat .general-module-grid .ald-count").text(jQuery(".general-list-post-cat .list-post-primary .post-item:hidden").length);jQuery(".general-list-post-cat .general-module-grid").find(".loadMoreBtn").on('click',function(e){e.preventDefault();jQuery(".general-list-post-cat .list-post-primary .post-item:hidden").slice(0,3).slideDown();if(jQuery(".general-list-post-cat .list-post-primary .post-item:hidden").length==0){jQuery(this).fadeOut('slow')}jQuery(document).find(".general-list-post-cat .general-module-grid .ald-count").text(jQuery(".general-list-post-cat .list-post-primary .post-item:hidden").length)});if(jQuery(".general-list-post-cat .list-post-primary .post-item:hidden").length==0){jQuery(".general-list-post-cat .general-module-grid").find(".loadMoreBtn").fadeOut('slow')}jQuery("#list-alterantive").append('Load more');jQuery("#list-alterantive .list-post-primary .post-item").slice(0,19).show();jQuery(document).find("#list-alterantive .ald-count").text(jQuery("#list-alterantive .list-post-primary .post-item:hidden").length);jQuery("#list-alterantive").find(".loadMoreBtn").on('click',function(e){e.preventDefault();jQuery("#list-alterantive .list-post-primary .post-item:hidden").slice(0,3).slideDown();if(jQuery("#list-alterantive .list-post-primary .post-item:hidden").length==0){jQuery(this).fadeOut('slow')}jQuery(document).find("#list-alterantive .ald-count").text(jQuery("#list-alterantive .list-post-primary .post-item:hidden").length)});if(jQuery("#list-alterantive .list-post-primary .post-item:hidden").length==0){jQuery("#list-alterantive").find(".loadMoreBtn").fadeOut('slow')}var flag=false;var main_xhr;var LoadMorePushAjax=function(url,args){jQuery('.ald_loader_progress').css({"-webkit-transform":"translate3d(-100%, 0px, 0px)","-ms-transform":"translate3d(-100%, 0px, 0px)","transform":"translate3d(-100%, 0px, 0px)",});if(args.data_implement_selectors){var dis=JSON.parse(args.data_implement_selectors)}if(main_xhr&&main_xhr.readyState!=4){main_xhr.abort()}args.target_url=url;main_xhr=jQuery.ajax({url:url,asynch:true,beforeSend:function(){jQuery('.ald_laser_loader').addClass('show');jQuery('.ald_loader_progress').css({"transition-duration":"2000ms","-webkit-transform":"translate3d(-20%, 0px, 0px)","-ms-transform":"translate3d(-20%, 0px, 0px)","transform":"translate3d(-20%, 0px, 0px)",});flag=true},success:function(data){jQuery(document).trigger('ald_ajax_content_ready',[data,args]);if(dis){for(var key in dis){var selector=dis[key].data_selector;var type=dis[key].implement_type;if(selector){var newData=jQuery(selector,data).html();if(type=="insert_before"){jQuery(selector).prepend(newData)}else if(type=="insert_after"){jQuery(selector).append(newData)}else{jQuery(selector).html(newData)}}}}jQuery(document).find('.tf_posts_navigation').removeClass('loading');jQuery('.ald-ajax-btn[data-alm-click-selector]').each(function(){if(jQuery(this).data('alm-click-selector')==args.click_selector){jQuery(this).removeClass('loading')}});jQuery('.ald_loader_progress').css({"transition-duration":"500ms","-webkit-transform":"translate3d(0%, 0px, 0px)","-ms-transform":"translate3d(0%, 0px, 0px)","transform":"translate3d(0%, 0px, 0px)",});setTimeout(function(){jQuery('.ald_laser_loader').removeClass('show');jQuery('.ald_loader_progress').css({"transition-duration":"0ms","-webkit-transform":"translate3d(-100%, 0px, 0px)","-ms-transform":"translate3d(-100%, 0px, 0px)","transform":"translate3d(-100%, 0px, 0px)",})},300);jQuery(document).trigger('ald_ajax_content_loaded',data);jQuery(document).trigger('ald_ajax_content_success',[args]);flag=false}})}});

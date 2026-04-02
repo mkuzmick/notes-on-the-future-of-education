@@ -1,0 +1,65 @@
+---
+title: "Reid Hoffman Predicts Oral Exams Will Become Standard"
+source_url: "https://www.businessinsider.com/linkedin-reid-hoffman-ai-education-college-exams-harder-cheat-2025-5"
+source_title: "Business Insider"
+author: "Sarah Perkel"
+date: "2025-05-15"
+type: news-article
+tags: [ai-policy, oral-exam-design, academic-integrity, ai-tools]
+summary: "LinkedIn cofounder Reid Hoffman predicts oral exams will expand beyond PhDs to every class: 'to be prepared for oral exams, you've got to be across the whole zoom,' envisioning AI examiners alongside human faculty."
+---
+LinkedIn Cofounder Says Tests Will Get Harder Because of AI
+https://www.businessinsider.com/linkedin-reid-hoffman-ai-education-college-exams-harder-cheat-2025-5
+
+Elle's notes:
+Business Insider, May 2025
+Key insight: Reid Hoffman predicts oral exams will become standard, not just for PhDs: "Part of the reason why oral exams are hard—generally reserved for PhD students, sometimes master's students—is because actually, to be prepared for oral exams, you've got to be across the whole zoom... Now, let's think if every class had an oral exam." He envisions AI examiners alongside human faculty.
+
+--
+LinkedIn cofounder says students should expect tests to get harder to cheat on with ChatGPT — and to involve an AI examiner
+By Sarah Perkel
+LinkedIn cofounder Reid Hoffman prompts AI tools daily.
+Reid Hoffman, a cofounder of LinkedIn, says AI should be a part of college curriculums. Dominik Bindl/Getty Images
+May 15, 2025, 2:09 PM ET
+
+Share
+SaveSaved
+Reid Hoffman, a LinkedIn cofounder, says college assessments need to change in the AI era.
+Different kinds of tests could force students to learn more deeply, he said on a podcast.
+He said oral exams would require students to develop greater knowledge rather than relying on AI.
+AI can make it easier to game traditional college assessments such as essays — so the way students are tested is likely to change, the LinkedIn cofounder Reid Hoffman says.
+
+As a result, he says, students should expect college exams to become harder to fake their way through and to include an AI examiner.
+
+"Wishing for the 1950s past is a bad mistake," Hoffman said on a recent episode of his podcast "Possible," which he cohosts. "The fact that universities have not changed, and it's like, 'Well, but I already have my curriculum, and this is the way I've been teaching it for the last X decades,' etc."
+
+Concerns regarding AI-driven academic dishonesty have been on teachers' minds since ChatGPT took off in late 2022. Plenty of students do use large language models as homework help machines, rather than slogging through the work themselves. Hoffman said the way students were using AI to cut corners was circumventing the "whole point" of the educational system: learning.
+
+"Obviously a student goes, 'Huh, I could spend 30 hours writing an essay, or I could spend 90 minutes with my ChatGPT, Claude, Pi — whatever — prompting and generate something for that,'" Hoffman said. "And obviously, to some degree, they're underserving what they actually really need."
+
+Today
+Get our newsletter for the inside scoop on today’s big stories.
+
+Enter your email
+Sign up
+The LinkedIn cofounder, who's also a partner at the venture capital firm Greylock, isn't an advocate for keeping AI out of schools — he believes there are ways in which it could aid learning rather than kneecapping it. For instance, he thinks integrating AI into the curriculum could be more helpful than trying to stave off student usage.
+
+"Whether it's an essay or an oral exam or anything else — you're going to go in, and the AI examiner is going to be with you doing that," Hoffman said. "And actually, in fact, that will be harder to fake than the pre-AI times."
+
+He noted that prior to the advent of AI, ways to "hack" the educational system already existed, such as piling on just enough knowledge to pass a written test or rushing to complete a passable essay that didn't dive much deeper than surface level. AI examiners aside, Hoffman suggested that assessments such as oral tests, which he believes are more difficult than written, could force students to study more intensely and absorb more overall.
+
+"Part of the reason why oral exams are hard — generally reserved for Ph.D. students, sometimes master's students, etc. — is because actually, in fact, to be prepared for oral exams, you've got to be across the whole zoom," Hoffman said.
+
+"Now, let's think if every class had an oral exam essentially on it," he added. "Ooh, you're going to have to learn a whole lot more in order to do this. And I think that's ultimately how this stuff will be."
+
+There are also less drastic ways that teachers could be using AI to their advantage, Hoffman added, that don't require them to entirely rewrite their curriculums. For instance, if they believe that AI essays are subpar, they can provide students with examples of what not to do, he said.
+
+"Alright, so you're teaching a class on Jane Austen and her relevance to, call it, early literary criticism, or something like that," Hoffman said. "And you say: 'OK, well I went to ChatGPT, and I generated 10 essays, and here's the 10. These are D minuses. Do better.'"
+
+The most important thing, Hoffman said, is that teachers bring AI into the classroom in some way, big or small, if only to gain a better understanding of how it can be applied in their fields. He said that no matter their focus areas, it would be to their — and their students' — detriment to "ignore the new tool."
+
+"We're in a disruptive moment," Hoffman said. "We have a bunch of professors, just like classic, established professionals who go: 'I don't want to be disrupted. I want to keep my curriculum the way it is. I want to keep doing the thing that I'm doing.' And it's like, well, no, you can't, right? And so you need to be learning this."
+
+Hoffman, who didn't immediately respond to a request for further comment on the topic, argued that it's now an educator's responsibility to get their students ready to work with AI because it will transform their future workplaces, as well.
+
+"The most central thing is preparing students to be capable, healthy, happy participants in the new world," he said. "And obviously your ability to engage with, deploy, leverage, utilize, AI — AI agents, etc. — is going to be absolutely essential."

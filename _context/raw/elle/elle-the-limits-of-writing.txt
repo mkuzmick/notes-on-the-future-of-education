@@ -1,0 +1,183 @@
+---
+title: "Plato's Phaedrus: The Limits of Writing"
+source_url: "https://www.litcharts.com/lit/phaedrus/themes/the-limits-of-writing"
+source_title: "LitCharts"
+author: "Plato (analysis by LitCharts)"
+date: "2024"
+type: historical-source
+tags: [history, philosophy, written-vs-oral, deep-learning, socratic-method, pedagogy]
+summary: "Plato argued 2,400 years ago that writing produces the appearance of wisdom without genuine understanding because it cannot respond, adapt, or defend itself -- only face-to-face dialectic can be tailored to individual souls."
+harvard_relevance: "AI is writing's logical endpoint as a technology that outsources cognition; oral dialogue remains the antidote Plato prescribed."
+---
+The Limits of Writing
+https://www.litcharts.com/lit/phaedrus/themes/the-limits-of-writing
+
+Elle's notes:
+Plato's Phaedrus contains the foundational Western critique of writing. Key arguments:
+• Writing causes forgetfulness: "They will cease to exercise memory because they rely on that which is written... calling things to remembrance no longer from within themselves."
+• Writing produces the appearance of wisdom: Students "will hear many things without being taught them, and will appear to know much when for the most part they know nothing."
+• Writing is inert like painting: "If you ask them anything... they point to just one thing, the same each time." It cannot respond, adapt, or defend itself.
+• Dialectic is superior: "Living, animate speech... of which written speech would rightly be called a kind of phantom." Only face-to-face discourse can be tailored to individual souls.
+
+Why it matters: 2,400 years ago, Plato articulated exactly what concerns us now: a technology that outsources cognition produces students who appear knowledgeable but lack genuine understanding. AI is writing's logical endpoint—and oral dialogue remains the antidote.
+
+--
+
+Themes and Colors
+
+LitCharts assigns a color and icon to each theme in Phaedrus, which you can use to track the themes throughout the work.
+
+Near the end of Phaedrus, Socrates and Phaedrus have a short but fascinating exchange on the subject of the “propriety and impropriety [of] … writing.” Writing things down wasn’t common even among learned circles in classical Greece; in this discussion, in fact, it’s regarded as an ambivalent new technology. While Plato doesn’t mean to dismiss writing as a worthless practice, he uses Socrates’s arguments to show that, in the pursuit of wisdom, writing has inherent limitations and can’t replace the interactive, personalized nurturing of individual souls through philosophical discourse.
+
+ According to Socrates, writing doesn’t improve memory, as some have claimed; it actually encourages forgetfulness and prevents real learning from taking place. Socrates tells a story about an Egyptian god named Theuth who was the first to discover letters. Theuth came to King Thamus of Egypt to show him this new technology, claiming it “will make the Egyptians wiser and improve their memory; what I have discovered is an elixir of memory and wisdom.” 
+
+ King Thamus, however, tells Theuth he’s been misled. Letters will actually have the opposite effect than the god has claimed: “they produce forgetfulness in the souls of those who have learned it, through lack of practice at using their memory, as through reliance on writing they are reminded from outside by alien marks, not from within themselves by themselves.” Writing is therefore “not an elixir of memory,” as Theuth had said, “but of reminding.” 
+
+ Socrates posits that the problem with writing being a mere “reminder” is that, when teachers rely on it, “to your students you give an appearance of wisdom, not the reality of it; thanks to you, they will hear many things without being taught them, and will appear to know much when for the most part they know nothing, and they will be difficult to get along with because they have acquired the appearance of wisdom instead of wisdom itself.” In other words, teachers will repeatedly read about knowledge but won’t actually internalize it, and they’ll pass on this “knowledge” to their students in a similarly tenuous manner. Students will then arrogantly assume they’ve acquired knowledge they don’t actually have. Thus, in the long run, writing will actually have a less than favorable effect on people’s character.
+
+ Socrates also points out that writing is a “dead letter”—unlike philosophical dialectic, conveyed through conversation, one can’t directly engage with the written word or target writing to the needs of specific souls. Socrates remarks, “I think writing has this strange feature, which makes it truly like painting. The offspring of painting stand there as if alive, but if you ask them something, they preserve a quite solemn silence. Similarly with written words: you might think that they spoke as if they had some thought in their heads, but if you ever ask them about any of the things they say out of a desire to learn, they point to just one thing, the same each time.” Writing is as inert as painting; it never changes and isn’t responsive to questioning or critique. 
+
+ The other issue with writing is that it can’t be tailored to every audience who might read it. Socrates explains that “every composition trundles about everywhere in the same way, in the presence both of those who know about the subject and of those who have nothing at all to do with it, and it does not know how to address those it should address and not those it should not.” While a written composition addresses all audiences the exact same way, dialectic is the “kind of speech that is written together with knowledge in the soul of the learner, capable of defending itself, and knowing how to speak and keep silent in relation to the people it should.” When engaging in dialectic, a philosopher can always engage directly with his listeners and tailor his arguments specifically to the “souls” with which he is dealing. Thus, dialectic is superior to the written word because speech is more flexible and customizable. Phaedrus calls dialectic “living, animate speech … of which written speech would rightly be called a kind of phantom.” Only the former can take root in a human soul and be nourished, through face-to-face encounter, such that it can grow and ripen into wisdom and happiness for that soul. The written word can’t replicate this kind of animated exchange between souls; it’s at best an echo of it.
+
+ The irony of Socrates’s and Phaedrus’s discussion about writing is that, of course, it takes place in a dialogue that’s been written down. Plato obviously saw value in preserving and passing down his ideas, or he would not have authored dialogues in the first place. As such, one should probably read this section of Phaedrus as containing at least a dash of tongue-in-cheek humor. Nevertheless, Plato makes a serious point about the pedagogical limitations of writing and the importance of attending to the needs of actual, flesh-and-blood learners through personal, spoken discourse.
+
+Related Themes from Other Texts
+
+Compare and contrast themes from other texts to this theme…
+
+Find Related Themes
+
+The Limits of Writing ThemeTracker
+
+The ThemeTracker below shows where, and to what degree, the theme of The Limits of Writing appears in each lines of Phaedrus. Click or tap on any chapter to read its Summary & Analysis.
+
+How often theme appears:
+
+lines length:
+
+Lines
+
+227a-230e
+227a
+
+231a-234c
+231a
+
+234d-241d
+234d
+
+241e-243e
+241e
+
+244a-257b
+244a
+
+257c-274a
+257c
+
+274b-279c
+274b
+
+Get the entire Phaedrus LitChart as a printable PDF.
+
+"My students can't get enough of your charts and their results have gone through the roof." -Graham S.
+
+Download
+
+The Limits of Writing Quotes in Phaedrus
+
+Below you will find the important quotes in Phaedrus related to the theme of The Limits of Writing.
+
+227a-230e
+Quotes
+
+Phaedrus — if I don’t know Phaedrus, I’ve forgotten even who I am. But I do, and I haven’t; I know perfectly well that when he heard Lysias’ speech he did not hear it just once, but repeatedly asked him to go through it for him, and Lysias responded readily. But for Phaedrus not even that was enough, and in the end he borrowed the book and examined the things in it which he was most eager to look at, and doing this he sat from sun-up until he was tired and went for a walk […] knowing the speech quite off by heart, unless it was a rather long one. He was going outside the wall to practice it, when he met the very person who is sick with passion for hearing people speak — and […] he was glad, because he would have a companion in his manic frenzy, and he told him to lead on.
+
+Related Characters:
+
+Socrates (speaker), Phaedrus, Lysias
+
+Related Themes:
+
+Page Number and Citation:
+
+4
+
+Cite this Quote
+
+Explanation and Analysis:
+
+274b-279c
+Quotes
+
+You, as the father of letters, have been led by your affection for them to describe them as having the opposite of their real effect. For your invention will produce forgetfulness in the souls of those who have learned it, through lack of practice at using their memory, as through reliance on writing they are reminded from outside by alien marks, not from within themselves by themselves. So you have discovered an elixir not of memory but of reminding. To your students you give an appearance of wisdom, not the reality of it; thanks to you, they will hear many things without being taught them, and will appear to know much when for the most part they know nothing, and they will be difficult to get along with because they have acquired the appearance of wisdom instead of wisdom itself.
+
+Related Characters:
+
+Socrates (speaker), Thamus (speaker), Theuth, Phaedrus
+
+Related Themes:
+
+Page Number and Citation:
+
+62
+
+Cite this Quote
+
+Explanation and Analysis:
+
+Unlock with LitCharts A+
+
+Yes, Phaedrus, because I think writing has this strange feature, which makes it truly like painting. The offspring of painting stand there as if alive, but if you ask them something, they preserve a quite solemn silence. Similarly with written words: you might think that they spoke as if they had some thought in their heads, but if you ever ask them about any of the things they say out of a desire to learn, they point to just one thing, the same each time. And then once it is written, every composition trundles about everywhere in the same way, in the presence both of those who know about the subject and of those who have nothing at all to do with it, and it does not know how to address those it should address and not those it should not. When it is ill-treated and unjustly abused, it always needs its father to help it; for it is incapable of either defending or helping itself.
+
+Related Characters:
+
+Socrates (speaker), Phaedrus
+
+Related Themes:
+
+Page Number and Citation:
+
+63
+
+Cite this Quote
+
+Explanation and Analysis:
+
+Unlock with LitCharts A+
+
+But I think it is far finer if one is in earnest about those subjects: when one makes use of the science of dialectic and, taking a fitting soul, plants and sows in it words accompanied by knowledge, which are sufficient to help themselves and the one who planted them, and are not without fruit but contain a seed from which others grow in other soils, capable of rendering that seed forever immortal, and making the one who has it as happy as it is possible for a man to be.
+
+Related Characters:
+
+Socrates (speaker), Phaedrus
+
+Related Themes:
+
+Page Number and Citation:
+
+65
+
+Cite this Quote
+
+Explanation and Analysis:
+
+Unlock with LitCharts A+
+
+Until a person knows the truth about each of the things about which he speaks or writes, and becomes capable of defining the whole by itself, and, having defined it, knows how to cut it up again according to its forms until it can no longer be cut; and until he has reached an understanding of the nature of soul along the same lines, discovering the form of speech that fits each nature, and so arranges and orders what he says, offering a complex soul complex speeches containing all the modes, and simple speeches to a simple soul: not until then will he be capable of pursuing the making of speeches as a whole in a scientific way, to the degree that its nature allows, whether for the purposes of teaching or for those of persuading either, as the whole of our previous argument has indicated.
+
+Related Characters:
+
+Socrates (speaker), Phaedrus
+
+Related Themes:
+
+Page Number and Citation:
+
+65
+
+Cite this Quote
+
+Explanation and Analysis:
+
+Unlock with LitCharts A+

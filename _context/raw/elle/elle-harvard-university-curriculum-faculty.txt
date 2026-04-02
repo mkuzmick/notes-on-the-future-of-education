@@ -1,0 +1,76 @@
+---
+title: "Harvard University: Curriculum and Faculty History"
+source_url: "https://education.stateuniversity.com/pages/2031/Harvard-University.html"
+source_title: "StateUniversity.com"
+author: ""
+date: ""
+type: historical-source
+tags: [history, harvard, written-vs-oral, pedagogy, curriculum-design]
+summary: "Harvard's original forms of instruction were oral exercises -- lecture, declamation, and disputation -- lasting through the 18th century; the shift to written exams came with Eliot's modernization (1869-1909), making written assessment a modernist intervention, not the institutional heritage."
+harvard_relevance: "Frames written exams as a later development, not Harvard's DNA; the oral tradition was the original pedagogy."
+---
+Harvard University: Curriculum, Faculty
+https://education.stateuniversity.com/pages/2031/Harvard-University.html
+
+Elle's notes:
+A key passage: "The most common forms of instruction were oral exercises—the lecture, the declamation, and the disputation." The article traces how this prescribed oral curriculum lasted through the 18th century before Eliot's elective system (1869-1909) modernized Harvard. The shift toward written exams was part of a larger move toward specialization and the "freest elective system in the country."
+
+Why it matters: This frames the written exam not as Harvard's heritage but as a modernist intervention. The oral tradition—lecture, declamation, disputation—was the original pedagogical DNA. Written exams came later, in service of scale and specialization.
+
+--
+
+4 minute read
+
+Harvard University
+
+Curriculum, Faculty
+
+Harvard University, the oldest educational institution in the United States, was founded sixteen years after the arrival of the Pilgrims at Plymouth, Massachusetts. Established by the Massachusetts Bay Colony in 1636 and later chartered in 1650 in what is now the oldest corporation in the Western Hemisphere, Harvard University was named for its first benefactor, John Harvard of Charlestown, Massachusetts, who, on his death in 1638, left his library and a portion of his estate to the school. In 1640 Henry Dunster became the first president and also constituted the entire faculty. For more than fifty years Harvard remained the only college in America.
+
+It has been said that "when Harvard speaks, the country listens," and throughout its history Harvard, as the country's premier university, shaped the direction of education in the United States. John Harvard's bequest was the first of the private gifts for education in America, and the act of the colony in 1636 marks the beginning of state aid to higher education in the United States. New England's First Fruits, an anonymous tract celebrating the establishment of higher education in the colonies, was published in London in 1643. Among the influential colonists were a number of Cambridge (hence Harvard's city name) and Oxford graduates who were eager to replicate the English college in the American frontier. During its early years, Harvard College offered a classic academic course based on the English university model merged with the prevailing Puritan philosophy of the early colonists. Harvard College was loosely affiliated with the Congregationalist church; not surprisingly most of its first graduates became ministers throughout New England, while other graduates entered government service or private business.
+
+Curriculum
+
+Harvard College's course of study was similar to the curricula of Cambridge and Oxford universities. Unlike the English model, Dunster first created a curriculum for Harvard that only lasted three years, but in 1652 a fourth year was added. The Harvard core curriculum became a model for American education institutions to follow, not only colleges but also grammar schools and academies that prepared students for higher learning and collegiate studies. The curriculum from its founding through the eighteenth century was theological; early nineteenth-century studies expanded the curriculum to include Latin, Greek, mathematics (including astronomy), English composition, philosophy, theology, natural philosophy, and either Hebrew or French. This prescribed course of study established a pattern for American liberal arts colleges. The most common forms of instruction were oral exercises–the lecture, the declamation, and the disputation.
+
+Charles W. Eliot, who served as president from 1869 to 1909, transformed the college into a modern university, a feat accomplished primarily by transforming the curriculum. Although course electives existed at Harvard throughout the nineteenth century, Eliot became an unrelenting advocate of the elective system, which in turn permitted him to initiate institutional reform where college studies could accommodate broader as well as more specialized interests of students. The elective system permitted Harvard to become more responsive to the many evolving democratic, technological, and vocational needs of society. By the turn of the twentieth century, Harvard's elective system was the freest in the country with no subject requirements for studies beyond the first year.
+
+Faculty
+
+With the expansion of the curriculum, Eliot increased the Harvard faculty from 60 to 600 members. During Eliot's administration Radcliffe College was established for women. Eliot and others refused to admit women to Harvard but were willing to create a coordinate college that would provide a similar education for women. In 1894 the Commonwealth of Massachusetts chartered Radcliffe College; Elizabeth Cary Agassiz served as this institution's first president. She was followed by LeBaron Russell Briggs, the former dean of students and a professor of rhetoric at Harvard.
+
+President Abbott Lawrence Lowell, who served from 1909 to 1933, refocused the undergraduate course of study to ensure that a liberal education would include concentration on a single field as well as a distribution of course requirements among other disciplines. James Bryant Conant, who served as Harvard president from 1933 to 1953, initiated the examination of general education, which in turn served to redefine the concept of core curriculum, a course of study that delineated breadth in interdisciplinary fields outside the student's major field of study. Conant's General Education Committee, which released in 1945 the legendary Harvard Redbook, General Education in a Free Society, set the direction for American college and secondary curriculum for the later part of the twentieth century. Under Conant's leadership, in 1943 Harvard and Radcliffe agreed to enroll women students in Harvard classrooms for the first time. But women would not earn Harvard degrees until the 1970s.
+
+Recent presidents Nathan M. Pusey, Derek Bok, and Neil L. Rudenstine have each contributed significantly toward strengthening the quality of undergraduate and graduate education at Harvard while at the same time maintaining the university's role as a preeminent research institution. "Harvard has shaped the world of higher education," said the late Ernest Boyer, president of the Carnegie Foundation for the Advancement of Teaching. "It's the cathedral that provides inspiration for all the others."
+
+See also: ELIOT, CHARLES; GENERAL EDUCATION IN HIGHER EDUCATION; HIGHER EDUCATION IN THE UNITED STATES, subentry on HISTORICAL DEVELOPMENT.
+
+BIBLIOGRAPHY
+
+BAILYN, BERNARD, et al. 1986. Glimpses of the Harvard Past. Cambridge, MA: Harvard University Press.
+
+KELLER, MORTON, and KELLER, PHYLLIS. 2001. Making Harvard Modern: The Rise of America's University. Oxford: Oxford University Press.
+
+MORRISON, SAMUEL ELIOT. 1936. Three Centuries of Harvard, 1636–1936. Cambridge, MA: Harvard University Press
+
+RUDOLPH, FREDERICK. 1977. Curriculum: A History of the American Undergraduate Course of Study since 1636. San Francisco: Jossey-Bass.
+
+SOLLORS, WERNER; TITCOMB, CALDWELL; and UNDERWOOD, THOMAS A., eds. 1993. Blacks at Harvard: A Documentary History of African-American Experience at Harvard and Radcliffe. New York: New York University Press.
+
+SYNNOTT, MARCIA G. 1979. The Half-Opened Door: Discrimination and Admissions at Harvard, Yale, and Princeton, 1900–1970. Westport, CT: Greenwood Press.
+
+INTERNET RESOURCE
+
+HARVARD UNIVERSITY. 2002. <www.harvard.edu>.
+
+ROBERT A. SCHWARTZ
+
+CRAIG KRIDEL
+
+Additional topics
+
+- Robert J. Havighurst (1900–1991)
+
+- William T. Harris (1835–1909)
+
+Education - Free Encyclopedia Search EngineEducation Encyclopedia

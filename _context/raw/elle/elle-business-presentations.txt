@@ -1,0 +1,554 @@
+---
+title: "Business presentations: verbal communication as vital professional skill"
+source_url: "https://pressbooks.bccampus.ca/businesswritingessentials/chapter/chapter-11-business-presentations/"
+source_title: "BCcampus Business Writing Essentials"
+author: "BCcampus"
+date: ""
+type: practitioner-guide
+tags: [business, professional-domains, performance, discussion]
+summary: "Business communication pedagogy emphasizes that people in the workplace spend the majority of their time communicating verbally, and the biggest failure is passing up opportunities to practice presenting and public speaking."
+harvard_relevance: "Harvard MBA students already practice oral communication; FAS undergraduates deserve similar training through oral assignments."
+---
+Business Presentations
+https://pressbooks.bccampus.ca/businesswritingessentials/chapter/chapter-11-business-presentations/
+
+Elle's notes:
+Business communication pedagogy emphasizes verbal skills as "vital to many employers today":
+• "People in the workplace spend the majority of their time communicating"
+• Key speaker elements: Voice, Body Language, Coherent Structure, Enthusiasm, Expertise, Practice
+• Formats range from speeches to presentations to panels to teleconferences
+• "The biggest failure... is to pass up opportunities to practise your skills in presenting or public speaking"
+Toastmasters principles: Authenticity and passion "can outweigh elements otherwise considered pitfalls."
+
+Why it matters: Business schools and employers already value oral communication. Harvard MBA students practice pitch presentations, case discussions, and executive communication. Undergraduates in FAS deserve similar training—and oral assignments provide it while also serving as AI-resistant assessment.
+
+--
+
+- Understand how to use effective interpersonal communication skills in professional presentations
+
+- Learn how to organize a presentation
+
+- Examine how to use visual aids effectively
+
+- Discuss the effective integration of communication and presentation techniques in the delivery of professional presentations
+
+Along with good writing skills, the ability to communicate verbally is vital to many employers today. It is an integral part of the modern business world. People in the workplace spend the majority of their time communicating. Verbal communication in the workplace takes many forms such as staff meetings, discussions, speeches, presentations, informal conversations, and telephone and video conferences. Communicating verbally is more personal and flexible than writing. It allows workers to exchange ideas, information, and feedback more quickly. Verbal communication tends to occur in person, making it easier to negotiate, express emotions, outline expectations, and build trust, all of which are important in today’s workplace. Communication can also occur between people who are not together in person. In these situations, unique skills are necessary to achieve success. Simple conversation skills are also valued in the workplace, but this does not mean using casual or informal language. Rather, what is prized by many employers is the ability to communicate important information professionally but in a meaningful and understandable way. This can be important when making spontaneous presentations as well as more elaborate formal group presentations, which are a part of many work roles today.
+
+What Makes a Successful Speaker?
+
+According to longtime Toastmasters member Bob Kienzle, there are a few key elements that tend to make a successful speaker:
+
+- Voice: Can the person be easily understood?
+
+- Body Language: Does their body support what they’re saying? Are they confident?
+
+- Coherent Structure: Does what they’re presenting make sense? Is it logical?
+
+- Enthusiasm: Do they care about what they’re presenting?
+
+- Expertise: Do they know what they’re talking about? Are they credible?
+
+- Practice: If they haven’t practised or sufficiently prepared, it will likely show up in one or more of the above.
+
+A successful speaker can be inspired by other speeches or speakers but may fall flat if they try to copy someone else. Authenticity and passion can resonate so much with an audience that it can outweigh elements otherwise considered pitfalls. The techniques, tools, and best practices are a guideline, and it’s important to note there is no such thing as “perfection” in public speaking. “Failure” can happen in myriad ways, but it’s more helpful to see them as learning opportunities, or opportunities to make a stronger connection to your audience. The biggest failure, according to Kienzle, is to pass up opportunities to practise your skills in presenting or public speaking.
+
+Preparing a Presentation
+
+Develop your message while keeping in mind the format, audience, style, and tone. First, you’ll need to think about the format of your presentation. This is a choice between presentation types. In your professional life, you’ll encounter the verbal communication channels in Figure 18.1. The purpose column labels each channel with a purpose (I=Inform, P=Persuade, or E=Entertain) depending on that channel’s most likely purpose.
+
+Channel
+
+Direction
+
+Level of Formality
+
+Interaction
+
+Purpose
+
+Speech
+One-to-many
+Formal
+Low. One-sided
+I, P, E
+
+Presentation
+One/ Few-to-many
+Formal
+Variable. Often includes Q&A
+I, P, E
+
+Panel
+Few-to-many
+Formal
+High. Q&A-based.
+I, P
+
+Meeting
+Group
+Informal
+High.
+I, P
+
+Teleconference
+Group
+Informal
+High.
+I, P
+
+Workshop
+One-to-many
+Informal
+High. Collaborative.
+I (Educate)
+
+Webinar
+One-to-many
+Formal
+Low.
+I
+
+Podcast
+One-to-many
+Formal
+Low. Recorded
+I, P, E
+
+Figure 18.1 | Presentation Communication Channels
+
+There are some other considerations to make when you are selecting a format. For example, the number of speakers may influence the format you choose. Panels and Presentations may have more than one speaker. In Meetings and Teleconferences, multiple people will converse. In a Workshop setting, one person will usually lead the event, but there is often a high-level of collaboration between participants. The location of participants will also influence your decision. For example, if participants cannot all be in the same room, you might choose a teleconference or webinar. If asynchronous delivery is important, you might record a podcast. When choosing a technology-reliant channel, such as a teleconference or webinar, be sure to test your equipment and make sure each participant has access to any materials they need before you begin.
+
+Once you have chosen a format, make sure your message is right for your audience. You’ll need to think about issues such as the following:
+
+- What expectations will the audience have?
+
+- What is the context of your communication?
+
+- What does the audience already know about the topic?
+
+- How is the audience likely to react to you and your message?
+
+Next, you’ll consider the style of your presentation. Analyze your specific presentation styles. Perhaps you prefer to present formally, limiting your interaction with the audience, or perhaps you prefer a more conversational, informal style, where discussion is a key element. You may prefer to cover serious subjects, or perhaps you enjoy delivering humorous speeches. Style is all about your personality!
+
+Finally, you’ll select a tone for your presentation. Your voice, body language, level of self-confidence, dress, and use of space all contribute to the mood that your message takes on. Consider how you want your audience to feel when they leave your presentation and approach it with that mood in mind.
+
+Presentation Purpose
+
+Your presentation will have a general and specific purpose. Your general purpose may be to inform, persuade, or entertain. It’s likely that any speech you develop will have a combination of these goals. Most presentations have a little bit of entertainment value, even if they are primarily attempting to inform or persuade. For example, the speaker might begin with a joke or dramatic opening, even though their speech is primarily informational. Your specific purpose addresses what you are going to inform, persuade, or entertain your audience with the main topic of your speech.
+
+Incorporating Backchannels
+
+Technology has given speakers new ways to engage with an audience in real-time, and these can be particularly useful when it isn’t practical for the audience to share their thoughts verbally—for example, when the audience is very large, or when they are not all in the same location. These secondary or additional means of interacting with your audience are called backchannels, and you might decide to incorporate one into your presentation, depending on your aims. They can be helpful for engaging more introverted members of the audience who may not be comfortable speaking out verbally in a large group. Using publicly accessible social networks, such as a Facebook Page or Twitter feed, can also help to spread your message to a wider audience, as audience members share posts related to your speech with their networks. Because of this, backchannels are often incorporated into conferences; they are helpful in marketing the conference and its speakers both during and after the event.
+
+Developing the Content
+
+As with any type of messaging, it helps if you create an outline of your speech or presentation before you create it fully. This ensures that each element is in the right place and gives you a place to start to avoid the dreaded blank page. Figure 18.2 is an outline template that you can adapt for your purpose. Replace the placeholders in the Content column with your ideas or points.
+
+Section
+Content
+
+Introduction
+
+- Attention-grabber
+
+- Main idea
+
+- Common ground
+
+ 
+
+ 
+
+Body
+
+- I. Main idea: Point 1
+
+- Subpoint 1
+
+- A.1 specific information 1
+
+- A.2 specific information 2
+
+ 
+
+- II. Main idea: Point 2
+
+- Subpoint 1
+
+- B.1 specific information 1
+
+- B.2 specific information 2
+
+ 
+
+- III. Main idea: Point 3
+
+- Subpoint 1
+
+- C.1 specific information 1
+
+- C.2 specific information 2
+
+Conclusion
+
+- Summary of main points 1–3
+
+- Residual message/call-to-action
+
+Figure `18.2 | Presentation Outline
+
+Introduction
+
+The beginning of your speech needs an attention-grabber to get your audience interested right away. Choose your attention-grabbing device based on what works best for your topic. Your entire introduction should only be around 10 to 15 percent of your total speech, so be sure to keep this section short. Here are some devices that you could try:
+
+Attention-grabbing Devices
+Examples
+
+Subject Statement – to the point, but not the most interesting choice.
+We are surrounded by statistical information in today’s world, so understanding statistics is becoming paramount to citizenship in the twenty-first century.
+
+Audience Reference – highlights something common to the audience that will make them interested in the topic.
+As human resource professionals, you and I know the importance of talent management. In today’s competitive world, we need to invest in getting and keeping the best talent for our organizations to succeed.
+
+Quotation – wise words of another person. You can find quotations online that cover just about any topic.
+Oliver Goldsmith, a sixteenth-century writer, poet, and physician, once noted that “the true use of speech is not so much to express our wants as to conceal them.”
+
+Current Event – refer to a current event in the news that demonstrates the relevance of your topic to the audience.
+On January 10, 2007, Scott Anthony Gomez Jr. and a fellow inmate escaped from a Pueblo, Colorado, jail. During their escape, the duo attempted to rappel from the roof of the jail using a makeshift ladder of bed sheets. During Gomez’s attempt to scale the building, he slipped, fell 40 feet, and injured his back. After being quickly apprehended, Gomez filed a lawsuit against the jail for making it too easy for him to escape.
+
+Historical Event – Compare or contrast your topic with an occasion in history.
+During the 1960s and ’70s, the United States intervened in the civil strife between North and South Vietnam. The result was a long-running war of attrition in which many American lives were lost and the country of Vietnam suffered tremendous damage and destruction. We saw a similar war waged in Iraq. American lives were lost, and stability has not yet returned to the region.
+
+Anecdote, Parable, or Fable – An anecdote is a brief account or story of an interesting or humorous event, while a parable or fable is a symbolic tale designed to teach a life lesson.
+In July 2009, a high school girl named Alexa Longueira was walking along a main boulevard near her home on Staten Island, New York, typing in a message on her cell phone. Not paying attention to the world around her, she took a step and fell right into an open manhole (Witney, 2009).
+
+Surprising Statement – A strange fact or statistic related to your topic that startles your audience.
+The average person has over 1,460 dreams a year. 
+
+Question – You could ask either a question that asks for a response from your audience, or a rhetorical question, which does not need a response but is designed to get them thinking about the topic.
+Raise your hand if you have ever thought about backpacking in Europe.
+
+Humour – A joke or humorous quotation can work well, but to use humour you need to be sure that your audience will find the comment funny. You run the risk of insulting members of the audience, or leaving them puzzled if they don’t get the joke, so test it out on someone else first!
+“The only thing that stops God from sending another flood is that the first one was useless.”—Nicolas Chamfort, sixteenth-century French author
+
+Personal Reference – Refer to a story about yourself that is relevant to the topic.
+In the fall of 2018, I decided that it was time that I took my life into my own hands. After suffering for years with the disease of obesity, I decided to take a leap of faith and get a gastric bypass in an attempt to finally beat the disease.
+
+After the attention-getter comes the rest of your introduction. It needs to do the following:
+
+- Capture the audience’s interest
+
+- State the purpose of your speech
+
+- Establish credibility
+
+- Give the audience a reason to listen
+
+- Signpost the main ideas
+
+Body
+
+Once you have identified an attention-getting, it is time to develop the body of your presentation or speech. In your body, you will focus on the specific points you would like to communicate to your audience.
+
+Rhetoric and Argument: Your audience will think to themselves, Why should I listen to this speech? What’s in it for me? One of the best things you can do as a speaker is to answer these questions early in your body, if you haven’t already done so in your introduction. This will serve to gain their support early and will fill in the blanks of who, what, when, where, why, and how in their minds.
+
+Organization: An organized body helps your audience to follow your speech and recall your points later. When developing the body of your speech, recall the specific purpose you decided on, then choose main points to support it. Just two or three main points are usually sufficient, depending on the length of your speech. Anticipate one main point per two to three minutes of speaking.
+
+Concluding on a High Note
+
+You’ll need to keep your energy up until the very end of your speech. In your conclusion, your job is to let the audience know you are finished, help them remember what you’ve told them, and leave them with a final thought or call-to-action, depending on the general purpose of your message.
+
+Presentation Aids
+
+Presentations can be enhanced by the effective use of visual aids. These include handouts, overhead transparencies, drawings on the whiteboard, PowerPoint slides, and many other types of props. Once you have chosen a topic, consider how you are going to show your audience what you are talking about. Visuals can provide a reference, illustration, or image to help the audience to understand and remember your point.
+
+Visual aids accomplish several goals:
+
+- Make your speech more interesting
+
+- Enhance your credibility as a speaker
+
+- Guide transitions, helping the audience stay on track
+
+- Communicate complex information in a short time
+
+- Reinforce your message
+
+- Encourage retention
+
+Methods and Materials
+
+There are many different presentation aids available. Before you decide on a presentation aid, think carefully about how you plan on using it and how it will enhance your presentation.
+
+Aid
+Description
+Tips
+
+Slide Decks
+
+The most common visual aid used in presentations, slide decks may be developed using software such as PowerPoint, Keynote, Prezi, or Google Slides. These tools allow you to show text, images, and charts and even to play audio or video files. They are an excellent enhancement to your presentation,
+Computers sometimes fail to work as planned, so make sure you have a whiteboard or handout as a backup in case of any technical issues. You can minimize the risk by testing out equipment ahead of time. Also, remember that these are an aid to your central, verbal message. Resist the urge to read directly from them with your back to the audience, or to pack slides full of text in lieu of speaking all of the information you want to get across.
+
+Flip Charts, Whiteboards, and Large Prints
+
+Flip charts and whiteboards are a good choice when you don’t have access to a computer and projector. Alternatively, you can print some visual aids like charts and graphs in large sizes and show them during your presentation. If you plan to get a lot of audience input and want to write or draw things out, then a whiteboard is an ideal choice.
+Make sure your writing is large enough to be seen at the back of the room and that it is easy to read.
+
+Handouts
+
+If it will be helpful for your audience to refer to the information you’re sharing at a later date, they’ll appreciate it if you leave them with a handout. But never give handouts to the audience at the beginning of your speech. They will be distracted by reading and tune you out.
+If you decide to use one, let the audience know at the beginning of the speech that you’ll provide it at the end. This will relieve them from having to capture all your content by taking notes, and keep their attention focused on you while you speak.
+
+Demonstrations and Tactile Aids
+
+If your presentation is about how to do something, for example, how to cook a particular dish or how to use a tool, you will want to show the audience a demonstration. Sometimes it is helpful to pass around a tactile aid, for example, a model. These can be very helpful if you want your audience to learn by doing
+Make sure to pass items around during pauses in your presentation so that you don’t lose the audience’s attention. If audience members need to move around to use a tactile aid, make sure the location has enough space to make this possible.
+
+Using Visual Aids
+
+Visual aids can be a powerful tool when used effectively but can run the risk of dominating your presentation. Consider your audience and how the portrayal of images, text, graphic, animated sequences, or sound files will contribute or detract from your presentation. Here are some tips to keep in mind as you prepare yours.
+
+Designing Slide Decks
+
+When you design your slide decks, you might be overwhelmed by the possibilities, and you might be tempted to use all the bells, whistles, and sounds, not to mention the flying, and animated graphics. If used wisely, a simple transition can be effective, but if used indiscriminately, it can annoy the audience to the point where they cringe in anticipation of the sound effect at the start of each slide.
+
+Stick to one main idea per slide. The presentation is for the audience’s benefit, not yours. Pictures and images can be understood more quickly and easily than text, so you can use this to your advantage as you present.
+
+If you develop a slide deck for your presentation, test these out in the location beforehand, not just on your own computer screen, as different computers and software versions can make your slides look different than you expected. Allow time for revision based on what you learn.
+
+Your visual aids should meet the following criteria:
+
+- Big: legible for everyone, even the back row
+
+- Clear: easy for audience to understand
+
+- Simple: simplify concepts rather than complicating them
+
+- Consistent: use the same visual style throughout
+
+Figure 18.3 | Comparing Slide Decks
+ 
+
+In Figure 18.3 the slide deck on the left has a colour combination which makes the information difficult to understand. The list is not parallel and the slide contains a grammatical error. The slide deck on the right is an improved and more professional version.
+
+Font
+
+Another consideration that you’ll need to make when designing your slide decks is font. As previously mentioned, think about the people at the back of the room when choosing the size of your text, to make sure it can be read by everyone. A common mistake that presenters make is to use decorative fonts or to incorporate many different fonts in their slides. This not only creates a mixed message for the audience but also makes your message difficult to read. Choose legible, common fonts that do not have thin elements that may be difficult to see.
+
+Colour
+
+When considering your choice of colours to use, legibility must be your priority. Contrast can help the audience read your key terms more easily. Make sure the background colour and the images you plan to use complement each other. Repeat colours, from your graphics to your text, to help unify each slide. To reduce visual noise, try not to use more than two or three colours. Blue-green colour blindness, and red-green colour blindness are fairly common, so avoid using these colour combinations if it is important for the audience to differentiate between them. If you are using a pie chart, for example, avoid putting a blue segment next to a green one. Use labelling so that even if someone is colour blind, they will be able to tell the relative sizes of the pie segments and what they signify.
+
+Colour is also a matter of culture. Some colours may be perceived as formal or informal, or masculine or feminine. Certain colours have understood meanings; for example, red is usually associated with danger, while green signals “go.” Make sure the colours you use align with your message. If you are discussing climate change or the natural world, for example, you’d be more likely to use blues and greens rather than metallic colours to avoid confusing the audience.
+
+Once you have prepared your visual aid, do not forget to revise. There is nothing more uncomfortable than seeing a typo or grammatical error on your screen in the middle of your presentation. These errors can create a bad impression and affect your credibility with the audience. You want your audience to focus on your message so be sure to revise to maintain the audience’s attention and keep your credibility.
+
+Preparing to Present
+
+You are almost ready to deliver your presentation. What are some final elements you can focus on to ensure a smooth delivery?
+
+Rehearse
+
+To deliver your presentation to the best of your ability, and to reduce your nerves once you take the stage, you need to practise by rehearsing. As you do, try to identify the weaknesses in your delivery to improve on them. For example, do you often misspeak the same words (e.g., pacific for specific; ax for ask) or do your hands or feet fidget? Use your practice time to focus on correcting these issues. These sessions should help you get comfortable and help you remember what you want to say without having to constantly refer to notes. Try practising in front of a mirror, or even recording yourself speaking to a camera and playing it back. It’s also helpful to get feedback from a supportive audience at this stage. Perhaps a few family members or friends could watch you give your presentation and provide some feedback.
+
+Dress for Success
+
+While there are no definitive guidelines for how you should dress for your presentation, your appearance is an important part of your audience’s first impression. If you want them to take you seriously, you’ll need to look the part. While you don’t have to wear a suit each time you present, there are some scenarios where this would be expected; for example, if you are presenting to a corporate audience who wear suits to work, you should do the same. You should dress one step above your audience. If your audience is going to be dressed casually in shorts and jeans, then wear nice casual clothing such as a pair of pressed slacks and a collared shirt or blouse. If your audience is going to be wearing business casual attire, then you should wear a dress or a suit. The general rule is to avoid any distractions in your appearance that can distract your audience’s attention from your message.
+
+Set Up Your Environment
+
+Depending on the circumstances of your speech or presentation, you may have some choices to make about the environment. Perhaps you have a choice of meeting rooms that you can use, or, perhaps you have only one option. If you have some flexibility, it is helpful to think about what sort of environment would best help you get your message across. For example, if you are running a workshop, you might want to assemble participants in a circle to encourage collaboration and discussion. If you are holding a webinar, you’ll need a quiet location with a strong Internet connection and a computer system. It is imperative that you think about what facilities you need well before the day of your presentation arrives. Arriving to find that the equipment you expected isn’t available is not a nice surprise for even the most experienced speaker!
+
+If you have access to the location beforehand, you may need to move tables or chairs around to get things just the way you want them. You might choose to have a podium brought in, if you are aiming for a formal feel, for example, or you may need to position your flip chart. Double-check that you have all the equipment you need, from whiteboard markers to speakers. It is far better if you can get comfortable with the room before your audience arrives, as this will make you feel more prepared and less nervous.
+
+If you are using technology to support your presentation (i.e., PowerPoint slides or a projector), test everything before you begin. Do a microphone check and test its volume, view your slides on the computer you will be using, check any weblinks, play videos to test their sound, or make a call to test the phone connection prior to your teleconference. Your audience will get restless quickly if they arrive and are expected to wait while you fix a technical problem. This will also make you seem disorganized and hurt your credibility as an authoritative speaker.
+
+During the Presentation
+
+You’ve organized your presentation with great visuals and you are ready to present. You now have to deliver your presentation. How do you effectively deliver your presentation calmly and clearly?
+
+Managing Anxiety
+
+Studies have been done to assess how nervous or stressful people typically get during presentations, by examining people’s physiological responses at three intervals: one minute before the presentation, the first minute of the speech, and the last minute of the speech. They discovered that nervousness usually peaked at the anticipation stage that occurs one minute before the presentation. They further found that as the speech progresses, nervousness tends to go down. Here are some things you can do to help you manage your anxiety before the presentation:
+
+- Practice/rehearse in similar conditions/setting as your speech
+
+- Be organized
+
+- Think positively
+
+- Analyze your audience
+
+- Adapt your language to speaking style
+
+During the presentation, there are four main areas where you can focus attention in order to manage your anxiety:
+
+- Your body’s reaction
+
+- Attention to the audience
+
+- Keeping a sense of humour
+
+- Common stress management techniques
+
+Your Body’s Reaction
+
+Physical movement helps to channel some of the excess energy that your body produces in response to anxiety. If at all possible, move around the front of the room rather than remaining behind the lectern or gripping it for dear life (avoid pacing nervously from side to side, however). Move closer to the audience and then stop for a moment. If you are afraid that moving away from the lectern will reveal your shaking hands, use note cards rather than a sheet of paper for your outline. Note cards do not quiver like paper, and they provide you with something to do with your hands. Other options include vocal warm-ups right before your speech, having water (preferably in a non-spillable bottle with a spout) nearby for dry mouth, and doing a few stretches before going on stage. Deep breathing will help to counteract the effects of excess adrenaline. You can place cues or symbols in your notes, such as “slow down” or “smile”, that remind you to pause and breathe during points in your speech. It is also a good idea to pause a moment before you get started to set an appropriate pace from the onset. Look at your audience and smile. It is a reflex for some of your audience members to smile back. Those smiles will reassure you that your audience members are friendly.
+
+Attention to the Audience
+
+During your speech, make a point of establishing direct eye contact with your audience members. By looking at individuals, you establish a series of one-to-one contacts similar to interpersonal communication. An audience becomes much less threatening when you think of them not as an anonymous mass but as a collection of individuals.
+
+Keeping a Sense of Humour
+
+No matter how well we plan, unexpected things happen. That fact is what makes the public speaking situation so interesting. If things go wrong, try to have a sense of humour and stay calm. The audience will respond better if you stay calm than if you get upset or have a breakdown.
+
+Stress Management Techniques
+
+Even when we use positive thinking and are well prepared, some of us still feel a great deal of anxiety about public speaking. When that is the case, it can be more helpful to use stress management than to try to make the anxiety go away. Here are two main tools that can help:
+
+- Visualization: imagining the details of what a successful speech would look and sound like from beginning to end; a way of hypnotizing yourself into positive thinking by using your mind’s eye to make success real.
+
+- Systematic desensitization: Gradual exposure to the thing that causes fear—in this case, giving a speech—can ultimately lead to decreased anxiety. Basically, the more practice you get speaking in front of people, the less fear and anxiety you’ll have about public speaking. Organizations like Toastmasters that help people confront their fears by providing a supportive environment to learn and practise is a good option if you have a true phobia around presenting or public speaking.
+
+Focus on Verbal Communication Techniques
+
+- Pitch: Use pitch inflections to make your delivery more interesting and emphatic. If you don’t change pitch at all, your delivery will be monotone, which gets boring for the audience very quickly.
+
+- Volume: Adjust the volume of your voice to your environment and audience. If you’re in a large auditorium, speak up so that people in the back row can hear you. But if you’re in a small room with only a few people, you don’t want to alarm them by shouting!
+
+- Emphasis: Stress certain words in your speech to add emphasis to them, that is, to indicate that they are particularly important.
+
+- Pronunciation: Make sure that you know the appropriate pronunciation of the words you choose. If you mispronounce a word, it could hurt your credibility or confuse your audience. Your pronunciation is also influenced by your accent. If your accent is quite different from the accent you expect most members of your audience to have, practise your speech in front of someone with the same accent that your audience members will have, to ensure you are pronouncing words in a clear, understandable way.
+
+- Fillers: Avoid the use of “fillers” as placeholders for actual words (like, er, um, uh, etc.). If you have a habit of using fillers, practise your speech thoroughly so that you remember what you want to say. This way, you are less likely to lose your place and let a filler word slip out.
+
+- Rate: The pace that you speak at will influence how well the audience can understand you. Many people speak quickly when they are nervous. If this is a habit of yours, practice will help you here, too. Pause for breath naturally during your speech. Your speaking rate should be appropriate for your topic. A rapid, lively rate communicates enthusiasm, urgency, or humour. A slower, moderated rate conveys respect and seriousness.
+
+Focus on Non-verbal Communication Techniques
+
+- Gestures: You can use your hands or head to help you express an idea or meaning, or reinforce important points, but they can be distracting if overused. If the audience is busy watching your hands fly around, they will not be able to concentrate on your words.
+
+- Facial Expression: Rehearse your speech in front of a mirror to see what facial expressions come across. If you are speaking about an upbeat topic, smile! Conversely, if your topic is serious or solemn, avoid facial expressions that are overtly cheerful, because the audience will be confused by the mixed message. In North American culture, the most important facial expression you can use is eye contact. Briefly catch the eye of audience members as you move through your speech. If you can’t look your audience members in the eye, they may view you as untrustworthy. You’ll want to avoid holding eye contact for too long with any one person, as too much can be unnerving.
+
+- Posture: Try to stay conscious of your posture and stand up straight. This gives the audience the perception that you are authoritative and take your position seriously. If you are slouching, hunched over, or leaning on something, this gives the impression that you are anxious, lacking in credibility, or not serious about your message.
+
+- Silence: Silence is a powerful technique if used well. Pauses are useful for emphasis and dramatic effect when you are speaking. Some speakers are reluctant to pause or use silence because they become uncomfortable with the dead air, but sometimes your audience needs a moment to process information and respond to you.
+
+- Movement: You can use your body movements to communicate positively with the audience. Leaning in or moving closer to the audience helps to bridge the space of separation. Moving from one side of the room to the other in a purposeful way that supports your content is a useful way to keep your audience engaged; their eyes will track your movements. However, pacing rapidly with no purpose and no support to your message may quickly distract from your message.
+
+Coping with Mistakes and Surprises
+
+Even the most prepared speaker will encounter unexpected challenges from time to time. Here are a few strategies for combating the unexpected in your own presentations.
+
+Speech Content Issues
+
+What if a notecard goes missing or you skip important information from the beginning of your speech? Pause for a moment to think about what to do. Is it important to include the missing information, or can it be omitted without hindering the audience’s ability to understand your speech? If it needs to be included, does the information fit better now or in a later segment? If you can move on without the missing element, that is often the best choice, but pausing for a few seconds to decide will be less distracting to the audience than sputtering through a few “ums” and “uhs.” Situations like these demonstrate why it’s a good idea to have a glass of water with you when you speak. Pausing for a moment to take a sip of water is a perfectly natural movement, so the audience may not even notice that anything is amiss.
+
+Technical Difficulties
+
+Technology has become a very useful aid in public speaking, allowing us to use audio or video clips, presentation software, or direct links to websites. But it does break down occasionally! Web servers go offline, files will not download, or media contents are incompatible with the computer in the presentation room. Always have a backup plan in case of technical difficulties. As you develop your speech and visual aids, think through what you will do if you cannot show a particular graph or if your presentation slides are garbled. Your beautifully prepared chart may be superior to the verbal description you can provide. However, your ability to provide a succinct verbal description when technology fails will give your audience the information they need and keep your speech moving forward.
+
+External Distractions
+
+Unfortunately, one thing that you can’t control during your speech is audience etiquette, but you can decide how to react to it. Inevitably, an audience member will walk in late, a cell phone will ring, or a car alarm will go off outside. If you are interrupted by external events like these, it is often useful and sometimes necessary to pause and wait so that you can regain the audience’s attention. Whatever the event, maintain your composure. Do not get upset or angry about these glitches. If you keep your cool and quickly implement a “plan B” for moving forward, your audience will be impressed.
+
+Reading Your Audience
+
+Recognizing your audience’s mood by observing their body language can help you adjust your message and see who agrees with you, who doesn’t, and who is still deciding. With this information, you can direct your attention—including eye contact and questions—to the areas of the room where they can have the most impact. As the speaker, you are conscious that you are being observed. But your audience members probably don’t think of themselves as being observed, so their body language will be easy to read.
+
+Handling Q&A
+
+Question-and-answer sessions can be trickier to manage than the presentation itself. You can prepare for and rehearse the presentation, but audience members could ask a question you hadn’t considered or don’t know how to answer. There are three important elements to think about when incorporating Q&As as part of your presentation:
+
+1. Audience Expectations
+
+At the beginning of your speech, give the audience a little bit of information about who you are and what your expertise on the subject is. Once they know what you do (and what you know), it will be easier for the audience to align their questions with your area of expertise—and for you to bow out of answering questions that are outside of your area.
+
+2. Timing of Q&As
+
+Questions are easier to manage when you are expecting them. Unless you are part of a panel, meeting, or teleconference, it is probably easier to let the audience know that you will take questions at the end of your presentation. This way you can avoid interruptions to your speech that can distract you and cause you to lose time. If audience members interrupt during your talk, you can then ask them politely to hold on to their questions until the Q&A session at the end.
+
+3. Knowing How to Respond
+
+Never pretend that you know the answer to a question if you don’t. The audience will pick up on it! Instead, calmly apologize and say that the question is outside of the scope of your knowledge but that you’d be happy to find out after the presentation (or, suggest some resources where the person could find out for themselves). If you are uncertain about how to answer a question, say something like “That’s really interesting. Could you elaborate on that?” This will make the audience member feel good because they have asked an interesting question, and it will give you a moment to comprehend what they are asking. Sometimes presenters rush to answer a question because they are nervous or want to impress. Pause for a moment, before you begin your answer, to think about what you want to say. This will help you to avoid misinterpreting the question or taking offense to a question that is not intended that way.
+
+A final tip is to be cautious about how you answer so that you don’t offend your audience. You are presenting on a topic because you are knowledgeable about it, but your audience is not. It is important not to make the audience feel inferior because there are things that they don’t know. Avoid comments such as “Oh, yes, it’s really easy to do that…” Instead, say something like “Yes, that can be tricky. I would recommend…” Also, avoid a bossy tone. For example, phrase your response with “What I find helpful is…” rather than “What you should do is…”
+
+Summary
+
+Good presentation skills are important to successfully communicate ideas in business. Make sure your presentation has a clear topic with relevant supporting details. Use verbal and non-verbal communication techniques to make your presentation engaging, and don’t forget to practice!
+
+End of Chapter Activities
+
+18a. Thinking About the Content
+
+What are your key takeaways from this chapter? What is something you have learned or something you would like to add from your experience?
+
+18b. Discussion Questions
+
+- How can a speaker prepare a presentation for a diverse audience? Explain and give some specific examples.
+
+- How can an audience’s prior knowledge affect a presentation?
+
+- Think of someone you have met but do not know very well. What kinds of conversations have you had with this person? How might you expect your conversations to change if you have more opportunities to get better acquainted? Discuss your thoughts with a classmate.
+
+- While managing a Q&A session following a presentation, if you find yourself unable to answer a question posed by one of the audience members which tactics can you use to maintain control of the session?
+
+18c. Applying chapter concepts to a situation
+
+Akhil works at a software development company in White Rock called Blackball Technologies. It is a medium-sized company that allows its employees to dress casually and occasionally work from home. Akhil likes this because his preference is to wear t-shirts and jeans to the office or work from home in his pyjamas.
+
+Blackball recently created a new software program that has the potential to make a huge profit. However, they need investors to fund their latest innovation. The new software was developed using one of Akhil’s ideas; therefore, the company chooses him to present their proposal to a diverse group of investors from several countries.
+
+Some of the investors are not fluent in English as it is their second language. Additionally, they each have a busy day ahead as they have to listen to proposals from multiple companies. Akhil fears that the investors will not understand him. He is also nervous about the presentation due to its significance to his career. If he is successful, he will get the promotion that he has wanted for the past two years and a pay raise.
+
+What are some of the things that Akhil should consider when presenting to the investors? 
+
+ 
+
+18d. Writing Activity
+
+Watch this video from TED.com on The Secret Structure of Great Talks. Summarize the video. What is the most interesting point made by Nancy Duarte in your opinion?
+
+ 
+
+Attribution
+
+Content Attribution
+
+This chapter contains information from Professional Communications OER by the Olds College OER Development Team used under a CC-BY 4.0 international license.
+
+This chapter contains information from Business Communication for Success which is adapted from a work produced and distributed under a Creative Commons license (CC BY-NC-SA) in 2010 by a publisher who has requested that they and the original author not receive attribution. This adapted edition is produced by the University of Minnesota Libraries Publishing through the eLearning Support Initiative.
+
+Media Attribution
+
+Presentation icon made by Freepik from www.flaticon.com.
+
+Whiteboard icon made by Phatplus from www.flaticon.com.
+
+Handout icon made by Freepik from www.flaticon.com.
+
+Demonstration icon made by Ultimatearm from www.flaticon.com.
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+License
+
+ 
+
+Chapter 18: Business Presentations Copyright © 2020 by Venecia Williams and Olds College is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
+
+ 
+ 
+ 
+
+Share This Book

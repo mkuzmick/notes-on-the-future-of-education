@@ -1,0 +1,991 @@
+---
+title: "Self-Explanation Effect, Scalability Solutions, and French Kholle Model"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/"
+source_title: "PMC / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [cognitive-science, deep-learning, scale, oral-exam-design, low-stakes, practice-and-rehearsal, medicine, equity]
+summary: "Synthesizes three arguments: the self-explanation effect shows oral assessment tests fundamentally different cognitive skills than writing; CQUniversity conducted 600+ oral exams in one week proving scalability is a design problem; France's weekly kholles build oral fluency through repeated low-stakes practice."
+harvard_relevance: "Harvard's path should be embedding low-stakes oral work throughout the semester (brief think-alouds, 3-minute pitches, rotating presentations) rather than replacing essays with one-shot high-stakes oral exams."
+---
+s: https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/ | https://www.ed.gov/sites/ed/files/about/offices/list/ocr/docs/ocr-factsheet-anxiety-disorders-202409.pdf | https://languagetestingasia.springeropen.com/articles/10.1186/s40468-024-00321-0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/SpringerLinkTo
+
+Elle's notes:
+PubMed Central (PMC)Social anxiety disorder and its impact in undergraduate students at Jazan University, Saudi Arabiahttps://pmc.ncbi.nlm.nih.gov/articles/PMC5768085/SpringerLinkTo be with artificial intelligence in oral test or not to be: a probe into the traces of success in speaking skill, psychological well-being, autonomy, and academic buoyancyLanguage Testing in Asia - There has been a surge in employing artificial intelligence (AI) in all areas of language pedagogy, not the least among them language testing and assessment. This study...https://languagetestingasia.springeropen.com/articles/10.1186/s40468-024-00321-0[8:20 AM]The Self-Explanation Effect: Why Oral Assessment Reveals What Writing Can Hide
+Cognitive science research consistently demonstrates the "self-explanation effect": when students explain concepts aloud, they must actively construct coherent narratives in real-time, forcing integration of knowledge rather than retrieval of pre-packaged phrases. Chi et al.'s landmark 1994 study showed that students who self-explained while learning demonstrated significantly deeper understanding than those who simply read or summarized. The cognitive mechanism: oral explanation requires working memory to juggle multiple pieces of information simultaneously, creating connections that reveal—or expose the absence of—genuine comprehension.
+This matters for Harvard faculty considering oral assignments in the AI era because large language models excel at producing polished prose but cannot be present for real-time dialogue. An oral exam doesn't just verify authorship; it tests a fundamentally different cognitive skill. When a student must explain why their thesis matters, defend a methodological choice, or connect two readings spontaneously, they're demonstrating conceptual fluency that written work—AI-generated or not—can obscure. The pedagogical case for oral assessment stands independent of AI concerns: it's simply better at surfacing understanding versus memorization.
+Sources: https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1803_3 | https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf
+[8:25 AM]Scalability Solved: How CQUniversity Conducted 600+ Oral Exams in One Week
+When Harvard faculty worry that oral assessment "doesn't scale," they should examine CQUniversity Australia's 2024 case study: a single academic unit conducted over 600 oral exams in one week using a systematic approach with rotating faculty panels, standardized rubrics, 15-minute time slots, and staggered scheduling across multiple rooms. The key innovations: (1) training all examiners on a shared rubric beforehand to ensure consistency, (2) using a "circuit" model where students moved between stations, and (3) accepting that oral assessment tests different learning outcomes than essays—not a replacement, but a complement focused on real-time reasoning and conceptual fluency.
+The Harvard implication: scalability isn't about replicating the Oxford tutorial model (impossible at 7:1 student-faculty ratio). It's about designing efficient systems—brief oral defenses of written work, rotating student presentations in sections, or even recorded video explanations with asynchronous faculty review. CQUniversity proved that hundreds of oral assessments per week are feasible when infrastructure supports faculty rather than burdening them. The question isn't "Can Harvard scale oral assessment?" but "Will Harvard invest in the training, scheduling, and rubric development that makes it sustainable?" Scale is a design problem, not a pedagogical impossibility.
+Source: https://www.cqu.edu.au/about-us/teaching-learning-and-research/learning-and-teaching/educational-integrity/academic-integrity-toolkit/assessment-design
+[8:30 AM]What Medical School OSCEs Teach Us About Fair Oral Assessment
+Harvard Medical School has used Objective Structured Clinical Examinations (OSCEs) since the 1990s—standardized oral/practical assessments where students rotate through multiple stations, each testing a specific competency (patient history-taking, breaking bad news, physical exam techniques). The OSCE model solves three problems that plague traditional oral exams: (1) reliability through standardized scenarios and rubrics across all students, (2) fairness via multiple independent evaluators reducing individual bias, and (3) scalability by testing hundreds of students per day using trained standardized patients and faculty examiners working in parallel.
+The undergraduate implication: Harvard College could adapt the OSCE model for humanities and social sciences—multiple brief "stations" testing different skills (defend a thesis, connect two readings, analyze a primary source aloud, explain methodology). Key lesson from HMS: invest heavily in examiner training and rubric calibration sessions before assessment begins. Medical schools learned the hard way that oral exams without shared standards produce wildly inconsistent results. The Bok Center could coordinate cross-departmental examiner training, creating a community of practice around fair oral assessment rather than leaving each professor to invent their own approach. OSCEs aren't perfect (they reward performance over authentic reasoning), but they prove that structured, equitable oral assessment at scale is achievable when institutions commit resources.
+Source: https://meded.hms.harvard.edu/osce-objective-structured-clinical-examination
+elle-with-claws  [8:35 AM]
+Low-Stakes Practice Makes Oral Assessment Equitable: The French Khôlle Model
+The most successful oral assessment systems don't start with high-stakes exams—they build oral fluency through repeated low-stakes practice. France's classes préparatoires use weekly "khôlles" (oral interrogations) where students present solutions to problems or defend arguments in front of one professor and 2-3 peers. These aren't graded summatively; they're formative checkpoints that normalize oral performance through sheer repetition. By the time French students face the Grand Oral (the high-stakes baccalaureate oral exam), they've done 50+ practice runs. Research shows this frequent exposure reduces anxiety and eliminates the "oral fluency = privilege" problem: all students develop comfort with academic speech, not just those from debate-team backgrounds.
+Harvard's path forward shouldn't be replacing essays with one-shot oral exams—that maximizes anxiety and privileges existing oral confidence. Instead, embed low-stakes oral work throughout the semester: brief "think-aloud" explanations in sections, 3-minute thesis pitches to peer groups, or rotating presentation responsibilities where every student practices twice before any grading occurs. The Bok Center's research on scaffolding shows that students perform better on high-stakes tasks when they've rehearsed the format repeatedly in safe environments. Oral assessment becomes equitable when it's taught, not just tested. Frame it as skill-building ("you'll need this for job interviews, grad school defenses, professional life") rather than AI-policing, and students—especially those initially anxious—often become advocates.
+Sources: https://www.education.gouv.fr/le-grand-oral-323021 | https://bokcenter.harvard.edu/scaffolding-learning
+
+--
+
+Ment Illn. 2018 Jan 3;9(2):7274. doi: 10.4081/mi.2017.7274
+
+Social anxiety disorder and its impact in undergraduate students at Jazan University, Saudi Arabia
+
+Ramzi M Hakami
+
+Ramzi M Hakami
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Ramzi M Hakami
+
+1,✉, Mohamed S Mahfouz
+
+Mohamed S Mahfouz
+
+2Department of Family and Community Medicine, Faculty of Medicine, Jazan University, Jazan, Saudi Arabia
+Find articles by Mohamed S Mahfouz
+
+2, Abdulrahman M Adawi
+
+Abdulrahman M Adawi
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Abdulrahman M Adawi
+
+1, Adeebah J Mahha
+
+Adeebah J Mahha
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Adeebah J Mahha
+
+1, Alaa J Athathi
+
+Alaa J Athathi
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Alaa J Athathi
+
+1, Hadi H Daghreeri
+
+Hadi H Daghreeri
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Hadi H Daghreeri
+
+1, Hatim H Najmi
+
+Hatim H Najmi
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Hatim H Najmi
+
+1, Nuha A Areeshi
+
+Nuha A Areeshi
+
+1Faculty of Medicine, Jazan University, Jazan;
+Find articles by Nuha A Areeshi
+
+1
+
+- Author information
+
+- Article notes
+
+- Copyright and License information
+
+1Faculty of Medicine, Jazan University, Jazan;
+
+2Department of Family and Community Medicine, Faculty of Medicine, Jazan University, Jazan, Saudi Arabia
+
+✉Faculty of Medicine, Jazan University, Jazan, Saudi Arabia. ramzi@xd.ae
+
+#Contributions: the authors contributed equally.
+
+Received 2017 Jun 20; Revised 2017 Aug 7; Accepted 2017 Aug 8; Collection date 2017 Oct 19.
+
+Key words: Mental disorder, social phobia, social anxiety disorder, Saudi Arabia, Social Phobia Inventory
+
+©Copyright R.M.Hakami et al., 2017
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+PMC Copyright notice
+
+PMCID: PMC5768085  PMID: 29383218
+
+Competing interest statement
+
+Conflict of interest: the authors declare no potential conflict of interest.
+
+Abstract
+
+Although social anxiety disorder (SAD) is a common mental disorder, it is often under diagnosed and under treated. The aim of this study is to assess the prevalence, severity, disability, and quality of life towards SAD among students of Jazan University, Saudi Arabia. A cross-sectional study was conducted among a stratified sample of 500 undergraduate students to identify the prevalence of SAD, its correlates, related disability, and its impact on the quality life. All participants completed the Social Phobia Inventory, Leibowitz Social Anxiety Scale, Sheehan Disability Scale, and the WHO Quality of Life – BREF questionnaire. Of 476 students, 25.8% were screened positive for SAD. About 47.2% of the students had mild symptoms, 42.3% had moderate to marked symptoms, and 10.5% had severe to very severe symptoms of SAD. Students who resulted positive for SAD reported significant disabilities in work, social, and family areas, and this has adversely affected their quality of life as compared to those who screened negative for SAD. Students reported several clinical manifestations that affected their functioning and social life. Acting, performing or giving a talk in front of an audience was the most commonly feared situation. Blushing in front of people was the most commonly avoided situation. Since the present study showed a marked prevalence of SAD among students, increased disability, and impaired quality of life, rigorous efforts are needed for early recognition and treatment of SAD.
+
+Introduction
+
+While most of us experience some level of social unease when we feel scrutinized by others, such as while speaking in public or presenting at meetings, social anxiety disorder (SAD) is defined as an excessive and persistent fear of acting in a way that will be embarrassing and humiliating. This fear is almost invariably provoked by the feared situations, which are avoided or endured with severe distress, and interferes significantly with personal, occupational, and social functioning.1
+
+Social anxiety disorder commonly appears in the teenage years,2 and usually affects 3 to 5% of youths.3 It is an extraordinarily persistent condition if left untreated and it may lead to a variety of comorbidities, such as other anxiety disorders, affective disorders, nicotine dependence, and substance-use disorder,4-6 predicting poorer treatment outcomes.7 Most of patients with SAD have been reported to have at least moderate impairment at some point in their lives. Education, employment, family, romantic relationships, friendships, social networks, quality of life, and other areas of life have been reported to be liable to impairment in patients with SAD.8-12 Unfortunately, although it is the third most common mental disorder in adults worldwide, 13 SAD is often under diagnosed and undertreated.14 Furthermore, it has received little attention by both clinicians and researchers.8
+
+In general, there is a lack of data on the prevalence of SAD and the reported rates vary widely between studies, with much of the variability possibly being due to different instruments used to determine diagnosis. 10 However, SAD is obviously one of the most common of all anxiety disorders.10 For instance, Kesseler and colleagues (2005) interviewed 9282 English-speaking participants aged 18 years and older and found that SAD was the most common anxiety disorder, with a lifetime prevalence of up to 12%15 and a 12-month prevalence of 6.8%.16
+
+Studies looking at country-specific populations of university students have produced quite variable results when it comes to the prevalence of SAD. Many studies have indicated that social anxiety is a prevalent disorder among university students. 11,12,17-20 For example, studies from Sweden and India have reported the prevalence of SAD among university students to be 16.1% and 19.5%, respectively.11,12 In the Kingdome of Saudi Arabia, less is known about SAD in general and among undergraduate students. However, high prevalence rates have been reported among Saudis, especially adolescents and young adults.21-25 Elhadad and colleagues (2017) have carried out a study on 380 medical students and found that as high as 59.5% of them were screened positive for SAD. In the same study, SAD was associated with decreased academic achievement, weak clinical exam performance, and avoidance of oral presentation.22
+
+The present study aims to investigate SAD prevalence, severity, related disabilities, and its impact in students from five faculties at Jazan University, Saudi Arabia. We expect that this study would be helpful in bridging the gap in the local research of SAD, and will be useful to the future studies attempting to reduce the high prevalence of this disorder and to prevent its long-term consequences.
+
+Materials and Methods
+
+Study place, design and participants
+
+Jazan University is situated in Jazan region, southwest of the kingdom of Saudi Arabia. It is the leading higher educational institution in Jazan province. This is an observational cross-sectional survey targeting Jazan University students who are over 18 years and registered for the academic year 2016/2017. The target colleges were Applied Medical Sciences, Pharmacy, Sciences, Computer sciences and Business administration.
+
+Sample size and sample design
+
+A sample of 400 participants was estimated for the purpose of this study. The sample size was calculated using the formula for a cross-sectional study, n=[(z2 * p *q)]/d2. Sample size was calculated using the following parameters: p=prevalence of Knowledge 50%, Z=95% confidence interval, d=error ≤5%, and a 25% non-response rate. Probability proportional to size sampling (PPS) was used to adjust the number of students in each faculty.
+
+Data collection
+
+The structured questionnaire was written in Arabic and distributed by six medical students to the study population. After explaining the purpose of the study and obtaining verbal consents, data collectors waited somewhere near for the completion of the questionnaire to give the respondents the opportunity to ask clarifying questions regarding the interpretation of terms or items in the questionnaire. All respondents were asked to fill out the survey separately to make sure that they do not duplicate each other’s answers. The data collection process took place in the period from November 2016 to January 2017.
+
+Instruments
+
+The questionnaire consisted of demographic information such as age, sex, faculty type, family size, birth order, perceived family income, marital status, and housing type. Rating instruments included the Social Phobia Inventory (SPIN) to detect social anxiety disorder, the Leibowitz Social Anxiety Scale (LSAS) to evaluate social anxiety disorder severity, the Sheehan Disability Scale (SDS) to assess disability due to social anxiety disorder, and the WHO Quality of Life – BREF questionnaire to assess the quality of life. All study tools were translated to simple Arabic by the study authors. The questionnaire took about 15 to 20 minutes to complete.
+
+Social Phobia Inventory
+
+The SPIN is a short, self-rating scale developed by Dr. K.M. Connor to capture the social phobia symptoms.26 It consists of 17 items and each item is rated from 0 (not at all) to 4 (extremely). The scale ranges from 0-68. A score ≥19 suggests social anxiety disorder. It has good test-retest reliability, internal consistency, convergent and divergent validity and can be used for screening of and detecting treatment response to social anxiety disorder. Regarding diagnosis of social anxiety disorder, it has a sensitivity of 73-85% and a specificity of 69-84%. Although Shah and Kataria12 used a cut-off point of 19 on this scale in a similar study, Dogaheh27 reported that the cut-off point of 29 resulted in balanced sensitivity (0.96) and 1-specificity (0.87), and it was more appropriate for this study (a cut-off point of 19 resulted in an oddly very high prevalence).
+
+Liebowitz Social Anxiety Scale
+
+The LSAS is self-rating scale developed by Dr. Michael Liebowitz to rate fear/anxiety and avoidance regarding 24 commonly feared performance or social situations.28 It consists of 13 performance-related items and 11 social-related items which are rated from 0 (none/never) to 3 (severe/usually). It has a good internal consistency and evaluates the severity of fear and avoidance in common social situations. A score of <55 suggests mild social anxiety disorder, 55-64 suggests moderate social anxiety disorder, 65-79 suggests marked social anxiety disorder, 80-94 suggests severe social anxiety disorder, and >95 suggests very severe social anxiety disorder.
+
+Sheehan Disability Scale
+
+The SDS is a simple and commonly used scale developed by David V. Sheehan29 to evaluate functional impairments/ disabilities in the domains of work, social life/leisure and family life/home responsibility due to an anxiety disorder. Each domain is rated on an 11-point, where 0=no impairment, 10=most severe, 1-3=mild, 4-6=moderate, and 7-9=marked.
+
+WHO Quality of Life – Bref
+
+The WHOQOL-BREF is an abbreviated version of the WHOQOL-100 developed by the WHOQOL Group30 to assess the quality of life in multiple dimensions, and it is applicable cross-culturally. It consists of 26 items based on a four-domain structure: Physical health (7 items), Psychological health (6 items), Social relationships (3 items) and Environment (8 items), along with a self-rating of general quality of life (1 item) and general satisfaction with health (1 item). It is self-administered and each item is scaled from 1-5 in a positive direction, which means that higher scores indicate a higher quality of life. Each domain score (mean score of items within that domain) is converted to a scale of 0-100 and indicates an individual’s perception of quality of life in that domain. In the absence of clear cut-off point for such study, a cut-off point of 88.22 (70% of the total scores) was used as suggested by Al-Fayez and Ohaeri31 and Xia et al.32
+
+Statistical analysis
+
+The data was analysed using SPSS version 20. Descriptive (frequency and percentage) and inferential statistics (chisquare test) were used to interpret the data. An independent samples t-test was used to analyse the difference between the two groups (students with/without social anxiety disorder). Pearson correlation coefficient was used for correlation analysis.
+
+Ethical consideration
+
+All participants were informed of their rights to participate and that their information would be kept anonymous and only used for the purpose of this study. Ethical approval was obtained from the University Ethical Committee.
+
+Results
+
+Of 500 questionnaires, students completed 476 questionnaires giving a response rate of 95.2%. Table 1 details the sociodemographic distribution of the study population. The results show that 243 (51.1%) of respondents were males and 233 (48.9%) were females. The respondents’ age ranged from 19 to 27 years. The mean, median, and mode of students’ age were 21.49, 21, and 22 years, respectively (SD=1.57), which indicates a fairly even distribution of participants’ ages. The sample consisted of different faculties with the highest number from Business administration (156, 32.7%) and the lowest number from Pharmacy (19, 4.0%). Most of the respondents (90%) were single (N=424), 8.3% were married (N=39), and 1.7% were divorced (N=8). Those who lived in families consisted of 6-10 members comprised the majority of the study population (62.9%). Regarding birth order, a high frequency of respondents (303, 64.1%) reported that they were in the middle of their families. Most of the study population perceived their family income as very good (19.0%) and good (46.8%), and lived in their own household (84.3%).
+
+Table 1.
+
+Socio-demographic characteristics of participants.
+
+Characteristics
+Male, n (%)
+Female, n (%)
+Total, n (%)
+
+ 
+N=243
+N=233
+N=476
+
+Age in years*
+
+ 
+ 
+ 
+
+     19 – 21
+78 (32.1)
+161 (70.9)
+239 (50.8)
+
+     22 – 24
+152 (62.6)
+64 (28.2)
+216 (45.9)
+
+     25 – 27
+13 (5.3)
+2 (0.9)
+15 (3.2)
+
+College
+ 
+ 
+ 
+
+     Applied Medical Sciences
+44 (18.1)
+41 (17.6)
+85 (17.9)
+
+     Pharmacy
+14 (5.8)
+5 (2.1)
+19 (4.0)
+
+     Business Administration
+70 (28.8)
+86 (36.9)
+156 (32.7)
+
+     Computer Sciences
+59 (24.3)
+39 (16.7)
+98 (20.6)
+
+     Sciences
+56(23)
+62 (26.6)
+118 (24.8)
+
+Marital status*
+
+ 
+ 
+ 
+
+     Single
+232 (95.9)
+192 (83.8)
+424 (90.0)
+
+     Married
+8 (3.3)
+31 (13.5)
+39 (8.3)
+
+     Divorced
+2 (0.8)
+6 (2.6)
+8 (1.7)
+
+Family size*
+
+ 
+ 
+ 
+
+     <6
+42 (17.3)
+33 (14.4)
+75 (15.9)
+
+     06-10
+135 (55.6)
+162 (70.7)
+297 (62.9)
+
+     >10
+66 (27.2)
+34 (14.8)
+100 (21.2)
+
+Birth order*
+
+ 
+ 
+ 
+
+     First or only child
+46 (18.9)
+47 (20.5)
+93 (19.2)
+
+     In the middle
+159 (65.4)
+144 (62.9)
+303 (64.1)
+
+     Last baby
+38 (15.6)
+38 (16.6)
+76 (16.1)
+
+Perceived family income (SR/month)*
+
+ 
+ 
+ 
+
+     Very good
+49 (20.3)
+38 (17.4)
+87 (19.0)
+
+     Good
+117 (48.5)
+98 (45.0)
+215 (46.8)
+
+     Bad
+75 (31.1)
+82 (37.6)
+157 (34.2)
+
+Housing type*
+
+ 
+ 
+ 
+
+     Owning housing
+191 (78.9)
+207 (90.0)
+398 (84.3)
+
+     Rent housing
+51 (21.1)
+23 (10.0)
+74 (15.7)
+
+Open in a new tab
+*Because of missing responses, the total percentages do not add up to 100%.
+
+Using a cut-off score of 29, participants were screened positive for social anxiety disorder if they scored 29 or higher on the SPIN scale. Table 2 shows that 123 (25.8%) students were screened positive for SAD, 71 of them (51.1%) were males and 52 were females (42.3%). There was a statistically significant difference in the prevalence of SAD regarding the birth order. Being a firstborn child (or the only child) was associated with least prevalence of SAD (15.6%) and being a middle born child was associated with higher prevalence of SAD (61.5%) (X2=6.407, P<0.05). However, with respect to gender, faculty type, family size, perceived family income, and housing type, there was no statistically significant difference in the prevalence of SAD (all P values >0.05). In addition, as the range of age groups was narrow, (i.e. most of students were young adults, who are the target population of this study) and as most of the students were single, these two parameters (age and marital status) were not significantly associated (P=0.777 and P=0.511, respectively) with the prevalence of SAD. The Cronbach’s alpha for SPIN scale obtained in this study sample was 0.85.
+
+Table 2.
+
+Comparing social phobia with demographic variables of the participants.
+
+Demographic variables
+SPIN score <29
+SPIN score ≥29
+X2
+
+P value
+
+ 
+n (%)
+n (%)
+ 
+ 
+
+Study population
+353 (74.2)
+123 (25.8)
+ 
+ 
+
+Gender
+ 
+ 
+2.956
+0.090
+
+     Male
+172 (48.7)
+71 (57.7)
+ 
+ 
+
+     Female
+181 (51.3)
+52 (42.3)
+ 
+ 
+
+Age*
+
+ 
+ 
+0.504
+0.777
+
+     19 – 21
+179 (51.1)
+60 (50.0)
+ 
+ 
+
+     22 – 24
+161 (46.0)
+55 (45.8)
+ 
+ 
+
+     25 – 27
+10 (2.9)
+5 (4.2)
+ 
+ 
+
+Faculty type
+0.225
+0.705
+ 
+ 
+
+     Health faculties
+79 (22.4)
+25 (20.3)
+ 
+ 
+
+     Others
+274 (77.6)
+98 (79.7)
+0.611
+0.737
+
+Family size*
+
+ 
+ 
+ 
+ 
+
+     <6
+53 (15.1)
+22 (18.0)
+ 
+ 
+
+     06-10
+223 (63.7)
+74 (60.7)
+ 
+ 
+
+     >10
+74 (21.1)
+26 (21.3)
+ 
+ 
+
+Birth order
+ 
+ 
+6.407
+0.041
+
+     First or only child
+74 (21.1)
+19 (15.6)
+ 
+ 
+
+     In the middle
+228 (65.1)
+75 (61.5)
+ 
+ 
+
+     Last baby
+48 (13.9)
+28 (23.0)
+ 
+ 
+
+Perceived family income (SR/month)*
+
+ 
+ 
+0.480
+0.787
+
+     Very good
+31 (9.2)
+10 (8.3)
+ 
+ 
+
+     Good
+104 (30.8)
+34 (28.1)
+ 
+ 
+
+     Bad
+203 (60.1)
+77 (63.6)
+ 
+ 
+
+Housing type*
+
+ 
+ 
+1.985
+0.192
+
+     Owning housing
+300 (85.7)
+98 (80.3)
+ 
+ 
+
+     Rent housing
+50 (14.3)
+24 (19.7)
+ 
+ 
+
+Open in a new tab
+SPIN, Social Phobia Inventory. *Because of missing responses, total percentages do not add up to 100%.
+
+Using the LSAS scale to detect the severity of SAD, 47.2% (N=58) had mild symptoms, 42.3%, (N=52) had moderate to marked symptoms, and 10.5% (N=13) had severe to very severe symptoms. As shown in Table 3, the descending ranking of commonly feared/avoided situations (LSAS scale) was obtained. The most commonly feared situations reported by students were acting, performing or giving a talk in front of an audience (75.0%, N=357), followed by taking a test (74.0%, N=352). The most commonly avoided situations reported by students were blushing in front of people (79.4%, N=377), followed by having to give speeches (76.7%, N=365). The majority of students (76.5%, N=364) reported that being embarrassed or looking stupid is among their worst fears. The Cronbach’s alpha for LSAS scale obtained in this sample was (0.87) and (0.85) for the fear/anxiety and avoidance domains, respectively.
+
+Table 3.
+
+Rank ordering of most commonly feared/avoided situations.
+
+Rank
+Situation
+N (%)
+
+Feared situations
+
+1
+Acting, performing or giving a talk in front of an audience
+357 (75.0)
+
+2
+Taking a test
+352 (74.0)
+
+3
+Speaking up at a meeting
+326 (68.5)
+
+4
+Talking to people in authority
+299 (62.8)
+
+5
+Meeting strangers
+289 (60.7)
+
+6
+Working while being observed
+289 (60.7)
+
+7
+Expressing a disagreement or disapproval to people you don’t know very well
+284 (59.7)
+
+8
+Being the center of attention
+275 (46.4)
+
+9
+Talking with people you don’t know very well
+271 (56.9)
+
+10
+Looking at people you don’t know very well in the eyes
+267 (56.1)
+
+Avoided situations
+
+1
+I am bothered by blushing in front of people
+377 (79.4)
+
+2
+I avoid having to give speeches
+365 (76.7)
+
+3
+Being embarrassed or looking stupid is among my worst fears
+364 (76.5)
+
+4
+Fear of embarrassment causes me to avoid doing things or speaking to people
+333 (70.0)
+
+5
+I avoid talking to people I don’t know
+331 (69.6)
+
+6
+I am afraid of doing things when people might be watching
+326 (68.5)
+
+7
+I would do anything to avoid being criticized
+321 (67.5)
+
+8
+Trembling or shaking in front of others is distressing to me
+318 (66.8)
+
+9
+Heart palpitations bother me when I am around people
+317 (66.6)
+
+10
+I avoid activities in which I am the center of attention
+312 (65.6)
+
+Open in a new tabAn independent samples t-test was employed to compare between students with SAD and students without SAD in their scores on the SDS and QOL scales. As Table 4 shows, the difference between the two groups was statistically significant. Students who screened positive for SAD reported significantly more disabilities in the work (t(474)=6.596, P<0.01), social life (t(473)=6.941, P<0.01), and home areas (t(474)=4.375, P<0.01). As well, students who screened positive for SAD reported significantly worse quality of life, that is, they scored lower than students who screened negative for SAD on the physical health domain (t(473)=4.220, P<0.01), psychological health domain (t(459)=3.970, P<0.01), social relationship domain (t(472)=1.999, P<0.05), and environment domain (t(474)=2.297, P<0.05). The Cronbach’s alpha for SDS scale obtained in this sample was (0.74), and for QOL scale, the Cronbach’s alpha for the respective domains were 0.64 (physical health), 0.64 (psychological health), 0.55 (social relationships), and 0.72 (environment).
+
+Table 4.
+
+Disabilities and quality of life in students with social phobia.
+
+ 
+SPIN score <29,
+SPIN score ≥29,
+t
+P value
+
+ 
+M (SD)
+M (SD)
+ 
+ 
+
+Disabilities
+ 
+ 
+ 
+ 
+
+     Work
+0.79 (0.885)
+1.42 (0.984)
+6.596
+0.000
+
+     Social life
+0.73 (0.846)
+1.38 (1.028)
+6.941
+0.000
+
+     Home
+0.81 (1.047)
+1.30 (1.116)
+4.375
+0.000
+
+Quality of life
+ 
+ 
+ 
+ 
+
+     Physical health
+64.92 (15.641)
+58.11 (14.585)
+4.220
+0.000
+
+     Psychological health
+72.23 (16.206)
+65.25 (17.195)
+3.970
+0.000
+
+     Social relationships
+67.13 (21.272)
+62.50 (24.136)
+1.999
+0.046
+
+     Environment
+63.01 (16.492)
+59.08 (15.769)
+2.297
+0.022
+
+Open in a new tab
+SPIN, Social Phobia Inventory
+
+As shown in Table 5, both SPIN and LSAS scores were positively correlated with SDS scores. Thus, SAD and its severity were significantly associated with reported disabilities in the areas of work, social life, and home life. In contrast, both SPIN and LSAS scores were negatively correlated with QOL score. This means that SAD and its severity were significantly associated with deterioration in all domains of quality of life. In general, these results suggest that students who screened positive for SAD suffered more than students who screened negative from deteriorated functioning and quality of life.
+
+Table 5.
+
+Correlating SPIN and LSAS with SDS and QOL scores.
+
+ 
+SDS score
+QOL score
+
+ 
+Work
+Social life
+Home
+Physical health
+Psychological health
+Social relationship
+Environment
+
+SPIN score (r)
+0.29**
+
+0.30**
+
+0.19**
+
+-0.19**
+
+-0.18**-0.92*
+
+-0.11*
+
+ 
+
+LSAS score (r)
+0.29**
+
+0.26**
+
+0.26**
+
+-0.20**
+
+-0.13**-0.11*
+
+-0.19**
+
+ 
+
+Open in a new tab
+SPIN, Social Phobia Inventory; LSAS, Leibowitz Social Anxiety Scale; SDS, Sheehan Disability Scale; QOL, WHO Quality Of Life – Bref. r is Pearson correlation coefficient. *P<0.01. **P<0.05.
+
+Discussion
+
+The main purpose of the present study was to investigate SAD prevalence, severity, related disabilities, and its impact in undergraduate students at Jazan University. SAD symptoms may overlap with other diseases making it challenging to recognize and separate SAD from shyness or poor social skills. Many studies of SAD from different countries and cultures reported widely varied estimates of the prevalence ranging from 1.9% and 20.4% among the general population and depending on the diagnostic threshold.33 In the present study, SAD was as high as 25.8% among the study population, much higher than many other studies among undergraduate students. 11,12,17,18,34 However, as SPIN, the screening scale used in this study, has a specificity of 0.84-0.94 and the analysis using LSAS shows that 47.2% of those with SAD have a mild degree of SAD, it can be inferred that the prevalence might be lower than identified. However, the prevalence looks quite high even after this consideration. Within the Saudi context, a few studies have investigated SAD among university students and most of them have been conducted on medical students, making it difficult to compare our findings with a similar study. However, consistently with the present study, social anxiety have been revealed to be a highly prevalent disorder in Saudi undergraduate students population.22,23
+
+Regarding socio-demographic features, this study found no significant age or gender differences among students with SAD. In terms of age, student ages were overall similar as a product of the sample population, and thus age was not studied as a variable compared to other cohorts of the general population, though other studies have shown an early onset of social anxiety symptoms.2,35 In terms of gender, our study’s finding of no difference is overall in line with the body of research that has yielded inconclusive comparisons of gender prevalence of SAD.36 Some studies focusing on students have found a higher prevalence among male students and suggested a culturally-specific emphasis placed on males for social tasks,25 but more research into these gender differences is certainly warranted. Consistently with Australian, Indian and Swedish studies, this study reported that SAD was more prevalent among students of Business Administration, Sciences and Computer Sciences (i.e. nonmedical faculties) than students of Applied Medical Sciences and Pharmacy (i.e. medical faculties).11,12,37 Although SAD is expected to be higher among students of higher-pressure faculties like medical sciences and pharmacy, less prevalent SAD can be explained by considering that medical faculties are competitive and require high academic and social skills.12
+
+The most commonly reported feared situations in the target sample were Acting, performing or giving a talk in front of an audience followed by Taking a test, and the most commonly avoided situations were Blushing in front of people followed by Having to give speeches. These findings are consistent with that of earlier studies.11-13 It is noteworthy that university students face these situations daily. Elhadad et al. reported that students with SAD were more likely to have a weak clinical exam performance, and to avoid performing oral presentations. 22 In addition, the analysis of LSAS showed that the majority of students had mild to moderate forms of SAD, which is in accordance with prior studies on university students.11,12 If untreated, SAD may affect the academic future of students and lead to several comorbidities, including other anxiety disorders, depression and bipolar disorders, and substance abuse.4-6
+
+In the present study, it was found that SAD is associated with impairment in the area of work, social life, and family life. This finding is supported by prior studies on SAD among students, which reported more disabilities among people with SAD.8-12 Also, consistently with previous studies, 12,25,38-40 we found that those with SAD showed a significant reduction in all areas of quality of life, including physical and psychological health, social relationships, and environment. In the present study, students with SAD were more likely than students without SAD to be unsatisfied with their health, suffer from depression and psychological distress, rate their quality of life as poor, and to be unsatisfied with many aspects of life.12 For example, 20.5% of students with SAD reported dissatisfaction with their sleep and daily activities, and 22.9% reported dissatisfaction with their sexual life.
+
+In sum, this study confirms the high prevalence of SAD among undergraduate students and its substantial impact on them, and provides a connection between prior studies of certain populations of university students and those at Jazan University. It can also serve as a model for other university- specific investigations, as well as certain geographic or demographic groups.
+
+Study limitations
+
+This study targeted only university students and it is necessary to choose a community representative sample to generalize the results. This is a self-report cross-sectional study, and a longitudinal study using structured clinical interview is needed to assess SAD among students. Social desirability bias is inevitable in such studies as social anxiety is by nature a sensitive issue.
+
+Conclusions
+
+SAD has a quiet high prevalence and marked impact on the quality of life of university students. These findings necessitate more hard efforts in recognizing and treating SAD in the academic constitutions. Early detection and appropriate treatment will help in reducing the bad consequences of this common disorder.
+
+Acknowledgements
+
+The authors thank Dr. Rashad Alsanosy (Substance Abuse Research Center (SARC), Jazan University and the Department of Family and Community Medicine) for his assistance with the research project.
+
+References
+
+- 
+1.American Psychiatric Association.
+Diagnostic and statistical manual of mental disorders (DSM-5R).
+American Psychiatric Pub;
+2013. [Google Scholar]
+
+- 
+2.Davidson JR, Hughes DL, George LK, Blazer DG.
+The epidemiology of social phobia: findings from the Duke Epidemiological Catchment Area Study. Psychol Med
+1993;23:709-18. [DOI] [PubMed] [Google Scholar]
+
+- 
+3.Wittchen HU, Stein MB, Kessler RC.
+Social fears and social phobia in a community sample of adolescents and young adults: prevalence, risk factors and co-morbidity. Psychol Med
+1999;29:309-23. [DOI] [PubMed] [Google Scholar]
+
+- 
+4.Grant BF, Hasin DS, Blanco C, et al. 
+The epidemiology of social anxiety disorder in the United States: results from the National Epidemiologic Survey on Alcohol and Related Conditions. J Clin Psychiatry
+2005;66:1351-61. [DOI] [PubMed] [Google Scholar]
+
+- 
+5.Fehm L, Beesdo K, Jacobi F, Fiedler A.
+Social anxiety disorder above and below the diagnostic threshold: prevalence, comorbidity and impairment in the general population. Soc Psychiatry Psychiatr Epidemiol
+2008;43:257-65. [DOI] [PubMed] [Google Scholar]
+
+- 
+6.Sadock BJ Sadock VA.. 
+Kaplan & Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th Edition.
+NewYork: Lippincott Williams & Wilkins;
+2007. [Google Scholar]
+
+- 
+7.Fava M, Rush AJ, Alpert JE, et al. 
+Difference in treatment outcome in outpatients with anxious versus nonanxious depression: a STAR*D report. Am J Psychiatry
+2008;165:342-51. [DOI] [PubMed] [Google Scholar]
+
+- 
+8.Connor KM, Davidson JRT, Sutherland S, Weisler R.
+Social phobia: issues in assessment and management. Epilepsia
+1999;40:60-5. [DOI] [PubMed] [Google Scholar]
+
+- 
+9.Timothy J, Atezaz S.
+Social anxiety disorder: a common unrecognized mental disorder. Am Fam Physician
+1999;60: 2311-9. [PubMed] [Google Scholar]
+
+- 
+10.National Institute for Health Excellence and Care.
+Social Anxiety Disorder - the Nice Guideline on Recognition, Assessment and Treatment.
+2013. 
+320 p. [PubMed] [Google Scholar]
+
+- 
+11.Tillfors M, Furmark T.
+Social phobia in Swedish university students: prevalence, subgroups and avoidant behavior. Soc Psychiatry Psychiatr Epidemiol
+2007;42:79-86. [DOI] [PubMed] [Google Scholar]
+
+- 
+12.Shah PS, Kataria L.
+Social phobia and its impact in Indian university students. Internet J Ment Health
+2010;6:1-8. [Google Scholar]
+
+- 
+13.Veale D.
+Treatment of social phobia. Adv Psychiatr Treat
+2003;9:258-64. [Google Scholar]
+
+- 
+14.Priyamvada R, Kumari S, Prakash J, Chaudhury S.
+Cognitive behavioral therapy in the treatment of social phobia. Ind Psychiatry J
+2009;18:60-3. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+15.Kessler RC, Berglund P, Demler O, et al. 
+Lifetime prevalence and age-ofonset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry
+2005;62:593-602. [DOI] [PubMed] [Google Scholar]
+
+- 
+16.Kessler RC, Chiu WT, Demler O, Walters EE.
+Prevalence, severity, and comorbidity of 12-Month DSM-IV Disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry
+2005;62:617. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+17.Gultekin B, Dereboy I.
+The prevalence of social phobia, and its impact on quality of life, academic achievement, and identity formation in university students. Turk Psikiyatr Derg
+2011;22:150-8. [PubMed] [Google Scholar]
+
+- 
+18.Izgic F, Akyuz G, Dogan O, Kugu N.
+Social phobia among university students and its relation to self-esteem and body image. Can J Psychiatry
+2004;49: 630-4. [DOI] [PubMed] [Google Scholar]
+
+- 
+19.Bella T, Omigbodun O.
+Social phobia in Nigerian university students: prevalence, correlates and co-morbidity. Soc Psychiatry Psychiatr Epidemiol
+2009; 44:458-63. [DOI] [PubMed] [Google Scholar]
+
+- 
+20.Baptista CA, Loureiro SR, De Lima Osorio F, et al. 
+Social phobia in Brazilian university students: Prevalence, under-recognition and academic impairment in women. J Affect Disord
+2012;136:857-61. [DOI] [PubMed] [Google Scholar]
+
+- 
+21.Al-Qahtani ALIM.
+Prevalence and risk factors of social phobia among secondary school male students in Khamis Mushayt, Kingdom of Saudi Arabia. Med J Cairo Univ
+2012;80:871-6. [Google Scholar]
+
+- 
+22.Elhadad AA, Alzaala MA, Alghamdi RS, et al. 
+Social phobia among Saudi medical students. Middle East Curr Psychiatry
+2017;24:68-71. [Google Scholar]
+
+- 
+23.Jarallah H Al-Omari F Altowairiqi I Al Saadi K.. 
+Magnitude of social anxiety disorder, and impact on quality of life among medical students, taif city-KSA.
+J Psychol Clin Psychiatry
+2017;7. [Google Scholar]
+
+- 
+24.Ghazwani JY, Khalil SN, Ahmed RA.
+Social anxiety disorder in Saudi adolescent boys: Prevalence, subtypes, and parenting style as a risk factor. J Fam Community Med
+2016;23:25-31. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+25.Alkhathami S, Kaviani H, Emma S.
+Social anxiety among adolescents and its relation to quality of life. Eur Proc Soc Behav Sci
+2014;218:228. [Google Scholar]
+
+- 
+26.Connor KM, Davidson JRT, Churchill LE, et al. 
+Psychometric properties of the social phobia inventory (SPIN). Br J Psychiatry
+2000;176:379-86. [DOI] [PubMed] [Google Scholar]
+
+- 
+27.Dogaheh ER.
+Psychometric Properties of Farsi Version of the Social Phobia Inventory (SPIN). Proc Soc Behav Sci
+2013;84:763-8. [Google Scholar]
+
+- 
+28.Liebowitz M.
+Social phobia. Mod Probl Pharmacopsychiatry
+1987;22:141-73. [DOI] [PubMed] [Google Scholar]
+
+- 
+29.Sheehan DV.. 
+The anxiety disease.
+New York: Scribner;
+1983. [Google Scholar]
+
+- 
+30.Whoqol group.
+Development of the World Health Organization WHOQOLBREF quality of life assessment. Med Psychol
+1998;28:551-8. [DOI] [PubMed] [Google Scholar]
+
+- 
+31.Al-Fayez GA, Ohaeri JU.
+Profile of subjective quality of life and its correlates in a nation-wide sample of high school students in an Arab setting using the WHOQOL-Bref. BMC Psychiatry
+2011;11:71. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+32.Xia P, Li N, Hau KT, et al. 
+Quality of life of Chinese urban community residents: a psychometric study of the mainland Chinese version of the WHOQOL- BREF.
+2012; [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 
+33.Furmark T, Tillfors M, Everz P, et al. 
+Social phobia in the general population: prevalence and sociodemographic profile. Soc Psychiatry Psychiatr Epidemiol
+1999;34:416-24. [DOI] [PubMed] [Google Scholar]
+
+- 
+34.Bella TT, Omigbodun OO.
+Social phobia in Nigerian university students: prevalence, correlates and co-morbidity. Soc Psychiatry Psychiatr Epidemiol
+2009;44:458-63. [DOI] [PubMed] [Google Scholar]
+
+- 
+35.de Menezes GB, Fontenelle LF, Versiani M.
+Trans-cultural aspects of social anxiety disorder and related conditions: a Brazilian case series and a review of international clinical studies. J Braz Psiquiatr
+2006;55:196-200. [Google Scholar]
+
+- 
+36.Asher M, Asnaani A, Aderka IM.
+Gender differences in social anxiety disorder: a review. Clin Psychol Rev
+2017;56:1-12. [DOI] [PubMed] [Google Scholar]
+
+- 
+37.Wilson IG.. 
+Screening for social anxiety disorder in first year university students: a pilot study.
+Aust Fam Physician
+2005;34. [PubMed] [Google Scholar]
+
+- 
+38.El-tantawy AM Raya YM Al-Yahya AH Zaki AMK.. 
+Social phobia among patients attending the outpatient clinics of Buraydah Mental Health Hospital, Al-Gassim, KSA.
+Curr Psychiatry
+2010;20-2. [Google Scholar]
+
+- 
+39.Stein MB, Kean YM.
+Disability and quality of life in social phobia: epidemiologic findings. Am J Psychiatry
+2000;157:1606-13. [DOI] [PubMed] [Google Scholar]
+
+- 
+40.Wittchen H, Beloch E.
+The impact of social phobia on quality of life. Int Clin Psychopharmacol
+1996;11:15-23. [DOI] [PubMed] [Google Scholar]

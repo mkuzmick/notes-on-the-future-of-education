@@ -1,0 +1,40 @@
+---
+title: "Tackling Bias in Automatic Speech Recognition"
+source_url: "https://www.colorado.edu/research/ai-institute/2025/01/22/tackling-bias-automatic-speech-recognition-two-examples-our-ongoing-work"
+source_title: "CU Boulder AI Institute"
+author: "Wayne Ward, Rosy Southwell"
+date: "2025-01-22"
+type: research-paper
+tags: [equity, ai-tools, accessibility, neurodivergence, oral-exam-design, recording-and-documentation]
+summary: "ASR tools show 24% lower accuracy for Black speakers and 56% word error rate for teenagers, revealing critical equity barriers to AI-powered oral assessment that fine-tuning only partially resolves."
+harvard_relevance: "If ASR systematically disadvantages Black students and teenagers, AI-powered oral exams replicate existing inequities rather than solving them."
+---
+Tackling Bias in Automatic Speech Recognition
+https://www.colorado.edu/research/ai-institute/2025/01/22/tackling-bias-automatic-speech-recognition-two-examples-our-ongoing-work
+
+Elle's notes:
+CU Boulder researchers testing popular ASR tools for classroom feedback found 24% lower accuracy for Black speakers vs. white speakers. The core problem: "The model was not shown enough speech from Black speakers when the AI was trained." Even after fine-tuning, the accuracy gap was only reduced by about one-third. Age-related bias is equally severe: ASR trained on adult speech had 56% word error rate (WER) for 9th graders—"the ASR gets it wrong more than half of the time." Models trained on elementary students achieved 46% WER on 9th graders. Conclusion: "Models trained on one age group do not really generalize well to a different age group."
+
+Harvard relevance: This is the fatal flaw in "AI will solve oral assessment scalability" arguments. If ASR systematically disadvantages Black students and teenagers—exactly Harvard's undergraduate demographic—then AI-powered oral exams replicate existing inequities rather than solving them. The 24% accuracy gap means Black students' spoken responses are fundamentally less "hearable" to the AI, creating differential treatment in assessment. For Harvard to use AI transcription/grading in oral exams, explicit bias mitigation is mandatory: diverse training data, human review of flagged transcriptions, or abandoning automated scoring entirely for final grades. The CU Boulder team's partial success with fine-tuning suggests solutions exist, but they're not plug-and-play—institutions must invest in equity-focused AI development.
+
+--
+
+Tackling Bias in Automatic Speech Recognition - Two Examples From Our Ongoing Work
+
+Published:1/22/2025 1/22/2025 • By By Wayne Ward and Rosy SouthwellRosy Southwell is a postdoc research scientist at CU Boulder who holds a PhD in Cognitive Neuroscience from University College London, UK and an MS in Natural Sciences from University of Cambridge, UK. As part of iSAT, Rosy works on automatic speech recognition and processing to help extract as much information as possible from noisy audio recorded in the classroom.
+
+Dr. Wayne Ward is a Research Professor at CU Boulder whose research involves applying supervised machine learning to the tasks of automatic speech recognition, dialog modeling and extracting semantic representations from speech and text. His recent focus has been on applying these technologies to questing answering and virtual tutoring systems.
+
+AI systems that are designed to offer real-time classroom support need to be able to understand what students are saying—and do so with high accuracy. This requires Automatic Speech Recognition (ASR), which is the process where spoken language is automatically converted into text.The text can then be used by an AI to understand how students are working together. 
+
+A key consideration when developing an AI system is how it is trained and the data it learns from. In the context of speech recognition, the AI is trained on a large collection of audio recordings from many different speakers. These systems have become a lot more accurate in recent years, especially for adults from particular demographics (native English speakers, white, US accent), but this does not reflect the diversity of speakers in the world, of course.
+
+The question is: how will an AI perform in a classroom setting where it is mostly children and teenagers who are talking? They may come from diverse backgrounds, speak in a variety of accents, and use gen Z slang. In our work, we have found this domain to be significantly challenging for existing speech recognition systems—in part because it is still very uncommon for children's speech to be used for training an AI system. Let’s discuss two variables in our data where ASR shows its weaknesses: age and race.
+
+First, let's look at how we can adapt ASR to work better for students of all ages. We have a lot of training data from adults and elementary school students, and a small amount of test data from 9th graders. The word error rate (WER), which is the percentage of words that get transcribed wrongly by the model, can help us figure out what’s going on. For models that have been trained on adult speech, WER is 8% for adult speakers, but on our evaluation set of 9th grader speech, WER reaches up to 56%. In other words, the ASR gets it wrong more than half of the time! The WER for elementary school kids’ models when tested on kids of the same age is about 9%, but for 9th graders it jumps to a whopping 46%. This shows that models trained on one age group do not really generalize well to a different age group.
+
+We can make improvements by starting with adult models and using a process called “fine-tuning” where a model goes through additional training on different data to adapt it to a new domain. Fine-tuning on elementary school kids’ speech did improve the WER slightly to 41%. To address the scarcity of training data for specific age groups, we are working on new techniques to adapt models to different age groups using very small amounts of age-specific data.
+
+Second, there is concern within the AI community about “accuracy biases” in AI systems that can disadvantage certain demographics such as non-white speakers. As a team we have often discussed bias in AI models, identifying places where AI could be affected by bias, and how we can mitigate this. In some of our recent work, we found that a popular ASR tool on which we base automatic feedback for tutors is 24% less accurate for Black speakers when compared to white speakers because the acoustics of their voices are not as well understood by the AI. Without access to the data they used for training the AI, one likely reason for this accuracy bias is that the model was not shown enough speech from Black speakers when the AI was trained. If an AI can't "hear" individuals accurately, then this has consequences for its ability to provide helpful feedback! We used fine-tuning to reduce the accuracy gap between Black and white tutors by around a third, and also improved the ASR accuracy for both groups of tutors. But from just these two examples, it is clear that there is still a lot more work that needs to happen to overcome these bias issues in the future!
+
+Categories: Blog

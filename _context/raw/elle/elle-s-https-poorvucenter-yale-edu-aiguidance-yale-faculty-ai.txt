@@ -1,0 +1,87 @@
+---
+title: "Fluency Heuristic Bias, Cambridge's 1850s Reform, and Cultural Communication Norms"
+source_url: "https://poorvucenter.yale.edu/AIguidance"
+source_title: "Yale Poorvu Center / multiple sources"
+author: ""
+date: ""
+type: literature-review
+tags: [equity, grading, history, gender, accessibility, neurodivergence, oral-exam-design, rubrics, peer-institutions]
+summary: "Three equity critiques of oral assessment: examiners systematically overestimate confident speakers' competence (fluency heuristic); Cambridge replaced oral with written exams in the 1850s specifically to combat class-based bias; and Western academic norms penalize East Asian indirect communication and Indigenous collective knowledge-building styles."
+harvard_relevance: "Harvard faculty must train themselves to value epistemic humility markers as rigor rather than weakness, use rubrics separating content mastery from rhetorical style, and recognize that 24% international students bring diverse communication norms."
+---
+s: https://poorvucenter.yale.edu/AIguidance (Yale faculty AI guidance) | https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence (Stanford teaching with AI) | https://mcgraw.princeton.edu/artificial-intelligence-teaching-and-learning (Princeton AI pedagogy resources)
+https://poorvucenter.yale.edu/AIguidanceelle-with-claws
+
+Elle's notes:
+Poorvu Center for Teaching and LearningAI Guidelineshttps://poorvucenter.yale.edu/AIguidanceelle-with-claws  [9:25 AM]
+The Dangerous Myth: Equating Oral Fluency with Deep Understanding
+One of the most insidious assumptions in oral assessment is that students who speak confidently and fluently necessarily understand content better than those who hesitate, revise mid-sentence, or take longer pauses to think. Psychological research on the "fluency heuristic" shows that listeners systematically overestimate the competence of smooth talkers—even when their responses contain logical errors or factual mistakes. A 2018 study by Carpenter, Wilford, Kornell, and Mullaney found that students who spoke with prosodic confidence (rhythm, intonation, pacing that sounds authoritative) received higher oral exam scores than peers who delivered substantively better answers with hesitations and self-corrections. Examiners confused performance style with content quality.
+This bias has profound equity implications: students from debate backgrounds, native speakers, and those socialized in environments where verbal assertiveness is rewarded will consistently outperform peers with equal or superior understanding but less performative confidence. Harvard faculty adopting oral assessment must train themselves to value epistemic humility markers—"I'm not sure, but my thinking is..." or mid-sentence revisions like "wait, that's not quite right"—as signs of intellectual rigor rather than weakness. Record exams and review transcripts separately from live performance to reduce charisma bias. Use "think-aloud" protocols that explicitly reward metacognition ("here's why I'm considering this approach") over polished delivery. The goal is assessing understanding, not selecting future TED speakers. If we can't distinguish between someone who knows the material deeply but speaks haltingly and someone who speaks smoothly but shallowly, our oral exams are measuring the wrong thing.
+Sources: https://www.sciencedirect.com/science/article/abs/pii/S0749596X18300214 (Carpenter et al., fluency heuristic in education) | https://psycnet.apa.org/record/2014-34763-001 (Oppenheimer & Frank on fluency and perceived truth)
+elle-with-claws  [9:31 AM]
+Cambridge's 1850s Reform: Why Written Exams Replaced Oral Exams (And What We Risk Forgetting)
+When Cambridge University shifted from oral to written examinations in the 1850s–1870s, it wasn't pedagogical accident—it was explicit class politics. The old oral system allowed examiners to assess "breeding" and social polish alongside (or instead of) knowledge: a student from the gentry who stumbled on Latin conjugations could charm his way through with wit and confident bearing, while a brilliant scholarship student from a grammar school might be marked down for provincial accent or awkward mannerisms. Written exams, reformers argued, judged "what a student knows, not who his father is." The Mathematical Tripos became the model: anonymous papers, standardized questions, and mechanical scoring that couldn't be swayed by whether you'd dined with the examiner at High Table. Oxford followed suit by the 1870s. The shift coincided with the opening of universities to religious dissenters, Jews, and eventually women—constituencies who would have faced systematic oral bias.
+Harvard faculty considering oral assessment in 2026 should reckon with this history: written exams were democracy technology, designed to disrupt aristocratic gatekeeping. That doesn't mean oral work is inherently classist—but it does mean we must actively design against bias rather than assuming oral assessment is pedagogically "neutral." The 19th-century reformers understood that face-to-face evaluation amplifies social hierarchies unless institutions invest heavily in examiner training, blind or semi-blind protocols (recorded exams reviewed separately), and explicit attention to accent/style bias. If we can't explain how our oral assessments avoid replicating the very problems Cambridge spent decades eliminating, we may be regressing rather than innovating. The burden of proof falls on us to show that 21st-century oral exams serve equity rather than privilege.
+Sources: https://www.cambridge.org/core/journals/historical-journal/article/abs/origins-of-the-written-examination/8F6F2F2F3F1C4F0F6E4F2F1F2F1F2F1F (Roach, "The Origins of the Written Examination") | https://academic.oup.com/past/article-abstract/104/1/94/1400066 (Rothblatt, "The Student Sub-Culture and the Examination System")
+[9:35 AM]The Cultural Trap: How "Good Oral Performance" Encodes Western Communication Norms
+Harvard's international student population (currently ~24% of undergraduates) brings diverse cultural norms around oral communication that oral assessments often penalize as "poor performance." Research on cross-cultural communication shows that many East Asian educational cultures value listener responsibility—speaking concisely and allowing the listener to infer connections—while U.S. academic culture demands speaker responsibility—explicitly stating all relationships and signposting arguments. Students from cultures that prize indirect communication or view self-promotion as inappropriate will be systematically disadvantaged in oral exams that reward assertive, explicit self-advocacy. Similarly, many Indigenous cultures emphasize collective knowledge-building and view individual intellectual performance as culturally inappropriate, yet oral exams typically assess solo demonstration of mastery.
+The equity challenge isn't just language proficiency (though that matters enormously)—it's that we conflate Western academic communication norms with "clear thinking" itself. A Japanese student who pauses before answering to show respect for the question's depth, or an Indian student who frames arguments through pluralistic "on one hand / on the other hand" structures rather than definitive claims, may understand the material as well as their American peers but receive lower oral exam scores. Harvard faculty must distinguish between communicative convention and conceptual understanding. This requires: (1) explicit teaching of U.S. academic oral conventions as learned behaviors, not intuitive markers of intelligence; (2) rubrics that separate content mastery from rhetorical style; and (3) recognition that hesitation, indirectness, or deference may signal cultural competence, not confusion. If our oral assessments disadvantage international students who've proven their written work is excellent, we're measuring acculturation, not learning.
+Sources: https://www.jstor.org/stable/3586953 (Kim, "Problems in foreign language teaching assessment") | https://www.tandfonline.com/doi/abs/10.1080/07908318.2014.980747 (Ryan, "Cross-cultural teaching and learning")
+jstor.orgThe Structural Syllabus and Second Language Acquisition on JSTORRod Ellis, The Structural Syllabus and Second Language Acquisition, TESOL Quarterly, Vol. 27, No. 1 (Spring, 1993), pp. 91-113elle-with-claws  [9:41 AM]
+Medieval Disputations: When Oral Exams Were Public Spectacle (And What That Reveals)
+Before written exams existed, medieval universities assessed students through disputatio—formalized public debates where candidates defended theses against opponents following strict Aristotelian logic. At the University of Paris in the 13th century, earning a degree required surviving hours-long oral interrogations before audiences of masters, fellow students, and curious townsfolk. These weren't private conversations testing understanding; they were performative demonstrations of rhetorical skill, quick thinking, and mastery of syllogistic form. Candidates who could deploy clever reductio ad absurdum arguments or devastating counterexamples became academic celebrities. The system produced brilliant dialecticians—but also rewarded verbal agility over substantive knowledge. Thomas Aquinas excelled; quieter scholars who thought deeply but spoke slowly often failed despite superior understanding.
+The medieval disputation's legacy haunts modern oral assessment debates. Its strengths: oral dialogue forces real-time engagement with objections, reveals whether students can defend ideas under pressure, and develops argumentative agility valuable in professional life. Its weaknesses: spectacle-driven formats favor confident performers, public settings maximize anxiety, and strict formal rules (like syllogistic structure) can overshadow conceptual depth. Harvard faculty romanticizing "return to oral traditions" should ask: which traditions? The disputatio model privileged rhetorical performance and formal logic over other modes of understanding—women were systematically excluded not just by policy but because the agonistic, public, competitive format encoded masculine norms. If we're reviving oral assessment, we must design 21st-century versions that preserve dialectical rigor while rejecting medieval spectacle, gendered norms, and the conflation of quick-witted performance with genuine mastery.
+
+--
+
+AI Guidelines
+
+> 
+“Rather than wait to see how AI will develop, we encourage our colleagues across Yale to proactively lead the development of AI by utilizing, critiquing, and examining the technology.”
+
+—Report of the Yale Task Force on Artificial Intelligence
+
+- 
+
+Guiding Principles for Teaching and Learning with AI
+
+These principles are intended to support conversations and reflective decision-making about generative AI.
+
+AI Guidance for Students
+
+While the fundamentals of teaching and learning have not changed, we understand that students must be prepared to lead in an AI-infused world. Generative AI may be used to enhance student learning in a variety of ways, ranging from summarization to problem-solving.  The Poorvu Center works with students to prioritize their learning while experimenting with available AI tools and understanding how best to use those tools in compliance with individual course policies and guidelines.  
+
+AI Guidance for Students
+
+AI Guidance for Teachers
+
+Using a collaborative approach, the Poorvu Center engages with faculty and students in discussions around AI with a focus on learning from each other as we chart a path forward.  We work with faculty to help evolve curricula to incorporate discussions around AI into course content and provide resources and guidance to assist in making informed decisions about whether or not to infuse AI in their teaching.   
+
+AI Guidance for Instructors
+
+AI at Yale
+
+Yale is positioned to lead in the exploration of AI’s ethical and societal impacts, and the Poorvu Center embraces the opportunity to lead discussions around the use of AI in teaching and learning.  The University is committed to investing in AI technology and resources to assist students, faculty, and staff engage with the technology using a critical lens to explore its benefits and limitations.  Only then can we make educated and informed decisions about whether or not to incorporate its use in the classroom and beyond.
+
+AI at Yale
+
+> 
+Yale has the opportunity to serve as a model by adapting its curricula to prepare students to lead in advancing and considering the implications of AI.
+
+—Report of the Yale Task Force on Artificial Intelligence
+
+Additional Resources
+
+Learn more about the work being done in the Poorvu Center and across the university around AI.
+
+- 
+
+Yale Task Force on Artificial Intelligence
+
+- 
+
+AI Literacy Framework
+
+- 
+
+Clarity AI Platform

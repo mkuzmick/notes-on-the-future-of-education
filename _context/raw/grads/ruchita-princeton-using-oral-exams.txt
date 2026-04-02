@@ -1,0 +1,49 @@
+---
+title: "Using Oral Exams"
+source_url: ""
+source_title: "Princeton University — McGraw Center for Teaching and Learning"
+author: "McGraw Center for Teaching and Learning"
+date: "2025"
+type: pedagogy-guide
+tags: [oral-exam-design, rubrics, scaffolding, student-anxiety, practice-and-rehearsal, tf-training, grading, feedback, academic-integrity, curriculum-design, peer-institutions, deep-learning]
+summary: "Princeton's teaching center recommends oral exams as an AI-era assessment strategy that probes reasoning depth and mirrors professional scenarios, but stresses structured rubrics, low-stakes practice opportunities, and TA norming sessions to ensure fairness."
+harvard_relevance: "Peer-institution guidance directly applicable to Harvard's own AI-assessment pivot; the TA norming protocol is especially relevant for large Harvard courses with many TFs."
+---
+Using Oral Exams
+Princeton University — McGraw Center for Teaching and Learning
+Faculty Resource Library
+
+The rise of Generative AI has led some faculty members to re-evaluate the assessment strategies in their courses. Some are moving from take-home to in-class exams or limiting the use of technology during tests. Others are instituting oral exams or including them as one component in a multi-part exam.
+
+Oral presentations are perhaps the most common form of oral assessment implemented in college courses. When aligned with your learning goals, however, oral exams can be an effective way to encourage active learning, allow students to practice their oral communication skills, and offer you an opportunity to interact closely with your students. Oral exams can demand a more careful and nuanced engagement with course material, since instructors can probe deeper through questioning, asking students to explain their reasoning. They may be a more "authentic" type of assessment, especially if they mirror real-life scenarios. Studies show they can improve students' performance on future written exams. And they can have the added benefit of possibly decreasing academic integrity violations.
+
+Oral exams have some drawbacks. They can take a lot of time to administer, which can make them challenging to implement in larger courses. You might not be able to cover the same amount of information in an oral exam as you would on a written exam, and grading a shorter exam or one for which there is no written record might feel more subjective. Oral exams may lead to more student anxiety than other forms of assessment.
+
+Accounting for these drawbacks, we offer here some guidance on creating and implementing oral exams during the semester:
+
+Define clear objectives for the exam that align with your learning goals for the course.
+
+Talk to your students about why an oral exam will allow them to demonstrate they have met your curricular goals. Explain how oral communication skills are relevant to your discipline or field and how they might also apply the skills they are developing in job interviews, pitch presentations, business meetings, and more.
+
+Structure the exam thoughtfully. Think carefully about how many questions you will ask and how long you will allow for a response to each. Will you prompt students by posing additional questions? Will you set time limits on student responses?
+
+Consider the logistics of the exam. When and where will you hold it? How much time will you allot for each student to complete it? Will students sign up for timeslots within a certain period of time or will you assign them? Be sure to account for some buffer time between students when scheduling.
+
+Prepare your students thoroughly. Students may be unfamiliar with this type of exam, which may heighten their anxiety about it. Offer low-stakes opportunities for them to practice – for example, with peers – and get feedback on their performance. You might require them to film themselves talking about one of the exam topics and reflect on their own performance based on your rubric.
+
+Let students know the exam's structure and parameters. Will you share the exam questions with them in advance? Will you allow them to reference notes or class materials during the exam?
+
+Create a rubric or grading standards and share them in advance with your students. For example, you might assess students' content knowledge (the accuracy, depth, and relevance of responses); critical thinking (ability to analyze, synthesize, and evaluate information); their communication skills (clarity, organization, and articulation of ideas); or their use of evidence (reference to the course materials or ability to offer examples).
+
+Have a strategy for grading the exams. For example, you might make notes during the exam or give yourself time immediately following each exam to write up your feedback and assign a grade. You might record the exams for later reference. (If you do so, be sure to get students' consent and reassure them the videos are for your grading purposes only.)
+
+Think about the form your feedback will take. You might consider providing video comments so that the form of your feedback mirrors the form of the exam.
+
+If your TAs are holding oral exams, discuss the rubric/grading standards and your expectations for students' performance with them. Consider holding a "norming session" using a recording of a practice exam to ensure consistency.
+
+Consider asking students to reflect on the exam after it is over, describing what they learned from the experience.
+
+--
+
+For further reading
+Zoe Stephenson, Nicole Johnson-Glauch & Sam Cruchley. "Interventions and Facilitators of Oral Assessment Performance in Higher Education: A Systematic Review," Assessment & Evaluation in Higher Education, June 2025.

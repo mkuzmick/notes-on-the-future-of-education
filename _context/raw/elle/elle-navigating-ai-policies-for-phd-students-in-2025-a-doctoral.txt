@@ -1,0 +1,271 @@
+---
+title: "Navigating AI Policies for PhD Students in 2025"
+source_url: "https://www.thesify.ai/blog/phd-ai-policies-2025"
+source_title: "Thesify"
+author: "Alessandra Giugliano"
+date: "2025-10"
+type: practitioner-guide
+tags: [ai-policy, academic-integrity, peer-institutions, harvard, cambridge]
+summary: "Even at the doctoral level, AI policies emphasize verification and disclosure; Cambridge, Harvard, and Caltech all treat unacknowledged AI in summative work as academic misconduct."
+harvard_relevance: "Harvard's own guideline that 'users remain responsible for any content containing AI material' is contextualized alongside peer institutions' doctoral AI policies."
+---
+Navigating AI Policies for PhD Students in 2025: A Doctoral Researcher's Guide
+https://www.thesify.ai/blog/phd-ai-policies-2025
+
+Elle's notes:
+Thesify, October 2025
+Key insight: Even at the doctoral level, AI policies emphasize verification and disclosure. Cambridge: "Unacknowledged AI in summative assessments is academic misconduct." Harvard: "Users remain responsible for any content containing AI material." Caltech: "Students must confirm AI is permitted before using it and must disclose its role; copying AI-generated text into your thesis without disclosure is an integrity violation."
+
+--
+
+Navigating AI Policies for PhD Students in 2025: A Doctoral Researcher’s Guide
+
+Alessandra Giugliano
+
+Oct 23, 2025
+
+
+PhD AI policies 2025 shape how you can use generative AI in doctoral research, from literature reviews to thesis writing. Universities set rules so your work remains original, transparent and privacy-safe.
+
+As a PhD student, you need clear doctoral AI guidelines: when AI is allowed, how to disclose assistance, and how to protect data. This guide distills thesify’s October 2025 update on generative AI policies update and official university rules into actions you can follow now: check program-specific policies, disclose AI use in a thesis, and verify outputs to avoid misconduct.
+
+For adjacent how-to guidance, see thesify’s posts on ethical use cases of AI in academic writing and AI policies in academic publishing 2025.
+
+Why PhD AI Policies Matter In 2025
+Institutions did not create AI policies out of fear of innovation; they did so to address real risks. Unacknowledged AI‑generated content submitted as your own work violates academic integrity. 
+
+The University of Cambridge notes that submitting AI‑generated text in summative assessments without explicit permission constitutes academic misconduct and encourages students to review local guidance. If you insert AI‑generated paragraphs into your dissertation or exam without declaring them, you could be accused of plagiarism.
+
+Protecting sensitive data is another driver. MIT’s Information Systems & Technology office advises researchers to consider data privacy, regulatory compliance, confidentiality and intellectual property before using generative AI. 
+
+Harvard’s guidelines warn users not to enter Level 2 or higher confidential data—such as unpublished research results, financial records or personal information—into public AI tools because the information may not remain private. As a doctoral student, your work may involve proprietary data, interviews or collaborative research; one careless prompt could expose information that should remain confidential.
+
+Skill development also matters. AI tools can produce plausible but inaccurate or biased outputs. MIT reminds users that AI‑generated content may be incomplete or incorrect and should be verified. Harvard notes that users are responsible for any AI‑generated content they publish or share. By using AI as a complement rather than a replacement and by verifying its outputs, you preserve your scholarly credibility and strengthen your research skills.
+
+Use institution-approved tools and follow data-handling rules; for a quick checklist, see thesify’s top 5 AI tools for PhD students.
+
+Visit app.thesify.ai
+2025 Updates: Rankings and New Guidelines
+The Times Higher Education World University Rankings 2026 brought significant changes: MIT rose to #2 ahead of Harvard, Princeton climbed to #4, and Imperial College London entered the top 10. 
+
+Several universities announced new guidelines. 
+
+Columbia University finalised a draft policy prohibiting AI use without instructor permission
+
+Imperial College released college‑wide principles and departmental guidance
+
+Johns Hopkins published a comprehensive responsible‑use guideline
+
+UCLA offered sample syllabus statements for instructors to set expectations. 
+
+At the same time, several universities updated their AI guidelines:
+
+MIT emphasised contacting the institute’s AI‑guidance office before purchasing or using new tools. The guidance underscores information security, data privacy and regulatory compliance and forbids entering medium‑ or high‑risk data—including unpublished research, third‑party information or personally identifiable data—into public generative AI tools.
+
+Cambridge clarified that unacknowledged AI in summative assessments is academic misconduct and highlighted that policies vary across departments, encouraging students to review local guidance and discuss appropriate use with supervisors.
+
+Princeton reminded students that generative AI is not a source and that they must confirm with instructors whether AI use is permitted. When AI is allowed, students must disclose its use; failure to disclose or using AI beyond approved scope violates academic integrity.
+
+Harvard continued to caution users against entering confidential data into public AI tools and advised verifying AI‑generated content. The guidelines stress that users remain responsible for any content containing AI material.
+
+These updates illustrate a common theme: clarity, disclosure and data protection. Because policies change, always check your university’s latest announcements and follow instructions from your supervisor or graduate school.
+
+For a policy-focused recap you can reference in supervisor meetings, see our generative AI policies update.
+
+Core PhD AI Policy Rules
+Although policies differ by institution, several rules appear across universities. Use this checklist to guide your AI use in doctoral research:
+
+Obtain supervisor and departmental approval:
+
+MIT recommends contacting its AI‑guidance office before using new tools. 
+
+Princeton’s policy says you must confirm that AI assistance is permitted by your instructor and disclose its use. 
+
+Do not assume AI is allowed; secure written approval from your supervisor or instructor for each type of application (e.g., editing, brainstorming, coding, data analysis). 
+
+Keep these approvals on file in case examiners request documentation.
+
+Disclose AI assistance in your thesis and assignments: 
+
+Princeton clarifies that AI is not a source; you must disclose its use rather than cite it, because AI output is not human‑generated. 
+
+Failing to disclose, copying AI output beyond allowed scope or exceeding the instructor’s parameters counts as academic misconduct. 
+
+Include a short transparency statement identifying the tool, version and purpose, and keep chat logs if required.
+
+Protect confidential and proprietary data: 
+
+Do not upload sensitive data into public AI tools. MIT forbids inputting medium‑ or high‑risk data—non‑public research, unpublished papers, third‑party confidential information or personally identifiable information—into publicly available AI tools
+
+Harvard warns that content entered into such tools is not private and could expose research data. Level 2 or higher confidential data must not be entered into generative AI tools with default settings.  
+
+Use institution‑approved platforms, anonymise inputs and consult data protection offices when using AI for analysis.
+
+ Verify AI outputs and maintain authorship. 
+
+You are accountable for any content you submit, including AI‑assisted text. Harvard emphasises that you are responsible for verifying AI‑generated content. 
+
+MIT warns that AI‑generated information may be inaccurate or biased. Cross‑check AI suggestions with primary sources, confirm references and ensure that summaries align with original studies.
+
+Never list AI as a co‑author; graduate students retain sole authorship. 
+
+Avoid AI during assessments and summative evaluations. 
+
+AI use is almost universally prohibited in exams and oral defences. If your institution allows AI for formative work or certain assignments, follow the specific instructions. 
+
+Cambridge states that using AI in summative assessments without explicit permission is academic misconduct. 
+
+For candidacy exams, qualifying papers and dissertation defences, assume AI is prohibited unless your supervisor or assessment brief states otherwise.
+
+
+Following these rules not only keeps you within institutional policy but also strengthens your scholarship. When your methods and writing are transparent, your contributions carry more weight.
+
+For discipline-specific disclosure norms and journal rules, see AI policies in academic publishing 2025.
+
+How To Disclose And Cite AI In Your Thesis
+Disclosure supports transparency and academic integrity. Princeton’s scholarly integrity guidance states that generative AI output is not a source, so when AI is permitted you should disclose its use rather than cite it. Students are also advised to confirm with instructors whether AI is allowed and how to disclose it. ETH Zurich similarly advises disclosing use for academic and research work. 
+
+When AI is permitted, add a brief statement in the preface, acknowledgements, or methods section. 
+
+Example Disclosure of AI Use for PhD Thesis
+For example, if you used thesify for formative feedback on your PhD dissertation draft, you could include the following sample disclosure statements: 
+
+thesify feedback highlighting evidence and thesis notes plus a missing reference in a graduate essay
+thesify flags evidence gaps and missing references, supporting transparent AI disclosure in a PhD thesis.
+
+visit app.thesify.ai
+Short version (front-matter or acknowledgments)
+“I used thesify (web app, accessed October 20, 2025) for formative feedback on my draft. The tool highlighted evidence coverage, clarity of the thesis statement, quality and types of evidence, and flagged one instance of missing reference. I reviewed all suggestions, verified sources independently, and wrote all final text myself. No personal data or confidential research data were entered.”
+
+Full statement (methods or ethics section)
+“I incorporated thesify during manuscript preparation to obtain formative feedback on argumentation and sourcing. Specifically, I uploaded sections of my draft to request diagnostic comments on:
+
+Evidence and thesis statement (clarity and alignment),
+
+Quality and types of evidence (balance of theoretical and empirical sources),
+
+Evidence missing a reference (flagging unsupported claims).
+
+
+I did not request or accept text generation for paragraphs, analysis or results. I used the feedback to improve structure, add citations where needed and revise phrasing. All claims and interpretations are mine. All citations were verified against primary sources before inclusion. I did not upload personal data, unpublished participant data or confidential materials. Tool: thesify (web), accessed October 20, 2025, https://www.thesify.ai.”
+
+If you used multiple tools, list each one, its version and how it contributed (e.g., summarising literature, generating code templates). Some supervisors may ask you to include the exact prompt, the date of use or the validation steps. Keep copies of prompts and AI outputs so you can provide them if questioned. 
+
+When submitting articles to journals, follow publisher policies; many journals require you to describe AI involvement in the cover letter or acknowledgements, and none recognise AI as an author.
+
+For detailed publisher requirements, see our guide on AI policies in academic publishing 2025.
+
+AI Data Privacy In PhD Research
+Doctoral research often involves data that must remain confidential. Unpublished results, interview transcripts, industrial designs and proprietary algorithms are all at risk if you paste them into public AI tools. 
+
+MIT advises against entering medium‑ and high‑risk data into public AI services. Harvard similarly warns that confidential information should only be used within approved tools. 
+
+To protect your data:
+
+Use institution-approved tools. Many universities offer licensed AI tools that implement strict privacy controls. Prefer these over public services when working with sensitive information.
+
+Strip personal and proprietary details. Anonymise data before inputting it into an AI tool. Remove names, locations and identifiers to prevent unintended disclosure.
+
+Review terms of service. Check how the AI provider uses and stores input data. If terms allow training on your data or sharing with third parties, avoid that tool for sensitive tasks.
+
+Consult your data protection office. When uncertain, ask your supervisor or the university’s information security office about appropriate tools and procedures.
+
+
+Responsible AI use means protecting research participants, collaborators and intellectual property. For more guidance on safe tools, see our list of top 5 AI tools for PhD students.
+
+Get Supervisor Approval For AI Use: Department Rules And Variations
+AI policies are not one‑size‑fits‑all. Each department or programme may impose specific requirements or restrictions. MIT encourages students to consult their AI‑guidance office before adopting new tools, and Princeton’s guidelines require students to confirm that AI assistance is permitted. Because policies can differ even within a single university, follow this process:
+
+Read your programme’s guidelines. Some departments may allow AI for language editing but forbid it for data analysis. Others may require you to use specific citation formats when disclosing AI use.
+
+Discuss your plans with your supervisor. Explain how you intend to use AI (e.g., to draft outlines, translate text or prototype code) and ask for explicit approval. Document this approval in writing.
+
+Check course policies. For coursework, ask each instructor whether AI is permitted and, if so, under what conditions. Keep records of these instructions.
+
+Review updates regularly. Policies evolve. Stay informed by following your institution’s graduate studies office, library or IT announcements.
+
+
+For strategies on crafting clear course guidelines and aligning with your department’s expectations, read From AI panic to proactive policy: A syllabus roadmap.
+
+Responsible AI Use For PhD Research: Dos And Don’ts
+Use these doctoral AI guidelines to stay compliant while improving clarity, structure and reproducibility.
+
+Dos
+Brainstorm and organise. 
+
+Use AI to brainstorm research questions, structure chapters or outline arguments. Treat AI output as suggestions and refine them with your expertise.
+
+Refine language and clarity. 
+
+AI can help paraphrase complex sentences or correct grammar. Cambridge’s guidance encourages thoughtful use of AI to support learning. Always ensure that AI‑suggested phrasing reflects your intended meaning.
+
+Document your process. 
+
+Keep a log of prompts and outputs to demonstrate transparency. If the AI influences your work, this record helps you disclose it accurately.
+
+Verify all references and data. 
+
+Cross‑check AI‑generated citations and factual statements with primary sources. Do not rely on AI for literature reviews or data analysis without verifying its accuracy.
+
+Request approval when uncertain. 
+
+When you’re unsure whether a specific use is allowed—such as generating code or creating tables—ask your supervisor or the appropriate committee.
+
+Don’ts
+Don’t copy AI‑generated text directly into your thesis. 
+
+Even if AI is allowed for brainstorming or outlining, copying AI output without disclosure violates academic integrity.
+
+Don’t use AI for summative assessments without explicit permission. 
+
+Cambridge warns that unacknowledged AI content in assessments is misconduct. The same applies to qualifying exams and dissertation defences.
+
+Don’t input confidential or proprietary data into public AI tools. 
+
+MIT and Harvard caution against sharing sensitive information. Anonymise data or use secure, licensed platforms.
+
+Don’t rely on AI for critical analysis. 
+
+AI is a tool for brainstorming and grammar; it cannot replace your understanding of literature or your interpretation of data. AI may omit key studies or misinterpret results.
+
+Don’t list AI as an author. 
+
+Publishers and universities do not recognise AI as an author, and you must maintain sole responsibility for your work.
+
+For more tips, see 9 tips for using AI for academic writing (without cheating).
+
+PhD AI Policies By Region: Key Differences
+Regional rules differ on disclosure, exams, and data privacy; scan the summaries below, then follow your local doctoral regulations.
+
+United Kingdom. Universities like Oxford encourage AI use for personal study and formative tasks but treat unacknowledged AI in summative assessments as misconduct. Departments may issue detailed rules, so always check local guidance.
+
+United States. Cornell emphasises information security and data privacy, advising against inputting medium‑ and high‑risk data into public AI tools. University of Chicago urges users not to enter confidential data and to verify AI outputs. UCLA requires students to confirm AI is permitted and to disclose its use. Other institutions, like Stanford and Johns Hopkins, offer policies that permit AI when explicitly allowed and emphasise verification, but details differ.
+
+Asia. Policies vary widely. Some universities allow AI for summarising or translation but forbid including AI‑generated text in final submissions; penalties can be severe. Others have no central policy and leave decisions to departments. When collaborating across borders, check the host institution’s rules.
+
+Your primary responsibility is to follow your own institution’s policies, but awareness of regional differences helps you navigate collaborations and publishing in international journals.
+
+FAQs About PhD AI Policies
+Can I use ChatGPT to write parts of my thesis?
+
+Only with explicit permission from your supervisor or department. Caltech states that students must confirm AI is permitted before using it and must disclose its role. Copying AI‑generated text into your thesis without disclosure is an integrity violation.
+
+How do I disclose AI in my dissertation?
+
+Disclose rather than cite. Provide a statement identifying the tool, version and how it contributed. Some departments may request the AI prompt or the date of use. Maintain a log of AI interactions for reference.
+
+Is it safe to enter my research data into AI tools?
+
+No. For example, UC Berkeley warns against entering non‑public research results and third‑party confidential information into public AI platforms. Yale similarly cautions users not to input moderate or high‑risk data. Use secure, institution‑approved tools and anonymise data.
+
+Do I need supervisor approval for all AI use?
+
+Yes. For example, policies at UC Berkeley and Columbia require students to confirm that AI use is allowed. Discuss your plans with your supervisor and document the approval.
+
+What happens if I break AI policy?
+
+Consequences vary by institution but may include failing grades, disciplinary hearings or revocation of your degree. For example, National University of Singapore and Yale treat unacknowledged AI use in assessments as academic misconduct. When in doubt, seek permission and disclose any AI assistance.
+
+PhD AI Policies 2025: Conclusion 
+As a PhD student, your responsibility is clear: learn your institution’s policies, obtain supervisor approval, disclose any AI assistance, safeguard your data, verify AI outputs and avoid AI during summative assessments unless explicitly allowed. Policies will continue to evolve, but your commitment to transparency, integrity and data privacy will remain the hallmark of your research. Stay informed, use AI thoughtfully and consult our blog and substack for the latest updates.
+

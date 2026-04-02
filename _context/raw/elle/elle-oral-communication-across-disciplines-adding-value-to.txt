@@ -1,0 +1,33 @@
+---
+title: "Oral Communication across Disciplines: Adding Value"
+source_url: "https://eric.ed.gov/?id=ED411553"
+source_title: "ERIC"
+author: "Heather Howard Donofrio, Kimberly Davis"
+date: "1997"
+type: research-paper
+tags: [pedagogy, oral-exam-design, curriculum-design, professional-domains, humanities, stem]
+summary: "The Communication Across the Curriculum movement established that oral competency is discipline-specific (engineering presentations differ from literary criticism) and should be integrated through 'Speaking Intensive' designated courses, not isolated public speaking requirements."
+harvard_relevance: "The 'Speaking Intensive' course model offers Harvard a proven framework for designating courses where oral assessment is primary, similar to existing writing-intensive requirements."
+---
+Oral Communication across Disciplines: Adding Value to Academic Pursuit and Marketability
+https://eric.ed.gov/?id=ED411553
+
+Elle's notes:
+The Communication Across the Curriculum (CAC) movement—parallel to Writing Across the Curriculum (WAC)—emerged in the 1990s to ensure students develop oral competency across disciplines, not just in communication courses. Three approaches were identified: (1) basic speech communication course requirement, (2) oral communication across the curriculum using "Communication Intensive (CI)" or "Speaking Intensive (SI)" designated courses, and (3) capstone presentation requirements. Deanna Dannels's 2016 book Oral Communication in the Disciplines provides "the first strategic framework to guide teachers as they incorporate oral communication activities into their courses"—recognizing that oral competency is discipline-specific (engineering presentations ≠ literary criticism presentations).
+
+Harvard relevance: CAC represents institutionalized recognition that oral communication is a core academic skill, not optional enrichment. The "Communication Intensive" course model offers Harvard a proven framework: designate certain courses as "SI" (Speaking Intensive) where oral assessment is primary, similar to how "CI" (Communication Intensive) courses emphasize writing. This addresses faculty training concerns—Dannels's book provides decision-making templates and pedagogical strategies Harvard's Bok Center could use for workshops. The discipline-specificity insight matters: oral presentation in Economics (quantitative data, causal arguments) differs from oral presentation in English (textual interpretation, close reading). Harvard could develop discipline-specific oral assessment rubrics rather than one-size-fits-all approaches.
+
+--
+
+Oral Communication across Disciplines: Adding Value to Academic Pursuits
+ERIC Record: ED411553 (1997)
+Authors: Heather Howard Donofrio and Kimberly Davis
+
+"Oral communication competence is essential for career success" and effective civic participation. The authors note that communication skills often matter more than disciplinary knowledge for graduate success.
+
+The paper discusses three primary institutional approaches:
+1. Basic speech communication courses as standalone requirements
+2. Across-the-curriculum programs using communication-intensive (CI) or speaking-intensive (SI) courses
+3. Laboratory-based approaches, often combined with curricular integration
+
+The authors cite examples including AACSB accreditation requirements and Indiana University's 1995 curriculum expansion. Approximately 20 universities had implemented across-the-curriculum programs at the time, with Radford University noted as a leader in laboratory implementation.

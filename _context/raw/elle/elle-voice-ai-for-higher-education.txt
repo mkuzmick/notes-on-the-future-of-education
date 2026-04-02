@@ -1,0 +1,221 @@
+---
+title: "Voice AI for Higher Education (InStage)"
+source_url: "https://www.instage.io/"
+source_title: "InStage"
+author: "InStage"
+date: "2025"
+type: case-study
+tags: [ai-tools, practice-and-rehearsal, scaffolding, scale, professional-domains, student-experience]
+summary: "InStage deploys voice AI agents at major universities for structured 5-15 minute student conversations including mock interviews and guided reflections at scale, with FERPA-compliant design and human-in-the-loop feedback -- AI as preparation infrastructure for oral assessment."
+harvard_relevance: "Harvard could deploy similar AI practice tools to ensure students arrive at oral exams prepared, using AI to scaffold rather than replace oral skills development."
+---
+Voice AI for Higher Education
+https://www.instage.io/
+
+Elle's notes:
+A mature platform deployed at University of Waterloo, U of Toronto, UBC, Northeastern, and others. Key features:
+• Voice AI agents conduct structured student conversations at scale
+• Modules: Career Exploration, Mock Interview, Resume Assist, Guided Reflection
+• 5-15 minute phone or web calls, 3+ per module
+• Students get instant personalized feedback; staff receive actionable summaries
+• FERPA-compliant, SOC 2-aligned, "human-in-the-loop" design
+Testimonial (Dr. Norah McRae, U Waterloo): "Our commitment to responsible AI implementation at scale will transform how students develop professional competencies."
+
+Why it matters: This is AI as preparation infrastructure for oral assessment. Students can practice interview skills, presentations, and reflection at scale—before high-stakes evaluation. Harvard could deploy similar tools to ensure students arrive at oral exams prepared.
+
+--
+
+Preparing learners for the moments that define outcomes.
+Voice AI agents that run structured student conversations at scale.
+
+Request DemoSee the modulesPartnering with leading institutions across North America
+
+The readiness gap is a reputation risk.
+The moments that most strongly influence graduate outcomes — interviews, verbal communication, reflection — are rarely practiced with consistency or measured at scale. When gaps surface, they surface after graduation, when consequences are real and reputational.
+
+48% of graduates feel unprepared.
+Nearly half of recent graduates report feeling unprepared for entry-level roles[2], and only 34% of students believe they will graduate with the skills to succeed[1]. Learning outcomes are tracked across every program. Performance readiness is not.
+
+1 in 3 students never see a career advisor.
+Roughly one-third of students never interact with their career center at all[4], and career-related experiences vary by as much as 20% across majors[3]. Readiness depends on which instructor a student gets, not institutional standards.
+
+Half of employers say communication skills fall short.
+Employers rate communication as the #1 required competency, yet only 53.5% consider graduates proficient[5]. Oral communication shows a similar 30-point divide[6]. These gaps affect placement outcomes, employer partnerships, and institutional reputation.
+
+1,000-to-1 advising loads. Staff can't close this gap.
+The average student-to-career-services ratio is 1:2,263[7], with academic advising loads reaching 1,000:1 at large institutions[8]. Meanwhile, 84% of student affairs professionals report burnout[9]. Consistent practice and coaching cannot be delivered through staffing alone.
+
+Performance is not talent. It is trained judgment under pressure.
+
+Readiness should not depend on chance, uneven coaching, or individual initiative. It should be developed intentionally, consistently, and at scale.
+
+Award-Winning Platform
+
+AI is not the objective.
+AI is the infrastructure that makes readiness repeatable, measurable, and scalable — across programs, faculties, and campuses.
+
+InStage provides a shared, institution-wide capability for practicing high-stakes performance safely — before consequences are real.
+
+Repeatable
+Structured conversations deliver consistent preparation to every student, regardless of program, campus, or advisor.
+
+Measurable
+Most institutions rely on confidence rather than evidence when it comes to readiness. InStage provides actionable data at the student, cohort, and institutional level.
+
+Scalable
+From a single pilot to institution-wide deployment without proportional staff growth. The system handles volume; staff handle judgment.
+
+Designed for career services, experiential learning, student affairs, and academic programs.
+
+Graduate readiness is not a career services initiative.
+It is an institutional responsibility.
+
+Strengthen graduate performance
+Graduates who have practiced under realistic conditions perform better in interviews, presentations, and early-career interactions.
+
+Build employer confidence
+Institutions that demonstrate structured readiness preparation strengthen employer partnerships and placement outcomes.
+
+Reduce reputational risk
+Performance gaps typically surface after graduation — in employer feedback, ranking surveys, and outcomes data — when the institution can no longer intervene.
+
+Align learning with expectations
+Bridge the gap between academic assessment and the performance moments that define professional success.
+
+Readiness affects outcomes beyond any single department.
+Central ownership enables consistency, faster deployment, clear executive sponsorship, and institution-wide visibility into graduate preparedness.
+
+Consistency
+One platform, one governance framework, one data model across all programs.
+
+Speed
+Central procurement and IT partnership eliminates repeated vendor reviews.
+
+Sponsorship
+Executive ownership creates accountability and signals institutional commitment.
+
+Visibility
+Leadership sees readiness data across the entire institution, not siloed by department.
+
+Departments benefit — without being asked to carry the burden alone.
+
+Governed AI. Deployed responsibly.
+InStage is built to meet the governance, compliance, and data sovereignty expectations of institutional leadership.
+
+Compliant
+PIPEDA(Canada)FERPA support(US)SOC 2–aligned controlsJurisdiction-based data storage. Vendor list + due diligence package available on request.
+
+- Security One-PagerTrust Center
+
+Auditable
+Session logs are exportable. Operational logs are retained 365+ days.
+
+Independently tested
+Third-party pen test completed. All findings are closed.
+
+Accessible
+24/7 via browser or phone. Low-bandwidth friendly.
+
+Responsible AI principles
+- InStage AI Principles
+
+Transparent by design
+AI involvement is clearly communicated. Outputs support learning, not replace evaluation.
+
+Human-in-the-loop
+AI supports decisions—doesn't make them alone. Educator judgment stays central.
+
+Responsible boundaries
+No model training on content. No biometrics. No unapproved AI on student data.
+
+Built with higher education
+“Our commitment to responsible AI implementation at scale will transform how students develop professional competencies, ensuring Waterloo graduates are prepared for an AI-integrated workforce.”Dr. Norah McRae
+
+Associate Provost, Cooperative & Experiential Education, University of Waterloo
+
+“Introducing InStage into our Co-op preparation curriculum has been a game changer... Students get a safe space to practice with actionable metrics for improvement. They benefit from increased confidence and real-time fee…”Susan Soikie
+
+Director, Arts & Science Co-op, University of Toronto
+
+“Practicing alone or in front of the mirror isn't the same—you don't have anyone looking at you or listening to you... InStage uses avatars that watch and listen, and even though you know they aren't real, they still invo…”Alon Eisenstein, PhD
+
+Assistant Professor of Teaching, School of Engineering, The University of British Columbia
+
+“InStage proves itself as a robust tool offering exceptional training in many areas. The mock interview platform is particularly dear to me, aiding our participants in becoming job-ready and confident. Its impact is evide…”Sangeeta Mehta
+
+Senior Manager, Partnership Development & Career Counsellor, ADaPT Program, Toronto Metropolitan University
+
+“AI-guided reflection promoted self-awareness, accountability, and goal setting while helping me stay mindful of my progress and adjust goals accordingly. The interactive conversations made reflection feel more like mento…”Yue P.
+
+Student, Silicon Valley Campus, Northeastern University
+
+“The virtual assistant's prompts on the 'how' and 'why' helped me quantify my achievements, leading to deeper learning. It was efficient and engaging—saving time while fostering critical thinking, rather than feeling like…”Shradha S.
+
+Student, Toronto Campus, Northeastern University
+
+“By using the mock interview tool, students can input a job title and responsibilities. The AI then analyzes this information and generates interview questions specifically tailored to the role.”Dr. Felicia Pantazi
+
+Educational Developer, Centre for WIL, University of Waterloo
+
+“At first, I thought it would feel strange talking to a robot, but surprisingly, it didn't. It responded almost like a human, quickly taking notes while I spoke, which was impressive. I also tried speaking to it in Mandar…”Xinlai C.
+
+Student, Vancouver Campus, Northeastern University
+
+“At the conclusion of our session, one of the suggestions it made was, "Try networking more with people, and let's reconnect next week." Inspired by the conversation, I decided to act on the bot's advice. I had been conte…”Rayyan M.
+
+MSc Data Analytics Engineering, Vancouver Campus, Northeastern University
+
+“The AI reflection tool enabled our students to process their experiences more naturally. We saw significantly deeper insights compared to written reflections, particularly around technical skill development and workplace…”DDr. Maya Rodriguez
+
+Faculty Coordinator, Silicon Valley Co-op Program, Northeastern University
+
+Explore the platform
+
+How InStage AI works in practice — the modules, the student experience, and the data your team receives.
+
+Five modules. One governed platform.
+Each module delivers structured voice conversations, instant student feedback, and staff-ready reports.
+
+Platform modules- Career Exploration- Job Search Check-in- Resume Assist- Mock Interview- Guided ReflectionOverviewStudent FeedbackStaff ReportsCase StudyVoice AI calls to help undecided students explore career paths.
+
+- •Interest-based discovery with actionable next steps
+- •First-year foundations and career courses
+- •Orientation and transition programs
+
+How it works
+1. The student experience
+
+Student Voice AI Conversations
+
+5–15 min phone or web calls · 3+ per module
+
+2. How modules are deployed
+
+Assignments
+
+Structured deadlines · Auto-graded
+
+orSelf-Serve Practice
+
+Available 24/7 · Instant feedback
+
+3. What the system produces
+
+Student Feedback
+
+Instant and personalized
+
+Staff Summaries
+
+Actionable reports
+
+Leadership Signals
+
+Alert signals and trends
+
+InStage helps institutions build real-world readiness at scale — so graduates perform when reputation and outcomes are on the line.
+A 30-minute conversation about your institution's readiness priorities.
+
+Over 300,000 AI-powered sessions completed with students across North America.
+
+Request Demo

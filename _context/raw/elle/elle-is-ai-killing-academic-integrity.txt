@@ -1,0 +1,70 @@
+---
+title: "Is AI Killing Academic Integrity?"
+source_url: "https://www.mcgilldaily.com/2026/01/is-ai-killing-academic-integrity/"
+source_title: "The McGill Daily"
+author: "Margot Aloccio"
+date: "2026-01-26"
+type: news-article
+tags: [academic-integrity, ai-policy, oral-exam-design, student-experience, scale, equity]
+summary: "88% of students now use AI for assessments (up from 53% in 2024); live oral exams are 'about as cheat-proof as it gets' but faculty must address scaling, bias, and accessibility rather than presenting oral assessment as a panacea."
+---
+Is AI Killing Academic Integrity?
+https://www.mcgilldaily.com/2026/01/is-ai-killing-academic-integrity/
+
+Elle's notes:
+Student newspaper surveying the landscape. Key data points:
+• 88% of students now use AI for assessments (up from 53% in 2024)
+• Many professors returning to in-person exams: "During my first semester at McGill in Fall 2023, only two of my five courses required in-person final exams. By contrast, all five of my courses this semester rely on in-person exams."
+Critical quote from Dr. Kyle Maclean (Ivey Business School): "Live oral exams are 'about as cheat-proof as it gets,' as they require students to explain their reasoning in real time."
+But Dr. Maclean also notes challenges: difficult to scale, grading consistency concerns, potential bias, stress for students with anxiety.
+
+Why it matters: The honest case—oral exams are AI-resistant but not frictionless. Harvard faculty need to address scaling, bias, and accessibility directly rather than presenting oral assessment as a panacea.
+
+--
+
+Is AI Killing Academic Integrity?
+Amid the rise of AI usage among college students, professors reinstate
+
+in-person assessments to restore confidence in academic learning
+
+- by Margot Aloccio
+- January 26, 2026January 26, 2026
+
+Tweet
+
+Zoe Sanguin
+Over the last few decades, universities have largely moved away from conventional in-person exams in favour of take-home essays and quizzes, adapting to evolving digital practices and supplemental teaching tools. Today, however, the trend is reversing. In response to students’ growing reliance on generative artificial intelligence (AI), professors are reviving more traditional assessment methods, including in-person exams, in an effort to restore trust in learning processes that avoid cheating, plagiarism, and advantages. Yet this shift raises pressing questions about student accessibility, fairness, and whether limiting AI use in higher education is truly an effective response to integrity concerns. Rather than rejecting AI use altogether, faculty members should adapt methods of evaluation to the increasing role of generative tools, balancing the preservation of integrity with a realistic acknowledgment of contemporary academic practices.
+
+Why do students turn to generative tools?
+
+Recent data illustrates how widespread this shift has become. A Higher Education Policy Institute (HEPI) survey conducted in February 2025 found that 88 per cent of students reported using generative AI tools such as ChatGPT for assessments, a stark difference from the 53 per cent of students who admitted to using generative AI the previous year. At the same time, the proportion of students who reported not using generative AI dropped sharply, from 47 per cent in 2024 to just 12 per cent in 2025. For many students, it seems as if AI tools have become a default form of academic support, used in response to mounting pressures such as heavy course loads, overlapping deadlines, and rising performance expectations.
+
+Although the use of generative AI is usually interpreted as a form of academic misconduct, such actions cannot be understood solely through the lens of cheating. In fact, the HEPI survey shows that students most commonly use AI tools to explain unfamiliar concepts, summarize readings, and generate research ideas — reasons that fall within many schools’ integrity guidelines. McGill’s Office of the Dean of Students emphasizes the “vital importance” of academic integrity, underscoring values such as honesty and “giving credit where credit is due.” For many, AI functions less as a shortcut to bypass academic work and more as a support mechanism. However, this normalization of AI use comes with uncertainty. When the boundaries between acceptable use and misconduct remain unclear or inconsistently enforced, students are left navigating a grey zone, unsure whether the tools they rely on may later be used against them.
+
+At the same time, not all students engage with AI in ways that align with institutional policies. Some rely on generative tools to produce substantial portions of their assignments, directly undermining not only the value of their work but also violating “the academic integrity of the University” itself. From an instructor’s perspective, distinguishing between legitimate support and misconduct has become increasingly difficult. “AI is a great opportunity to personalize a student’s learning,” Desautels Vice-Dean Genevieve Bassellier notes. However, a student can prompt generative tools such as ChatGPT or DeepSeek to write entire essays in minutes, which leaves professors grappling with how to distinguish human work from machine- generated content. In many cases, the final submission may look the same, regardless of whether AI was used as a learning aid, a substitute for original work, or not used at all.
+
+How are professors adapting to AI?
+
+Concerns about academic integrity in the age of AI are being echoed at the institutional level. Research by UNESCO highlights how generative AI could disrupt assessment methods that rely primarily on final outputs such as essays. This demonstrates that when students can generate essays or reports in minutes, traditional indicators of effort and comprehension lose much of their reliability. The report thus encourages educators to place more focus on smaller step-by-step assignments that emphasize the learning process itself, such as journals or peer reviews.
+
+At McGill, departments focused on written assignments — particularly in the arts and humanities — have introduced explicit AI policies in course syllabi. These disclosures increasingly restrict (or sometimes forbid) the use of AI for idea generation, formulation, or refinement. A similar effort to define boundaries of acceptable academic conduct can be seen in the introduction of a mandatory online Academic Integrity Tutorial in 2011. Required of both undergraduates and graduates, the tutorial walks students through scenarios involving plagiarism and academic misconduct, underscoring the idea that a degree earned through cheating is ultimately hollow. Students who fail to complete the module are unable to register for courses.
+
+Moreover, many instructors are also reconsidering not only what they assess, but how and where that assessment takes place. In- person examinations restrict access to AI tools and allow professors to observe students’ reasoning directly. For many students, the effects of this shift are already tangible. During my first semester at McGill in Fall 2023, only two of my five courses required in-person final exams. By contrast, all five of my courses this semester rely on in-person exams for both midterms and finals.
+
+Importantly, the return to in- person evaluation is not driven solely by concerns about security. As Dr. Andrew Woon argues in a 2025 report for HEPI, the value of exams lies in their ability to foster “deep, internalised understanding”— particularly in fields with higher stakes such as medicine or education. Dr. Woon explains that, while AI can assist with information retrieval or diagnostics, it cannot replace the human judgment required to interpret context, nuance, or ethical complexity. “We wouldn’t want to be treated by a doctor who relied on ChatGPT to make clinical decisions,” he notes. These types of professions require rigorous skills that must be practiced and assessed directly.
+
+However, in-person written exams are not necessarily a perfect solution. Concerns about potential AI-assisted cheating have led some educators to explore oral examinations as an alternative. According to Dr. Kyle Maclean, assistant professor at Ivey Business School, live oral exams are “about as cheat-proof as it gets,” as they require students to explain their reasoning in real time. However, Dr. Maclean adds that oral exams present significant feasibility and equity challenges. They are difficult to scale in large undergraduate courses, grading can be less consistent, and their lack of anonymity raises concerns about potential bias. Moreover, such formats are widely reported as stressful by students, particularly those with anxiety or processing challenges, highlighting trade- offs inherent in assessment methods designed to limit AI use.
+
+What does this shift mean for students?
+
+While for instructors, the return of in-person exams may restore confidence in students’ academic integrity, the effects of this exam type on students are more complex. One of the less obvious ramifications is the reshaping of student behaviour, even among those who do not dishonestly rely on AI. As sanctions against AI- generated work become more common, some students have begun to self-police their writing to avoid suspicion. As an English student, I have found myself consciously altering stylistic habits such as avoiding em dashes — a punctuation mark frequently associated with AI-generated text — not because of academic guidance, but out of fear of being misidentified as relying on generative tools.
+
+Beyond questions of perception, these changes also raise concerns about equity and accessibility. By shifting assessment formats rapidly, students registered with disability services may face additional barriers such as reduced access to accommodations, heightened anxiety, physical or sensory challenges, or disadvantages in oral assessments that rely on verbal fluency and performance. When accommodations are unevenly implemented or poorly adapted to oral or time-constrained assessments, exams eventually risk privileging student confidence over genuine comprehension.
+
+In-person exams: harmful or helpful?
+
+In-person examinations, while effective in limiting AI misuse, are not a comprehensive solution. Such exams may create fairness in one sense as they can standardize conditions and restrict cheating behaviour. Nonetheless, they risk pushing students to rely more heavily on AI elsewhere — readings, essays, research — in order to manage increased academic pressure which eventually weakens the value placed on out-of-class work. As long as generative AI remains widely accessible and difficult to regulate, attempts to fully exclude it from academic life are likely to remain imperfect.
+
+Rather than framing such tools as a problem to be eliminated, universities may need to reconsider how AI can be integrated intelligibly into teaching and assessment. The future of evaluation may lie not in stricter controls alone, but in smaller classes, more project-based learning, and deeper, sustained conversations between students and faculty.
+
+At a time when reliance on AI risks weakening foundational cognitive skills, academic degrees must be understood as a privilege rather than a shortcut. In this sense, instructors play a crucial role in designing learning environments that protect core intellectual abilities — restoring value to human reasoning instead of allowing it to be eclipsedd by digital assistance. “That’s why it’s even more important that we continue to enforce the basic knowledge,” Bassellier notes. Ultimately, the challenge facing higher education is not how to assess without AI, but how to design systems of evaluation that continue to reward curiosity, effort, and the ability to think critically with it, to strike a balance in which AI can support, rather than undermine, student learning.

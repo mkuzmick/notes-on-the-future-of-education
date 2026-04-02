@@ -1,0 +1,209 @@
+---
+title: "PhD Viva Voces: A Complete Guide"
+source_url: "https://www.discoverphds.com/advice/doing/vivas"
+source_title: "DiscoverPhDs"
+author: ""
+date: ""
+type: practitioner-guide
+tags: [viva-voce, oral-exam-design, scaffolding, high-stakes, written-vs-oral]
+summary: "The US system trains students in written assessment for 16-22 years then suddenly requires oral defense at PhD level, creating a skills gap; every research university globally requires the viva, admitting oral assessment is irreplaceable for demonstrating mastery."
+harvard_relevance: "If oral defense is essential for doctoral mastery, integrating oral assessment earlier in undergraduate education (junior thesis defense, senior capstone) would prepare students progressively rather than having them face it cold in graduate school."
+---
+PhD Viva Voces - A Complete Guide
+https://www.discoverphds.com/advice/doing/vivas
+
+Elle's notes:
+URLs: https://www.discoverphds.com/advice/doing/vivas | https://qubicresearch.com/phd-viva/
+The US higher education system diverged from European oral traditions for undergraduates in the late 19th/early 20th century (driven by scale and standardization, as documented in Cycles 1-2), but retained oral defenses for doctoral education. US PhD programs require a "defense that often includes a public seminar component and then a closed questioning period with the dissertation committee." The format varies—some programs use UK-style external examiners, others use internal committees—but the core remains: PhD candidates must verbally defend their research before experts. This creates a pedagogical inconsistency: students experience 16-22 years of written-only assessment (K-12 + undergrad), then suddenly face mandatory oral defense in graduate school.
+
+Harvard relevance: The US system trains students in one assessment mode (written) but evaluates PhD-level competency through another (oral). This creates a skills gap: undergraduates arrive at doctoral programs unprepared for oral defense because they've never practiced it. If Harvard College integrated oral assessment earlier—say, junior year thesis defense (like Social Studies' comprehensive oral exam, Theme 2 Cycle 2)—students would develop these skills progressively rather than facing them cold at age 24-28. The broader insight: the PhD viva isn't a concession to AI anxiety or a nostalgic return to old ways—it's the one place academia admits oral assessment is irreplaceable. Every research university globally requires it. The question for undergraduate education: if oral defense is essential for demonstrating doctoral-level mastery, at what undergraduate level does it become useful? Sophomore tutorials? Junior theses? Senior capstones? Or—as the French model suggests—from week one?
+
+--
+
+Summary
+
+- A PhD viva involves defending your thesis in an oral examination with at least two examiners.
+
+- The aim of a PhD viva is to confirm that the work is your own, that you have a deep understanding of your project and, overall, that you are a competent researcher.
+
+- There are no standard durations, but they usually range from one to three hours, with most lasting approximately two hours.
+
+- There are six outcomes of a PhD viva: (1) pass without corrections (2) pass subject to minor corrections, (3) pass subject to major corrections, (4) downgrade to MPhil with no amendments, (5) downgrade to MPhil subject to amendments, (6) immediate fail.
+
+- Almost all students who sit their viva pass it, with the most common outcome being ‘(2) – pass subject to minor corrections’.
+
+What Is a PhD Viva?
+
+A viva voce, more commonly referred to as ‘viva’, is an oral examination conducted at the end of your PhD and is essentially the final hurdle on the path to a doctorate. It is the period in which a student’s knowledge and work are evaluated by independent examiners.
+
+In order to assess the student and their work around their research question, a viva sets out to determine:
+
+- you understand the ideas and theories that you have put forward,
+
+- you can answer questions about elements of your work that the examiners have questions about,
+
+- you understand the broader research in your field and how your work contributes to this,
+
+- you are aware of the limitations of your work and understand how it can be developed further,
+
+- your work makes an original contribution, is your own and has not been plagiarised.
+
+Note: A viva is a compulsory procedure for all PhD students, with the only exception being when a PhD is obtained through publication as opposed to the conventional route of study.
+
+Who Will Attend a Viva?
+
+In the UK, at least two examiners must take part in all vivas. Although you could have more than two examiners, most will not in an attempt to facilitate a smoother questioning process.
+
+One of the two examiners will be internal, i.e. from your university, and the other will be external, i.e. from another university. Regardless, both will be knowledgeable in your research field and have read your thesis beforehand.
+
+In addition to your two examiners, two other people may be present. The first is a chairperson. This is an individual who will be responsible for monitoring the interview and for ensuring proper conduct is followed at all times. The need for an external chairperson will vary between universities, as one of the examiners can also take on this role. The second is your supervisor, whose attendance is decided upon by you in agreement with your examiners. If your supervisor attends, they are prohibited from asking questions or from influencing the outcome of the viva.
+
+To avoid any misunderstandings, we have summarised the above in a table:
+
+Individual
+Mandatory or Optional?
+Presence decided by?
+Can Ask Questions and Impacts Outcome?
+
+Examiners
+Mandatory and minimum of 2
+Your supervisor
+Yes
+
+Chairperson
+Optional
+Your university
+No
+
+Your Supervisor
+Optional
+You, in agreement of both examiners
+No
+
+Note: In some countries, such as in the United States, a viva is known as a ‘PhD defense’ and is performed publicly in front of a panel or board of examiners and an open audience. In these situations, the student presents their work in the form of a lecture and then faces questions from the examiners and audience which almost acts as a critical appraisal.
+
+How Long Does a Viva Last?
+
+Since all universities have different guidelines, and since all PhDs are unique, there are no standard durations. Typically, however, the duration ranges from one to three hours, with most lasting approximately two hours.
+
+Your examiners will also influence the duration of your viva as some will favour a lengthy discussion, while others may not. Usually, your university will consult your examiners in advance and notify you of the likely duration closer to the day of your viva.
+
+What Happens During a Viva?
+
+Regardless of the subject area, all PhD vivas follow the same examination process format as below.
+
+Introductions
+
+You will introduce yourselves to each other, with the internal examiner normally introducing the external examiner. If an external chairperson is present, they too are introduced; otherwise, this role will be assumed by one of the examiners.
+
+Procedure Explained
+
+After the introductions, the appointed chair will explain the viva process. Although it should already be known to everyone, it will be repeated to ensure the viva remains on track during the forthcoming discussion.
+
+Warm-Up Questions
+
+The examiners will then begin the questioning process. This usually starts with a few simple opening questions, such as asking you to summarise your PhD thesis and what motivated you to carry out the research project.
+
+In-Depth Questions
+
+The viva questions will then naturally increase in difficulty as the examiners go further into the details of your thesis. These may include questions such as “What was the most critical decision you made when determining your research methodology?”, “Do your findings agree with the current published work?” and “How do your findings impact existing theories or literature?”. In addition to asking open-ended questions, they will also ask specific questions about the methodology, results and analysis on which your thesis is based.
+
+Closing the Viva
+
+Once the examiners are satisfied that they have thoroughly evaluated your knowledge and thesis, they will invite you to ask any questions you may have, and then bring the oral examination to a close.
+
+What Happens After the Viva?
+
+Once your viva has officially ended, your examiners will ask you to leave the room so that they can discuss your performance. Once a mutual agreement has been reached, which can take anywhere from 10 minutes to an hour, you will be invited back inside and informed of your outcome.
+
+PhD Viva Outcomes
+
+There are six possible outcomes to a viva:
+
+- Immediate award of degree: A rare recommendation – congratulations, you are one of the few people who completely satisfied your examiners the first time around. You do not have to do anything further at this point.
+
+- Minor amendments required: The most common recommendation – you obtain a pass on the condition that you make a number of minor amendments to your thesis, such as clarifying certain points and correcting grammatical errors. The time you have to make these changes depends on the number of them, but is usually one to six months.
+
+- Major amendments required: A somewhat uncommon recommendation – you are requested to make major amendments to your thesis, ranging from further research to collecting more data or rewriting entire sections. Again, the time you have to complete this will depend on the number of changes required, but will usually be six months to one year. You will be awarded your degree once your amended thesis has been reviewed and accepted.
+
+- Immediate award of MPhil: An uncommon recommendation – your examiners believe your thesis does not meet the standard for a doctoral degree but meets the standard for an MPhil (Master of Philosophy), a lower Master’s degree.
+
+- Amendments required for MPhil: A rare recommendation – your examiners believe your thesis does not meet the standard for a doctoral degree, but with several amendments will meet the standard for an MPhil.
+
+- Immediate fail: A very rare recommendation – you are given an immediate fail without the ability to resubmit and without entitlement to an MPhil.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Find Your PhD, Fast 
+ 
+ 
+ 
+ Finding a PhD has never been this easy – search for a PhD by keyword, location or academic area of interest.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+FAQ
+
+What Is the Pass Rate for Vivas?
+
+Based on an analysis of 26,076 PhD students who took their viva exam between 2006 and 2017, the PhD viva pass rate in the UK is 96%; of those who passed, about 80% were required to make minor amendments to their thesis. The reason for this high pass rate is that supervisors will only put their students forward for a viva once they confidently believe they are ready for it. As a result, most candidates who sit a viva are already well-versed in their PhD topic before they even start preparing for the exam.
+
+How Do I Arrange a Viva?
+
+Your viva will be arranged either by the examiners or by the chairperson. The viva will be arranged at least one to two months after you have submitted your thesis and will arrange a viva date and venue that is suitable for all participants.
+
+Can I Choose My Examiners?
+
+At most universities, you and your supervisor will choose the internal and external examiners yourselves. This is because the examiners must have extensive knowledge of the thesis topic in order to be able to examine you and, as the author of the thesis in question, who else could better determine who they might be than you and your supervisor. The internal examiner is usually quite easy to find given they will be from your institution, but the external examiner may end up being your second or third preference depending on availability.
+
+Can I Take Notes Into a Viva?
+
+A viva is about testing your competence, not your memory. As such, you are allowed to take notes and other supporting material in with you. However, keep in mind that your examiners will not be overly impressed if you constantly have to refer to your notes to answer each question. Because of this, many students prefer to take an annotated copy of their thesis, with important points already highlighted and key chapters marked with post-it notes.
+
+In addition to an annotated copy of a thesis, some students also take:
+
+- a list of questions they would like to ask the examiners,
+
+- notes that were created during their preparation,
+
+- a list of minor corrections they have already identified from their viva prep work.
+
+How Do I Prepare for a PhD Viva?
+
+There are several ways to prepare for a PhD viva, one of the most effective being a mock viva voce examination. This allows you to familiarise yourself with the type of viva questions you will be asked and identify any weak areas you need to improve. They also give you the opportunity to practise without the pressure, giving you more time to think about your answers which will help to make sure that you know your thesis inside out. However, a mock viva exam is just one of many methods available to you – some of the other viva preparation methods can be found on our “How to Prepare for a PhD Viva” page.

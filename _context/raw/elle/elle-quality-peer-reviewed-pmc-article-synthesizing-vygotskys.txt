@@ -1,0 +1,109 @@
+---
+title: "Paulo Freire: Dialogue, Praxis and Education"
+source_url: "https://infed.org/dir/welcome/paulo-freire-dialogue-praxis-and-education/"
+source_title: "infed.org (Informal Education Encyclopedia)"
+author: ""
+date: "2025"
+type: pedagogy-guide
+tags: [philosophy, pedagogy, equity, discussion, socratic-method, deep-learning]
+summary: "Freire distinguished 'banking education' (depositing knowledge into passive students) from 'problem-posing education' (dialogue as equals); dialogue is oral by definition, requiring real-time exchange, and is an ethical act requiring profound love and mutual respect."
+harvard_relevance: "Freire warns that if oral exams simply interrogate students to check deposited knowledge, they become oppressive rituals; the alternative is conversational assessment where students and faculty explore questions together."
+---
+quality: Peer-reviewed PMC article synthesizing Vygotsky's work. Highly credible scholarly overview.
+https://infed.org/dir/welcome/paulo-freire-dialogue-praxis-and-education/
+
+Elle's notes:
+2. Paulo Freire's "Pedagogy of the Oppressed": Dialogue vs. Banking Education
+:page_facing_up: Paulo Freire: dialogue, praxis and education
+infed.org (Informal Education Encyclopedia), 2025
+Summary: Paulo Freire distinguished between "banking education" (teachers deposit knowledge into passive students) and "problem-posing education" (teachers and students engage in dialogue as equals to co-create understanding). For Freire, dialogue is not just a teaching method but an ethical and political act — it requires "profound love," mutual respect, and the belief that all humans are capable of critical consciousness. Freire saw education as either reproducing oppression or fostering liberation, depending on whether it silences or amplifies student voices. Critically, dialogue is oral by definition — it requires real-time exchange, listening, responding.
+PubMed Central (PMC)Inner Speech: Development, Cognitive Functions, Phenomenology, and NeurobiologyInner speech—also known as covert speech or verbal thinking—has been implicated in theories of cognitive development, speech monitoring, executive function, and psychopathology. Despite a growing body of knowledge on its phenomenology, development, ...https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/infed.orgPaulo Freire: dialogue, praxis and education - infed.orgPaulo Freire, dialogue, praxis and education. Perhaps the most influential thinker about education in the late twentieth century, Paulo Freire has been particularly popular with informal educators with his emphasis on dialogue and his concern for the oppressed. contents: introduction · contribution · critique · further reading and references · links Paulo Freire (1921 – ... Read moreEstimated reading time8 minuteshttps://infed.org/dir/welcome/paulo-freire-dialogue-praxis-and-education/[6:17 AM]Harvard Context: Freire's critique exposes the danger of using oral exams as banking education in disguise: if faculty simply interrogate students to check whether they've "deposited" the correct knowledge, oral exams become oppressive rituals, not liberatory dialogues. The Freirean alternative: conversational oral assessments where students and faculty explore questions together, students can challenge interpretations, and "I don't know" is a legitimate starting point for inquiry. This is closer to Harvard's best tutorials — where the goal isn't recitation but collaborative problem-solving. The AI dimension: Freire would ask, Who benefits from oral exams? If they're adopted to restore faculty authority over AI-empowered students, that's banking education defending itself. But if oral exams are designed to center student voices — to hear marginalized perspectives, validate diverse ways of knowing, and create space for dialogue that AI can't replicate — then they align with Freire's vision. The equity question: Freirean dialogue requires power-sharing. Can Harvard faculty conduct oral exams that don't reinforce hierarchies (professor-as-judge) but instead create genuine conversation?
+Source quality: Authoritative encyclopedia entry on informal education; well-cited but not original research. Reliable scholarly overview.
+
+--
+
+Paulo Freire, dialogue, praxis and education. Perhaps the most influential thinker about education in the late twentieth century, Paulo Freire has been particularly popular with informal educators with his emphasis on dialogue and his concern for the oppressed.
+
+contents: introduction · contribution · critique · further reading and references · links
+
+ Paulo Freire (1921 – 1997), the Brazilian educationalist, has left a significant mark on thinking about progressive practice. His Pedagogy of the Oppressed is currently one of the most quoted educational texts (especially in Latin America, Africa and Asia). Freire was able to draw upon, and weave together, a number of strands of thinking about educational practice and liberation. Sometimes some rather excessive claims are made for his work e.g. ‘the most significant educational thinker of the twentieth century’. He wasn’t – John Dewey would probably take that honour – but Freire certainly made a number of important theoretical innovations that have had a considerable impact on the development of educational practice – and on informal education and popular education in particular. In this piece we assess these – and briefly examine some of the critiques that can be made of his work.
+
+Contribution
+
+Five aspects of Paulo Freire’s work have a particular significance for our purposes here. First, his emphasis on dialogue has struck a very strong chord with those concerned with popular and informal education. Given that informal education is a dialogical (or conversational) rather than a curricula form this is hardly surprising. However, Paulo Freire was able to take the discussion on several steps with his insistence that dialogue involves respect. It should not involve one person acting on another, but rather people working with each other. Too much education, Paulo Freire argues, involves ‘banking’ – the educator making ‘deposits’ in the educatee.
+
+Second, Paulo Freire was concerned with praxis – action that is informed (and linked to certain values). Dialogue wasn’t just about deepening understanding – but was part of making a difference in the world. Dialogue in itself is a co-operative activity involving respect. The process is important and can be seen as enhancing community and building social capital and to leading us to act in ways that make for justice and human flourishing. Informal and popular educators have had a long-standing orientation to action – so the emphasis on change in the world was welcome. But there was a sting in the tail. Paulo Freire argued for informed action and as such provided a useful counter-balance to those who want to diminish theory.
+
+Third, Freire’s attention to naming the world has been of great significance to those educators who have traditionally worked with those who do not have a voice, and who are oppressed. The idea of building a ‘pedagogy of the oppressed’ or a ‘pedagogy of hope’ and how this may be carried forward has formed a significant impetus to work. An important element of this was his concern with conscientization – developing consciousness, but consciousness that is understood to have the power to transform reality’ (Taylor 1993: 52).
+
+Fourth, Paulo Freire’s insistence on situating educational activity in the lived experience of participants has opened up a series of possibilities for the way informal educators can approach practice. His concern to look for words that have the possibility of generating new ways of naming and acting in the world when working with people around literacies is a good example of this.
+
+Fifth, a number of informal educators have connected with Paulo Freire’s use of metaphors drawn from Christian sources. An example of this is the way in which the divide between teachers and learners can be transcended. In part this is to occur as learners develop their consciousness, but mainly it comes through the ‘class suicide’ or ‘Easter experience’ of the teacher.
+
+The educator for liberation has to die as the unilateral educator of the educatees, in order to be born again as the educator-educatee of the educatees-educators. An educator is a person who has to live in the deep significance of Easter. Quoted by Paul Taylor (1993: 53)
+
+Critique
+
+Inevitably, there are various points of criticism. First, many are put off by Paulo Freire’s language and his appeal to mystical concerns. The former was a concern of Freire himself in later life – and his work after Pedagogy of the Oppressed was usually written within a more conversational or accessible framework.
+
+Second, Paulo Freire tends to argue in an either/or way. We are either with the oppressed or against them. This may be an interesting starting point for teaching, but taken too literally it can make for rather simplistic (political) analysis.
+
+Third, there is an tendency in Freire to overturn everyday situations so that they become pedagogical. Paulo Freire’s approach was largely constructed around structured educational situations. While his initial point of reference might be non-formal, the educational encounters he explores remain formal (Torres 1993: 127) In other words, his approach is still curriculum-based and entail transforming settings into a particular type of pedagogical space. This can rather work against the notion of dialogue (in that curriculum implies a predefined set of concerns and activities). Educators need to look for ‘teachable moments’ – but when we concentrate on this we can easily overlook simple power of being in conversation with others.
+
+Fourth, what is claimed as liberatory practice may, on close inspection, be rather closer to banking than we would wish. In other words, the practice of Freirian education can involve smuggling in all sorts of ideas and values under the guise of problem-posing. Taylor’s analysis of Freire’s literacy programme shows that:
+
+.. the rhetoric which announced the importance of dialogue, engagement, and equality, and denounced silence, massification and oppression, did not match in practice the subliminal messages and modes of a Banking System of education. Albeit benign, Freire’s approach differs only in degree, but not in kind, from the system which he so eloquently criticizes. (Taylor 1993: 148)
+
+Educators have to teach. They have to transform transfers of information into a ‘real act of knowing’ (op cit: 43).
+
+Fifth, there are problems regarding Freire’s model of literacy. While it may be taken as a challenge to the political projects of northern states, his analysis remains rooted in assumptions about cognitive development and the relation of literacy to rationality that are suspect (Street 1983: 14). His work has not ‘entirely shrugged off the assumptions of the “autonomous model”‘ (ibid.: 14).
+
+Last, there are questions concerning the originality of Freire’s contribution. As Taylor has put it – to say that as many commentators do that Freire’s thinking is ‘eclectic’, is ‘to underestimate the degree to which he borrowed directly from other sources’ (Taylor 1993: 34). Taylor (1993: 34-51) brings out a number of these influences and ‘absorbtions’ – perhaps most interestingly the extent to which the structure of Pedagogy of the Oppressed parallels Kosik’s Dialectic of the Concrete (published in Spanish in the mid 1960s). Here we would simply invite you to compare Freire’s interests with those of Martin Buber. His concern with conversation, encounter, being and ethical education have strong echoes in Freirian thought.
+
+Further reading and references
+
+Key texts: Paulo Freire’s central work remains:
+
+Freire, P. (1972) Pedagogy of the Oppressed, Harmondsworth: Penguin. Important exploration of dialogue and the possibilities for liberatory practice. Freire provides a rationale for a pedagogy of the oppressed; introduces the highly influential notion of banking education; highlights the contrasts between education forms that treat people as objects rather than subjects; and explores education as cultural action. See, also:
+
+Freire, P. (1995) Pedagogy of Hope. Reliving Pedagogy of the Oppressed, New York: Continuum. This book began as a new preface to his classic work, but grew into a book. It’s importance lies in Freire’s reflection on the text and how it was received, and on the development of policy and practice subsequently. Written in a direct and engaging way.
+
+Biographical material: There are two useful English language starting points:
+
+Freire, P. (1996) Letters to Cristina. Reflections on my life and work, London: Routledge. Retrospective on Freire’s work and life. in the form of letters to his niece. He looks back at his childhood experiences, to his youth, and his life as an educator and policymaker.
+
+Gadotti, M. (1994) Reading Paulo Freire. His life and work, New York: SUNY Press. Clear presentation of Freire’s thinking set in historical context written by a close collaborator.
+
+For my money the best critical exploration of his work is:
+
+Taylor, P. (1993) The Texts of Paulo Freire, Buckingham: Open University Press.
+
+Other references
+
+Kosik, K. (1988) La dialectique du concret, Paris: Plon.
+
+Street, B. V. (1984) Literacy in Theory and Practice, Cambridge: Cambridge University Press.
+
+Torres, C. A. (1993) ‘From the “Pedagogy of the Oppressed” to “A Luta Continua”: the political pedagogy of Paulo Freire’ in P. McLaren and P. Leonard (eds.) Freire: A critical encounter, London: Routledge.
+
+Links
+
+Lesley Bentley – Paulo Freire. Brief biography plus lots of useful links.
+
+Catedra Paulo Freire (Pontificia Universidad Catolica de Sao Paulo) – click for English version.
+
+ Blanca Facundo’s critique of Freire’s ideas, and reactions to Facundo’s critique – interesting collection of pieces.
+
+Paulo Freire Institute – a wide range of material available about current work in the Freirian tradition. Click for the English version.
+
+ Daniel Schugurensky on Freire – consists of a collection of reviews of his books and links to other pages.
+
+Q&A: The Freirian Approach to Adult Literacy Education, David Spener’s review for ERIC.
+
+Acknowledgement: The opening image of Paulo Freire is a photograph of a monument for Paulo Freire in Brasila by Brandizzi, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons. The second image is by chhhh/flickr.com. It is reproduced under a Creative Commons Attribution-Non-Commercial-Share Alike 2.0 Generic licence. [http://www.flickr.com/photos/chhhh/2973802038/]
+
+How to cite this article: Smith, M. K. (1997, 2002) ‘Paulo Freire and informal education’, The encyclopedia of pedagogy and informal education. [https://infed.org/dir/paulo-freire-dialogue-praxis-and-education/. Retrieved: insert date]
+
+© Mark K. Smith 1997, 2002
+
+updated: August 14, 2025

@@ -1,0 +1,47 @@
+---
+title: "COVID-era oral exams in chemistry: empirical evidence for deeper learning"
+source_url: "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379886/full"
+source_title: "Frontiers in Education"
+author: ""
+date: "2024"
+type: research-paper
+tags: [oral-exam-design, deep-learning, cognitive-science, equity, stem, faculty-experience]
+summary: "Empirical study showing oral exams in chemistry produced deeper engagement than written exams, created cognitive apprenticeship opportunities, and may benefit non-native English speakers and students with dyslexia who struggle with timed written tests."
+harvard_relevance: ""
+---
+Exploring alternative assessments during COVID: Instructor experiences using oral exams
+https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379886/full
+
+Elle's notes:
+This empirical study from chemistry education provides robust evidence for oral assessment benefits:
+• Deep learning: "Students are often more prepared for oral discussions... which motivates them to engage with the material at a deeper level—the assessment requires students do more than just memorize and regurgitate"
+• Expert-novice interaction: Oral exams create intentional space for "cognitive apprenticeship" where experts make invisible thinking visible
+• Equity considerations: May benefit non-native English speakers and students with dyslexia/dysgraphia who struggle with timed written exams
+• Authenticity: Students report feeling "like a professional"—oral communication is how knowledge actually functions in careers
+
+Why it matters: This addresses the "but will students learn?" question empirically. The answer is yes—and potentially more than with written exams.
+
+--
+
+Exploring alternative assessments during COVID: Instructor experiences using oral exams in chemistry education
+
+This article examines how two chemistry educators implemented oral exams as alternative summative assessments during the COVID-19 pandemic—one instructor in general chemistry and another in organic chemistry.
+
+The study explores whether oral exams can provide "a more comprehensive evaluation of students' learning" compared to traditional written examinations alone.
+
+Advantages of Oral Exams:
+- Enable deeper probing of student comprehension through direct interaction
+- Assess critical thinking and communication skills more effectively
+- Create opportunities for novice-expert dialogue that makes learning visible
+- Provide authentic professional experiences similar to workplace communication
+- May benefit non-native English speakers and students with dyslexia or dyscalculia
+
+Challenges Identified:
+- Student anxiety about one-on-one evaluation format
+- Potential for examiner bias without anonymity
+- Variability in questioning between individual student sessions
+- Time-intensive implementation for instructors
+
+The instructors grounded their approach in constructivist learning theory, emphasizing that "learners themselves build their knowledge in their minds as they have new experiences." This framework justifies the use of guided dialogue to help students make meaningful connections.
+
+The authors argue oral exams offer students authentic ways to develop professional chemistry identities while demonstrating expertise beyond memorization.

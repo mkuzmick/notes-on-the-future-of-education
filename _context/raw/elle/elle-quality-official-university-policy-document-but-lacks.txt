@@ -1,0 +1,38 @@
+---
+title: "How AI Has Changed Penn Faculty Grading and Teaching"
+source_url: "https://www.thedp.com/article/2025/03/penn-faculty-discuss-ai-concerns"
+source_title: "The Daily Pennsylvanian"
+author: ""
+date: "2025-03"
+type: news-article
+tags: [ai-policy, peer-institutions, faculty-experience, grading, academic-integrity]
+summary: "Penn faculty are changing assessment methods in response to AI without centralized coordination, creating equity problems where students in one concentration face oral exams while peers still submit take-home essays graded permissively."
+harvard_relevance: "Penn's decentralized experience mirrors what Harvard faces: without proactive guidance from FAS, faculty solve AI problems idiosyncratically, leading to wildly inconsistent student experiences."
+---
+quality: Official university policy document, but lacks empirical evidence on effectiveness. This is guidance, not research.
+https://www.thedp.com/article/2025/03/penn-faculty-discuss-ai-concerns
+
+Elle's notes:
+2. University of Pennsylvania: Faculty Forced to Change Grading and Teaching
+:page_facing_up: Here's how AI has changed the way Penn faculty grade, teach courses
+The Daily Pennsylvanian, March 2025
+Summary: This student newspaper investigation reveals that Penn faculty are changing assessment methods in response to AI, but without centralized coordination. Multiple professors report that AI has forced them to rethink grading, though "there is no foolproof way to identify" AI-generated work. Some faculty have shifted to in-class writing, others to more presentations, but the overall picture is ad hoc experimentation rather than systematic reform. The article highlights faculty anxiety about academic integrity combined with pragmatic adaptation.
+Harvard Context: Penn's experience mirrors what Harvard likely faces: decentralized, discipline-specific responses rather than university-wide policy. This creates equity problems — students in one concentration face oral exams, while peers in another still submit take-home essays graded permissively. The Penn example suggests that without proactive guidance from FAS, Harvard faculty will solve the AI problem idiosyncratically, leading to wildly inconsistent student experiences. If Harvard wants oral exams to be part of the solution, someone (Derek Bok Center? Pedagogical fellows? Concentration heads?) needs to provide faculty development, rubrics, and best practices — not just permission to experiment.
+Methodological note: Student journalism, not peer-reviewed research. Anecdotal evidence from a small sample of faculty. Still valuable for understanding practitioner perspectives.
+
+--
+
+Penn Faculty Address AI's Impact on Teaching and Grading
+The Daily Pennsylvanian
+
+Penn faculty members have implemented significant changes to their courses in response to artificial intelligence advancement. The university established AI usage guidelines in November 2023 supporting generative AI integration while requiring adherence to Penn's educational mission.
+
+Key Faculty Perspectives:
+
+Marc Trussler, Director of Data Sciences, expressed worry that outsourcing work to AI undermines core university education. Political science professor Loren Goldman stated that "the process of writing an essay that is actually the important part" and converted his courses from essay-based to exam-focused formats.
+
+Trussler reduced the weight of programming assignments susceptible to AI completion while increasing in-person exams. Goldman shifted to "almost entirely exam based" courses due to student temptation toward AI shortcuts.
+
+Computer Science professor Chris Callison-Burch encouraged productive AI usage, noting that "AI should not be a substitute for critical thinking." Mathematics professor Robert Ghrist emphasized trusting student integrity rather than enforcing unreliable AI detection methods, developing custom GPT models to enhance learning instead.
+
+Both supportive and skeptical faculty acknowledged that AI detection tools remain unreliable, making enforcement of plagiarism policies problematic.

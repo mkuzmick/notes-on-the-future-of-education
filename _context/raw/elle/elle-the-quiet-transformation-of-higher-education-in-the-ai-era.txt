@@ -1,0 +1,596 @@
+---
+title: "The Quiet Transformation of Higher Education in the AI Era"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12438950/"
+source_title: "Open Research Europe (PubMed Central)"
+author: "Nora Pireci Sejdiu, Sejdi Sejdiu"
+date: "2025-08-22"
+type: research-paper
+tags: [ai-policy, academic-integrity, oral-exam-design, faculty-experience, curriculum-design]
+summary: "Faculty are turning to oral defenses, collaborative projects, and reflective journals to create AI-resistant assessments, while the digital divide in algorithmic literacy affects faculty as much as students."
+harvard_relevance: "Frames the shift from digital literacy to algorithmic literacy as a faculty development challenge, not just a student conduct issue."
+---
+The Quiet Transformation of Higher Education in the AI Era
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12438950/
+
+Elle's notes:
+PubMed Central / NIH, 2025
+Key insight: "Designing assessments that are both rigorous and resistant to AI manipulation requires creativity... Some faculty are turning to oral defenses, collaborative projects, and reflective journals as ways to capture the nuances of student learning." The article frames this as a shift from "digital literacy" to "algorithmic literacy" and warns that the digital divide affects faculty as much as students.
+
+--
+
+Open Res Eur. 2025 Aug 22;5:249. [Version 1] doi: 10.12688/openreseurope.20715.1
+
+The quiet transformation of higher education in the AI era
+
+Nora Pireci Sejdiu
+
+Nora Pireci Sejdiu
+
+1Department of Computer Science, University of Prishtina, Prishtinë, Kosovo, 10000, Kosovo (Serbia and Montenegro)
+Conceptualization, Data Curation, Formal Analysis, Investigation, Project Administration, Resources, Supervision, Visualization, Writing – Original Draft Preparation, Writing – Review & Editing
+Find articles by Nora Pireci Sejdiu
+
+1, Sejdi Sejdiu
+
+Sejdi Sejdiu
+
+2Department of English Language and Literature, University of Prizren, Prizren, Kosovo, 20000, Kosovo (Serbia and Montenegro)
+Conceptualization, Data Curation, Formal Analysis, Resources, Supervision, Validation, Visualization, Writing – Original Draft Preparation, Writing – Review & Editing
+Find articles by Sejdi Sejdiu
+
+2,a
+
+- Author information
+
+- Article notes
+
+- Copyright and License information
+
+1Department of Computer Science, University of Prishtina, Prishtinë, Kosovo, 10000, Kosovo (Serbia and Montenegro)
+
+2Department of English Language and Literature, University of Prizren, Prizren, Kosovo, 20000, Kosovo (Serbia and Montenegro)
+
+aEmail: sejdi.sejdiu@uni-prizren.com
+
+No competing interests were disclosed.
+
+Roles
+
+Nora Pireci Sejdiu: Conceptualization, Data Curation, Formal Analysis, Investigation, Project Administration, Resources, Supervision, Visualization, Writing – Original Draft Preparation, Writing – Review & Editing
+
+Sejdi Sejdiu: Conceptualization, Data Curation, Formal Analysis, Resources, Supervision, Validation, Visualization, Writing – Original Draft Preparation, Writing – Review & Editing
+
+Accepted 2025 Aug 7; Collection date 2025.
+
+Copyright: © 2025 Pireci Sejdiu N and Sejdiu S
+This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+PMC Copyright notice
+
+PMCID: PMC12438950  PMID: 40963694
+
+Abstract
+
+This paper explores the subtle yet profound transformations occurring in higher education as a result of advancements in artificial intelligence (AI). This paper critically examines the implications of GenAI for teaching, learning, assessment, and institutional policy. Through an interdisciplinary lens, the study explores how AI challenges traditional academic practices while offering opportunities for innovation. Key themes include the redefinition of digital literacy into algorithmic literacy, the ethical dilemmas facing educators and students, and the growing urgency to address digital inequality. The paper highlights the need for proactive institutional strategies that balance innovation with integrity, calling for inclusive policies, ethical frameworks, and the development of critical AI literacies. This article positions GenAI as both a disruptor and enabler, offering strategic guidance for how higher education institutions can navigate and evolve amid rapid technological change.
+
+Keywords: Generative Artificial Intelligence (GenAI), higher education, digital pedagogy, algorithmic literacy, academic integrity, educational policy, ChatGP, AI ethics, digital inequality, assessment innovation
+
+Introduction
+
+A quiet but profound transformation is taking place on campuses around the world. Imagine walking into a university classroom in 2025. It is not always visible in the lecture halls or the libraries, but the invisible presence of artificial intelligence in the daily academic lives of students. Generative AI tools like ChatGPT have become as ubiquitous as Wi-Fi, quietly shaping how students research, write, and even think. Yet, as these digital assistants become indispensable to students, many educators, especially those less familiar with the technology or less comfortable in English, find themselves on the other side of a growing digital divide.
+
+This divide is not just about who uses AI, but how it is used, and what it means for the very heart of higher education. Are we still teaching students to think, or simply to prompt? Are assessments measuring understanding, or just the clever use of algorithms? These questions are no longer theoretical; they are urgent, practical, and deeply consequential.
+
+This transformation is not evenly distributed. While students, digital natives in many respects, have swiftly adopted AI tools for everything from drafting essays to summarizing readings and even brainstorming research topics, many educators, particularly those less familiar with English or less comfortable with technology, find themselves on the other side of a widening digital divide (
+Huang, 2023). In this new world, the old certainties of textbooks, lectures, and traditional assessments are being questioned. The university, once the undisputed center of knowledge and learning, must now reimagine its role in an era where information is everywhere and intelligence is, increasingly, artificial.
+
+Surveys reveal the scale of this shift: by late 2023, more than half of college students in the United States reported using AI for assignments, with 86% of that use going undetected by instructors (
+BestColleges, 2023;
+Intelligent.com, 2024). The line between authentic learning and algorithmic assistance has blurred, raising profound questions about the meaning of academic achievement. The experience of using AI is not uniform. Students from well-resourced backgrounds, with access to the latest devices and stable internet, can harness the full power of these tools. Others, perhaps struggling with connectivity or lacking digital literacy, may find themselves at a disadvantage. The promise of AI as an equalizer is real, but so is the risk that it will deepen existing inequalities (
+Chiu
+et al., 2021).
+
+The expanding universe of AI: beyond text generation
+
+The power of generative AI extends far beyond the writing of essays. Machine translation tools like DeepL and Google Translate have made academic resources accessible across language barriers, opening new avenues for cross-cultural learning (
+Deng & Yu, 2022).
+
+Knowledge graphs help students and researchers visualize complex relationships, revealing patterns and connections that would otherwise remain hidden (
+Ji
+et al., 2022).
+
+As these technologies mature, the potential for personalized and adaptive learning grows. Imagine a classroom where each student receives tailored feedback, or a laboratory where AI simulations allow for safe experimentation and exploration. AI can help educators design dynamic curricula, adapt to diverse learning styles, and offer support that would be impossible for a single human instructor (
+Baidoo-Anu & Ansah, 2023;
+Michel-Villarreal
+et al., 2023).
+
+Yet the integration of these tools is not without risk. The digital divide between students and faculty threatens to widen, as not everyone has equal access or comfort with new technologies. The specter of algorithmic bias and the misuse of student data add further layers of complexity (
+Igbokwe, 2023). The promise of AI is real, but so are the challenges.
+
+AI-driven personalized learning
+
+As AI-driven personalized learning continues to evolve, it becomes imperative for higher education to not only focus on technological integration but also on the pedagogical shifts required to support diverse learning styles and needs. This transition calls for a reimagining of assessment methods, moving away from traditional standardized testing towards more dynamic, formative assessments that can adapt to individual student progress and provide real-time feedback. Such an approach aligns with the principles of inclusive education, fostering an environment where all learners can thrive, particularly those from underrepresented backgrounds (
+Dumbuya, 2024). Moreover, the integration of AI tools in curriculum design can facilitate the development of critical thinking and problem-solving skills, essential in preparing students for the complexities of the modern workforce. By embracing these innovative assessment strategies, higher education institutions can enhance the learning experience and better prepare students for the challenges and opportunities of an AI-driven future.
+
+This shift towards dynamic assessments not only enhances student engagement but also aligns with the need for equitable access to personalized learning experiences, ensuring all students benefit from AI advancements in education. This approach necessitates ongoing collaboration between educators and technologists to create adaptive learning environments that cater to diverse student needs while maintaining ethical standards in AI implementation.
+
+The educator’s dilemma: grading students or grading ChatGPT?
+
+The arrival of generative AI has been both exhilarating and unsettling for educators. On the one hand, AI offers new possibilities for teaching: personalized feedback, automated grading, and the ability to create dynamic, adaptive learning experiences. On the other hand, it challenges some of the most fundamental assumptions about assessment and integrity.
+
+The question that haunts many teachers is simple but profound: when I grade an assignment, am I assessing the student’s understanding, or the output of ChatGPT? The sophistication of AI-generated text is such that even experienced educators struggle to tell the difference (
+Köbis & Mossink, 2021). Plagiarism detection tools, once a reliable safeguard, are increasingly ineffective against the nuanced prose of large language models (
+Lim
+et al., 2023;
+Zhai, 2023).
+
+This uncertainty has prompted a range of responses. Some universities have embraced AI, publishing guidelines for its ethical and effective use (
+Russell Group, 2024). Others have taken a more cautious stance, with bans and strict penalties for unauthorized use, as seen at Sciences Po in Paris and in the New York City Education Department (
+Elsen-Rooney, 2023;
+France24, 2023). Yet even in institutions with clear policies, the day-to-day reality is often murky. When is AI use legitimate collaboration, and when is it academic dishonesty? The answer is rarely straightforward. This is not the first time that technology has upended the rituals of education. The introduction of calculators in mathematics classrooms sparked similar debates about fairness, skill, and the nature of learning. Over time, calculators were accepted, but only after educators reimagined what it meant to “show your work” and demonstrate understanding.
+
+The story of AI in higher education echoes this earlier transition, but with important differences. Calculators affected a specific domain; AI touches everything. Where calculators automated arithmetic, AI can generate essays, solve problems, and even simulate conversations. The challenge is not just to adapt assessment, but to rethink the entire educational process.
+
+Rethinking assessment: What does it mean to learn?
+
+Perhaps nowhere is the impact of AI felt more acutely than in the realm of assessment. Traditional methods, essays, take-home exams, and even some forms of online testing, are increasingly vulnerable to AI assistance. As a result, educators are rethinking what it means to measure learning. The focus is shifting from product to process, from rote memorization to critical thinking, creativity, and the ability to synthesize and apply knowledge.
+
+This transformation is not without its challenges. Designing assessments that are both rigorous and resistant to AI manipulation requires creativity and a willingness to experiment. Some faculty are turning to oral defenses, collaborative projects, and reflective journals as ways to capture the nuances of student learning. Others are leveraging AI itself, using it to provide timely feedback and support, while remaining vigilant against its misuse.
+
+The ultimate goal is to ensure that assessment remains fair, meaningful, and reflective of each student’s true capabilities. This means not only updating policies and practices, but also fostering a culture of integrity and trust-a culture in which the use of AI is transparent, ethical, and aligned with the values of higher education.
+
+As AI becomes more entrenched in the fabric of higher education, new questions arise about sustainability. The environmental impact of training large AI models is significant, with substantial energy consumption and a growing carbon footprint (
+Strubell
+et al., 2019). Universities are beginning to reckon with these costs, seeking out energy-efficient solutions and encouraging responsible use of digital resources.
+
+Equity, too, is a pressing concern. Not all students have equal access to AI tools or the skills to use them effectively. Without careful attention, the benefits of AI could accrue disproportionately to those who are already privileged, widening the gap between the haves and have-nots (
+Chiu
+et al., 2021). Addressing these challenges requires a commitment to inclusivity, ensuring that all members of the academic community have the support and resources they need to thrive in the AI era.
+
+New skill requirements for students
+
+As universities adapt their curricula to incorporate AI tools, there is a pressing need to redefine the competencies that students must acquire to succeed in a rapidly changing job market. This includes not only technical skills related to AI and data analysis but also soft skills such as creativity, emotional intelligence, and adaptability, which are increasingly valued in the workplace. Furthermore, the ability to critically assess AI-generated content and engage in ethical discussions surrounding technology use becomes paramount, as students must navigate a landscape rife with algorithmic bias and misinformation. By fostering a curriculum that balances technical proficiency with these essential soft skills, higher education can better prepare students to thrive in an environment where AI is ubiquitous, thereby ensuring that they are not only consumers of technology but also ethical stewards of its application in society (
+Asrifan
+et al., 2024;
+Bibi, 2024). This holistic approach to skill development will ultimately contribute to a more equitable and innovative workforce, capable of leveraging AI for positive social impact.
+
+Institutional responses: A patchwork of policy
+
+The integration of AI into higher education has prompted significant policy shifts, as institutions strive to balance innovation with ethical considerations and academic integrity. Some universities, like California State University, have embraced a proactive approach, partnering with AI developers to roll out customized tools across their campuses. These initiatives aim to provide personalized tutoring, streamline administrative tasks, and support research, all while maintaining robust oversight to ensure ethical use (
+Reuters, 2025).
+
+Elsewhere, caution prevails. Concerns about cheating and the erosion of academic standards have led some universities to restrict or even ban the use of AI tools in coursework. These divergent responses reflect the complexity of the issues at stake, as well as the absence of a clear consensus on best practices (
+Buolamwini, 2024).
+
+What is emerging, however, is a recognition that policy cannot be static. The landscape is evolving too quickly, and what works today may be inadequate tomorrow. Universities are beginning to see the value in continuous dialogue, sharing best practices, and adapting their guidelines as technology and social norms shift (
+Sullivan
+et al., 2023).
+
+The ethical tightrope: innovation and responsibility
+
+The rapid evolution of AI has outpaced the development of regulatory and policy frameworks. Universities find themselves in a “grey area,” where the rules are unclear and the stakes are high (
+Fitria, 2021). On one hand, there is an imperative to harness the power of AI to enhance learning and research. On the other, there is a responsibility to safeguard academic integrity, protect student privacy, and ensure that no one is left behind.
+
+The role of the educator is changing. No longer simply transmitters of knowledge, faculty are increasingly called upon to act as facilitators, helping students navigate a world where information is abundant and easily accessible (
+Gentile
+et al., 2023). This shift demands new pedagogical strategies and a commitment to ongoing professional development (
+Kiryakova & Angelova, 2023). It also requires a willingness to engage with the ethical dilemmas that AI presents, from questions of authorship to the potential for deepening educational inequalities.
+
+Universities are beginning to grapple with these challenges, experimenting with new forms of assessment that go beyond the traditional essay. Oral examinations, project-based learning, and in-class presentations are gaining traction as ways to ensure that students are demonstrating genuine understanding, rather than simply passing off AI-generated work as their own (
+Ateeq
+et al., 2024). At the same time, some institutions are exploring the use of AI itself as a tool for assessment, providing formative feedback and helping to detect instances of plagiarism, always with human oversight (
+AlAfnan
+et al., 2023).
+
+As part of the evolving educational landscape, developing algorithmic literacy among both students and educators is no longer optional - it is essential. Algorithmic literacy refers to the ability to understand, critique, and responsibly engage with algorithm-driven systems, such as generative AI tools. This includes recognizing how algorithms operate, what data they are trained on, how outputs are generated, and how these systems may encode bias or reinforce systemic inequalities (
+Gran
+et al., 2021;
+Long & Magerko, 2020).
+
+Without this knowledge, users may perceive AI-generated responses as objective or authoritative, failing to recognize the embedded assumptions, training limitations, or ethical blind spots that underlie these technologies. For example, large language models like ChatGPT are trained on vast and diverse data sets, but these corpora often reflect dominant cultural, linguistic, and ideological biases (
+Binns, 2018;
+Gebru
+et al., 2021). This can influence not only the content students receive but also the framing of knowledge itself.
+
+Teaching algorithmic literacy empowers learners to interrogate these outputs critically, fostering more reflective engagement with digital tools. It also equips educators to guide students in distinguishing between AI-generated content and original academic work, reinforcing the values of critical inquiry and intellectual autonomy.
+
+Some scholars argue that algorithmic literacy should be treated as a core academic skill, on par with digital literacy and information literacy, within university curricula (
+D'Ignazio & Klein, 2021). Embedding this literacy into academic programs can help demystify AI tools, promote ethical awareness, and reduce the risk of misuse or overreliance. As AI continues to shape educational experiences in subtle but profound ways, algorithmic literacy provides the necessary scaffolding to ensure that both educators and students remain informed, empowered, and critically engaged participants in the learning process.
+
+The road ahead: writing the next chapter
+
+The story of AI in higher education is still being written. Each institution, each classroom, and each student is part of an ongoing experiment, testing the boundaries of what is possible and what is desirable. The choices made today will shape the university of tomorrow, influencing not only how knowledge is created and shared, but also what it means to be educated in a world where machines can think, write, and even create.
+
+The path forward will not be easy. It will require courage, creativity, and a willingness to engage with complexity. But it will also offer opportunities for renewal and reinvention, as universities rediscover their purpose and reaffirm their commitment to the values that have always defined higher education: curiosity, integrity, and the pursuit of truth.
+
+In this unfolding narrative, the challenge is not simply to keep pace with technology, but to shape it-to ensure that the tools we create serve the broader goals of learning, equity, and human flourishing. The AI revolution in higher education is not just a story of machines, but a story of people: students, educators, and communities, working together to imagine a future in which technology enhances, rather than diminishes, the human spirit.
+
+Conclusion
+
+As we look ahead to the next decade, the integration of AI in higher education will likely necessitate a re-evaluation of institutional accreditation processes, ensuring they align with the evolving landscape of technology-enhanced learning. Accreditation bodies may need to establish new criteria that not only assess traditional academic rigor but also evaluate how effectively institutions are incorporating AI into their curricula and fostering ethical practices among students and educators alike. This shift could promote a more holistic view of educational quality, encouraging institutions to prioritize innovative teaching methods and ethical considerations in technology use. Furthermore, as the demand for AI literacy grows across various sectors, institutions that proactively adapt their accreditation standards will likely attract a broader student base, positioning themselves as leaders in the educational field and driving a more equitable workforce prepared for the challenges of an AI-driven future (
+Ibanga, 2024).
+
+Ethics and consent
+
+Ethical approval and consent were not required.
+
+Funding Statement
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement CA18231 (Multi-task, Multilingual, Multi-modal Language Generation [Multi3Generation]). 
+
+[version 1; peer review: 2 approved]
+
+Data availability statement
+
+No data are associated with this article.
+
+References
+
+- 
+
+AlAfnan MA, Dishari S, Jovic M, et al. :
+ChatGPT as an educational tool: Opportunities, challenges, and recommendations for communication, business writing, and composition courses.
+
+Journal of Artificial Intelligence and Technology.
+
+2023;3(2):60–68.
+10.37965/jait.2023.0184
+ [DOI] [Google Scholar]
+
+- 
+
+Asrifan A, Susanto AK, Elpisah E, et al. :
+AI-Driven curriculum design and course management.
+
+Advances in Educational Technologies and Instructional Design Book Series.
+
+2024.
+10.4018/979-8-3373-1017-6.ch007
+ [DOI] [Google Scholar]
+
+- 
+
+Ateeq A, Alzoraiki M, Milhem M, et al. :
+Artificial intelligence in education: implications for academic integrity and the shift toward holistic assessment. In:
+Front Educ. Frontiers Media SA.2024;9:
+1470979.
+10.3389/feduc.2024.1470979
+ [DOI] [Google Scholar]
+
+- 
+
+Baidoo-Anu D, Ansah E:
+Generative AI and the future of education.
+
+AI Society.
+
+2023;38(1):67–78.
+10.1007/s00146-023-01567-9
+ [DOI] [Google Scholar]
+
+- 
+BestColleges:
+Survey: how students use AI for assignments.
+ 2023.
+Reference Source
+
+- 
+
+Bibi A:
+Navigating the ethical landscape: AI Integration in education.
+ 2024.
+10.53555/kuey.v30i6.5546
+ [DOI] [Google Scholar]
+
+- 
+
+Binns R:
+Fairness in machine learning: lessons from political philosophy. In:
+ Conference on fairness, accountability and transparency. PMLR, 2018;149–159.
+Reference Source
+ [Google Scholar]
+
+- 
+
+Buolamwini J:
+Unmasking AI: my mission to protect what is human in a world of machines. Random House,2024.
+Reference Source
+ [Google Scholar]
+
+- 
+
+Chiu TKF, Lin TJ, Lonka K:
+Artificial intelligence in education: ethical and pedagogical considerations.
+
+Comput Educ.
+
+2021;176:
+104358. [Google Scholar]
+
+- 
+
+Deng X, Yu Z:
+A systematic review of machine-translation-assisted language learning for sustainable education.
+
+Sustainability.
+
+2022;14(13):7598.
+10.3390/su14137598
+ [DOI] [Google Scholar]
+
+- 
+D'ignazio C, Klein LF:
+Data feminism. MIT press,2023.
+Reference Source
+
+- 
+
+Dumbuya E:
+Personalized learning through artificial intelligence: revolutionizing education.
+
+International Journal of Science and Research Archive.
+
+2024;13(02):2818–2820.
+10.30574/ijsra.2024.13.2.2487
+ [DOI] [Google Scholar]
+
+- 
+Elsen-Rooney M:
+NYC education department blocks ChatGPT on school devices, networks.
+
+ChalkBeat New York.
+
+2023.
+Reference Source
+
+- 
+
+Fitria TN:
+Artificial intelligence (AI) technology in OpenAI ChatGPT application: a review of ChatGPT in writing English essay.
+ In:
+ELT Forum: Journal of English Language Teaching.
+
+2023;12(1):44–58.
+10.15294/elt.v12i1.64069
+ [DOI] [Google Scholar]
+
+- 
+France24:
+Top French university bans students from using ChatGPT. France 24, 2023.
+Reference Source
+
+- 
+
+Gebru T, Morgenstern J, Vecchione B, et al. :
+Datasheets for datasets.
+
+Commun ACM.
+
+2021;64(12):86–92.
+10.1145/3458723
+ [DOI] [Google Scholar]
+
+- 
+
+Gentile M, Città G, Perna S, et al. :
+Do we still need teachers? Navigating the paradigm shift of the teacher's role in the AI era. In:
+Front Educ. Frontiers Media SA,2023;8:
+1161777.
+10.3389/feduc.2023.1161777
+ [DOI] [Google Scholar]
+
+- 
+
+Gran AB, Booth P, Bucher T:
+To be or not to be algorithm aware: a question of a new digital divide?
+
+Information, Communication & Society.
+
+2021;24(12):1779–1796.
+10.1080/1369118X.2020.1736124
+ [DOI] [Google Scholar]
+
+- 
+
+Huang L:
+Ethics of artificial intelligence in education: student privacy and data protection.
+
+Science Insights Education Frontiers.
+
+2023;16(2):2577–2587.
+10.15354/sief.23.re202
+ [DOI] [Google Scholar]
+
+- 
+
+Ibanga IJ:
+Human and technology in the 21st century.
+
+Bincang Sains Dan Teknologi.
+
+2024.
+10.56741/bst.v3i02.580
+ [DOI] [Google Scholar]
+
+- 
+
+Igbokwe IC:
+Application of artificial intelligence (AI) in educational management.
+
+International Journal of Scientific and Research Publications (IJSRP).
+
+2023;13(3):300.
+10.29322/IJSRP.13.03.2023.p13536
+ [DOI] [Google Scholar]
+
+- 
+Intelligent.com:
+4 in 10 College Students Are Using ChatGPT On Assignments.2024.
+Reference Source
+
+- 
+
+Ji S, Pan S, Cambria E, et al. :
+A survey on knowledge graphs: representation, acquisition, and applications.
+ In:
+IEEE Trans Neural Netw Learn Syst.
+
+2022;33(2):494–514.
+10.1109/TNNLS.2021.3070843
+
+ [DOI] [PubMed] [Google Scholar]
+
+- 
+
+Kiryakova G, Angelova N:
+ChatGPT—A challenging tool for the university professors in their teaching practice.
+
+Educ Sci.
+
+2023;13(10):1056.
+10.3390/educsci13101056
+ [DOI] [Google Scholar]
+
+- 
+
+Köbis N, Mossink LD:
+Artificial intelligence versus Maya Angelou: experimental evidence that people cannot differentiate AI-generated from human-written poetry.
+
+Comput Human Behav.
+
+2021;114:
+106553.
+10.1016/j.chb.2020.106553
+ [DOI] [Google Scholar]
+
+- 
+
+Lim WM, Gunasekara A, Pallant JL, et al. :
+Generative AI and the future of education: Ragnarök or reformation? A paradoxical perspective from management educators.
+
+The International Journal of Management Education.
+
+2023;21(2):
+100790.
+10.1016/j.ijme.2023.100790
+ [DOI] [Google Scholar]
+
+- 
+
+Long D, Magerko B:
+What is AI literacy? Competencies and design considerations.
+
+Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems.
+
+2020;1–16.
+10.1145/3313831.3376727
+ [DOI] [Google Scholar]
+
+- 
+
+Michel-Villarreal R, Vilalta-Perdomo E, Salinas-Navarro DE, et al. :
+Challenges and Opportunities of Generative AI for Higher Education as Explained by ChatGPT.
+
+Educ Sci.
+
+2023;13(9): 856.
+10.3390/educsci13090856
+ [DOI] [Google Scholar]
+
+- 
+Russell Group of Universities:
+Principles on the use of generative AI in education.2024.
+Reference Source
+
+- 
+Reuters:
+OpenAI targets higher education in the U.S. with ChatGPT rollout at California State University.2025.
+Reference Source
+
+- 
+
+Strubell E, Ganesh A, McCallum A:
+Energy and policy considerations for deep learning in NLP.
+
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+
+2019;3645–3650.
+10.18653/v1/P19-1355
+ [DOI] [Google Scholar]
+
+- 
+
+Sullivan M, Kelly A, McLaughlan P:
+ChatGPT in higher education: Considerations for academic integrity and student learning.
+
+Journal of Applied Learning and Teaching.
+
+2023;6(1):31–40.
+10.37074/jalt.2023.6.1.17
+ [DOI] [Google Scholar]
+
+- 
+
+Zhai X:
+ChatGPT and AI: the game changer for education. ChatGPT: reforming education on five aspects.
+
+Shanghai Education.
+
+2023;16–17.
+Reference Source
+ [Google Scholar]
+
+Open Res Eur. 2025 Sep 15. doi: 10.21956/openreseurope.22406.r59025
+
+Reviewer response for version 1
+
+Nuhi Bllaca
+
+Nuhi Bllaca
+
+1Department of English and American Studies, University of Vienna, Vienna, Austria
+Referee
+Find articles by Nuhi Bllaca
+
+1
+
+- Author information
+
+- Copyright and License information
+
+1Department of English and American Studies, University of Vienna, Vienna, Austria
+
+Competing interests: No competing interests were disclosed.
+
+Roles
+
+Nuhi Bllaca: Referee
+
+Copyright: © 2025 Bllaca N
+This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+PMC Copyright notice
+
+In this essay, the authors make a valuable contribution by exploring the role of Generative AI (GenAI) in higher education. Their discussion addresses a key gap in the literature on AI tools’ influence in this field, highlighting both the opportunities and challenges of tools such as ChatGPT, particularly their impact on teaching, learning, and assessment. The essay underscores the responsibility of universities to ensure equitable access to AI technologies, establish clear policies that promote constructive use, and provide training programs that develop students’ AI literacy. Nonetheless, there are a few limitations worth noting: (a) It does not situate its analysis within a specific country or institutional context, which reduces the applicability of its insights; and (b) its reliance on secondary sources makes its claims less robust, underscoring the need for future empirical studies to validate these arguments
+
+Is the argument persuasive and supported by appropriate evidence?
+
+Yes
+
+Is the work clearly and cogently presented?
+
+Yes
+
+Is the topic of the essay discussed accurately in the context of the current literature?
+
+Yes
+
+Does the essay contribute to the cultural, historical, social understanding of the field?
+
+Yes
+
+Reviewer Expertise:
+
+Peer interaction, Collaborative writing, Computer-assisted language learning (CALL), Written corrective feedback, and the role of GenAI tools (ChatGPT) in L2 writing.
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.

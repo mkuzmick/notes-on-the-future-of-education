@@ -1,0 +1,99 @@
+---
+title: "NUS Policy for Use of AI in Teaching and Learning"
+source_url: ""
+source_title: "National University of Singapore"
+author: "NUS / Ashraf Kassim"
+date: "2024-08"
+type: institutional-policy
+tags: [ai-policy, peer-institutions, oral-exam-design, academic-integrity, ai-tools]
+summary: "NUS institutionally recognizes oral interviews as a legitimate AI-secure assessment format in official policy, with the provost declaring that trying to catch AI use is a 'lost cause' and shifting to structural assessment redesign."
+harvard_relevance: "NUS (QS #8 globally) formally names oral interviews in university AI policy as an assessment option--not experimental pedagogy but official institutional practice, providing Asian precedent for Harvard."
+---
+Policy for Use of AI in Teaching and Learning
+
+Elle's notes:
+ (updated August 2024) explicitly states: "If there is a need to test whether you possess a certain knowledge or capability without access to AI tools or other resources, your instructors will continue to arrange for appropriate assessment settings (e.g., an on-site proctored exam or oral interview)." This is significant because NUS institutionally recognizes oral interviews as a legitimate AI-secure assessment format, not just an ad-hoc workaround. Channel News Asia (November 2025) reported that NUS professors now say trying to catch AI use is a "lost cause"—but rather than despair, they're redesigning assessments. NUS Provost Ashraf Kassim: "NUS generally permits AI use in take-home assignments, provided students properly acknowledge and attribute the tools they use." Oral interviews become the verification mechanism when AI-assisted work needs validation.
+
+Harvard relevance: NUS is a peer research university (ranked #8 globally by QS 2025) and has done what Yale/Stanford/Duke haven't (Cycles 2-3): formally named "oral interview" in institutional AI policy as an assessment option. This isn't experimental pedagogy or individual faculty choice—it's official university policy. The "lost cause" quote is the 2026 inflection point: Singapore's top universities have given up on detecting AI use and shifted to structural assessment redesign. For Harvard, NUS provides Asian precedent: if Singapore's education system (consistently top-ranked internationally) endorses oral interviews as AI-secure, it's not a desperate Western measure but global best practice. The policy's phrasing—"appropriate assessment settings"—suggests oral interviews aren't inferior backup but context-appropriate primary assessment when testing knowledge "without access to AI tools."
+
+--
+ARTIFICIAL INTELLIGENCE & ROBOTS - October 2023
+Responsible Use of AI – Guidance from a Singapore Regulatory Perspective
+By Rajesh Sreenivasan, Regina Liew, Larry Lim, Steve Tan, Benjamin Cheong, Lionel Tan, Tanya Tang, Justin Lee (Rajah & Tann Singapore LLP)
+I.   Introduction
+
+Artificial intelligence ("AI") is no longer a mere concept of the future. Recent developments in AI technology have opened the doors to a wide range of practical use cases. This has been swiftly adopted by the commercial world across a variety of business functions, with the accelerating uptake rate indicating that AI systems are set to become ever more prevalent in our daily lives.
+
+As with any newly adopted technology, AI brings with it certain issues and concerns, which are further exacerbated by a general lack of familiarity. These risks have been brought to the forefront in light of the recent popularity of AI solutions, including issues of ethics, mistakes and hallucinations, privacy and confidentiality, disinformation and cyber-threats, and intellectual property.
+
+A common theme across AI adoption is the responsible use of AI – how should AI solutions be implemented, what forms of testing are available for AI systems, and what are the best practices when using AI? In the absence of established standards and practices, businesses have been looking to industry regulators for guidance.
+
+In this regard, Singapore regulators have demonstrated their awareness of and proficiency with AI and its related risks. In recent months, Singapore regulators have provided guidance on the responsible use of AI for businesses in various industries. These assist businesses utilising AI tools or seeking to implement such tools, and provide an indication of how AI regulations may be structured when established.
+
+In this article, we take a look at some of these initiatives in the Singapore context:
+
+The launch of the AI Verify Foundation, which aims to develop the AI Verify testing tool for the responsible use of AI;
+The public consultation on the Proposed Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems; and
+The Veritas Toolkit version 2.0 for the responsible use of AI in the financial sector developed by the Monetary Authority of Singapore ("MAS").
+II.   AI Verify
+
+On 7 June 2023, the Infocomm Media Development Authority ("IMDA") announced the launch of the AI Verify Foundation ("Foundation"), which has the aim of harnessing the collective contributions of the global open-source community to develop the AI Verify testing tool for the responsible use of AI. The Foundation will look to boost AI testing capabilities and assurance to meet the needs of companies and regulators globally.
+
+The Foundation will:
+
+Foster a community to contribute to the use and development of AI testing frameworks, code base, standards, and best practices;
+Create a neutral platform for open collaboration and idea-sharing on testing and governing AI; and
+Nurture a network of advocates for AI and drive broad adoption of AI testing through education and outreach.
+AI Verify provides organisations with an AI Governance Testing Framework and Toolkit to help validate the performance of their AI systems. Furthermore, AI Verify is extensible so that additional toolkits, such as sector-specific governance frameworks, can be built on top of it.
+
+AI Verify is a single integrated software toolkit that operates within the user organisation's enterprise environment, facilitating the conduct of technical tests on the user's AI models and the recording of process checks. AI Verify's testing processes comprise technical tests on three principles: fairness, explainability, and robustness. Process checks are applied to the identified principles. In recognition of global compliance requirements, the testing framework is consistent with internationally recognised AI governance principles, such as those from the EU, OECD and Singapore.
+
+The development of AI Verify and the launch of the Foundation indicate the Government's recognition of the importance of tools that are able to adequately test the performance of AI systems. Organisations using AI in their businesses require more reliable and standardised test systems, which will then allow them to make provisions for protection from the resulting risks.
+
+III.   Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems
+
+The Personal Data Protection Commission ("PDPC") has launched a public consultation ("Consultation") seeking views on the Proposed Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems ("Guidelines"). The Consultation has ended on 31 August 2023.
+
+The aim of these Guidelines is to:
+
+Clarify how the Personal Data Protection Act ("PDPA") applies to the collection and use of personal data by organisations to develop and deploy systems that embed machine learning models ("AI Systems") which are used to make decisions autonomously or to assist a human decision-maker through recommendations and predictions; and
+Provide baseline guidance and best practices for organisations on how to be transparent about whether and how their AI Systems use personal data to make recommendations, predictions, or decisions.
+The Guidelines are organised according to the stages of AI System implementation as follows:
+
+Stage of AI System Implementation	Topics
+Development, testing and monitoring: Using personal data for training and testing the AI System, as well as monitoring the performance of AI Systems post deployment.	
+Consent Obligation
+Business Improvement and Research Exceptions
+Implementing data protection measures
+Anonymisation
+Deployment: Collecting and using personal data in deployed AI Systems (business to consumer or B2C).	
+Notification and Consent Obligations
+Accountability Obligation
+Procurement: AI System or solution provider providing support to organisations implementing the AI System (business to business or B2B).	
+Notification and Consent Obligations
+Accountability Obligation
+The use of personal data in AI Systems raises important issues of privacy and confidentiality. Personal data may be used in the training of various AI Systems, including AI recommendation and decision systems in e-commerce to recommend and personalise products or content to users, and AI tools to predict product demand. While such data may be essential to the training process, organisations must be aware of how it interacts with their data protection obligations under the PDPA. The breach of such obligations may lead to the imposition of potentially onerous penalties and fines, as well as reputational damage. The Guidelines will thus be a vital source of guidance in this regard.
+
+IV.   Responsible use of AI in the financial sector
+
+On 26 June 2023, MAS announced the release of the Veritas Toolkit version 2.0, an open-source toolkit to enable the responsible use of AI in the financial industry, by helping financial institutions ("FIs") carry out the assessment methodologies for the Fairness, Ethics, Accountability and Transparency ("FEAT") principles. This is part of the MAS’ Veritas Initiative which was first announced in November 2019. The Veritas Toolkit version 2.0 builds on the earlier Veritas Toolkit version 1.0 which had been released in February 2022 that focused on the assessment methodology for fairness. The Veritas Toolkit version 2.0 features an improved fairness assessment methodology and new assessment methodologies for ethics, accountability and transparency. The FEAT principles provide guidance to firms offering financial products and services on the responsible use of AI and data analytics. The Veritas Toolkit is the first responsible AI toolkit developed specifically for the financial industry.
+
+In addition, the consortium behind the development of the Veritas Toolkit has published a white paper setting out the key lessons learnt by seven FIs which piloted the integration of Veritas methodology with their internal governance framework, including the importance of:
+
+a consistent and robust responsible AI framework that spans geographies;
+a risk-based approach to determine the governance required for the AI use cases;
+responsible AI practices and training for the new generation of AI professionals in the financial sector.
+The MAS also announced additional use cases which the consortium had developed to demonstrate how the toolkit could be applied, including the application of transparency assessment methodology to predictive AI-based policy underwriting for insurers as well as application of the FEAT assessment methodology to fraudulent payment detection systems.
+
+MAS has stated that the consortium will focus on training in the area of responsible AI and facilitate the adoption of the Veritas Methodologies and Toolkit by more FIs.
+
+In line with MAS' focus on responsible use of AI, on 31 May 2023, MAS and Google Cloud signed a Memorandum of Understanding ("MoU") to collaborate on generative AI solutions grounded on responsible AI practices. The MoU provides a framework for cooperation in technology and industry best practices in three areas:
+
+Identifying potential use cases, conducting technical pilots, and co-creating solutionsin responsible generative AI for MAS' internal and industry-facing digital services;
+Cooperating on responsible generative AI technology application development and test-bedding of AI products for business functions and operations; and
+Supporting the technical competency development on responsible generative AI and deep AI skillsets for MAS technologists.
+V.   Concluding Remarks
+
+Singapore regulators such as IMDA, PDPC and MAS have demonstrated themselves to be deeply involved in issues of AI deployment and development and how they apply to their respective industries. This can be seen by their efforts at developing toolkits and guidance papers for organisations and businesses on the responsible use of AI.
+
+Currently, it remains to be seen whether specific AI legislation or regulations will be developed to impose binding obligations on AI users. In the meantime, the guidance offered by the regulators in the initiatives highlighted above may provide a shape of things to come.

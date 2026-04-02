@@ -1,0 +1,57 @@
+---
+title: "Rethinking Oral Examinations for Undergraduate Students"
+source_url: "https://ii.library.jhu.edu/2016/06/22/rethinking-oral-examinations-for-undergraduate-students/"
+source_title: "Johns Hopkins Innovative Instructor"
+author: "Richard Brown"
+date: "2016-06-22"
+type: case-study
+tags: [oral-exam-design, stem, deep-learning, scale, feedback, low-stakes]
+summary: "JHU math professor used 20-minute oral finals with 6 students: could probe deeper when students got stuck and adjust follow-up questions (impossible with written exams); 4 of 6 students liked the format, but acknowledged it wouldn't work with more than 10 students."
+harvard_relevance: "Demonstrates oral exams' diagnostic power for assessing deep understanding but confirms the scalability challenge that Harvard must solve for larger enrollments."
+---
+Rethinking Oral Examinations for Undergraduate Students
+https://ii.library.jhu.edu/2016/06/22/rethinking-oral-examinations-for-undergraduate-students/
+
+Elle's notes:
+Johns Hopkins Innovative Instructor, 2016
+A practical case study from Richard Brown (Mathematics) who experimented with oral finals in Honors Multivariable Calculus with 6 undergraduates. Key insights:
+• Students voted to choose the oral format after discussion
+• 20-minute individual appointments with tailored questions
+• Brown could probe deeper when students got stuck, adjust follow-up questions to assess understanding — impossible with written exams
+• 4 of 6 students "really liked the format"
+• Limitation acknowledged: "would not be possible with more than 10 students"
+The article also cites key literature: Asklund & Bendix (2003) found oral exams "better suited for evaluating higher levels of understanding based on Bloom's Taxonomy"; Huxham et al. (2012) found oral assessments offer "1) oral communication skills, 2) more authentic assessment, 3) more inclusive, 4) gauging understanding, 5) less potential for plagiarism, 6) better at conveying nuances, 7) easier to spot rote-learning."
+
+Harvard relevance: The scalability concern (10 students max) is the key challenge. But the findings on deeper assessment and plagiarism resistance are exactly what faculty are seeking.
+
+--
+
+Oral examinations, also called viva voce, have long been associated with graduate studies, but many years ago, when I was an undergraduate, oral exams were not unheard of. All undergraduates at my university were required to write a thesis, and many of us took comprehensive written and oral examinations in our fields. I had several courses in my major field, art history, which held oral examinations as the final assessment of our work. At the time, this practice was not uncommon in British and European universities for undergraduates. Since then it has become a rarity both here and abroad, replaced by other forms of assessment for undergraduate students.
+
+Recently I learned that Richard Brown, Director of Undergraduate Studies and an associate teaching professor in the JHU Department of Mathematics, had experimented with oral examinations of his undergraduate students in Honors Multivariable Calculus.
+
+Some background: Honors Multivariable Calculus is designed to be a course for students who are very interested in mathematics, but are still learning basics. Students must have the permission of the instructor to enroll. They are likely to be highly motivated learners. In this instance, Brown had only 6 students in the class—five freshmen and one sophomore. For the freshmen, this fall course was their first introduction to a college math course. They came in with varying levels of skill and knowledge, knowing that the course would be challenging. The course format was two 75 minute lectures a week and one hour-long recitation (problem solving) session with a graduate student teaching assistant. This is the part of the course where students work in an interactive environment, applying theory to practice, answering questions, and getting an alternate point of view from the graduate student assistant instructor.
+
+Assessments in the course included two in-class midterms (written and timed), weekly graded homework assignment (usually problems), and the final exam. As Brown thought about the final exam, he realized that he had already seen his students approach to timed and untimed “mathematical writing” in the midterms and homeworks. So, why not try a different environment for the final and do an oral examination? He discussed the concept with the students in class and allowed the students to decide as a class which option they preferred. The students agreed to the oral exam.
+
+Brown made sequential appointments with the students, giving them 20 minutes each for the exam. He asked them different questions to minimize the potential for sharing information, but the questions were of the same category. For example, one student might be asked to discuss the physical or geometric interpretation of Gauss’s Theorem, and another would be given the same question about Stokes’s Theorem. If a student got stuck in answering, Brown would reword the question or provide a small hint. In contrast, on a written exam, if a student gets stuck, they are stuck. You may never identify exactly what they know and don’t know. Another advantage, Brown discovered, was that by seeing how a student answered a question, he could adjust follow up questions to get a deeper understanding of the student’s depth of learning. He could probe to assess understanding or push to see how far the student could go. He found the oral exam gave him a much more comprehensive view of their knowledge than a written one.
+
+In terms of grading, Brown noted that by the end of the semester he knew the students quite well and had a feel for their levels of comprehension, so in many ways the exam was a confirmation. He did not have a written rubric for the exam, as he did for the midterms, but he did take notes to share with the students if they wanted to debrief on their performance. He saw this as a more subjective assessment, balanced by the relatively objective assessment of the homeworks and midterms.
+
+Following up with students after the exam, Brown found that four of the six students really liked the format and found it easier than anticipated. Only two of the students had planned to become majors at the start of the course, but ultimately four declared a mathematics major. Brown noted that he would like to use the oral examination again in the future, but felt that it would not be possible with more than 10 students in a class.
+
+After talking with Brown, I searched to find recent literature on undergraduate oral exams. Two papers are worth reading if the concept is of interest:
+
+Oral vs. Written Evaluation of Students, Ulf Asklund and Lars Bendix, Department of Computer Science, Lund Institute of Technology, Pedagogisk Inspirationskonferens, Lund University Publications, 2003. A conference paper detailing advantages and disadvantage of the two formats. The authors, based on their experience, found that oral examinations are better suited than written for evaluating higher levels of understanding based on Bloom’s Taxonomy.
+
+Oral versus written assessments: A test of student performance and attitudes, Mark Huxham, Fiona Campbell, and Jenny Westwood, Assessment & Evaluation in Higher Education 37(1):125-136, January 2012. This study of two cohorts of students examined “…[s]tudent performance in and attitudes towards oral and written assessments using quantitative and qualitative methods.” Many positive aspects of oral examinations were found. See also a SlideShare Summary of this paper. Possible benefits of oral assessment included: “1) Development of oral communication skills 2) More ‘authentic’ assessment 3) More inclusive 4) Gauging understanding & Encouraging critical thinking 5) Less potential for plagiarism 6) Better at conveying nuances of meaning 7) Easier to spot rote-learning.”
+
+A site to explore is the University of Pittsburgh’s Speaking in the Disciplines initiative. “…committed to the centrality of oral expression in the educational process.” Detailed information for those considering oral examinations is provided, including benefits (“direct, dialogic feedback,” “encourages in-depth preparation,” “demands different skills,” “valuable practice for future professional activity,” and “reduced grading stress”) and potential drawbacks (“time,” “student resistance and inexperience,” “subjective grading,” and “inadequate coverage of material”).
+
+**********************************************************************************
+
+Macie Hall, Senior Instructional Designer
+
+Center for Educational Resources
+
+Images source: Pixabay.com

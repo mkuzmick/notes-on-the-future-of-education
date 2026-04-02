@@ -1,0 +1,55 @@
+---
+title: "Plato's Argument Against Writing"
+source_url: "https://fs.blog/an-old-argument-against-writing/"
+source_title: "Farnam Street"
+author: "Shane"
+date: "2013-02-04"
+type: historical-source
+tags: [philosophy, history, written-vs-oral, socratic-method, memory-and-retention]
+summary: "Socrates warned writing would 'implant forgetfulness' because people would rely on external marks rather than internalizing knowledge; written texts 'seem intelligent' but 'go on telling just the same thing forever'--a critique that applies eerily well to AI-generated essays."
+harvard_relevance: "The foundational philosophical argument for oral assessment, 2,400 years before ChatGPT: Socratic dialogue as the gold standard for testing real comprehension through interactive questioning."
+---
+Plato's Argument Against Writing
+https://fs.blog/an-old-argument-against-writing/
+
+Elle's notes:
+In Plato's dialogue Phaedrus, Socrates warns that writing "will implant forgetfulness in [people's] souls" because "they will cease to exercise memory, relying on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks." He compares written texts to paintings: "If you question them, they maintain a most majestic silence... They seem to talk to you as though they were intelligent, but if you ask them anything about what they say, they go on telling just the same thing forever." Writing offers "not memory, but reminder... not true wisdom but only the semblance of wisdom." Socrates believed "face-to-face communication was the only way one person could transmit knowledge to another."
+
+Harvard relevance: This is the foundational philosophical argument for oral assessment—2,400 years before ChatGPT. Socrates's critique applies eerily well to AI-generated essays: students submit text that "seems intelligent" but cannot defend when questioned, creating "the semblance of wisdom" rather than genuine understanding. The irony, of course, is that we know Socrates's argument only because Plato wrote it down—illustrating the tension between preservation and pedagogy. For Harvard faculty, this grounds the oral exam conversation in Western philosophy's bedrock: the Socratic dialogue as the gold standard for testing real comprehension through interactive questioning.
+
+--
+
+Philosophy|Reading Time: 2 minutes
+
+Plato’s Argument Against Writing
+
+“Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.”
+
+— Chinese Proverb
+
+***
+
+From Plato’s Phaedrus, commenting on the invention of writing.
+
+Here, O king, is a branch of learning that will make the people of Egypt wiser and improve their memories. My discovery provides a recipe for memory and wisdom. But the king answered and said ‘O man full of arts, the god-man Toth, to one it is given to create the things of art, and to another to judge what measure of harm and of profit they have for those that shall employ them.’
+
+The people who invent something new, create a new tool or technology, are not necessarily the people who are going to understand what the social impact of those inventions will be.
+
+And so it is that you by reason of your tender regard for the writing that is your offspring have declared the very opposite of its true effect. If men learn this, it will implant forgetfulness in their souls. They will cease to exercise memory because they rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.
+
+What you have discovered is a recipe not for memory, but for reminder. And it is no true wisdom that you offer your disciples, but only the semblance of wisdom, for by telling them of many things without teaching them you will make them seem to know much while for the most part they know nothing. And as men filled not with wisdom but with the conceit of wisdom they will be a burden to their fellows.
+
+One thing we’re not doing as effectively today as we’ve done in the past is to learn lessons by heart. If you don’t know things with perfect recall, how can you expect to apply them?
+
+Socrates goes on to compare a written text to a painting:
+
+You know, Phaedrus, that is the strange thing about writing, which makes it truly correspond to painting. The painter’s products stand before us as though they were alive. But if you question them, they maintain a most majestic silence. It is the same with written words. They seem to talk to you as though they were intelligent, but if you ask them anything about what they say from a desire to be instructed they go on telling just the same thing forever.
+
+Socrates believed that writing was not an effective means of communicating knowledge. To him, face-to-face communication was the only way one person could transmit knowledge to another.
+
+Oh the irony of having an argument against writing in a written text.
+
+Read Next
+
+Next Post:Gossip
+Nobody is untouched by gossip. We dish it. We listen to it. Or, least desirably, we are the subject of it. One definition of gossip is “bits …

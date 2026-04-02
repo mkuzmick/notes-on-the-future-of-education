@@ -1,0 +1,43 @@
+---
+title: "BCG case interview: elite consulting assesses almost entirely through oral exams"
+source_url: "https://careers.bcg.com/global/en/case-interview-preparation"
+source_title: "BCG Careers"
+author: "Boston Consulting Group"
+date: ""
+type: practitioner-guide
+tags: [business, professional-domains, oral-exam-design, socratic-method]
+summary: "Elite consulting firms assess candidates almost entirely through oral case interviews simulating real-world client problems, emphasizing structured thinking, business judgment, and transparent reasoning -- not memorized frameworks."
+harvard_relevance: ""
+---
+Case Interview Preparation
+https://careers.bcg.com/global/en/case-interview-preparation
+
+Elle's notes:
+Key insight: Elite consulting firms assess candidates almost entirely through oral case interviews. BCG's explicit guidance: "Do: Structure the problem, develop a framework, show business judgment, think before speaking." "Don't: Rush into analysis without understanding the problem, hide your thought process, defend your solution at all costs." The interview simulates "real-world client problems."
+
+--
+
+BCG Case Interview Preparation
+
+BCG offers case interview preparation resources for candidates applying to client-facing roles. "Case interviews are a key step in the interview process for client-facing roles, simulating real-world client problems."
+
+Interactive Case Quizzes:
+1. Climate Strategy — Develop a business case for environmental impact reduction
+2. Digital Strategy — Address declining customer satisfaction at a digital bank
+3. Cloud Migration — Evaluate enterprise resource planning system upgrades
+
+Key Do's:
+- Listen actively and be authentic
+- Structure problems systematically
+- Demonstrate business judgment
+- Think creatively before speaking
+- Synthesize findings into conclusions
+
+Key Don'ts:
+- Rush analysis without understanding the problem
+- Panic if solutions aren't immediately obvious
+- Hide your reasoning process
+- Use memorized frameworks rigidly
+- Rely on advance case knowledge
+
+BCG evaluates "your approach" rather than demanding a single correct answer.

@@ -1,0 +1,73 @@
+---
+title: "AI as accommodation for deaf students: the captioning paradox"
+source_url: "https://nationaldeafcenter.org/news-items/ai-as-an-accommodation-for-deaf-college-students/"
+source_title: "National Deaf Center"
+author: "National Deaf Center"
+date: "2025-09"
+type: research-paper
+tags: [accessibility, neurodivergence, ai-tools, equity, oral-exam-design]
+summary: "AI transcription enables oral assessment for deaf students but often fails in high-stakes contexts; 87% of deaf students prefer human captions. Oral exam design must build accommodations in from the start, not retrofit them."
+harvard_relevance: "If Harvard adopts AI-assisted oral exams, disability services must ensure human-reviewed transcripts and ASL alternatives."
+---
+AI as an Accommodation for Deaf College Students
+https://nationaldeafcenter.org/news-items/ai-as-an-accommodation-for-deaf-college-students/
+
+Elle's notes:
+A September 2025 survey by the National Deaf Center found that 63% of disability services offices provide AI-powered notetaking tools and 61% provide auto-captioning for streamed events—but only 23% provide AI reading/writing tools and 14% provide content development tools like ChatGPT. The report documents a "captioning paradox": while AI captions are widely used, deaf students report they often fail in high-stakes contexts (classroom lectures, critical discussions). However, the broader finding is transformative: AI can accelerate Universal Design for Learning (UDL) by offering "multiple ways for students to access information, express ideas, and engage with course content." For oral assessments specifically, AI transcription and real-time captioning can make oral exams accessible to deaf students in ways traditional written exams cannot.
+
+Harvard relevance: This reveals the accommodation paradox in AI-powered oral assessment. Cycle 2 documented how AI transcription systematically disadvantages Black speakers and disfluent speech (ASR bias). Now Cycle 3 shows AI transcription enables oral assessment for deaf students who need real-time captioning to participate. The solution: design oral exams with accommodations built in from the start, not retrofitted. If Harvard adopts AI-assisted oral exams, disability services must ensure: (1) Human-reviewed transcripts for deaf students (AI generates initial captions, humans correct errors), (2) ASL interpretation as alternative to AI captioning for high-stakes contexts, (3) Extended time for students reviewing transcripts. The NDC finding that only 14% of schools provide ChatGPT as accommodation also matters—if Harvard allows students to use AI for oral exam preparation (practice defending arguments with AI sparring partners), that access must be equitable.
+
+--
+Colleges are still struggling to set clear AI policies, even as students, faculty, and staff are already using these tools. Nearly 80% of Gen Z students report using AI, and most believe that schools should not only permit its use in the classroom but also be required to teach students how to use it effectively.
+
+Currently, most institutions allow faculty to set their own AI guidelines. While this may seem flexible, this patchwork approach can create confusion and can unintentionally create barriers when AI is needed for academic support or as a formal accommodation.
+
+At the National Deaf Center, we’ve been closely monitoring national trends, collecting data from disability services professionals, and reviewing the growing body of research on how deaf college students are using AI. The emerging evidence shows that AI can offer deaf students greater flexibility, more options, and autonomy in navigating the college experience—but only with careful consideration of the right fit and context.
+
+What the Data Shows: AI Use Is Widespread—But Narrow
+This year, NDC’s disability services survey included new questions about AI use. Results show that AI is already being provided as part of access services on many campuses:
+
+63% of respondents reported providing AI-powered notetaking tools.
+61% provide auto captioning for streamed events, and 43% for in-person communication.
+
+However, the provision of AI tools that support writing and content creation is far less common:
+
+Only 23% provide AI reading and writing tools (e.g., Grammarly).
+Just 14% provide access to AI content development tools like ChatGPT.
+These findings suggest that while AI is frequently offered to improve access to information, it is underutilized in supporting reading, writing, and broader academic expression—areas where it could expand deaf students’ engagement.
+
+The Captioning Paradox: Widely Used, But Context Is Key
+The irony is clear: deaf students often express dissatisfaction with auto captions, yet these are among the most widely adopted AI tools. Research across multiple industries shows only 14% of people believe auto captions are fully accessible, though many continue to rely on auto captions because they are inexpensive and widely available. The Association of Transcribers and Speech-to-Text Providers found that 87% of deaf college students “agree” or “strongly agree” that human-generated captions are more effective than AI-generated ones. NDC’s own research reflects these sentiments—with one student lamenting:
+
+“My first week I had no interpreters but had Zoom [auto] captions which did not allow me to participate.”
+
+However, the context matters. In high-stakes communication such as classroom lectures, field experiences, or critical placement discussions, leaving accuracy up to AI can create significant barriers.  In more casual or low-stakes situations, some students may prefer AI captions because they are immediate and involve less delay. We don’t yet have enough data to fully understand these nuances, but it is clear that this is not an “all or nothing” discussion.
+
+These subjective experiences matter and should be central to the accommodation decision-making process. The U.S. Department of Education’s Office for Civil Rights (OCR) has made it clear: if a deaf student reports that AI-generated captions are inaccurate and the institution fails to respond, it could constitute a Section 504 violation (OCR, 2024, Example 14). Yet even as OCR reinforces the need to center student feedback, institutional decisions about captioning are often shaped more by budget and convenience rather than by student input.
+
+Recent findings show that when given the option, deaf students use AI tools in ways that support fuller access to learning, communication, and engagement in higher education. This broader potential becomes even more evident when we look beyond captions to other uses of generative AI.
+
+AI as a Pathway to UDL and Expanded Access
+Generative AI has the potential to accelerate the adoption of Universal Design for Learning (UDL) by offering multiple ways for students to access information, express ideas, and engage with course content. This was reflected in findings from the 2025 NASPA Disability Knowledge Community meeting, where disability services professionals described how AI is already being explored to support a wide range of academic needs. Many cited its value for improving note-taking and organizing information, assisting with task management, helping students complete assignments, and enhancing communication across settings.
+
+These capabilities align directly with UDL principles by providing flexible, adaptive supports that respond to individual learning needs. Rather than relying on one-size-fits-all accommodations, AI can be tailored to give students more autonomy and choice in how they interact with their coursework and peers.
+
+For deaf college students, the benefits are particularly clear. Huffman et al. (2024) found that text-based AI tools helped reduce language barriers and make communication with hearing peers easier, addressing two of the most persistent challenges in higher education for deaf students. By clarifying complex course content, translating materials into more accessible formats, and providing on-demand support, AI can enable fuller participation in academic life and expand opportunities for learning, communication, and engagement.
+
+From “Can We Use AI?” to “Why Aren’t We Already Using It?”
+The question is no longer simply “Can AI be an accommodation for deaf students?” but “Why aren’t we leveraging it fully?”
+
+Deaf students are already using generative AI to break down communication barriers, understand coursework, and self-advocate. Disability services professionals are recognizing its potential, and some institutions like Teachers College are updating syllabus language to include AI accommodations, such as:
+
+“Students with disabilities are eligible for reasonable accommodations to permit them equal access… If you are a student registered with [Disability Services Office] with a generative AI accommodation, please speak with me directly about your needs.”
+
+Moving Forward: Policies That Enable Choice, Access, and Agency
+As AI becomes more central in academic life, institutions must ensure their policies:
+
+Permit generative AI use in ways that promote flexibility, choice, and autonomy.
+Reflect student feedback and accessibility needs—not just convenience or cost.
+Recognize AI’s role as both an access tool (with limitations) and a cognitive support.
+
+For institutions seeking guidance on how to integrate these tools into practice, CIDDL – The Center for Innovation, Design, and Digital Learning offers a wealth of federally-funded resources. CIDDL provides research-based strategies and examples for embedding technology, including generative AI, into instructional design to improve access and engagement for students with disabilities.
+
+The opportunity is here: thoughtful AI policy and practice can remove barriers, broaden options, and empower deaf students to take control of their college experience.

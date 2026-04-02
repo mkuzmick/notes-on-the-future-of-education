@@ -1,0 +1,118 @@
+---
+title: "Presentations: Research on Oral Communication in the Classroom"
+source_url: "https://ablconnect.harvard.edu/presentations-research"
+source_title: "Harvard ABLConnect"
+author: ""
+date: ""
+type: pedagogy-guide
+tags: [harvard, pedagogy, scaffolding, oral-exam-design, professional-domains, feedback]
+summary: "Harvard's own ABLConnect resource shows oral presentations improve both communication skills and content mastery simultaneously, emphasizing clear expectations, explicit modeling, constructive feedback, and multiple practice opportunities per semester."
+harvard_relevance: "Harvard already has pedagogical infrastructure publishing research-based guidance on oral assignments; faculty don't need to start from scratch."
+---
+Presentations
+https://ablconnect.harvard.edu/presentations-research
+
+Elle's notes:
+Harvard's Active Learning teaching resource synthesizes research on oral presentations:
+• Key finding: "Similar to writing skills, oral presentations may be integrated into content courses across the disciplines, thus giving students ample opportunity to practice and polish this skill"
+• Skills transfer: "When students present material, they experience the twofold benefit of improving their oral communication skills while simultaneously strengthening their mastery of the content they present"
+• Assessment guidance: Research emphasizes "clear expectations," "explicit modeling," "constructive feedback," and "multiple opportunities to present within a semester"
+• Professional relevance: Oral communication is a "key professional skill"—yet often "confined to an isolated course on public speaking, if formally addressed at all"
+
+Why it matters: Harvard already has a pedagogical infrastructure (ABLConnect) publishing research-based guidance on oral assignments. Faculty don't need to start from scratch—the scaffolding exists.
+
+--
+
+Presentations
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Although standing up to speak in front of the class can be a nerve-wracking experience (Adams, 2004; Barton, Heilker & Rutowski, n.d.; De Grez, Valcke, & Roozen, 2013; Shaw, 1999), students stand to reap many benefits from doing so (De Grez et al. 2013; Kirby & Romaine, 2009; Shaw, 1999). Instructors may assign presentations for a variety of reasons, including to strengthen students’ oral communication skills, to give the students a role in carrying out some of the teaching, to formally diversify the voices who are participating in classroom discourse, and as a method of evaluating students’ learning that goes beyond traditional exams and essays (University of Pittsburgh, n.d.). 
+
+Despite the fact that oral communication is a key professional skill (Fallow & Steven, 2000; Maes, Weldy, & Icenogle, 1997; Pittenger, Miller, & Mott, 2004; Shaw, 1999), efforts to help undergraduates develop this skill are often confined to an isolated course on public speaking, if they are formally addressed at all (Shaw, 1999). Similar to writing skills, oral presentations may be integrated into content courses across the disciplines, thus giving students ample opportunity to practice and polish this skill (Barton, Heilker & Rutowski, n.d.). Requiring students to prepare and deliver oral compositions is rooted in rhetoric, the ancient art of effective and persuasive speaking (Barton, Heilker & Rutowski, n.d.; Haber, & Lingard, 2001).
+
+Depending on the instructor’s pedagogical goals, as well as time constraints, students may be asked to complete presentations in groups or as individuals. Although one study found that group presentations, which activate cooperative learning processes (McCafferty, Jacobs & Iddings, 2006), were more effective than individual presentations in improving students’ speaking skills in a second language, students indicated a preference for completing individual presentations nonetheless (Chou, 2011). Problems associated with group presentations include that group members often have difficulties scheduling time to work together, making joint decisions about the presentation, and believing that all members contributed equally to the work (Chou, 2011). Nevertheless, instructors may think that it is important for students to work through the challenges associated with collaborative work, and researchers have noted that group, relative to individual, presentations tend to relieve students’ performance anxiety (Chou, 2011; Tucker & McCarthy, 2001). Some instructors address the problem of unequal group member contributions by letting the students know in advance that one portion of their presentation grade will be based on the instructor’s evaluation of the finished product (the presentation itself), while another portion will be calculated from group members’ evaluations of each other’s contributions to the product (Shaw, 1999). 
+
+The research literature on oral presentations has been called  “fragmented” (De Grez, Valcke & Roozen, 2009a, p. 112); however, key topics in this literature include the need to set clear expectations and explicitly model good presentation skills (Barton, Heilker & Rutowski, n.d.; De Grez, Valcke & Berings, 2010; De Grez, Valcke & Roozen, 2009a; De Grez, Valcke & Roozen; 2009b; De Grez, Valcke, & Roozen, 2013; University of Pittsburgh, n.d.), the importance of providing students with constructive feedback on their presentations and giving them multiple opportunities to present within a semester so they can refine their skills (Arias et al., 2014; De Grez, Valcke & Roozen, 2009a; De Grez, Valcke & Roozen, 2013; Shaw, 1999), the need to provide supports around students’ public speaking anxiety (Barton, Heilker & Rutowski, n.d.; Hartman & LeMay, 2004; Shaw, 1999), and the importance of evaluating students’ presentations (Arias et al., 2014; Barton, Heilker & Rutowski, n.d.; Chen, 2010; Garcia-Ross, 2011; Shaw, 1999; Sterling, 2008; Weimer, 2013). There is a relatively robust literature on assigning student presentations to strengthen the oral proficiency of English Language Learners (Adams, 2004; Hill & Storey, 2003; Hincks, 2010; Kibler, Salerno & Palacios, 2014).
+
+Students gain confidence in expressing themselves verbally through making presentations (De Grez, Valcke & Berings, 2010; De Grez, Valcke & Roozen, 2009a; De Grez, Valcke & Roozen, 2009b; De Grez, Valcke & Roozen, 2013; Weimer, 2013). If students will be later required to write a paper on the same topic as their presentation, instructors note that the feedback students receive during the presentation tends to improve the quality of their final papers (Shaw, 1999). In practicing the skills required to deliver an effective oral presentation, students also improve their higher-order thinking skills (Kirby & Romaine, 2009; Maes, Weldy & Icenogle, 1997; Ulinski & O’Callaghan, 2002). Although instructors may shy away from assigning presentations because of the pressure they feel to cover content (De Grez, Valcke & Roozen, 2009b; Hill & Storey, 2003),  Shaw (1999) notes that when students present material, they experience the twofold benefit of improving their oral communication skills while simultaneously strengthening their mastery of the content they present.
+
+Written by Julia Hayden Galindo, Ed.D., Harvard Graduate School of Education
+
+ 
+
+References:
+
+Adams, K. (2004). Modeling success:  Enhancing international postgraduate research students’ self-efficacy for research seminar presentations. Higher Education Research & Development, 23(2), 115-130. DOI: 10.1080/0729436042000206618
+
+Arias, M., Pando, P., Rodríguez, A., Miaja, P.F., Vázquez, A., Fernández, M., & Lamar, D.G. (2014). The master’s thesis:  An opportunity for fostering presentation skills. IEEE Transactions on Education, 57(1), 61-68.
+
+Barton, J. Heilker, P., & Rutowski, D. (n.d.). Teaching oral presentation skills in first-year writing courses. Virginia Tech. English Department. Retrieved June 4, 2014 from: https://www.brandeis.edu/das/downloads/TeachingOralPresentationSkillsinFirst-YearWritingCourses.pdf
+
+Chen, C. (2010). The implementation and evaluation of a mobile self- and peer-assessment system. Computers and Education, 55(1), 229-236.
+
+Chou, M. (2011). The influence of learner strategies on oral presentations:  A comparison between group and individual performance. English for Specific Purposes, 30, 272-285.
+
+De Grez, L., Valcke, M., & Berings. (2010). Peer assessment of oral presentation skills. Procedia Social and Behavioral Sciences, 2, 1776-1780.  
+
+De Grez, L., Valcke, M., & Roozen, I. (2009a). The impact of an innovative instructional intervention on the acquisition of oral presentation skills in higher education. Computers and Education, 53, 112-120.
+
+De Grez, L., Valcke, M., & Roozen, I. (2009b). The impact of goal orientation, self-reflection and personal characteristics on the acquisition of oral presentation skills. European Journal of Psychology of Education, 24(3), 293-306.
+
+De Grez, L., Valcke, M., & Roozen, I. (2013). The differential impact of observational learning and practice-based learning on the development of oral presentation skills in higher education. Higher Education Research & Development 33(2), 256-271. DOI: 10.1080/07294360.2013.832155
+
+Fallow, S. & Steven, C. (2000). Building employability skills into the higher education curriculum:  A university-wide initiative. Education & Training, 42, 75-82.
+
+Garcia-Ross, R. (2011). Analysis and validation of a rubric to assess oral presentation skills in university contexts. Electronic Journal of Research in Educational Psychology, 9(3), 1043-1062.
+
+Haber, R.J. & Lingard, L.A. (2001). Learning oral presentation skills:  A rhetorical analysis with pedagogical and professional implications. Journal of General Internal Medicine, 16, 308-314.
+
+Hartman, J.L. & LeMay, E. (2004). Managing presentation anxiety. The Delta Pi Epsilon Journal, 46(3), 145-154.
+
+Hill, M. & Storey, A. (2003). SpeakEasy:  Online support for oral presentation skills. English Language Teaching Journal, 57(4), 370-376.
+
+Hincks, R. (2010). Speaking rate and information content in English lingua franca oral presentations. English for Specific Purposes, 29(1), 4-18.
+
+Kibler, A.K., Salerno, A.S., & Palacios, N. (2014). ‘But before I go to my next step’:  A longitudinal study of adolescent English language learners’ transitional devices in oral presentations. TESOL Quarterly, 48(2), 222-251.
+
+Kirby, D. & Romaine, J. (2009). Developing oral presentation skills through accounting curriculum design and course-embedded assessment. Journal of Education for Business, 85, 172-179.
+
+Maes, J.D., Weldy, T.G., Icenogle, M.L. (1997). A managerial perspective:  Oral communicative compentency is most important for business students in the workplace. The Journal of Business Communication, 34, 67-80.
+
+McCafferty, S.G., Jacobs, G.M., & Iddings, A.C.D. (2006). Cooperative learning and second language teaching. Cambridge, England:  Cambridge University Press.
+
+Pittenger, K.K.S., Miller, M.C., & Mott, J. (2004). Using real-world standards to enhance students’ presentation skills. Business Communication Quarterly, 67, 327-336.
+
+Shaw, V.N. (1999). Reading, presentation, and writing skills in content courses. College Teaching, 47(4), 153-157.
+
+Sterling, D.R., (2008). Assessing student presentations from three perspectives. Science Scope, 31(5), 34-35.
+
+Tucker, M.L. & McCarthey, A.M. (2001). Presentation self-efficacy:  Increasing communication skills through service-learning. Journal of Managerial Issues, 13(2), 227-244.
+
+University of Pittsburgh (n.d.). Speaking in the Disciplines. Tips for Assigning Oral Presentations. Retrieved June 5, 2014 from: http://www.speaking.pitt.edu/instructor/oral-assignments.html
+
+Ulinski, M., & O’Callaghan, S. (2002). A comparison of MBA students’ and employers’ perceptions of the value of oral communication skills for employment. Journal of Education for Business, 77, 193-197.
+
+Weimer, M. (2013). Student presentations:  Do they benefit those who listen?  Retrieved June 3, 2014 from: http://www.facultyfocus.com/articles/teaching-and-learning/student-presentations-do-they-benefit-those-who-listen/
+
+ 
+
+Further Resources: 
+
+- Pittenger, K.K.S., Miller, M.C., Mott, J. (2004). Using real-world standards to enhance students’ presentation skills. Business Communication Quarterly, 67, 327-336. Includes an assessment form that may be used to evaluate students’ presentations
+- Sterling, D.R., (2008). Assessing student presentations from three perspectives. Science Scope, 31(5), 34-35. Includes various rubrics and guides for assessment
+- Shaw, V.N. (2001). Training in presentation skills:  An innovative method for college instruction. Education, 122(1), 140-144.
+- University of Pittsburgh:  Speaking in the Disciplines. http://www.speaking.pitt.edu/student/public-speaking/basics.html
