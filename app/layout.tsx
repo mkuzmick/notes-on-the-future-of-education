@@ -11,19 +11,19 @@ const newsreader = Newsreader({
 
 export const metadata: Metadata = {
   title: "Bok Oral Assessments Team",
-  description: "Notes on the Future of Education",
+  description: "Designing, delivering, and grading oral assessments in the age of AI. A research summary for Harvard faculty.",
   openGraph: {
-    title: "After Abundance: Questions for the Future of Education",
+    title: "Bok Oral Assessments Team",
     description:
-      "Open questions for rethinking higher education in the age of AI.",
-    images: [{ url: "/og-after-abundance.png?v=2", width: 1200, height: 630 }],
+      "Designing, delivering, and grading oral assessments in the age of AI. A research summary for Harvard faculty.",
+    images: [{ url: "/oral-new.png", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "After Abundance: Questions for the Future of Education",
+    title: "Bok Oral Assessments Team",
     description:
-      "Open questions for rethinking higher education in the age of AI.",
-    images: ["/og-after-abundance.png?v=2"],
+      "Designing, delivering, and grading oral assessments in the age of AI. A research summary for Harvard faculty.",
+    images: ["/oral-new.png"],
   },
 };
 
