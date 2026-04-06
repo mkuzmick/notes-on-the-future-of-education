@@ -178,6 +178,7 @@ export default function EssayClient({ markdown, date }: { markdown: string; date
           <Link href="/">After Abundance</Link>
           <Link href="/forward-sentries">Forward Sentries</Link>
           <Link href="/oral-exams">Oral Exams</Link>
+          <Link href="/teaching-writing">Teaching Writing</Link>
         </div>
       </footer>
     </>
