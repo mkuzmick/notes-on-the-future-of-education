@@ -17,6 +17,7 @@ export default function MeetingSummary() {
       date="March 2026"
       links={[
         { href: "/", label: "Executive Summary" },
+        { href: "/forking-tree", label: "The Forking Tree" },
         { href: "/takes", label: "Tools for Thinking" },
         { href: "/mk-first-draft", label: "Full Briefing" },
         { href: "/history-lens", label: "The Historical Lens" },
